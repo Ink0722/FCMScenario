@@ -1,0 +1,26 @@
+{
+  "case": 17,
+  "method": "栏目与条款范围映射；未声称整本原件或逐句翻译验收",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "本次账户资料及办理记录",
+      "source_ids": [],
+      "source_locator": "研究状态；来源区别见Notes",
+      "text_status": "research account record"
+    },
+    {
+      "id": 2,
+      "heading": "固定利率借据——A",
+      "source_ids": [
+        "5",
+        "6"
+      ],
+      "source_locator": "Fannie Mae 3200第1—10条",
+      "text_status": "Chinese source-based clause adaptation"
+    }
+  ],
+  "limitations": [
+    "3442利率指数、调整频率、变动限制及取整方式按本任务适配；见Notes"
+  ]
+}

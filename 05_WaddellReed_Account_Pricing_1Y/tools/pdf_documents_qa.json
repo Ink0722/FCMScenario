@@ -1,0 +1,31 @@
+{
+  "case": 5,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "05-01",
+      "pdf": "05_WaddellReed_Account_Pricing_1Y_Reference_01.pdf",
+      "pages": 10,
+      "text_checks": 152,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "b0a0d8cc3e7d2595d08982cf4bd12fe8d35f8f9c25964a5aa50f1f0277d302cc",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "05-02",
+      "pdf": "05_WaddellReed_Account_Pricing_1Y_Reference_02.pdf",
+      "pages": 1,
+      "text_checks": 20,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "8c0e9c60036c3b7608ef4171978dc6c1f350a51aec1411bb7c13c0fd3e417a4f",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "visual_review": "Centered table headers, short entries and numeric cells; paragraph cells left aligned; table endings bound and short HTML header line breaks removed; representative table pages inspected."
+}

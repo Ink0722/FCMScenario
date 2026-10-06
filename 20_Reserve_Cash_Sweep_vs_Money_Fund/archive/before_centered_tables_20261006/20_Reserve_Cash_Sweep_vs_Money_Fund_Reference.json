@@ -1,0 +1,1016 @@
+{
+  "case_folder": "20_Reserve_Cash_Sweep_vs_Money_Fund",
+  "title": "现金管理存款归集披露及政府货币基金说明书",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "20_Reserve_Cash_Sweep_vs_Money_Fund_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "第一部分　银行存款归集项目披露",
+        "source_ids": [
+          "8"
+        ],
+        "locator": "CMA Legal Booklet PDF第41—51页"
+      },
+      {
+        "heading": "第二部分　政府货币市场基金招募说明书",
+        "source_ids": [
+          "3"
+        ],
+        "locator": "2026-06-29 SPAXX基金栏目及共用交易章节；删除SPRXX/FDLXX专属内容"
+      },
+      {
+        "heading": "本次账户资料及办理记录",
+        "source_ids": [],
+        "locator": "tools/account_record.txt；具体参数来源及研究设定见Notes"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": "参考PDF只排产品协议、公开披露和指南；任务、账户条件、实验控制及历史事件对照置于Material。所有判定依据保留在Notes。",
+  "content_sha256": "c31ffcc2dd0c72a1a118673b24320f03be71ce866eb74849a1db650d864d6d42",
+  "sections": [
+    {
+      "id": "S001",
+      "heading": "第一部分　银行存款归集项目披露",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 4,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S002",
+      "heading": "定义",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 6,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S003",
+      "heading": "概述",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 9,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S004",
+      "heading": "项目运作——存款",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 14,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S005",
+      "heading": "最高存款限额",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 18,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S006",
+      "heading": "提款",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 21,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S007",
+      "heading": "利息入账",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 25,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S008",
+      "heading": "存款保险限额变更",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 29,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S009",
+      "heading": "所有权记录",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 32,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S010",
+      "heading": "参与银行",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 34,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S011",
+      "heading": "银行状态",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 36,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S012",
+      "heading": "账户银行清单",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 42,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S013",
+      "heading": "新账户",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 46,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S014",
+      "heading": "现有账户转入归集项目",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 49,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S015",
+      "heading": "已采用项目的账户",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 51,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S016",
+      "heading": "客户发起清单变更",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 53,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S017",
+      "heading": "银行加入及退出",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 57,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S018",
+      "heading": "银行状态变更",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 60,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S019",
+      "heading": "其他项目变更",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 63,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S020",
+      "heading": "现金余额的访问",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 70,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S021",
+      "heading": "存款账户",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 73,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S022",
+      "heading": "报表及确认",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 75,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S023",
+      "heading": "货币基金溢出",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 78,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S024",
+      "heading": "银行存款利率",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 83,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S025",
+      "heading": "溢出基金收益",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 86,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S026",
+      "heading": "FDIC保险及SIPC保护",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 89,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S027",
+      "heading": "平台与其他机构的关系",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 96,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S028",
+      "heading": "平台与其他机构取得的利益",
+      "source_ids": [
+        "8"
+      ],
+      "document_id": "20-01",
+      "line": 100,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S029",
+      "heading": "第二部分　政府货币市场基金招募说明书",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 109,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S030",
+      "heading": "投资目标",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 113,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S031",
+      "heading": "费用表",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 115,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S032",
+      "heading": "主要投资策略",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 125,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S033",
+      "heading": "主要投资风险",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 130,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S034",
+      "heading": "业绩",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 141,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S035",
+      "heading": "投资顾问",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 157,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S036",
+      "heading": "购买及出售基金份额",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 160,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S037",
+      "heading": "税务资料",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 163,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S038",
+      "heading": "向经纪交易商及其他金融中介付款",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 166,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S039",
+      "heading": "投资详情",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 168,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S040",
+      "heading": "基本政策与份额估值",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 174,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S041",
+      "heading": "买卖份额的补充资料",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 177,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S042",
+      "heading": "一般资料",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 179,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S043",
+      "heading": "提交交易指令",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 185,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S044",
+      "heading": "频繁购买及赎回",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 201,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S045",
+      "heading": "购买份额",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 213,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S046",
+      "heading": "出售份额",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 229,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S047",
+      "heading": "基金份额赎回政策",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 269,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S048",
+      "heading": "份额转换",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 279,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S049",
+      "heading": "账户功能及政策",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 303,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S050",
+      "heading": "账户功能",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 305,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S051",
+      "heading": "账户政策",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 317,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S052",
+      "heading": "股息及资本利得分配",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 331,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S053",
+      "heading": "股息计提",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 335,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S054",
+      "heading": "分配选项",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 345,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S055",
+      "heading": "税务后果",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 359,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S056",
+      "heading": "基金管理",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 367,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S057",
+      "heading": "投资顾问",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 371,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S058",
+      "heading": "次级顾问",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 375,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S059",
+      "heading": "投资顾问费用",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 381,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S060",
+      "heading": "基金分销",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 387,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S061",
+      "heading": "分销及服务计划",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 393,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S062",
+      "heading": "财务摘要",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "20-02",
+      "line": 403,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    }
+  ],
+  "research_settings": {
+    "file": "tools/account_record.txt",
+    "section": "本次账户资料及办理记录",
+    "provenance": "案例参数、补充产品机制及研究控制的区别见Notes",
+    "sha256": "be6871cd1a254b3f482387b2eaa44bc39824b81f4f30a2eacc85b8b5a03abdb8"
+  },
+  "rendering": "native_xelatex",
+  "pages": 16,
+  "qa_status": "text_and_layout_checked",
+  "material_sha256": "19c0e4fd40cd7fd5b02208756b5de4cdc22bbe82157c1aba537a49b08b409868",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "20-01",
+      "title": "银行存款归集项目披露",
+      "pdf": "20_Reserve_Cash_Sweep_vs_Money_Fund_Reference_01.pdf",
+      "content_source": "20_Reserve_Cash_Sweep_vs_Money_Fund_Reference.txt",
+      "start_line": 3,
+      "end_line": 108,
+      "leading_source_heading": "第一部分　银行存款归集项目披露",
+      "headings": {
+        "第一部分　银行存款归集项目披露": {
+          "level": 2
+        },
+        "定义": {
+          "level": 2
+        },
+        "概述": {
+          "level": 2
+        },
+        "项目运作——存款": {
+          "level": 2
+        },
+        "最高存款限额": {
+          "level": 2
+        },
+        "提款": {
+          "level": 2
+        },
+        "利息入账": {
+          "level": 2
+        },
+        "存款保险限额变更": {
+          "level": 2
+        },
+        "所有权记录": {
+          "level": 2
+        },
+        "参与银行": {
+          "level": 2
+        },
+        "银行状态": {
+          "level": 2
+        },
+        "账户银行清单": {
+          "level": 2
+        },
+        "新账户": {
+          "level": 2
+        },
+        "现有账户转入归集项目": {
+          "level": 2
+        },
+        "已采用项目的账户": {
+          "level": 2
+        },
+        "客户发起清单变更": {
+          "level": 2
+        },
+        "银行加入及退出": {
+          "level": 2
+        },
+        "银行状态变更": {
+          "level": 2
+        },
+        "其他项目变更": {
+          "level": 2
+        },
+        "现金余额的访问": {
+          "level": 2
+        },
+        "存款账户": {
+          "level": 2
+        },
+        "报表及确认": {
+          "level": 2
+        },
+        "货币基金溢出": {
+          "level": 2
+        },
+        "银行存款利率": {
+          "level": 2
+        },
+        "溢出基金收益": {
+          "level": 2
+        },
+        "FDIC保险及SIPC保护": {
+          "level": 2
+        },
+        "平台与其他机构的关系": {
+          "level": 2
+        },
+        "平台与其他机构取得的利益": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "8"
+      ],
+      "content_sha256": "49f9a7032ac11fc2275e05bbbcdccacaa73dc2416ef5089291ff6b5ed6818e84",
+      "pages": 6,
+      "pdf_sha256": "d7f384abb993a491974a6085ed839c6219ae4e6fa03ea753552cf8204f682a46",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": []
+    },
+    {
+      "document_number": "02",
+      "document_id": "20-02",
+      "title": "政府货币市场基金招募说明书",
+      "pdf": "20_Reserve_Cash_Sweep_vs_Money_Fund_Reference_02.pdf",
+      "content_source": "20_Reserve_Cash_Sweep_vs_Money_Fund_Reference.txt",
+      "start_line": 108,
+      "end_line": 423,
+      "leading_source_heading": "第二部分　政府货币市场基金招募说明书",
+      "headings": {
+        "第二部分　政府货币市场基金招募说明书": {
+          "level": 2
+        },
+        "投资目标": {
+          "level": 2
+        },
+        "费用表": {
+          "level": 2
+        },
+        "主要投资策略": {
+          "level": 2
+        },
+        "主要风险": {
+          "level": 2
+        },
+        "业绩": {
+          "level": 2
+        },
+        "顾问、交易及税务": {
+          "level": 2
+        },
+        "投资详情": {
+          "level": 2
+        },
+        "基本政策与份额估值": {
+          "level": 2
+        },
+        "买卖份额的一般事项": {
+          "level": 2
+        },
+        "买入": {
+          "level": 2
+        },
+        "卖出": {
+          "level": 2
+        },
+        "赎回支付政策": {
+          "level": 2
+        },
+        "份额转换": {
+          "level": 1
+        },
+        "账户功能与政策": {
+          "level": 2
+        },
+        "股息及资本收益分配": {
+          "level": 2
+        },
+        "税务后果": {
+          "level": 1
+        },
+        "基金管理": {
+          "level": 1
+        },
+        "分销": {
+          "level": 2
+        },
+        "财务摘要": {
+          "level": 2
+        },
+        "买卖份额的补充资料": {
+          "level": 1
+        },
+        "账户功能及政策": {
+          "level": 1
+        },
+        "股息及资本利得分配": {
+          "level": 1
+        },
+        "基金分销": {
+          "level": 1
+        },
+        "主要投资风险": {
+          "level": 2
+        },
+        "投资顾问": {
+          "level": 2
+        },
+        "购买及出售基金份额": {
+          "level": 2
+        },
+        "税务资料": {
+          "level": 2
+        },
+        "向经纪交易商及其他金融中介付款": {
+          "level": 2
+        },
+        "一般资料": {
+          "level": 2
+        },
+        "提交交易指令": {
+          "level": 2
+        },
+        "频繁购买及赎回": {
+          "level": 2
+        },
+        "购买份额": {
+          "level": 2
+        },
+        "出售份额": {
+          "level": 2
+        },
+        "基金份额赎回政策": {
+          "level": 2
+        },
+        "账户功能": {
+          "level": 2
+        },
+        "账户政策": {
+          "level": 2
+        },
+        "股息计提": {
+          "level": 2
+        },
+        "分配选项": {
+          "level": 2
+        },
+        "次级顾问": {
+          "level": 2
+        },
+        "投资顾问费用": {
+          "level": 2
+        },
+        "分销及服务计划": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "8b12e6ae62b26b1e7f2e5a4012899ab6f6f2b9c4516329237961dbf01c87fcf1",
+      "pages": 10,
+      "pdf_sha256": "406fb2681817ef8296947b537a8bef30489d6bc0921b174a45bb0d60eae34b13",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [
+        {
+          "header": [
+            "年度运营费用",
+            "占投资价值比例"
+          ],
+          "weights": [
+            0.6544953322732511,
+            0.34550466772674904
+          ]
+        },
+        {
+          "header": [
+            "年份",
+            "年度收益"
+          ],
+          "weights": [
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "header": [
+            "截至4月30日年度",
+            "2026",
+            "2025",
+            "2024",
+            "2023",
+            "2022"
+          ],
+          "weights": [
+            0.2635647932623976,
+            0.1472870413475205,
+            0.1472870413475205,
+            0.1472870413475205,
+            0.1472870413475205,
+            0.1472870413475205
+          ]
+        }
+      ],
+      "source_restoration": {
+        "source": "sources/source_03.html",
+        "source_ids": [
+          "3"
+        ],
+        "adopted_sections": [
+          "Government Money Market Fund Summary",
+          "Additional Information about the Purchase and Sale of Shares (government fund/general provisions)",
+          "Exchanging Shares",
+          "Features and Policies",
+          "Dividends and Capital Gain Distributions",
+          "Tax Consequences",
+          "Fund Management (government fund)",
+          "Fund Distribution"
+        ],
+        "omitted": "不适用于政府货币基金的零售非政府基金资格、2%流动性费和其他基金特定条款；未纳入其他基金财务表；不声称整个多基金原件全文译本。"
+      }
+    }
+  ],
+  "pdf_files": [
+    "20_Reserve_Cash_Sweep_vs_Money_Fund_Reference_01.pdf",
+    "20_Reserve_Cash_Sweep_vs_Money_Fund_Reference_02.pdf"
+  ],
+  "pages_definition": "各独立PDF页数之和；不存在现行合并PDF。",
+  "document_manifest": "tools/pdf_documents.json",
+  "heading_levels": 3,
+  "scenario_confirmation_location": "20_Reserve_Cash_Sweep_vs_Money_Fund_Material.md — 场景信息／本次账户及办理条件",
+  "document_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "98710e989b594156c6d4bcee23113385bc362174017c65e3bcd48ec342bdf09e",
+    "current_sha256": "c31ffcc2dd0c72a1a118673b24320f03be71ce866eb74849a1db650d864d6d42",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "source_restoration": {
+    "source": "sources/source_03.html",
+    "source_ids": [
+      "3"
+    ],
+    "adopted_sections": [
+      "Government Money Market Fund Summary",
+      "Additional Information about the Purchase and Sale of Shares (government fund/general provisions)",
+      "Exchanging Shares",
+      "Features and Policies",
+      "Dividends and Capital Gain Distributions",
+      "Tax Consequences",
+      "Fund Management (government fund)",
+      "Fund Distribution"
+    ],
+    "omitted": "不适用于政府货币基金的零售非政府基金资格、2%流动性费和其他基金特定条款；未纳入其他基金财务表；不声称整个多基金原件全文译本。"
+  },
+  "table_widths": "content_adaptive",
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。"
+}

@@ -1,0 +1,38 @@
+{
+  "case": 3,
+  "pages": 17,
+  "paragraphs_checked": 546,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_review": "All 42 document first pages inspected; full first pages and multipage contact sheets inspected for fund prospectuses and representative tables; no overlap or clipping found.",
+  "text_extraction_method": "PDFKit line selections sorted by page coordinates; headers/footers excluded",
+  "documents": [
+    {
+      "document_id": "03-01",
+      "pdf": "03_TIAA_Retirement_Rollover_5Y_Reference_01.pdf",
+      "pages": 2,
+      "text_checks": 38,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "0ded16b8fabdbd816fd6e540b17bfdb58256b2888f50cdf03bda200a80cbd60b",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "03-02",
+      "pdf": "03_TIAA_Retirement_Rollover_5Y_Reference_02.pdf",
+      "pages": 15,
+      "text_checks": 508,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "a139674ed9e99e635ce9c94e6bf3695b6b9188349e2e4d7e451853157bc04f65",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 2,
+  "qa_status": "text_and_layout_checked",
+  "checked_date": "2026-10-06",
+  "current_report": "tools/pdf_documents_qa.json"
+}

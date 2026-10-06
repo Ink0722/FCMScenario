@@ -1,0 +1,31 @@
+{
+  "case": 15,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "15-01",
+      "pdf": "15_Toyota_Auto_Loan_GAP_Reference_01.pdf",
+      "pages": 3,
+      "text_checks": 50,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "670d595ab90df757d9e08bca5da410a002d1430da0683d2a486cc6ce03e469f8",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "15-02",
+      "pdf": "15_Toyota_Auto_Loan_GAP_Reference_02.pdf",
+      "pages": 6,
+      "text_checks": 80,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "3d07762cb1d7e04ae3c54ba130a686546303c1170752402a54ed82292c5ba3f1",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "visual_review": "Centered table headers, short entries and numeric cells; paragraph cells left aligned; table endings bound and short HTML header line breaks removed; representative table pages inspected."
+}

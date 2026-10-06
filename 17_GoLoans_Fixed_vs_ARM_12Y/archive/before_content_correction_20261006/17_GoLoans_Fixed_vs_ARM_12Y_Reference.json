@@ -1,0 +1,85 @@
+{
+  "case_folder": "17_GoLoans_Fixed_vs_ARM_12Y",
+  "title": "住房浮动利率贷款手册及交割资料",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "17_GoLoans_Fixed_vs_ARM_12Y_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "第一部分　浮动利率房贷消费者手册",
+        "source_ids": [
+          "2"
+        ],
+        "locator": "CFPB CHARM PDF第2—13页；示例表转换成连续条目，按原栏目顺序"
+      },
+      {
+        "heading": "第二部分　交割服务及披露文件",
+        "source_ids": [
+          "4"
+        ],
+        "locator": "CFPB Toolkit PDF第17—25页的说明正文"
+      },
+      {
+        "heading": "第三部分　住房持有期间事项",
+        "source_ids": [
+          "4"
+        ],
+        "locator": "CFPB Toolkit PDF第26—27页"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": [
+    "保留所采用栏目内的金融关系、例外及程序",
+    "账户状态、个别报价及实验控制保留在Material",
+    "未补造收益、事故概率、服务优势或资格"
+  ],
+  "content_sha256": "06b82b985f2d2febb70053f1eba303382ff058ddc8fc61601dd06c78eab47c6c",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "第一部分　浮动利率房贷消费者手册",
+      "source_ids": [
+        "2"
+      ],
+      "source_locator": "CFPB CHARM PDF第2—13页；示例表转换成连续条目，按原栏目顺序",
+      "text_status": "Chinese source-based adaptation"
+    },
+    {
+      "id": 2,
+      "heading": "第二部分　交割服务及披露文件",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "CFPB Toolkit PDF第17—25页的说明正文",
+      "text_status": "Chinese source-based adaptation"
+    },
+    {
+      "id": 3,
+      "heading": "第三部分　住房持有期间事项",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "CFPB Toolkit PDF第26—27页",
+      "text_status": "Chinese source-based adaptation"
+    }
+  ],
+  "research_settings": {
+    "file": "17_GoLoans_Fixed_vs_ARM_12Y_Material.md",
+    "section": "本次账户及办理确认",
+    "provenance": "原有已注明来源的报价与研究控制，未改变决策目标",
+    "sha256": "fe7f4e69508c43035dd0f518f62ee9df11aad1cdcece03193d528066b9d4e59a"
+  },
+  "rendering": "native_xelatex",
+  "pages": 7,
+  "qa_status": "pdf_rendered_text_check_passed"
+}

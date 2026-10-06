@@ -1,0 +1,31 @@
+{
+  "case": 19,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "19-01",
+      "pdf": "19_LendingClub_Debt_Consolidation_Reference_01.pdf",
+      "pages": 2,
+      "text_checks": 18,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "4ae7fa1e508c95700e2315275caf8811e8a29aa22e79854e642347fffe7c960c",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "19-02",
+      "pdf": "19_LendingClub_Debt_Consolidation_Reference_02.pdf",
+      "pages": 7,
+      "text_checks": 105,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "c2356fb27e83a1543bbf48d8b4730153400ee8fb0145a40f6924ce8f6f4ae951",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "visual_review": "Centered table headers, short entries and numeric cells; paragraph cells left aligned; table endings bound and short HTML header line breaks removed; representative table pages inspected."
+}

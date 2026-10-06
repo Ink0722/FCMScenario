@@ -1,0 +1,32 @@
+{
+  "case": 11,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "11-01",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_02.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "3f0596c609e8ff86aa0ba4982b24f9d34692b0795f7abe4c59af2f3dd6f28d00",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "11-02",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_03.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "4b9b89b51516ab6a0ee39f942c152431e7e8f739bda77481679519d475ab96d6",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked",
+  "checked_date": "2026-10-06",
+  "visual_review": "All 42 document first pages inspected; full first pages and multipage contact sheets inspected for fund prospectuses and representative tables; no overlap or clipping found.",
+  "archive": "archive/before_reference_document_revision_20261006"
+}

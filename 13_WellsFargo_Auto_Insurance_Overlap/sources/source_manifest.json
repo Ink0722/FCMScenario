@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1",
+    "title": "CFPB，Wells Fargo汽车贷款与房贷管理案件公告，2018-04-20",
+    "url": "https://www.consumerfinance.gov/archive/newsroom/bureau-consumer-financial-protection-announces-settlement-wells-fargo-auto-loan-administration-and-mortgage-practices/",
+    "resolved_url": "https://www.consumerfinance.gov/archive/newsroom/bureau-consumer-financial-protection-announces-settlement-wells-fargo-auto-loan-administration-and-mortgage-practices/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_01.html",
+    "bytes": 147714,
+    "sha256": "76c3df6e9d2fefb3a7b3cad61bd584bea99eb0fa0e0c3eb0cc8a63d1fa1cd72d",
+    "status": "downloaded"
+  },
+  {
+    "id": "2",
+    "title": "Wells Fargo，汽车抵押保险补偿说明，2017-07-27",
+    "url": "https://newsroom.wf.com/news-releases/news-details/2017/Wells-Fargo-Announces-Plan-to-Remediate-Customers-for-Auto-Insurance-Coverage/default.aspx",
+    "retrieved_date": "2026-10-06",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "3",
+    "title": "CFPB，What is force-placed insurance?",
+    "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-force-placed-insurance-en-827/",
+    "resolved_url": "https://www.consumerfinance.gov/ask-cfpb/what-is-force-placed-insurance-en-827/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_03.html",
+    "bytes": 143322,
+    "sha256": "71b23e57674cfb10e38ecea205964af16cc7c0f2a5fdc8b0721cad8868ce6c0e",
+    "status": "downloaded"
+  },
+  {
+    "id": "4",
+    "title": "Chase，What is Force-Placed Auto Insurance?",
+    "url": "https://www.chase.com/personal/auto/education/financing/what-is-force-placed-insurance",
+    "resolved_url": "https://www.chase.com/personal/auto/education/financing/what-is-force-placed-insurance",
+    "retrieved_date": "2026-10-06",
+    "file": "source_04.html",
+    "bytes": 423358,
+    "sha256": "1bd87d86c0a37fa1416c825fcb3606d81c780eb2c74925cf33b288764cef0b91",
+    "status": "downloaded"
+  },
+  {
+    "id": "5",
+    "title": "California Automobile Insurance Guide",
+    "url": "https://www.insurance.ca.gov/01-consumers/105-type/95-guides/01-auto/upload/IG-Auto-Insurance-Updated-020525.pdf",
+    "resolved_url": "https://www.insurance.ca.gov/01-consumers/105-type/95-guides/01-auto/upload/IG-Auto-Insurance-Updated-020525.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_05.pdf",
+    "bytes": 1129600,
+    "sha256": "3d3c1dfaa3ca3bca2cf3f46abfe1c6ffc164d17f4674f90b2099b30b52111eb1",
+    "status": "downloaded"
+  }
+]

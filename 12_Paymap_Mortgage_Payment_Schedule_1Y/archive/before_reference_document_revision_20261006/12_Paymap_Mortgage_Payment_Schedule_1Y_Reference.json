@@ -1,0 +1,211 @@
+{
+  "case_folder": "12_Paymap_Mortgage_Payment_Schedule_1Y",
+  "title": "住房贷款付款服务及账户办理文件",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "第一部分　第三方付款服务登记及授权条款",
+        "source_ids": [],
+        "locator": ""
+      },
+      {
+        "heading": "第二部分　贷款机构付款资料",
+        "source_ids": [
+          "3",
+          "4"
+        ],
+        "locator": "General Payment FAQ全部业务问答；Flexible Payments产品正文"
+      },
+      {
+        "heading": "本次账户资料及办理记录",
+        "source_ids": [],
+        "locator": "tools/account_record.txt；具体参数来源及研究设定见Notes"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": [
+    "保留所采用栏目内的金融关系、例外及程序",
+    "账户状态、个别报价及实验控制置于PDF账户记录，来源区别见Notes",
+    "第三方支付服务为案件机制衍生模拟条款，非原合同复原",
+    "未补造收益、事故概率、服务优势或资格"
+  ],
+  "content_sha256": "60a0ba72689c27b0cddccfdcfeb6a0430a5f508e906415bccea37ab9af474309",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "第一部分　第三方付款服务登记及授权条款",
+      "source_ids": [],
+      "source_locator": "",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 2,
+      "heading": "第二部分　贷款机构付款资料",
+      "source_ids": [
+        "3",
+        "4"
+      ],
+      "source_locator": "General Payment FAQ全部业务问答；Flexible Payments产品正文",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 3,
+      "heading": "本次账户资料及办理记录",
+      "source_ids": [],
+      "source_locator": "tools/account_record.txt；具体参数来源及研究设定见Notes",
+      "text_status": "research account record"
+    }
+  ],
+  "research_settings": {
+    "file": "tools/account_record.txt",
+    "section": "本次账户资料及办理记录",
+    "provenance": "案例参数、补充产品机制及研究控制的区别见Notes",
+    "sha256": "80b9684d3e4facdb78b87d13cb99d2e79a521d5f8240c60f54bcc8bc51329c5f"
+  },
+  "rendering": "native_xelatex",
+  "pages": 6,
+  "qa_status": "text_and_layout_checked",
+  "material_sha256": "dc87ad9fb9d0f483eeb39a756cf3a3e1442fffe0a60af53512e3c5d5cf623aa2",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "12-01",
+      "title": "第三方付款服务登记及授权条款",
+      "pdf": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference_01.pdf",
+      "content_source": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference.txt",
+      "start_line": 3,
+      "end_line": 18,
+      "leading_source_heading": "第一部分　第三方付款服务登记及授权条款",
+      "headings": {
+        "第一部分　第三方付款服务登记及授权条款": {
+          "level": 2
+        },
+        "1. 扣款指示": {
+          "level": 2
+        },
+        "2. 服务登记费用": {
+          "level": 2
+        },
+        "3. 资金保管及月供转付": {
+          "level": 2
+        },
+        "4. 三次扣款月份": {
+          "level": 2
+        },
+        "5. 贷款账户与服务账户": {
+          "level": 2
+        },
+        "6. 本次授权记录": {
+          "level": 2
+        }
+      },
+      "source_ids": [],
+      "content_sha256": "f6c90076179af92de348fee0c768a943815bd39c580b86d65879bba2ba4cd31d",
+      "pages": 1,
+      "pdf_sha256": "a4c58a9e89a78e916b001cc59658ccfff0071889173ae2ba79862e33f0edaeb1",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    },
+    {
+      "document_number": "02",
+      "document_id": "12-02",
+      "title": "贷款机构付款资料",
+      "pdf": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference_02.pdf",
+      "content_source": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference.txt",
+      "start_line": 18,
+      "end_line": 62,
+      "leading_source_heading": "第二部分　贷款机构付款资料",
+      "headings": {
+        "第二部分　贷款机构付款资料": {
+          "level": 2
+        },
+        "一般付款常见问题": {
+          "level": 2
+        },
+        "房贷利息和付款如何运作？": {
+          "level": 2
+        },
+        "付款日期是否影响当期应付利息？": {
+          "level": 2
+        },
+        "付款日期是否重要？": {
+          "level": 2
+        },
+        "灵活付款常见问题": {
+          "level": 2
+        },
+        "如何处理每月两次和每两周付款？": {
+          "level": 2
+        },
+        "如果已经用其他方式付款，仍会自动扣款吗？": {
+          "level": 2
+        },
+        "灵活付款产品页面": {
+          "level": 2
+        },
+        "房贷付款示例": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "3",
+        "4"
+      ],
+      "content_sha256": "5a8a831f0280a0483624ab89c180aa29686652e1c73becca0f5ad0b67e22b294",
+      "pages": 3,
+      "pdf_sha256": "dcf71feb46ca315738115086ca7ea62e78d9bb858bdaecded7dc6fbccd053569",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    },
+    {
+      "document_number": "03",
+      "document_id": "12-03",
+      "title": "本次账户资料及办理记录",
+      "pdf": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference_03.pdf",
+      "content_source": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference.txt",
+      "start_line": 62,
+      "end_line": 125,
+      "leading_source_heading": "本次账户资料及办理记录",
+      "headings": {
+        "本次账户资料及办理记录": {
+          "level": 2
+        },
+        "A：第三方还款服务": {
+          "level": 2
+        },
+        "B：贷款机构直接扣款": {
+          "level": 2
+        },
+        "办理确认事项": {
+          "level": 2
+        }
+      },
+      "source_ids": [],
+      "content_sha256": "a964b21d0e342e20e0646a61e8ffeb6e6f6e3efaaebbcdd8481c5a4544cf6e0b",
+      "pages": 2,
+      "pdf_sha256": "98664cbb78d982f7f395b9e33a7214efb0248c7910d8c2926db6d40fc26d6c08",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    }
+  ],
+  "pdf_files": [
+    "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference_01.pdf",
+    "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference_02.pdf",
+    "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference_03.pdf"
+  ],
+  "pages_definition": "各独立PDF页数之和；不存在现行合并PDF。",
+  "document_manifest": "tools/pdf_documents.json",
+  "heading_levels": 3
+}

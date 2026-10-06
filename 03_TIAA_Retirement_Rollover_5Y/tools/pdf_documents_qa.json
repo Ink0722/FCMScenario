@@ -1,0 +1,31 @@
+{
+  "case": 3,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "03-01",
+      "pdf": "03_TIAA_Retirement_Rollover_5Y_Reference_01.pdf",
+      "pages": 2,
+      "text_checks": 38,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "27d85aba63baf7dbcf9b11ae04205c95503b529887ea0fbf94a56811fe7f7cc7",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "03-02",
+      "pdf": "03_TIAA_Retirement_Rollover_5Y_Reference_02.pdf",
+      "pages": 15,
+      "text_checks": 508,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "599ad246d173384f36a71917a550acb4f78633ad36a04f4a6557e34dfe5855dc",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "visual_review": "Centered table headers, short entries and numeric cells; paragraph cells left aligned; table endings bound and short HTML header line breaks removed; representative table pages inspected."
+}

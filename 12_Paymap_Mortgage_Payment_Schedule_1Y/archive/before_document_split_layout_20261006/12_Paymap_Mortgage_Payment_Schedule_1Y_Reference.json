@@ -1,0 +1,81 @@
+{
+  "case_folder": "12_Paymap_Mortgage_Payment_Schedule_1Y",
+  "title": "住房贷款付款服务及账户办理文件",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "第一部分　第三方付款服务登记及授权条款",
+        "source_ids": [],
+        "locator": ""
+      },
+      {
+        "heading": "第二部分　贷款机构付款资料",
+        "source_ids": [
+          "3",
+          "4"
+        ],
+        "locator": "General Payment FAQ全部业务问答；Flexible Payments产品正文"
+      },
+      {
+        "heading": "本次账户资料及办理记录",
+        "source_ids": [],
+        "locator": "tools/account_record.txt；具体参数来源及研究设定见Notes"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": [
+    "保留所采用栏目内的金融关系、例外及程序",
+    "账户状态、个别报价及实验控制置于PDF账户记录，来源区别见Notes",
+    "第三方支付服务为案件机制衍生模拟条款，非原合同复原",
+    "未补造收益、事故概率、服务优势或资格"
+  ],
+  "content_sha256": "60a0ba72689c27b0cddccfdcfeb6a0430a5f508e906415bccea37ab9af474309",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "第一部分　第三方付款服务登记及授权条款",
+      "source_ids": [],
+      "source_locator": "",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 2,
+      "heading": "第二部分　贷款机构付款资料",
+      "source_ids": [
+        "3",
+        "4"
+      ],
+      "source_locator": "General Payment FAQ全部业务问答；Flexible Payments产品正文",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 3,
+      "heading": "本次账户资料及办理记录",
+      "source_ids": [],
+      "source_locator": "tools/account_record.txt；具体参数来源及研究设定见Notes",
+      "text_status": "research account record"
+    }
+  ],
+  "research_settings": {
+    "file": "tools/account_record.txt",
+    "section": "本次账户资料及办理记录",
+    "provenance": "案例参数、补充产品机制及研究控制的区别见Notes",
+    "sha256": "80b9684d3e4facdb78b87d13cb99d2e79a521d5f8240c60f54bcc8bc51329c5f"
+  },
+  "rendering": "native_xelatex",
+  "pages": 5,
+  "qa_status": "pdf_rendered_text_check_passed",
+  "material_sha256": "b9a262c9d22128ee4a33a316a57c9d7aaa6f7e2549e5fff007efceca48c4950b"
+}

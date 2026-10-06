@@ -1,0 +1,39 @@
+{
+  "case": 6,
+  "pages": 7,
+  "paragraphs_checked": 90,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_review": "Centered table headers, short entries and numeric cells; paragraph cells left aligned; table endings bound and short HTML header line breaks removed; representative table pages inspected.",
+  "text_extraction_method": "PDFKit line selections sorted by page coordinates; headers/footers excluded",
+  "documents": [
+    {
+      "document_id": "06-01",
+      "pdf": "06_LPL_CD_Liquidity_6M_Reference_01.pdf",
+      "pages": 1,
+      "text_checks": 8,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "92cde907d6b1fb5a17c7c2c3cad1403c4ed3a4d171bc7013b2d1d875189e3506",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "06-02",
+      "pdf": "06_LPL_CD_Liquidity_6M_Reference_02.pdf",
+      "pages": 6,
+      "text_checks": 82,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "4aaf71e0a0b4738a65ea07aa209561154d5ea98b762140fa2cfd4a1bb1ce9634",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 2,
+  "qa_status": "text_and_layout_checked",
+  "checked_date": "2026-10-06",
+  "current_report": "tools/pdf_documents_qa.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

@@ -1,0 +1,425 @@
+{
+  "case_folder": "11_AmeriSave_Mortgage_Points_4Y",
+  "title": "住房贷款报价及固定利率借据",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "11_AmeriSave_Mortgage_Points_4Y_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "本次账户资料及办理记录",
+        "source_ids": [],
+        "locator": "研究状态；来源区别见Notes"
+      },
+      {
+        "heading": "固定利率借据——报价A",
+        "source_ids": [
+          "4",
+          "5"
+        ],
+        "locator": "Fannie Mae 3200第1—10条"
+      },
+      {
+        "heading": "固定利率借据——报价B",
+        "source_ids": [
+          "4",
+          "5"
+        ],
+        "locator": "Fannie Mae 3200第1—10条"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": "参考PDF只排产品协议、公开披露和指南；任务、账户条件、实验控制及历史事件对照置于Material。所有判定依据保留在Notes。",
+  "content_sha256": "d890cfeb0a40fbbe868cb0de0ce792cb7aa3a7fb6dc13da337c32460f97ba092",
+  "sections": [
+    {
+      "id": "S001",
+      "heading": "固定利率借据——报价A",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-01",
+      "line": 4,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S002",
+      "heading": "1. 借款人的付款承诺",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-01",
+      "line": 6,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S003",
+      "heading": "2. 利息",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-01",
+      "line": 9,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S004",
+      "heading": "3. 付款",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-01",
+      "line": 12,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S005",
+      "heading": "4. 借款人的提前还款权利",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-01",
+      "line": 17,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S006",
+      "heading": "5. 贷款费用",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-01",
+      "line": 21,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S007",
+      "heading": "6. 借款人未按要求付款",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-01",
+      "line": 24,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S008",
+      "heading": "7. 通知",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-01",
+      "line": 30,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S009",
+      "heading": "8. 本票据下各人的义务",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-01",
+      "line": 34,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S010",
+      "heading": "9. 权利放弃",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-01",
+      "line": 37,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S011",
+      "heading": "10. 统一担保票据",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-01",
+      "line": 39,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S012",
+      "heading": "固定利率借据——报价B",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-02",
+      "line": 47,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S013",
+      "heading": "1. 借款人的付款承诺",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-02",
+      "line": 49,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S014",
+      "heading": "2. 利息",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-02",
+      "line": 52,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S015",
+      "heading": "3. 付款",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-02",
+      "line": 55,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S016",
+      "heading": "4. 借款人的提前还款权利",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-02",
+      "line": 60,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S017",
+      "heading": "5. 贷款费用",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-02",
+      "line": 64,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S018",
+      "heading": "6. 借款人未按要求付款",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-02",
+      "line": 67,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S019",
+      "heading": "7. 通知",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-02",
+      "line": 73,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S020",
+      "heading": "8. 本票据下各人的义务",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-02",
+      "line": 77,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S021",
+      "heading": "9. 权利放弃",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-02",
+      "line": 80,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S022",
+      "heading": "10. 统一担保票据",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "document_id": "11-02",
+      "line": 82,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    }
+  ],
+  "research_settings": {
+    "file": "tools/account_record.txt",
+    "section": "本次账户资料及办理记录",
+    "provenance": "案例参数、补充产品机制及研究控制的区别见Notes",
+    "sha256": "40c0bf98f8531c5062b9e7d74d0b764beaa3434e42656dfe93f49f5084899f03"
+  },
+  "rendering": "native_xelatex",
+  "pages": 6,
+  "qa_status": "text_and_layout_checked",
+  "material_sha256": "3884be54d8be386bc7803061ed48375f1f595f592c7719b9b9d0f36495ce42af",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "11-01",
+      "title": "固定利率借据A",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_02.pdf",
+      "content_source": "11_AmeriSave_Mortgage_Points_4Y_Reference.txt",
+      "start_line": 3,
+      "end_line": 46,
+      "leading_source_heading": "固定利率借据——报价A",
+      "headings": {
+        "固定利率借据——报价A": {
+          "level": 2
+        },
+        "1. 借款人的付款承诺": {
+          "level": 2
+        },
+        "2. 利息": {
+          "level": 2
+        },
+        "3. 付款": {
+          "level": 2
+        },
+        "4. 借款人的提前还款权利": {
+          "level": 2
+        },
+        "5. 贷款费用": {
+          "level": 2
+        },
+        "6. 借款人未按要求付款": {
+          "level": 2
+        },
+        "7. 通知": {
+          "level": 2
+        },
+        "8. 本票据下各人的义务": {
+          "level": 2
+        },
+        "9. 权利放弃": {
+          "level": 2
+        },
+        "10. 统一担保票据": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "content_sha256": "061ab08833913b98c18a7e37d0b399a56eaa249f114baf3713d4023907630f79",
+      "pages": 3,
+      "pdf_sha256": "3f0596c609e8ff86aa0ba4982b24f9d34692b0795f7abe4c59af2f3dd6f28d00",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": []
+    },
+    {
+      "document_number": "02",
+      "document_id": "11-02",
+      "title": "固定利率借据B",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_03.pdf",
+      "content_source": "11_AmeriSave_Mortgage_Points_4Y_Reference.txt",
+      "start_line": 46,
+      "end_line": 88,
+      "leading_source_heading": "固定利率借据——报价B",
+      "headings": {
+        "固定利率借据——报价B": {
+          "level": 2
+        },
+        "1. 借款人的付款承诺": {
+          "level": 2
+        },
+        "2. 利息": {
+          "level": 2
+        },
+        "3. 付款": {
+          "level": 2
+        },
+        "4. 借款人的提前还款权利": {
+          "level": 2
+        },
+        "5. 贷款费用": {
+          "level": 2
+        },
+        "6. 借款人未按要求付款": {
+          "level": 2
+        },
+        "7. 通知": {
+          "level": 2
+        },
+        "8. 本票据下各人的义务": {
+          "level": 2
+        },
+        "9. 权利放弃": {
+          "level": 2
+        },
+        "10. 统一担保票据": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "content_sha256": "8af135b4f578ece58f086c49777fd71920d60932190608fdf45b54928230f868",
+      "pages": 3,
+      "pdf_sha256": "4b9b89b51516ab6a0ee39f942c152431e7e8f739bda77481679519d475ab96d6",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": []
+    }
+  ],
+  "pdf_files": [
+    "11_AmeriSave_Mortgage_Points_4Y_Reference_02.pdf",
+    "11_AmeriSave_Mortgage_Points_4Y_Reference_03.pdf"
+  ],
+  "pages_definition": "各独立PDF页数之和；不存在现行合并PDF。",
+  "document_manifest": "tools/pdf_documents.json",
+  "heading_levels": 3,
+  "scenario_confirmation_location": "11_AmeriSave_Mortgage_Points_4Y_Material.md — 场景信息／本次账户及办理条件",
+  "document_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "3b11509b33446961aeff0ab4780ef80c0aee9e4e0664d06e411c03a0cb9b51ed",
+    "current_sha256": "d890cfeb0a40fbbe868cb0de0ce792cb7aa3a7fb6dc13da337c32460f97ba092",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_widths": "content_adaptive",
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。"
+}

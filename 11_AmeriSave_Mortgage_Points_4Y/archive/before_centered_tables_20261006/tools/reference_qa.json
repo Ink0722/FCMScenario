@@ -1,0 +1,43 @@
+{
+  "case": 11,
+  "pages": 6,
+  "paragraphs_checked": 80,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_layout_review": "passed",
+  "checked_date": "2026-10-06",
+  "participant_links_checked": true,
+  "source_manifest_hashes_checked": true,
+  "decision_criteria_preserved": true,
+  "material_sha256": "64e121af80dd8a60875f7aad0d43ace150cf7c15b1c3d9550cfb55d371936cd0",
+  "notes_sha256": "e13b0985fb32a1956aa89a8361383927146d757048ce969c645b38425e5f0aba",
+  "documents": [
+    {
+      "document_id": "11-01",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_02.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "3f0596c609e8ff86aa0ba4982b24f9d34692b0795f7abe4c59af2f3dd6f28d00",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "11-02",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_03.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "4b9b89b51516ab6a0ee39f942c152431e7e8f739bda77481679519d475ab96d6",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 2,
+  "qa_status": "text_and_layout_checked",
+  "visual_review": "All 42 document first pages inspected; full first pages and multipage contact sheets inspected for fund prospectuses and representative tables; no overlap or clipping found.",
+  "current_report": "tools/pdf_documents_qa.json"
+}

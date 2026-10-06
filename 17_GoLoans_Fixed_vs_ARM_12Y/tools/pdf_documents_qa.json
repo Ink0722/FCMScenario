@@ -1,0 +1,31 @@
+{
+  "case": 17,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "17-01",
+      "pdf": "17_GoLoans_Fixed_vs_ARM_12Y_Reference_02.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "0eb8bbd12cef20ad266b8a2779778bc729019910f41dd37a54300d50a2a0b7b0",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "17-02",
+      "pdf": "17_GoLoans_Fixed_vs_ARM_12Y_Reference_03.pdf",
+      "pages": 4,
+      "text_checks": 60,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "4b143d34adb6ac729410b62a01f8fe47b4e1d3b7fc58b72f85199959d8dd1895",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "visual_review": "Centered table headers, short entries and numeric cells; paragraph cells left aligned; table endings bound and short HTML header line breaks removed; representative table pages inspected."
+}

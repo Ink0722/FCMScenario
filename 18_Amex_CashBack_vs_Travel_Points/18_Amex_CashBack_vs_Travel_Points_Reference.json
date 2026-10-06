@@ -1,0 +1,508 @@
+{
+  "case_folder": "18_Amex_CashBack_vs_Travel_Points",
+  "title": "消费信用卡客户协议及奖励附录",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "18_Amex_CashBack_vs_Travel_Points_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "第一部分　消费者信用卡客户协议",
+        "source_ids": [
+          "6",
+          "7"
+        ],
+        "locator": "客户协议Part1—6；仲裁、账单权利、军事借贷及口译栏目；报价附录按本次确认适配"
+      },
+      {
+        "heading": "第二部分　日常返现卡奖励附录",
+        "source_ids": [
+          "2"
+        ],
+        "locator": "产品条款Part2各栏目；不采用新户优惠"
+      },
+      {
+        "heading": "第三部分　分类积分卡奖励附录",
+        "source_ids": [
+          "3"
+        ],
+        "locator": "产品条款Part2各栏目；不采用新户优惠"
+      },
+      {
+        "heading": "本次账户资料及办理记录",
+        "source_ids": [],
+        "locator": "tools/account_record.txt；具体参数来源及研究设定见Notes"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": "参考PDF只排产品协议、公开披露和指南；任务、账户条件、实验控制及历史事件对照置于Material。所有判定依据保留在Notes。",
+  "content_sha256": "5091983ba5d4a1bb64c9f54e8d01cddc453cce133338dde6c7ea6d09db2d0282",
+  "sections": [
+    {
+      "id": "S001",
+      "heading": "第一部分　消费者信用卡客户协议",
+      "source_ids": [
+        "6",
+        "7"
+      ],
+      "document_id": "18-01",
+      "line": 4,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S002",
+      "heading": "第一部分　使用账户",
+      "source_ids": [
+        "6",
+        "7"
+      ],
+      "document_id": "18-01",
+      "line": 7,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S003",
+      "heading": "第二部分　交易及其他账户活动",
+      "source_ids": [
+        "6",
+        "7"
+      ],
+      "document_id": "18-01",
+      "line": 29,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S004",
+      "heading": "第三部分　费用与利息",
+      "source_ids": [
+        "6",
+        "7"
+      ],
+      "document_id": "18-01",
+      "line": 39,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S005",
+      "heading": "第四部分　付款与处理",
+      "source_ids": [
+        "6",
+        "7"
+      ],
+      "document_id": "18-01",
+      "line": 54,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S006",
+      "heading": "第五部分　联系方式与资料",
+      "source_ids": [
+        "6",
+        "7"
+      ],
+      "document_id": "18-01",
+      "line": 66,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S007",
+      "heading": "第六部分　协议一般法律条款",
+      "source_ids": [
+        "6",
+        "7"
+      ],
+      "document_id": "18-01",
+      "line": 74,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S008",
+      "heading": "第六部分续　争议解决计划——仲裁协议",
+      "source_ids": [
+        "6",
+        "7"
+      ],
+      "document_id": "18-01",
+      "line": 81,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S009",
+      "heading": "账单权利",
+      "source_ids": [
+        "6",
+        "7"
+      ],
+      "document_id": "18-01",
+      "line": 95,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S010",
+      "heading": "对信用卡购买不满意的权利",
+      "source_ids": [
+        "6",
+        "7"
+      ],
+      "document_id": "18-01",
+      "line": 103,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S011",
+      "heading": "现役军人及家属",
+      "source_ids": [
+        "6",
+        "7"
+      ],
+      "document_id": "18-01",
+      "line": 107,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S012",
+      "heading": "口译员认证",
+      "source_ids": [
+        "6",
+        "7"
+      ],
+      "document_id": "18-01",
+      "line": 110,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S013",
+      "heading": "第二部分　日常返现卡奖励附录",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "18-02",
+      "line": 114,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S014",
+      "heading": "日常返现卡附录",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "18-02",
+      "line": 116,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S015",
+      "heading": "参加、奖励记录与限制",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "18-02",
+      "line": 119,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S016",
+      "heading": "不取得奖励的交易",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "18-02",
+      "line": 123,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S017",
+      "heading": "退货与负余额",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "18-02",
+      "line": 125,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S018",
+      "heading": "有效期与兑换",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "18-02",
+      "line": 127,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S019",
+      "heading": "修改、暂停或取消",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "18-02",
+      "line": 130,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S020",
+      "heading": "第三部分　分类积分卡奖励附录",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "18-03",
+      "line": 136,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S021",
+      "heading": "分类积分卡附录",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "18-03",
+      "line": 138,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S022",
+      "heading": "积分伙伴转移",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "18-03",
+      "line": 147,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S023",
+      "heading": "参加、奖励记录与限制",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "18-03",
+      "line": 150,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S024",
+      "heading": "不取得奖励的交易",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "18-03",
+      "line": 154,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S025",
+      "heading": "退货与负余额",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "18-03",
+      "line": 156,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S026",
+      "heading": "有效期与兑换",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "18-03",
+      "line": 158,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S027",
+      "heading": "修改、暂停或取消",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "18-03",
+      "line": 161,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    }
+  ],
+  "research_settings": {
+    "file": "tools/account_record.txt",
+    "section": "本次账户资料及办理记录",
+    "provenance": "案例参数、补充产品机制及研究控制的区别见Notes",
+    "sha256": "13c719f55456f71d9949a92ef61a14ca81965e321196cafa96686df2e36541cb"
+  },
+  "rendering": "native_xelatex",
+  "pages": 11,
+  "qa_status": "text_and_layout_checked",
+  "material_sha256": "646c028b58bef981b25757bb1adbfe7e0c8db9536791556d861a9c95fed504c5",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "18-01",
+      "title": "消费者信用卡客户协议",
+      "pdf": "18_Amex_CashBack_vs_Travel_Points_Reference_01.pdf",
+      "content_source": "18_Amex_CashBack_vs_Travel_Points_Reference.txt",
+      "start_line": 3,
+      "end_line": 113,
+      "leading_source_heading": "第一部分　消费者信用卡客户协议",
+      "headings": {
+        "第一部分　消费者信用卡客户协议": {
+          "level": 2
+        },
+        "第一部分　使用账户": {
+          "level": 1
+        },
+        "第二部分　交易及其他账户活动": {
+          "level": 1
+        },
+        "第三部分　费用与利息": {
+          "level": 1
+        },
+        "第四部分　付款与处理": {
+          "level": 1
+        },
+        "第五部分　联系方式与资料": {
+          "level": 1
+        },
+        "第六部分　协议一般法律条款": {
+          "level": 1
+        },
+        "第六部分续　争议解决计划——仲裁协议": {
+          "level": 1
+        },
+        "账单权利": {
+          "level": 2
+        },
+        "对信用卡购买不满意的权利": {
+          "level": 2
+        },
+        "现役军人及家属": {
+          "level": 2
+        },
+        "口译员认证": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "6",
+        "7"
+      ],
+      "content_sha256": "429bb714a48d43338c1ed269584d38b1fbd802467f791e14ce623296683a6614",
+      "pages": 7,
+      "pdf_sha256": "f3804aaea8e4676e513d2ef20637da95e8f1fa3899500ecf7b88c0c59b53cdb6",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": []
+    },
+    {
+      "document_number": "02",
+      "document_id": "18-02",
+      "title": "日常返现卡奖励附录",
+      "pdf": "18_Amex_CashBack_vs_Travel_Points_Reference_02.pdf",
+      "content_source": "18_Amex_CashBack_vs_Travel_Points_Reference.txt",
+      "start_line": 113,
+      "end_line": 135,
+      "leading_source_heading": "第二部分　日常返现卡奖励附录",
+      "headings": {
+        "第二部分　日常返现卡奖励附录": {
+          "level": 2
+        },
+        "日常返现卡附录": {
+          "level": 2
+        },
+        "参加、奖励记录与限制": {
+          "level": 2
+        },
+        "不取得奖励的交易": {
+          "level": 2
+        },
+        "退货与负余额": {
+          "level": 2
+        },
+        "有效期与兑换": {
+          "level": 2
+        },
+        "修改、暂停或取消": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "2"
+      ],
+      "content_sha256": "d73b84a53689402059a83ce868f7614b11eefb4fb5f9f015304108f700012370",
+      "pages": 2,
+      "pdf_sha256": "9be146d0ba7a415f59437d301f2a13eba770495e367715a76cb7aa4c4742169c",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": []
+    },
+    {
+      "document_number": "03",
+      "document_id": "18-03",
+      "title": "分类积分卡奖励附录",
+      "pdf": "18_Amex_CashBack_vs_Travel_Points_Reference_03.pdf",
+      "content_source": "18_Amex_CashBack_vs_Travel_Points_Reference.txt",
+      "start_line": 135,
+      "end_line": 167,
+      "leading_source_heading": "第三部分　分类积分卡奖励附录",
+      "headings": {
+        "第三部分　分类积分卡奖励附录": {
+          "level": 2
+        },
+        "分类积分卡附录": {
+          "level": 2
+        },
+        "积分伙伴转移": {
+          "level": 2
+        },
+        "参加、奖励记录与限制": {
+          "level": 2
+        },
+        "不取得奖励的交易": {
+          "level": 2
+        },
+        "退货与负余额": {
+          "level": 2
+        },
+        "有效期与兑换": {
+          "level": 2
+        },
+        "修改、暂停或取消": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "1862ea83ae93d7a1bda129c28a10710936e7c855a9d99bd852fb7a58cfb07864",
+      "pages": 2,
+      "pdf_sha256": "6730b1dd6d1790b4da487f221fa36771b08ea6f531d554993c40694abaefdd50",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": []
+    }
+  ],
+  "pdf_files": [
+    "18_Amex_CashBack_vs_Travel_Points_Reference_01.pdf",
+    "18_Amex_CashBack_vs_Travel_Points_Reference_02.pdf",
+    "18_Amex_CashBack_vs_Travel_Points_Reference_03.pdf"
+  ],
+  "pages_definition": "各独立PDF页数之和；不存在现行合并PDF。",
+  "document_manifest": "tools/pdf_documents.json",
+  "heading_levels": 3,
+  "scenario_confirmation_location": "18_Amex_CashBack_vs_Travel_Points_Material.md — 场景信息／本次账户及办理条件",
+  "document_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "bc45ceb08679b7f9e4fae88de7dd14b86f6974cfda5a4f01c4d27db97bfedf52",
+    "current_sha256": "5091983ba5d4a1bb64c9f54e8d01cddc453cce133338dde6c7ea6d09db2d0282",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_widths": "content_adaptive",
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

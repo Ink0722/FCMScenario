@@ -1,0 +1,2045 @@
+
+--- PDF PAGE 1 ---
+> edwardjones.com
+Edward Jones Guided Solutions®
+Fund Account Brochure
+as of May 2, 2025
+Edward Jones
+12555 Manchester Road
+St. Louis, MO 63131
+800-803-3333
+edwardjones.com
+Item 1: Cover Page
+This wrap fee program brochure provides information about the qualifications and business
+practices of Edward D. Jones & Co., L.P. (“Edward Jones,” “we” or “us”). If you have any questions
+about the contents of this brochure, please contact us at 800-803-3333. The information in this
+brochure has not been approved or verified by the U.S. Securities and Exchange Commission
+(“SEC”) or by any state securities authority. Registration with the SEC or any state securities authority
+does not imply a certain level of skill or training.
+Additional information about Edward Jones is also available on the SEC’s website at
+www.adviserinfo.sec.gov.
+Page 1 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 2 ---
+> edwardjones.com
+Item 2: Material Changes
+Below is a summary of the material changes that were made to this brochure as part of our annual filing on
+February 14, 2025.
+•
+On August 30, 2024, we filed an other-than-annual amendment and updated the brochure to reflect that
+beginning October 1, 2024, the minimum monthly fee would be eliminated, as well as the Program Fee for the
+pricing tier associated with assets in total of $500,000 up to $1,000,000 would be lowered from 1.25% to 1.20%.
+•
+On October 1, 2024, we filed an other-than-annual amendment and updated the brochure to reflect that certain
+investments employ non-traditional strategies which can be complex and contain unique characteristics and
+risks. Please refer to the Risk of Loss section in Item 6: Guided Solutions Flex Investment Selection and
+Evaluation for more information.
+•
+On October 1, 2024, we filed an other-than-annual amendment and updated the brochure to reflect that on
+August 14, 2024, Edward Jones entered into a settlement with the SEC in connection with the SEC’s industry-
+wide investigation into the preservation of electronic communications pursuant to applicable recordkeeping
+provisions of Section 17(a) of the Securities Exchange Act of 1934 (“Exchange Act”) and Section 204 of the
+Investment Advisers Act of 1940 (“Advisers Act”) and supervisory provisions of Section 15(b)(4)(E) of the
+Exchange Act and Section 203(e)(6) of the Advisers Act, and applicable rules thereunder. Please see Item 9.A.:
+Disciplinary Information and Other Financial Industry Activities and Affiliations for more information.
+•
+On February 14, 2025, we updated the brochure to reflect new conflicts that may arise from time to time as
+Edward Jones evolves its business practices, including how Edward Jones generates and/or provides client
+referrals to third-party providers and the possibility of Edward Jones working with certain third-party providers
+that affiliates of Edward Jones have invested in. Please see Item 9: Client Referrals and Other Compensation
+for more information.
+•
+On February 14, 2025, we updated the brochure to reflect that Edward Jones recently entered into settlements
+with multiple states and U.S. territories resulting from an investigation focused on whether Edward Jones had
+reasonably designed procedures to precisely apply the holding period of a Class A share mutual fund purchase
+relative to the fee offsets provided when brokerage clients holding these security types transferred to an
+Edward Jones advisory offering. Please see Item 9.A.: Disciplinary Information and Other Financial Industry
+Activities and Affiliates for more information.
+Item 3: Table of Contents
+Item 1: Cover Page .............................................................................................................................. 1
+Item 2: Material Changes..................................................................................................................... 2
+Item 3: Table of Contents. .................................................................................................................... 2
+Item 4: Services, Fees and Compensation........................................................................................ 3
+Item 5: Account Requirements and Types of Clients. ......................................................................12
+Item 6: Guided Solutions Fund Investment Selection and Evaluation...........................................13
+Item 7: Client Information Provided to Edward Jones.....................................................................16
+Item 8: Client Contact with Edward Jones........................................................................................16
+Item 9: Additional Information. ...........................................................................................................16
+A.  Disciplinary Information and Other Financial Industry Activities and Affiliations.............................. 16
+B.  Code of Ethics, Participation or Interest in Client Transactions and Personal Trading;
+Review of Accounts; Client Referrals and Other Compensation; and Financial Information........... 18
+Item 10: Requirements for State-Registered Advisers................................................................... 20
+Appendix A: Disclosures Regarding Affiliated Money Market Fund and Mutual Funds. ..............21
+Page 2 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 3 ---
+Item 4: Services, Fees and Compensation
+Edward Jones is a registered broker-dealer and investment
+adviser. As an investment adviser, Edward Jones offers several
+advisory programs. This brochure (“Brochure”) provides clients
+(“client,” “you” or “your”) with information about Edward Jones,
+Edward Jones Guided Solutions® Fund Account (“Guided
+Solutions Fund”), the fees charged for our services and our
+business practices. You should read this Brochure carefully and
+consult with your tax professional before you decide to invest in
+Guided Solutions Fund.
+Other advisory programs offered through Edward Jones are not
+described in this Brochure. These programs offer different
+services and investments and some have different fees and
+minimum investment requirements. Certain programs or
+offerings are only available through select financial advisors.
+To learn more about other advisory programs offered by us,
+please ask your financial advisor or go to
+www.edwardjones.com/advisorybrochures to review
+the brochures for the available advisory programs.
+Because Guided Solutions Fund is an investment advisory
+service offered by Edward Jones as an SEC-registered advisor,
+Edward Jones has a fiduciary duty to act in your best interest and
+to abide by the duties of care and loyalty under the Investment
+Advisers Act of 1940 when providing Guided Solutions Fund to
+you. Other services you obtain through Edward Jones, including
+other investment advisory and brokerage services, are separate
+and distinct from Guided Solutions Fund and each is governed by
+separate arrangements that we may have with you. Brokerage
+services are subject to different laws than investment advisory
+services. The specific services provided to you, our relationship
+with you and our legal duties to you in each arrangement are
+described in our applicable agreements with you and the
+disclosures we provide to you in connection with those services.
+Edward Jones is the primary operating subsidiary of The Jones
+Financial Companies, L.L.L.P. (“JFC”), a holding company
+registered as a partnership with the State of Missouri. Edward
+Jones registered with the SEC as a broker-dealer in 1941 and as
+an investment adviser in 1993. Edward Jones became a member
+of the National Association of Securities Dealers (“NASD”) (now
+known as the Financial Industry Regulatory Authority (“FINRA”))
+in 1939.
+As of December 31, 2024, we managed $362,772,959,455 in
+discretionary assets and $462,273,739,618 in non-discretionary
+assets across all of our advisory programs.
+The decision to invest in Guided Solutions Fund is yours. Before
+making this decision, you and your financial advisor should
+discuss whether other programs or investments may be more
+appropriate for your investment goals or needs. If you decide to
+invest in Guided Solutions Fund, we will not begin providing you
+advisory services until (a) our acceptance and approval of a
+written Client Services Agreement (“CSA”) between you and
+Edward Jones, and (b) funding of the account at the initial
+minimum investment (if applicable) as determined by
+Edward Jones.
+> edwardjones.com
+Before investing in Guided Solutions Fund, you should decide if
+you are comfortable assuming responsibility for the day-to-day
+management of your account. Investors in Guided Solutions
+Fund typically:
+•
+Want to be involved in the investment process and approve
+final trade decisions
+•
+Value the receipt of ongoing advice from Edward Jones when
+making investment decisions
+•
+Desire a disciplined approach to long-term investing and are
+willing to adhere to an asset allocation strategy aligned with
+Edward Jones’ guidance
+•
+Are comfortable paying monthly, asset-based (percentage)
+fees for investments and advice rather than individual,
+transaction-based commissions or sales charges
+In evaluating fee-based advisory programs, you should consider
+a number of factors. You may be able to obtain some or all of the
+same or similar investments and/or services available through
+this and other fee-based advisory programs separately through
+Edward Jones or another broker-dealer or investment adviser.
+You should consider that, depending on the circumstances, the
+aggregate fees you will pay for investing in Guided Solutions may
+be lower or higher than if you purchased the investments or
+services separately at Edward Jones or through another broker-
+dealer or investment adviser. Guided Solutions Fund accounts
+and other advisory accounts offered through Edward Jones
+provide ongoing investment advice for an asset-based fee, rather
+than charging commissions for transactions in your account.
+Brokerage accounts, on the other hand, can charge commissions
+for transactions and typically provide investment advice that is
+point-in-time and solely incidental to the brokerage services
+provided. As a result, important factors to consider are the
+amount of trading activity you have in your accounts and the
+corresponding commissions that would be charged if you bought
+and sold individual securities in a brokerage account as well as
+the type of advice you desire. You also may experience different
+performance results or tax consequences from what you would
+by purchasing the investments separately or through another
+broker-dealer or investment adviser.
+Guided Solutions Fund Overview
+Guided Solutions Fund is a client-directed advisory program
+sponsored by Edward Jones designed to provide the client with
+ongoing investment advice, guidance and services for an asset-
+based fee. The Guided Solutions Fund experience is rooted in the
+working relationship between you and your Edward Jones financial
+advisor. In consultation with your Edward Jones financial advisor,
+you will select an appropriate portfolio objective for your Guided
+Solutions Fund account (your “Account Portfolio Objective”).
+Selecting Your Account Portfolio Objective. In order to invest in
+Guided Solutions Fund, you will complete a Client Profile that
+contains important information about your account, which generally
+includes either your goal or purpose for investing and your
+investment time horizon, risk tolerance and other financial
+information. Your time horizon will reflect the expected time frame
+Page 3 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 4 ---
+over which you plan to invest (and potentially withdraw) your
+assets to achieve your investment goal or purpose. Time horizon is
+expressed as either your life stage or the number of years you plan
+on accumulating and/or distributing your assets.
+If your account is not assigned to a goal established at Edward
+Jones, then we will recommend an Account Portfolio Objective for
+your account based upon the level of investment risk you are
+willing to take (your risk tolerance or comfort with risk) and the
+expected time horizon for your investments. If your account is
+assigned to a goal established at Edward Jones, then we will
+recommend that you select an Account Portfolio Objective that is
+appropriate for the portfolio objective you selected for your goal
+(your “Goal Portfolio Objective”).
+You may choose an alternative Account Portfolio Objective if you
+are willing to take more or less risk than the recommended
+Account Portfolio Objective. You ultimately decide whether you
+want to select the recommended Account Portfolio Objective or an
+alternative Account Portfolio Objective, if available. Edward Jones
+will have no authority to change your Account Portfolio Objective
+without your instruction. To change your Account Portfolio
+Objective, you must meet with your Financial Advisor to select a
+new Account Portfolio Objective.
+Your Account Portfolio Objective determines the recommended
+asset allocation and investment category ranges (“Target
+Ranges”).
+In addition, Edward Jones’ applies certain guidelines designed to
+monitor your Guided Solutions Fund account for alignment with
+your Account Portfolio Objective (“Investment Diagnostics”). The
+Investment Diagnostics pertain to certain factors including, but not
+limited to, asset allocation, international exposure and security
+overconcentration. Please contact your financial advisor to learn
+more about how Investment Diagnostics help you achieve your
+financial goals. The recommended Target Ranges, as well as
+Investment Diagnostics, are determined solely by Edward Jones
+and can be modified by Edward Jones without prior notice.
+Account Portfolio Objectives in Guided Solutions Fund currently
+include:
+All-Equity Focus: This portfolio objective offers the highest
+long-term growth and rising dividend potential. It focuses on
+long-term capital appreciation and provides very little to no
+current interest income. It also has the highest level of risk,
+as it contains only equity investments.
+Growth Focus: This portfolio objective emphasizes higher
+long-term growth and rising dividend potential, while providing
+modest current interest income. Over the long term, it should have
+higher risk than portfolios with a more income-oriented objective.
+Balanced toward Growth: This portfolio objective emphasizes
+higher long-term growth and rising dividend potential, with a
+secondary goal of current interest income. Over the long term,
+it should have moderate to higher risk.
+Balanced Growth & Income: This portfolio objective has a
+balanced emphasis between current interest income and
+long-term growth with rising dividend potential. Over the long
+term, it should have moderate risk.
+> edwardjones.com
+Balanced toward Income: This portfolio objective emphasizes
+current interest income while providing modest long-term growth
+and rising dividend potential. Over the long term, it should have
+lower to moderate risk.
+Income Focus: This portfolio objective emphasizes current
+interest income with little long-term growth and rising dividend
+potential. Over the long term, it should have lower risk than
+portfolios with a more growth-oriented objective.
+Edward Jones constructs and periodically reviews the
+recommended Target Ranges for each Account Portfolio
+Objective in Guided Solutions Fund. Due to various influences
+such as changing market conditions or a reclassification of an
+Eligible Investment (defined below) to a different asset class, we
+may change the Target Ranges of an Account Portfolio Objective.
+If we change the Target Ranges for your Account Portfolio
+Objective, we will notify you if your account’s Target Allocations
+(defined below) are out of alignment with the new Target Ranges,
+as necessary. Your Guided Solutions Fund account includes an
+annual rebalancing feature and may be eligible for on-demand
+rebalancing. For more information, see “Account Target
+Alignment” below.
+After you have selected your Account Portfolio Objective, you
+may choose from among the mutual funds and exchange-traded
+funds (“ETFs”) available for Guided Solutions Fund (“Eligible
+Investments”) and determine the percentage of your money to
+invest in each Eligible Investment (your “Target Allocations”) in
+alignment with your Account Portfolio Objective. When analyzing
+investments and developing recommendations that may be
+appropriate for your account, we rely on a variety of different
+sources of information. Such sources may include research
+developed by Edward Jones that covers a wide range of Eligible
+Investments and investment research reports issued by firms that
+are not affiliated with us.
+In addition, we may use certain Edward Jones investment tools
+as a preliminary basis for recommending certain Eligible
+Investments that align with your Account Portfolio Objective. The
+use of such investment tools does not guarantee the
+performance of your account or any investments therein or
+protect against potential investment losses.
+You are responsible for directing the buying and selling of Eligible
+Investments in your account, except as otherwise described in
+this Brochure. You may change your Eligible Investment
+selections and your Target Allocations at any time, provided you
+remain aligned with the Target Ranges for your Account Portfolio
+Objective.
+Initial Investment. You can fund your Guided Solutions Fund
+account with cash and/or securities. When you fund a Benefit
+Plan account or a traditional individual retirement account (“IRA”)
+or Roth IRA account, all incoming assets will be liquidated and
+the proceeds will be invested in Eligible Investments you have
+selected. For all other account types, incoming Eligible
+Investments may or may not be liquidated when your account is
+initially rebalanced according to your chosen Target Allocations.
+In any account type, if you establish your Guided Solutions Fund
+account with Ineligible Investments (defined below), Edward
+Page 4 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 5 ---
+Jones is authorized to liquidate or redeem those Ineligible
+Investments without regard to tax consequences or redemption
+fees that may be assessed on the liquidation or redemption of
+those securities. Edward Jones will act in our capacity as a
+broker-dealer, not as a fiduciary or investment adviser, in
+connection with such transactions and will sell those securities at
+no commission. Edward Jones will not provide advice or
+guidance regarding the securities being sold to fund the Guided
+Solutions Fund account. Trades that occur in a taxable account
+may result in taxable events as well as redemption fees and/or
+sales charges that may be assessed on the liquidation or
+redemption of securities.
+If you transfer shares of mutual funds to open a Guided Solutions
+Fund account and those mutual funds are current Eligible
+Investments included in your Target Allocations, but in a different
+share class from those available in Guided Solutions Fund, you
+authorize and direct Edward Jones to: (a) convert some or all
+shares of current Eligible Investments to a different share class
+available in Guided Solutions Fund, and/or (b) liquidate some or
+all shares of current Eligible Investments. Conversions could
+result in higher or lower fees and/or expenses than those paid
+under the previous share class and liquidations may cause a
+taxable event. Liquidation depends upon factors such as the type
+and values of the securities you transfer in and the type and
+values required by your Target Allocations at the time of the
+transfer. Any securities you transfer into your account that are not
+Eligible Investments within your Target Allocations will be
+liquidated and the proceeds invested as described above.
+Subsequent Investments. Once you have established your Target
+Allocations and funded your account, you may add or withdraw
+funds from your account upon request. If after your Guided
+Solutions Fund account is opened and activated you
+subsequently transfer in shares of mutual funds that are current
+Eligible Investments but in a different share class from the share
+class used in Guided Solutions Fund account, these shares will
+be liquidated upon transfer into your account and the funds
+invested in accordance with your model. We will try to make this
+a nontaxable event but cannot guarantee that you will not owe
+taxes as a result of the liquidation. For more information about
+share classes, please refer to the Risk of Loss section below.
+Upon any subsequent transfer of cash or Ineligible Investments
+into, or withdrawal of funds out of, your account, Edward Jones
+will buy or sell Eligible Investments in your account in accordance
+with your Target Allocations. Ineligible Investments, or Eligible
+Investments that are not included in your Target Allocations, will
+be liquidated upon transfer into your account and the funds
+invested, as described above. Eligible Investments transferred
+into your account that are included in your Target Allocations will
+remain in your account, although they may cause you to be out of
+alignment with your Target Allocations. Eligible Investments
+transferred out of your account may also cause you to be out of
+alignment with your Target Allocations. You are responsible for
+choosing and maintaining Target Allocations that are in alignment
+with the Target Ranges for your Account Portfolio Objective.
+> edwardjones.com
+You are responsible for all trading and investment decisions in
+your account and should not rely solely on the recommendations
+of Edward Jones or your financial advisor in choosing among
+Eligible Investments. Neither Edward Jones nor your financial
+advisor will have discretionary authority for any trading or
+investment decisions in your account, except as otherwise
+described in this Brochure.
+Your financial advisor is not responsible under the terms of
+Guided Solutions Fund for monitoring your other Edward Jones
+accounts, if you have them, on an ongoing basis. However, if you
+have multiple Edward Jones accounts that are linked to a Goal
+Portfolio Objective, your financial advisor may recommend that
+you consider placing a trade in one or more of your other Edward
+Jones accounts, rather than realigning your Guided Solutions
+Fund account, in order to address certain Investment
+Diagnostics.
+When you place trades in a brokerage account that could be
+placed in your Guided Solutions Fund account or another
+fee-based investment advisory account at Edward Jones, a
+conflict of interest exists as Edward Jones and your financial
+advisor will earn compensation on the transactions, such as
+commissions and/or mark-ups or mark-downs, that you would not
+bear if such transactions were placed in your Guided Solutions
+Fund account or another fee-based account at Edward Jones.
+Such transaction fees would be in addition to the asset-based
+advisory fee that you pay for assets held within your Guided
+Solutions Fund account or other fee-based account at Edward
+Jones.
+Eligible Investments. Through Guided Solutions Fund, clients
+can choose from an extensive list of Eligible Investments
+selected by Edward Jones that includes affiliated and unaffiliated
+mutual funds and ETFs across a variety of asset classes.
+“Affiliated mutual funds” refers to mutual funds managed by an
+affiliate of Edward Jones, which consist of the Bridge Builder
+family of mutual funds (“Bridge Builder Funds”) and the Edward
+Jones Money Market Fund (“Money Market Fund”). Generally,
+you may purchase affiliated mutual funds in Guided Solutions
+Fund. However, Edward Jones prevents the purchase of certain
+affiliated mutual funds unless you already hold shares of those
+mutual funds and transfer them into your Guided Solutions
+account(s). However, Edward Jones, in its sole discretion, may
+make exceptions based on the particular facts and circumstances
+of your situation. However, Benefit Plan and Zero Minimum
+accounts with an initial investment of less than $5,000 are limited
+in the number and types of Eligible Investments they can select.
+Please note that Eligible Investments for Guided Solutions Fund
+may not be offered in Edward Jones Guided Solutions® Flex
+Accounts or our other advisory programs. Certain Eligible
+Investments are only available in taxable accounts.
+For purposes of this Brochure, “Benefit Plan” accounts are
+defined as a Simplified Employee Pension (“SEP”) IRA or a
+traditional IRA linked to an Edward Jones SEP IRA, a Savings
+Incentive Match Plan for Employees (“SIMPLE”) IRA, an owner-
+only 401(k) plan and other eligible plans. “Zero Minimum”
+Page 5 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 6 ---
+accounts include traditional and Roth IRAs for Edward Jones
+associates, their spouses and dependent children, and any other
+types of accounts that Edward Jones, in our sole discretion, may
+allow to enter Guided Solutions Fund with no minimum initial
+investment requirement.
+If your Benefit Plan or Zero Minimum account’s initial investment
+in Guided Solutions Fund is at least $5,000 or if the value of your
+account increases to $5,000 or more (regardless of any
+subsequent decrease in value below $5,000), your account can
+invest in a greater number and additional types of Eligible
+Investments.
+The Edward Jones Money Market Fund is affiliated with Edward
+Jones but is not an Eligible Investment for Guided Solutions
+Fund. However, cash balances awaiting investment or
+reinvestment in your account will be automatically swept into the
+Edward Jones Money Market Fund, where they will be held until
+invested in an Eligible Investment. The portion of your Guided
+Solutions Fund account that is invested in the Edward Jones
+Money Market Fund will be included in the calculation of your
+Guided Solutions Fund Fee (defined below). Please refer to
+Appendix A for more information about the Edward Jones Money
+Market Fund.
+Your asset allocation may include a cash allocation held in the
+Money Market Fund through the cash sweep feature described
+above and/or invested in a third-party money market fund. In
+certain instances, such as instances of market volatility or
+uncertainty, Edward Jones may determine to increase the
+amount of cash you hold in your portfolio. The portion of your
+Guided Solutions Fund account that is held in cash will also be
+included in the calculation of your Guided Solutions Fund Fee.
+You may invest in one or more affiliated mutual funds, which
+consist of the Bridge Builder Funds. Please read this Brochure
+carefully to understand the differences between affiliated mutual
+funds and unaffiliated mutual funds, including additional conflicts
+of interest that Edward Jones is subject to in connection with
+recommending affiliated mutual funds and how such conflicts are
+addressed. Bridge Builder Funds and the Money Market Fund
+are affiliated with Edward Jones.
+Some Eligible Investments are sustainable investments that are
+categorized as environmental, social and governance (“ESG”)
+investments or values-based investments. Sustainable
+investments have subjective qualities and characteristics and
+may or may not align with your beliefs, values, or desired
+investment performance. Please contact your financial advisor if
+you are interested in learning more about sustainable
+investments available for Guided Solutions Fund and the
+associated risk.
+There is no guarantee that an Eligible Investment will perform in
+any particular manner. Past performance is not a guarantee of
+future results. Details about the mutual funds and/or ETFs in your
+account can be found in the prospectus, statement of additional
+information (“SAI”) and shareholder reports for each mutual fund
+and ETF (collectively, “Fund prospectus and other fund
+documents”). It is important that you read these documents
+before investing.
+> edwardjones.com
+You may not be able to purchase certain Eligible Investments in
+your Guided Solutions Fund account. For example, certain
+mutual funds that are Eligible Investments may be closed to new
+investors. Additionally, certain Eligible Investments for a Guided
+Solutions Fund account may not be offered in our other advisory
+programs.
+Ineligible Investments. You will not be able to hold any
+investment in your Account, or have it serve as a Target Allocation
+in your Account, that Edward Jones has deemed ineligible for
+Guided Solutions Fund (“Ineligible Investments”) or that is
+unavailable for your Account. In the event that Edward Jones
+re-categorizes an investment from an Eligible Investment to an
+Ineligible Investment or an Eligible Investment is no longer
+available for your account, Edward Jones will notify you and
+recommend a replacement Eligible Investment (which may include
+affiliated mutual funds). If you do not instruct Edward Jones to
+remove the Investment from your account within the time frame
+established for Guided Solutions Fund, as determined by Edward
+Jones, we will liquidate the Ineligible Investment and purchase the
+recommended replacement Eligible Investment or, in the case of
+an unavailable investment, replace it with the recommended
+Eligible Investment in your Target Allocation. Liquidation may result
+in a taxable event as well as redemption fees.
+Until the Ineligible Investment or unavailable investment is
+replaced, there is a possibility that additional shares of that
+investment may be purchased. Such purchase(s) may occur in a
+number of instances including, but not limited to, when assets are
+added to your account or a rebalancing occurs. The purchase of
+additional shares of an Ineligible Investment and the eventual
+mandatory removal of such shares may result in a taxable event.
+The replacement Eligible Investment may be subject to higher
+internal expenses than the prior investment and may result in
+your Target Allocations being out of alignment with the Target
+Ranges or Investment Diagnostics for your Account Portfolio
+Objective.
+Account Target Alignment. Edward Jones will review your
+Target Allocations annually and notify you if they are out of
+alignment with the Target Ranges or Investment Diagnostics for
+your Account Portfolio Objective. If your account’s Target
+Allocations are out of alignment with the Target Ranges or
+Investment Diagnostics for any reason, you will be responsible
+for bringing your account’s Target Allocations into alignment
+within the time frame established for Guided Solutions Fund, as
+determined by Edward Jones. To realign your account, you must
+work with your financial advisor to realign your account’s Target
+Allocations within the Target Ranges or Investment Diagnostics
+for your Account Portfolio Objective. Realigning your account
+may result in trading activity, which may cause a taxable event as
+well as additional fees and expenses.
+In the event you do not provide instructions to Edward Jones to
+realign your account’s Target Allocations inside the Target
+Ranges or Investment Diagnostics within the required time frame,
+your account will be removed from Guided Solutions Fund.
+Page 6 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 7 ---
+Rebalancing. Unless your account’s Target Allocations are out of
+alignment with the Target Ranges or Investment Diagnostics for
+your Account Portfolio Objective, Edward Jones determines your
+account is aligned to its Target Allocations at your account’s
+annual review, or your account is otherwise restricted by Edward
+Jones, we will automatically rebalance your account on an annual
+basis to restore your account to its Target Allocations of Eligible
+Investments. Rebalancing is achieved by buying, redeeming or
+selling shares of Eligible Investments.
+Rebalancing trades are subject to certain dollar minimums as
+determined by Edward Jones. You will not be notified before your
+annual rebalance occurs, unless you are required to bring your
+account’s Target Allocations into alignment with the Target
+Ranges or Investment Diagnostics. Asset allocation and
+rebalancing strategies do not guarantee a profit or protect against
+loss. Rebalancing trades in a taxable account may result in a
+taxable event as well as additional fees and expenses.
+Your account may be eligible for on-demand rebalancing. Upon
+receipt of your on-demand rebalancing request, your account will
+be rebalanced by Edward Jones to restore your account to its
+Target Allocations of Eligible Investments. On-demand
+rebalancing will not be available if your account has been
+rebalanced within thirty-one (31) days prior to your request, if
+your account is being automatically rebalanced at the time of
+your request, or if your account is otherwise restricted by Edward
+Jones. On-demand rebalancing also may not be available while
+your account’s Target Allocations are out of alignment with your
+Account Portfolio Objective’s Target Ranges or Investment
+Diagnostics. If your on-demand rebalancing request is received
+within 31 days prior to an annual rebalancing date, the
+on-demand rebalancing will serve as the annual rebalancing.
+Brokerage Services. You are solely responsible for all trading
+decisions in your account, and Edward Jones will execute trades
+only at your direction, except as otherwise described in this
+Brochure. When Edward Jones executes trades for your account,
+we are not acting as an investment adviser, but solely as a
+broker-dealer. Trading in your account will be subject to our trading
+policies and practices. You will not be charged trade commissions
+or sales charges for Guided Solutions Fund trades. However,
+Guided Solutions Fund may cost you more or less than purchasing
+advisory services and brokerage services separately, depending
+on certain factors such as the frequency of your trading. You
+cannot request that your orders be executed through another
+broker-dealer. Not all investment advisers require their clients to
+execute their trades through a certain broker-dealer as we do.
+Guided Solutions Fund trades are generally aggregated. This
+means that trades for your account are combined with other client
+accounts, including accounts for Edward Jones associates, and
+executed in a single trade or series of trades. Once the trade is
+executed, it is then allocated to your account in the proper amount.
+Trade aggregation is done to increase operational efficiencies and
+allows us to keep trading costs down. If we did not aggregate
+trades, the Program Fee could potentially be higher.
+> edwardjones.com
+Eligible Investment trades are aggregated and executed each
+trading day at times determined by Edward Jones. If an Eligible
+Investment trade is made after the last designated trade
+aggregation cutoff time, it will be executed on the next business
+day. You may not receive the same price as trades executed the
+prior trading day. As a result, trade aggregation may affect the
+price you pay for an Eligible Investment in your account. ETF
+trades will be rounded to the nearest whole share. If there is not
+sufficient cash or assets invested in a money market fund to
+cover rounding, Edward Jones is authorized to sell a sufficient
+amount of shares of mutual funds and ETFs held in your account
+to purchase a whole ETF share. If Edward Jones sells mutual
+funds or ETFs, this may result in your account being out of
+alignment with your Target Allocations, the Target Ranges for
+your Account Portfolio Objective, and/or with the Investment
+Diagnostics for your account. Such transactions will be effected
+without regard to tax consequences. You may have to pay
+redemption fees to a mutual fund company if those mutual fund
+shares were held for only a short time. (See below for more
+information on redemption fees.)
+Trade Allocation. From time to time, the volume and/or number
+of trades that are directed by clients to be executed for Guided
+Solutions Fund accounts may exceed Edward Jones’ operational
+and technological capacities if these trades are directed on a
+single day. For example, this may occur if Edward Jones is
+re-categorizing an investment from an Eligible Investment to an
+Ineligible Investment, if a large number of accounts need to be
+rebalanced, or by request of a mutual fund or ETF sponsor. In
+order to maintain the orderly processing of trades and to
+minimize the incidence of errors, Edward Jones may allocate
+trades based on the time of order entry. In certain circumstances,
+this process may take several days or weeks. Although designed
+to be fair and equitable over time, this may result in clients
+receiving different prices. In addition, if the volume or size of
+redemptions required to be effected as a result of re-categorizing
+a mutual fund from an Eligible Investment to an Ineligible
+Investment or the rebalancing of a large number of accounts
+exceeds the limits set forth in the mutual fund’s trading policies
+and procedures, the mutual fund may exceed the standard
+settlement period to process redemptions or may redeem
+positions in-kind. In such circumstances, client assets may not be
+fully invested and may be subject to market risk between the
+redemption date and the reinvestment of the assets. Alternatively,
+Edward Jones may rely on a random allocation process to effect
+the redemptions over time in a manner consistent with the limits
+set forth in the mutual fund’s trading policies and procedures.
+Trade Errors. In certain circumstances, trade errors may occur in
+your account. When a trade error occurs that is caused by the
+actions of Edward Jones, we will work to promptly correct the
+error while ensuring your account is not disadvantaged.
+It is Edward Jones’ policy to use an Edward Jones error account
+to correct trades. This may result in trades between your account
+and an Edward Jones error account. If trade errors are caused by
+your actions and the process of correcting the errors results in a
+Page 7 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 8 ---
+net loss in the error account, your account will be debited for the
+amount of such loss. If the process of resolving trade errors
+results in a net gain in the error account, as accrued and
+calculated on a periodic basis, we will donate the amount of such
+gain to charities chosen by Edward Jones.
+Edward Jones Reserve Line of Credit. Certain Guided
+Solutions Fund non-retirement accounts may be eligible to serve
+as collateral in support of securities-based loans offered by
+Edward Jones SBL, LLC (the “Lender”), a non-investment
+adviser, non-bank affiliate of Edward Jones. The securities-based
+lending offering is called the Edward Jones Reserve Line of
+Credit (“Reserve Line”). The terms and conditions applicable to
+Reserve Line are governed by the Edward Jones Reserve Line of
+Credit Agreement (“Reserve Line Agreement”) and are not
+included in this brochure. Client “Obligations” (as that term is
+defined in the Reserve Line Agreement) are collateralized by the
+pledged account and the assets, including securities, within that
+account. If your Guided Solutions Fund account is used as
+collateral to take an advance under the Reserve Line (a “Reserve
+Line Advance”), your account and assets within it are pledged to
+support your Obligations and you will not be permitted to
+withdraw securities or funds from your account unless sufficient
+collateral remains to support your Obligations as required under
+the Reserve Line Agreement. The availability of the Reserve Line
+will depend on whether the Lender is authorized to extend credit
+in the state where you reside, the value of the assets, including
+securities held in the pledged accounts and the eligibility
+guidelines set forth in the Reserve Line Agreement. Lender, at its
+sole discretion, may refuse a request for a Reserve Line
+Advance. Reserve Line Advances may be used for personal and
+business purposes but may not be used for the purpose of
+purchasing securities or reducing or retiring any indebtedness
+incurred to purchase securities.
+Before making the decision to take a Reserve Line Advance, it is
+important you understand the terms and conditions of the
+Reserve Line Agreement; the risks and costs associated with
+taking a Reserve Line Advance; and how the performance of your
+Guided Solutions Fund account may be negatively affected.
+Please review the Reserve Line Agreement for a discussion of
+the risks as well as the “Reserve Line Risk” section below before
+taking a Reserve Line Advance. The Reserve Line Agreement
+also includes a discussion of the costs of these advances. You
+will pay interest charges on a Reserve Line Advance to the
+Lender, which are separate from, and in addition to, the Guided
+Solutions Fund Fee (defined below) you pay us. Before taking
+out a Reserve Line Advance, first evaluate the intended duration
+of the advance and your other options, including alternative loan
+options or liquidating securities. It is our view that the use of
+securities-based lending is most appropriate when short in
+duration. The costs of a Reserve Line Advance, including interest
+charges, and Guided Solutions Fund Fee may be greater than
+the income generated by your Guided Solutions Fund account
+and, as a result, your account’s value may decrease. To the
+extent that a “Maintenance Call” (as that term is defined in the
+Reserve Line Agreement) is triggered in connection with your
+Reserve Line and the Lender instructs us to liquidate any
+> edwardjones.com
+pledged collateral we will act solely in our capacity as a broker-
+dealer and not as an investment adviser. Moreover, in causing
+the liquidation and sale of such pledged collateral to satisfy a
+Maintenance Call, the Lender will prioritize its interests over your
+interests, we are obligated to prioritize the Lender’s interests over
+your interests and we will prioritize our interests over your
+interests. To learn more about the Reserve Line offering and its
+availability, please contact your Financial Advisor.
+Custody. Assets in your account are held at Edward Jones as
+broker-dealer. However, if you have entered into an IRA Custodial
+Agreement with Edward Jones Trust Company (“EJTC”), assets
+in your IRA will be held at EJTC. EJTC has delegated its duties
+and responsibilities as a custodian to Edward Jones as
+sub-custodian.
+As custodians, Edward Jones and EJTC are responsible for:
+•
+Safekeeping your funds and securities
+•
+Collecting dividends, interest and proceeds from any sales
+•
+Disbursing funds from your account
+Edward Jones (as broker-dealer) will provide all accounts with
+written trade confirmations of securities transactions and account
+statements for each month there is activity in the account. If
+EJTC is the custodian, the account statement will be sent by
+Edward Jones on behalf of EJTC.
+Please review your account statements carefully and notify
+us immediately if you detect an error or a discrepancy.
+Termination of Guided Solutions Fund Services. You or
+Edward Jones may terminate your participation in Guided
+Solutions Fund at any time without any advisory termination fee.
+While oral instructions to terminate your participation in Guided
+Solutions Fund are generally acceptable, Edward Jones, in our
+sole discretion, may require written notice in order to terminate
+Guided Solutions Fund advisory services for your account.
+Upon notice of termination of your Guided Solutions Fund
+services, Edward Jones will no longer act as an investment
+adviser and will not be obligated to recommend any action with
+regard to the assets in your account, but you may instruct us to
+sell the securities or transfer the securities to another Edward
+Jones account or a third-party account.
+In the event of a transfer of mutual funds and/or fund share
+classes that cannot be held outside of your Guided Solutions
+Fund account, Edward Jones will: (a) convert the mutual fund
+shares into a different share class before the shares transfer;
+and/or, (b) liquidate the mutual fund shares and transfer cash.
+Edward Jones follows the instructions of mutual fund companies
+to convert the shares to a different share class or liquidate the
+shares when transferring mutual funds. Conversions could result
+in higher or lower fees and/or expenses than those paid under
+the previous share class and liquidations may cause a taxable
+event. Further, if you are seeking to transfer the securities in your
+Guided Solutions Fund Models account to a third-party account
+and the receiving firm notifies Edward Jones that it does not or
+cannot accept one or more securities as part of such transfer, you
+direct Edward Jones to liquidate the securities rejected by the
+Page 8 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 9 ---
+receiving firm and transfer the cash.
+Bridge Builder funds are only available to be purchased or held
+by you in Edward Jones’ investment advisory programs and you
+may not direct us to hold or purchase Bridge Builder funds in an
+Edward Jones Select brokerage account or at another financial
+institution. Accordingly, any positions in Bridge Builder funds will
+be liquidated if you move from an Edward Jones investment
+advisory account to an Edward Jones Select brokerage account
+or account at another financial institution. The Edward Jones
+Money Market Fund is generally unavailable to be purchased or
+held outside of Edward Jones’ advisory programs. Accordingly, in
+many situations, any position in the Edward Jones Money Market
+Fund will be liquidated if you move from an Edward Jones
+advisory account to an Edward Jones Select brokerage account
+or account at another financial institution.
+Taxable gains, taxable losses, redemption fees or sales charges
+may be assessed upon the liquidation or redemption of
+securities. These fees and expenses may negatively impact your
+investment performance.
+If you sell the assets in your account, your proceeds will be
+available upon settlement of the trades generated to complete
+the liquidation. Liquidation of securities held in your account may
+cause a taxable event as well as additional fees and expenses.
+Upon notice of termination, if you fail to instruct Edward Jones as
+to the disposition of assets in your account, your account’s
+services will be significantly limited (“limited services account”).
+We will no longer act as a fiduciary to your account, and you can
+no longer rely on us to provide advisory services to your account.
+You will be able to receive distributions, liquidate securities, and
+withdraw funds from your limited services account, but you will
+not be able to purchase new securities or add to existing
+positions (except for money market funds). Any transactions will
+be subject to fees, commissions and sales charges applicable to
+Edward Jones brokerage accounts.
+If you terminate your participation in Guided Solutions Fund, and
+do not transfer the assets in your Guided Solutions Fund account
+to an Edward Jones account that is eligible for the Reserve Line,
+the Reserve Line (if any) associated with your Guided Solutions
+Fund account will be terminated by the Lender and all
+outstanding Obligations will immediately be due and payable.
+The Lender may instruct us to liquidate securities or assets
+pledged as collateral (without notice to you) in an amount
+sufficient to satisfy outstanding Obligations. We will act solely in
+our capacity as a broker-dealer in connection with any such
+instruction, not as an investment adviser. Please see the Reserve
+Line Agreement for additional information.
+Fees
+Every Guided Solutions Fund account pays asset-based fees
+(referred to as your “Guided Solutions Fund Fee”). Your Guided
+Solutions Fund Fee includes a Program Fee and a Platform Fee,
+less any applicable fee reduction and/or fee offset (as discussed
+more fully below). In addition to your Guided Solutions Fund Fee,
+affiliated mutual funds and unaffiliated mutual funds and ETFs
+> edwardjones.com
+that you purchase or that are held in your account have internal
+fees and expenses that are described in the prospectus of each
+fund. These internal fees and expenses vary depending on the
+mutual fund or ETF.
+The following section explains:
+•
+The fees and expenses
+•
+How the fees and expenses are calculated and paid
+•
+Potential fee reductions and offsets you may receive from
+Edward Jones
+The Program Fee
+Each Guided Solutions Fund account is charged a Program Fee
+for certain investment advisory services, including initial and
+ongoing analysis of your investment needs and objectives;
+periodic consultations; ongoing evaluation and selection of
+investments for this program; Edward Jones’ ongoing investment
+policy guidance and services to keep your account aligned with
+such guidance; periodic performance reporting; custody and
+transaction execution services and other related services as
+described in this Brochure.
+Program Fee Schedule
+Value of Assets in Account Annual Fee Rate
+First $250,000 1.35%
+Next $250,000 1.30%
+Next $500,000 1.20%
+Next $1,500,000 1.00%
+Next $2,500,000 0.80%
+Next $5,000,000 0.60%
+Over $10,000,000 0.50%
+The Platform Fee
+A Platform Fee is charged on accounts enrolled in Guided
+Solutions Fund for the support and maintenance of accounts on
+the Edward Jones investment advisory platform, such as trading
+and risk tools, training and education, and ongoing platform
+development. This fee is in addition to the Program Fee.
+Platform Fee Schedule
+Value of Assets in Account Annual Fee Rate
+First $250,000 0.05%
+Next $250,000 0.05%
+Next $500,000 0.04%
+Next $1,500,000 0.03%
+Next $2,500,000 0.02%
+Next $5,000,000 0.01%
+Page 9 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 10 ---
+Over $10,000,000 0.00%
+How the Guided Solutions Fund Fee is Calculated
+The Guided Solutions Fund Fee, which includes the Program Fee
+and the Platform Fee, is based on the market value of all assets
+held in your account, including cash, cash equivalents, shares of
+third-party money market funds and shares of the Edward Jones
+Money Market Fund. Reserve Line Advances, if any, do not reduce
+the market value of your account for the purposes of calculating
+the Guided Solutions Fund Fee. The Guided Solutions Fund Fee is
+assessed at an annual fee rate (shown above), payable monthly in
+arrears. As the value of the assets in your account increases or
+decreases, you are charged according to the tiered fee schedule
+set forth above.
+The fees assessed by Edward Jones will reduce your account’s
+overall returns and performance. The Guided Solutions Fund Fee
+is charged to your account each month in arrears. If your Guided
+Solutions Fund account is open for part of a month, then you will
+pay a fee based on the number of days your account was open
+and invested in Guided Solutions Fund. The amount you pay is
+determined by the average daily market value of the assets held
+in your account for the previous month.
+Pricing Groups
+To determine your Program Fee rate and Platform Fee rate, your
+account may be grouped with your other Edward Jones advisory
+accounts or the Edward Jones advisory accounts of people related
+to or close to you who meet the criteria below that are held in the
+same Edward Jones branch in what we refer to as a Pricing
+Group. Each account can only be in one Pricing Group, and we will
+disclose to you the accounts making up your Pricing Group upon
+request. Other members of the Pricing Group will receive the same
+disclosure upon request. Your Pricing Group is based on the
+following criteria:
+1. Your single, joint, custodial, owner-only 401(k) plan and IRA
+accounts are grouped together if they are registered at the
+same address and share one or more of the following: (a) the
+same last name, (b) the same Social Security number, or (c)
+the same Edward Jones Relationship Group. (If you have
+worked with your financial advisor to group your account with
+other accounts for the purpose of planning and establishing
+financial goals, that is a Relationship Group. Your
+Relationship Group may be the same as your Pricing Group.
+Please contact your financial advisor if you have any
+questions about your Relationship Group.)
+2. Your revocable trust accounts are grouped with your single,
+joint, custodial, owner-only 401(k) plan, IRA or other
+revocable trust accounts if they are registered at the same
+address and use the same tax ID number for tax reporting.
+3. Your association, church, corporation, estate, irrevocable
+trust, LLC, partnership and sole proprietorship accounts are
+grouped with other accounts of the same type if they are
+registered at the same address and use the same tax ID
+number for tax reporting. These types of accounts will be
+> edwardjones.com
+grouped with each other, but not with other account types.
+Additionally, accounts that do not meet the above criteria with
+your account, but that meet the above criteria with another
+person’s account in your Pricing Group, will be added to your
+Pricing Group. Furthermore, if your account does not meet the
+above criteria, Edward Jones may, in our sole discretion, create a
+Pricing Group that accommodates your situation. Please contact
+your financial advisor if you have questions about your Pricing
+Group.
+In addition, the Guided Solutions Fund Fee and/or, if applicable,
+minimum monthly fee may be lower than the above schedule in
+the following circumstances:
+•
+Either Edward Jones or your financial advisor negotiates a
+lower Program Fee;
+•
+You are an active or eligible retired associate of Edward Jones; or
+•
+You are a member of an active or eligible retired associate’s
+Pricing Group.
+Reducing, up to and including a waiver, the Guided Solutions
+Fund Fee is at the sole discretion of Edward Jones and may
+result in clients being charged differently for the same or similar
+services.
+Potential Fee Reductions or Offsets to the
+Program Fee
+Depending on certain factors, you may be eligible to receive fee
+reductions or offsets to your Program Fee, as described below.
+Fee Reductions
+If your Guided Solutions Fund account is funded from an Edward
+Jones account that incurred commissions or redemption fees
+within a preceding period, as established by Edward Jones, the
+Program Fee may be reduced for up to twenty-four (24) full
+months in which the account is active in Guided Solutions Fund.
+The amount of the fee reduction will depend on the type of
+security held, timing of trade activity for the security, or other
+characteristics of the account activity in the previous Edward
+Jones account. Ask your financial advisor for additional
+information about potential fee reductions. Any fee reductions will
+be applied in accordance with policies established by Edward
+Jones, which may be amended from time to time. If you close
+your account in Guided Solutions Fund before receiving the
+entire fee reduction, you will not receive any of the remaining fee
+reduction that may have been available for your account.
+If you are selling securities to invest in Guided Solutions Fund but
+did not purchase them through Edward Jones, you will not
+receive a fee reduction.
+Fee Offsets
+Rule 12b-1 Fees: Some mutual fund companies or their affiliates
+pay Edward Jones Rule 12b-1 fees for distribution and marketing
+expenses. This creates a conflict of interest. In order to eliminate
+this conflict of interest, if we receive Rule 12b-1 fees for the shares
+in your account, we will credit the amount received to your account.
+Page 10 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 11 ---
+Shareholder Accounting Revenue: Some mutual fund
+companies pay Edward Jones for account recordkeeping and
+administrative services provided by Edward Jones for the mutual
+fund companies. This creates a conflict of interest. In order to
+eliminate this conflict of interest, if we receive shareholder
+accounting fees for the shares in your account, we will credit the
+amount received to your account.
+Affiliated Mutual Funds: If your account invests in affiliated
+mutual funds, the investment adviser to the mutual funds will be
+an affiliate of Edward Jones. Affiliated mutual funds, other than
+the Edward Jones Money Market Fund, consist of Bridge Builder
+Funds and will be sub-advised by multiple sub-advisers who are
+unaffiliated with Edward Jones. Refer to Appendix A which
+contains a detailed discussion of our affiliation with the affiliated
+mutual funds.
+Edward Jones Money Market Fund: JFC directly owns 100% of
+Olive Street Investment Advisers, LLC (“Olive Street”), the
+adviser of the Edward Jones Money Market Fund. Olive Street,
+and its affiliate, Edward Jones, receive various revenues related
+to assets in the Fund (collectively, “Money Market Revenue”).
+Appendix A includes a detailed discussion of our Money Market
+Revenue. For any account investing in the Edward Jones Money
+Market Fund, Edward Jones or an affiliate apply a fee offset
+equal to the amount of the Money Market Revenue received by
+Edward Jones or an affiliate, with respect to such account.
+How the Guided Solutions Fund Fee is Paid
+The Guided Solutions Fund Fee is deducted directly from your
+Guided Solutions Fund account and paid using the cash portion
+of your account, which may include cash or assets invested in a
+money market fund. If there is not sufficient cash or assets in the
+money market fund, we are authorized to sell a sufficient amount
+of shares of mutual funds and ETFs held in your account to pay
+the Guided Solutions Fund Fee. If Edward Jones sells mutual
+funds or ETFs, this may result in your account being out of
+alignment with your Target Allocations, the Target Ranges for
+your Account Portfolio Objective and/or with the Investment
+Diagnostics for your account. Such transactions will be effected
+without regard to tax consequences. You may have to pay
+redemption fees to a fund company if those shares were held
+only for a short time. (See below for more information on
+redemption fees.) Trades as a result of a liquidation of a mutual
+fund or ETF in a taxable account may result in a taxable event. At
+the sole discretion of Edward Jones, you may be allowed to pay
+your Guided Solutions Fund Fee from an alternate Edward Jones
+account.
+Internal Fees and Expenses of Mutual Funds and
+ETFs, Including Redemption Fees
+Mutual funds (including affiliated mutual funds, if any) and ETFs
+have internal management fees and ongoing expenses for
+operating the funds (“internal fees and expenses”) that are
+deducted from the fund’s assets, which has the effect of reducing
+the fund’s net asset value (“NAV”). Many mutual funds that are
+Eligible Investments in Guided Solutions Fund have different
+share classes with different fees and expenses for each share
+> edwardjones.com
+class. The fund prospectus and other fund documents will
+describe the internal fees and expenses.
+Please refer to Item 6 below for more information regarding the
+selection of mutual funds and ETFs as Eligible Investments for
+Guided Solutions Fund.
+Internal fees and expenses are in addition to the Guided
+Solutions Fund Fee described above and vary depending on the
+particular mutual fund or ETF. You will not see a separate entry
+on your account statement showing these fees and expenses.
+Certain mutual funds may also impose redemption fees if shares
+of the mutual fund are held for only a short time (typically
+anywhere from less than thirty (30) days to twelve (12) months).
+The fund prospectus and other fund documents will describe
+whether the mutual fund has a redemption fee and whether there
+are instances when the redemption fees will be waived.
+Any internal fees and expenses charged by a mutual fund or ETF
+will reduce your account’s overall returns and investment
+performance.
+Other Fees and Expenses Not Included in the
+Guided Solutions Fund Fee
+In addition to the Guided Solutions Fund Fee described above,
+clients may incur other fees and expenses. You will pay interest
+charges on a Reserve Line Advance, if applicable, to the Lender,
+as set forth in the Reserve Line Agreement, which are separate
+from, and in addition to, the Guided Solutions Fund Fee you pay
+us. You may pay for other services including, but not limited to,
+estate service fees, ACH return fees and fees to distribute an
+account pursuant to a transfer on death agreement.
+Also, the Guided Solutions Fund Fee does not cover the following
+(if applicable to your account): transfer taxes; electronic fund,
+wire and other account transfer fees; internal fees and expenses
+incurred by mutual funds or ETFs purchased for your account;
+mutual fund redemption fees and contingent deferred sales
+charges; and any other charges imposed by law or otherwise
+agreed to by Edward Jones and you with regard to your account.
+Deposits, including interest and dividends, received into your
+account but not yet invested in Eligible Investments or swept into
+the Money Market Fund may earn interest that will be retained by
+Edward Jones. Edward Jones may also earn and retain interest
+on distributions requested from your account until the time the
+check is cashed or another payment method is completed. The
+average overnight interest rate on these deposits may fluctuate
+daily and is tied to changes in widely referenced interbank
+lending rates, such as Fed Funds Effective Rate, Fed Funds
+Target Rate and Secured Overnight Financing Rate. Under these
+arrangements, banks may pay interest based on a spread to one
+of these rates or may pay a fixed interest rate.
+Financial Advisor Compensation
+Most financial advisors receive a portion of the Program Fee,
+though some financial advisors receive a salary in addition to, or
+in lieu of, the Program Fee. Financial advisors who receive a
+portion of the Program Fee have a financial incentive not to
+Page 11 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 12 ---
+negotiate the Program Fee. The portion of the Program Fee paid
+to your financial advisor is at the discretion of Edward Jones. The
+fee rate paid to your financial advisor will be the same regardless
+of the Account Portfolio Objective or Goal Portfolio Objective (if
+applicable) you select. As a result, your financial advisor does not
+have a financial incentive to recommend one Account or Goal
+Portfolio Objective over another. Your financial advisor does not
+receive a portion of the Platform Fee.
+Similarly, the Program Fee rate paid to your financial advisor will
+be the same regardless of the investment advisory program in
+which you invest. As a result, your financial advisor does not
+have a financial incentive to recommend Guided Solutions Fund
+over another investment advisory program.
+The amount of your financial advisor’s compensation may be
+more or less than what he or she would receive if you had a
+brokerage account instead of a Guided Solutions Fund account.
+If you purchased investments through Edward Jones as a
+broker-dealer, you would pay sales charges or commissions, a
+portion of which would be paid to your financial advisor. A
+financial advisor will typically earn more in upfront fees and
+commissions when you use brokerage services. In the
+alternative, a financial advisor will typically earn more over time if
+you invest in Guided Solutions Fund. This creates a financial
+incentive for your financial advisor to recommend Guided
+Solutions Fund instead of brokerage services.
+Edward Jones will receive revenue as a result of you taking
+advances under the Reserve Line, which is based on the amount
+of the Reserve Line advance. The larger the amount of the
+Reserve Line Advance, the more revenue Edward Jones
+receives. In addition, your financial advisor may also receive
+compensation in connection with Reserve Line Advances
+depending on the profitability of your financial advisor’s branch.
+As a result of the foregoing, there is a material conflict of interest
+between you and us in connection with the Reserve Line, which
+we address through disclosure in this Brochure and which you
+are deemed to consent to by taking a Reserve Line Advance.
+For example, if you take out or maintain a Reserve Line Advance
+rather than withdraw money from your Guided Solutions Fund
+account, we retain the Guided Solutions Fund Fee that such
+assets are otherwise generating and receive revenue from the
+Lender. The Lender also receives revenue in the form of interest
+payable on the Reserve Line Advance. Depending on your
+specific circumstances, including the intended duration of the
+advance under the Reserve Line and the return on your account,
+over the long term it may cost you more to take out the Reserve
+Line Advance than if you had pursued an alternative financing
+option or liquidated securities and withdrawn the sale proceeds
+from your account. You are responsible for determining whether a
+Reserve Line is appropriate for your liquidity needs, the
+acceptability of the lending terms, and potential adverse tax or
+other consequences for you. You are encouraged to carefully
+consider the total cost of taking out an advance under the
+Reserve Line, and any additional compensation to us or your
+financial advisor or the Lender, when determining to take out and/
+or maintain a Reserve Line Advance.
+> edwardjones.com
+The Program Fee, as well as assets under care and Reserve
+Line Advance balances, will impact most financial advisors’
+eligibility for a bonus and bonus amount. The Program Fee, as
+well as assets under care and client Reserve Line Advance
+balances, may also impact a financial advisors’ eligibility for the
+receipt of certain limited partnership profits interest in The Jones
+Financial Companies, L.L.L.P. (the “Profits Interest”). This
+eligibility to receive bonus, bonus amounts, and/or certain Profits
+Interest creates a conflict of interest in that your financial advisor
+has an incentive to recommend you invest in an investment
+advisory account(s).
+Most financial advisors are eligible to participate in the Edward
+Jones Travel Award Program (“Travel Award Program”), which
+includes domestic and international travel, or a cash award in lieu
+of a trip. Eligibility for the Travel Award Program is based upon
+the amount of new and existing assets under care of a financial
+advisor which creates an additional conflict of interest.
+These financial incentives create a conflict between Edward
+Jones’ interest, your financial advisor’s interest, and your own.
+We address these conflicts of interest through disclosures you
+will receive at or before the time of your financial advisor’s
+recommendations to you. Additionally, financial advisors are
+subject to training, supervision, regulatory requirements, and
+internal policies and controls that are reasonably designed so
+that clients are recommended only those products and services
+that are appropriate in light of their financial circumstances.
+For further information on compensation and conflicts of interest,
+please see the “Understanding how we are compensated for
+financial services” document found at edwardjones.com/
+compensation.
+Comparing Costs, Expenses and Services
+The Program Fee is a fee for investment advisory services as
+described above under “The Program Fee” and the Platform Fee is
+a fee for platform support services as described above under
+“Platform Fee.” Guided Solutions Fund may cost you more or less
+than purchasing these services separately, depending on the costs
+of the services if provided separately, the size of your account, the
+amount of cash in your account, and the trading activity in your
+account and the corresponding brokerage commissions that would
+be charged if you bought and sold individual securities in a
+brokerage account.
+You can choose to forgo the services of Guided Solutions Fund
+and buy and sell securities through Edward Jones as a broker-
+dealer or through other brokers or agents not affiliated with
+Edward Jones (although you would not receive the benefits of the
+program described in this Brochure).
+We have provided you with materials that explain our brokerage
+and investment advisory services, including our Client
+Relationship Summary (“CRS”) brochure. Copies are available
+from your financial advisor upon request of our CRS is available
+at www.edwardjones.com/regbidisclosures, as well as a copy of
+our educational resource the “Making Good Choices” brochure.
+Page 12 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 13 ---
+Item 5: Account Requirements and Types
+of Clients
+Your initial investment in a Guided Solutions Fund account must
+generally be at least $5,000, except for Benefit Plan and Zero
+Minimum accounts. There is no minimum initial investment
+requirement for Benefit Plan or Zero Minimum accounts.
+The total value of your account is monitored by Edward Jones. If
+the value of your account falls significantly (for example, a
+balance of $2,000 or below), we may, in our discretion, remove
+your account from Guided Solutions Fund. This is also applicable
+to Benefit Plan and Zero Minimum accounts with an account
+balance that has reached or exceeded $5,000. Minimum account
+values do not apply to Edward Jones associates, their spouses
+or dependent children.
+Edward Jones offers clients a wide range of financial services.
+Guided Solutions Fund may not be appropriate for every client or
+every account type. Generally, Guided Solutions Fund is
+available only to residents or entities of the United States and
+certain U.S. territories with the following types of accounts:
+individual; joint; trusts; charitable organizations; corporations and
+other business entities; traditional IRAs and Roth IRAs; and
+Benefit Plans.
+Edward Jones can prohibit any person or entity from investing or
+remaining in Guided Solutions Fund for any reason, including if
+we do not believe it is an appropriate investment strategy for that
+person or entity. As a general rule, you should intend to invest in
+Guided Solutions Fund for a minimum of three (3) years.
+Mutual fund shares held in your Guided Solutions Fund account
+may accumulate and be used to satisfy a letter of intent (“LOI”)
+associated with multiple Edward Jones brokerage accounts.
+However, if a brokerage account transferring into Guided Solutions
+Fund is the only account where the LOI can be met, Edward Jones
+can terminate your LOI and sell a portion of your position to adjust
+the commission paid in your brokerage account before the transfer
+of your assets into Guided Solutions Fund. Assets in your Guided
+Solutions Fund account will not be used to pay any adjustment(s)
+that apply in the event you fail to satisfy the LOI.
+If you request a transfer of securities from your Guided Solutions
+Fund account to another Edward Jones account or a third-party
+account, you authorize Edward Jones to transfer the mutual fund
+shares in-kind without converting the shares into a different share
+class. In the event of a transfer of mutual funds and/or fund share
+classes that cannot be held outside of your Guided Solutions
+Fund account, Edward Jones will: (a) convert the mutual fund
+shares into a different share class before the shares transfer;
+and/or, (b) liquidate the mutual fund shares and transfer cash.
+Edward Jones follows the instructions of mutual fund companies
+to convert the shares to a different share class, or liquidate the
+shares, when transferring mutual funds. Conversions could result
+in higher or lower fees and/or expenses than those paid under
+the previous share class and liquidations may cause a taxable
+event.
+> edwardjones.com
+Item 6: Guided Solutions Fund Investment
+Selection and Evaluation
+Guided Solutions Fund is a client-directed wrap fee program
+sponsored by Edward Jones. No third-party investment advisers,
+no related persons or Edward Jones-supervised persons serve
+as portfolio managers in Guided Solutions Fund. In consultation
+with your Edward Jones financial advisor, you will select your
+Account Portfolio Objective and Goal Portfolio Objective (if
+applicable) and Eligible Investments for your account. For more
+information, see Item 4.
+Performance-Based Fees and Side-by-Side
+Management
+This section does not apply to Edward Jones.
+Methods of Analysis, Investment Strategies and
+Risk of Loss
+Edward Jones selects the Eligible Investments available in
+Guided Solutions Fund based on numerous quantitative and
+qualitative factors, each of which may be given different weight in
+the decision-making process, and generally no one factor
+determines the outcome of any selection.
+The processes we use to select and monitor affiliated mutual
+funds are different from the processes we apply to unaffiliated
+mutual funds and other Program Eligible Investments.
+In selecting and monitoring sub-advisers for our affiliated mutual
+funds, the investment adviser, which is affiliated with Edward
+Jones, follows a process that is similar, but not identical, to the
+process that we use to evaluate unaffiliated mutual funds and
+other Program Investments. This process includes quantitative
+and qualitative analysis, including, but not limited to, an
+evaluation of the investment process, consistency, portfolio
+composition, strategies employed, risk management, team depth,
+quality and experience, operations and compliance of the
+sub-adviser. The evaluation process includes review of literature
+and documents, quantitative historical performance evaluation
+and discussions with members of the investment team and
+Edward Jones management. None of the sub-advisers are
+affiliated with Edward Jones.
+Eligible Investments (other than affiliated mutual funds) undergo
+periodic review by Edward Jones to determine if they remain
+suitable for Guided Solutions Fund. An Eligible Investment can
+be re-categorized from an Eligible Investment to an Ineligible
+Investment for a variety of reasons, including, but not limited to,
+the following:
+•
+Inconsistency with Edward Jones’ investment philosophy
+•
+Regulatory concerns
+•
+Termination of an agreement with a mutual fund company
+•
+Lack of ongoing financial information
+•
+A decision by Edward Jones to reduce the overall ownership
+level of a fund
+Depending on market volatility, your account will sometimes
+Page 13 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 14 ---
+depart from the Target Ranges for your Account Portfolio
+Objective. Different asset classes will perform better than others,
+resulting in an asset allocation that may have more or less risk
+than you may want. In order to keep your account in alignment
+with the Target Ranges for your Account Portfolio Objective, you
+should monitor this and you may realign your account if it has
+deviated significantly from the Target Ranges for your Account
+Portfolio Objective.
+Guided Solutions Fund accounts will be automatically rebalanced
+by Edward Jones on an annual basis to restore your account to
+its Target Allocations of Eligible Investments, except as otherwise
+set forth in this Brochure. For more information on account
+rebalancing, see Item 4.
+The objective of investing in a variety of Eligible Investments in
+various types of asset classes allocated in the Target Ranges is
+to construct a portfolio designed to experience less volatility and
+show more consistent performance over time. There is no
+guarantee that this goal will be achieved.
+Risk of Loss
+All investment strategies and investments involve risk, and the
+value of your account will fluctuate. As a result, your account may
+be worth more or less than the amount of money you invested.
+Past performance does not guarantee future results, and there is
+no guarantee that your Account Portfolio Objective or Goal
+Portfolio Objective (if applicable) will be achieved.
+Each Eligible Investment will fluctuate in value and, when sold,
+may be worth more or less than the original cost to purchase.
+Diversification does not guarantee a profit or protect against loss.
+You should consider the investment objectives, strategies, risks,
+fees and expenses, and past performance of each Eligible
+Investment before deciding to invest in Guided Solutions Fund.
+Additionally, you may also invest in certain investments that
+employ non-traditional strategies. Such investments may hold
+non-traditional investments or use complex investment and trading
+strategies. Investments that utilize derivatives or leverage, as an
+example, can be complex and increase the risk of volatility and
+loss of investment. Other potential risks may include, but are not
+limited to: the investment performs in a manner that is difficult to
+understand relative to traditional investments; lack of liquidity;
+credit risk; counterparty risk; and adverse tax consequences. Such
+investments contain unique characteristics and risks. Refer, as
+applicable, to the fund prospectus and other fund documents that
+describe risks specific to each fund. Information about each
+Eligible Investment can be obtained from your financial advisor.
+Implementing an ESG or values-based investing approach, which
+helps align your portfolio with your personal values by excluding
+certain investments or targeting issues that are important to you,
+has potential risks and trade-offs. Such investments may value
+nonfinancial goals more than financial returns. Additionally, while
+segments of the market or investments that engage in certain
+business practices can be excluded with an ESG or values-based
+investing approach, introducing such exclusions or focusing on a
+narrow area of the market can decrease your portfolio’s
+> edwardjones.com
+diversification and materially impact its risk and return. Companies
+also may not operate as expected or fail to meet the desired ESG
+or value-based characteristics over time.
+Depending on the Eligible Investments you select, your account
+may also be subject to the following risks:
+Concentration Risk. An account with a limited number of
+Eligible Investments may experience more volatility than a more
+diversified account with a larger number of Eligible Investments.
+Mutual Funds Risk. Mutual funds are diversified, professionally
+managed portfolios of securities that pool the assets of
+individuals and organizations to invest toward a common
+objective such as current income or long-term growth. Mutual
+funds are subject to investment advisory, transactional, operating
+and other expenses. Each mutual fund is subject to specific risks
+depending on its investments. The value of mutual funds’
+investments and the NAV of the funds’ shares will fluctuate in
+response to changes in market and economic conditions, as well
+as the financial condition and prospects of companies and other
+investments in which the funds invest. The performance of a
+mutual fund will depend on whether the fund’s investment adviser
+is successful in pursuing the fund’s investment strategy. Mutual
+funds that use ESG or values-based strategies may forgo certain
+investment opportunities available to strategies that do not use
+such criteria and therefore create a risk of underperforming when
+compared against other strategies. The fund prospectus and
+other fund documents describe the risks specific to the fund.
+Share Classes. Mutual fund investments in Guided Solutions Fund
+can have different share classes. While each share class invests in
+the same pool of investments and has the same investment
+objective, each has different internal fees and expenses. Mutual
+funds often permit the conversion of shares from one class to
+another, subject to certain conditions as determined by the mutual
+fund.
+Edward Jones considers several factors when selecting a mutual
+fund share class for Guided Solutions Fund, including, but not
+limited to, the eligibility criteria set by mutual fund companies and
+the overall cost structure of the share class. Clients should not
+assume they will be invested in the share class with the lowest
+expense ratio.
+Edward Jones generally attempts to select institutional and/or
+advisory share classes for Guided Solutions Fund, when
+available. Institutional and/or advisory shares generally do not
+impose a sales charge or ongoing Rule 12b-1 fees and, as a
+result, are usually less expensive than Class A shares.
+Other share classes, including Class A, may be utilized when no
+institutional or advisory share classes are available. Class A
+shares are typically purchased in brokerage accounts and usually
+carry an upfront sales charge and ongoing Rule 12b-1 fees. If
+Class A shares are selected in Guided Solutions Fund, the
+upfront sales charges are generally waived, but the Class A
+shares are still charged the ongoing Rule 12b-1 fees. As
+described in Item 4 above, if we receive Rule 12b-1 fees for
+shares held in your account, we will credit the amount received to
+Page 14 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 15 ---
+your account as a fee offset.
+Please refer to the appropriate prospectus and SAI for more
+information regarding the available share classes of mutual funds
+used in Guided Solutions Fund. In our sole discretion, Edward
+Jones can change the share class of any mutual fund at any time
+without prior notice to you.
+Redemptions. Edward Jones’ clients collectively own a large
+percentage of certain mutual funds that are Eligible Investments.
+Due to the significant ownership, there may be adverse
+consequences in the event that Edward Jones, as the investment
+adviser, re-categorizes a mutual fund from an Eligible Investment
+to an Ineligible Investment. If the resulting volume or size of
+redemptions directed by accounts in Guided Solutions Fund as a
+result of the re-categorization exceeds the limits set forth in the
+mutual fund’s policies and procedures, the resulting delay in
+effecting redemptions may result in accounts experiencing
+increased risk of loss. A mutual fund company can also decide to
+redeem shares “in-kind” instead of in cash. In that event, you may
+receive the actual underlying securities of the fund. The
+underlying securities could lose value before they are sold.
+Brokerage and other transaction costs will apply to the sale of the
+underlying securities. We will work with the mutual fund company
+to minimize any potential adverse impact to accounts in Guided
+Solutions Fund, but there is no assurance that you will be able to
+avoid the risk of loss and other adverse consequences.
+ETFs Risk. ETFs are typically registered investment companies
+whose shares are listed on a securities exchange. An investment
+in an ETF generally presents the same primary risks as an
+investment in a conventional mutual fund (i.e., one that is not
+exchange-traded) that has the same investment objective,
+strategies and policies. The price of an ETF can fluctuate within a
+wide range, gaining or losing value throughout the day. ETF
+performance may vary from that of its benchmark or its peers. Like
+mutual funds, ETFs are subject to investment advisory,
+transactional, operating and other expenses. Unlike mutual funds,
+shares of ETFs cannot be directly purchased from and redeemed
+by the fund. ETFs that use ESG or values-based strategies may
+forgo certain investment opportunities available to strategies that
+do not use such criteria and therefore create a risk of
+underperforming when compared against other strategies. Each
+fund’s prospectus and other fund documents describe the risks
+specific to the fund.
+Money Market Funds Risk. Money market funds are a type of
+mutual fund that invests in high-quality, short-term debt securities,
+pays dividends that generally reflect short-term interest rates and
+seeks to maintain a stable NAV per share (typically $1). An
+investment in a money market fund is not insured or guaranteed by
+the Federal Deposit Insurance Corporation or any other
+government agency. Although a money market fund is managed to
+maintain a stable NAV of $1 per share, the value of the fund may
+fluctuate, and you could lose money.
+Reserve Line Risk. Our financial advisors provide information
+and education regarding the availability of the Reserve Line.
+However, you decide whether to take Reserve Line Advances
+> edwardjones.com
+and you decide when and how to pay back any such advances.
+There are certain risks and conflicts of interest that arise when
+you take a Reserve Line Advance, including (i) the interest rate
+charged by the Lender in connection with the Reserve Line
+Advance may be higher than those charged by other lenders for
+financing and is in addition to the Guided Solutions Fund Fee; (ii)
+the Lender is permitted to modify its collateral maintenance
+requirements at any time and without providing advance written
+notice to you; (iii) the Lender may require additional collateral or
+that you repay all or a portion of a Reserve Line Advance if there
+is a decline in the market value of the securities in the account
+that was pledged as collateral; (iv) the Lender can instruct us to
+liquidate any and all of the securities in your pledged account to
+satisfy a Maintenance Call without notice to you (even if the
+Lender has already notified you and provided a date by which
+you can meet a Maintenance Call); (v) you are not entitled to an
+extension of time on a Maintenance Call; (vi) to satisfy a
+Maintenance Call, Lender may instruct us to liquidate any or all of
+the securities in a pledged account that we would otherwise not
+recommend you sell and that may not otherwise be in your best
+interest to sell; (vii) liquidation of securities to satisfy a
+Maintenance Call could result in your account being out of
+alignment with your Account Portfolio Objective and result in
+other securities being sold to bring your account back into
+alignment with your portfolio objective; (viii) the liquidation of
+securities to satisfy a Maintenance Call could have adverse tax
+consequences to you; (ix) you are not entitled to select which
+securities in a pledged account are liquidated to satisfy a
+Maintenance Call and Lender can instruct us to liquidate
+securities that you wish to retain or that have a low tax basis
+without regard to your wishes or any adverse tax consequences;
+(x) depending on market conditions, the prices obtained for the
+liquidated securities may be less than favorable and may be less
+than the value that we or you believe the securities are worth and
+may negatively impact the performance of your account and
+interrupt your investment strategy; (xi) the timing of securities
+sales in connection with a Maintenance Call will be different than
+if those securities were not used as collateral in connection with
+the Reserve Line; (xii) a situation could arise where the value of
+your account is zero and you still owe money on a Reserve Line
+Advance; (xiii) we will act as a broker dealer, and not as an
+investment adviser, in connection with a Maintenance Call (and
+our lending affiliate will act as a lender), which may be in conflict
+with your best interest and our role as an investment adviser to
+your Guided Solutions Fund account; and (xiv) you will still be
+responsible for any deficiency if the value of the assets liquidated
+is insufficient to satisfy your obligations to the Lender under the
+Reserve Line. Please see the Reserve Line Agreement for a
+discussion of risks related to utilizing the Reserve Line. Any
+action taken by us in connection with a Maintenance Call will not
+constitute a breach of our fiduciary duties as an investment
+adviser.
+Cybersecurity Risk. The computer systems, networks and
+devices used by Edward Jones and our service providers employ
+a variety of protections designed to protect against damage or
+interruption from computer viruses, network and computer
+Page 15 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 16 ---
+failures and cyberattacks. Despite such protections, systems,
+networks and devices potentially can be breached. Cyberattacks
+include, but are not limited to, gaining unauthorized access to
+digital systems for purposes of corrupting data or causing
+operational disruption, as well as denial-of-service attacks on
+websites. Cyber incidents may cause disruptions and impact
+business operations, potentially resulting in financial losses, the
+inability of Edward Jones or service providers to trade, violations
+of privacy and other laws, regulatory fines, reputational damage,
+reimbursement costs and additional compliance costs, as well as
+the inadvertent release of confidential information.
+Economic Conditions Risk. Economic, political and financial
+trends and developments may, from time to time, result in periods
+of volatility or other potentially adverse effects that could negatively
+impact your account. Domestic and international markets, including
+sectors and companies within those markets, may respond in
+significant and unforeseen ways to matters such as public health
+issues, geopolitical events, natural disasters and social unrest.
+Those matters, as well as others not listed here, may increase the
+risk to your account’s performance and cause losses.
+Voting Proxies
+When you invest in Guided Solutions Fund, you are solely
+responsible for voting proxies arising from any securities held in
+your account. Edward Jones will not take any action and will not
+render any advice regarding how to vote proxies arising from any
+securities held in your account. You may receive proxy-related
+materials and notices from Edward Jones or the applicable
+mutual fund or ETF sponsor, and you will be responsible for
+voting proxies.
+Legal Notices
+Edward Jones will not take any action or render any advice
+regarding any legal action on your behalf relating to any Eligible
+Investments or other assets held in your account (including shares
+of the Edward Jones Money Market Fund) that may become
+subject to any legal action, regulatory action, administrative action,
+class action lawsuit and/or bankruptcy. However, Edward Jones
+will promptly forward any such documents to you.
+Item 7: Client Information Provided to
+Edward Jones
+Client information provided to Edward Jones will be maintained in
+accordance with our privacy policies.
+Over time, your financial goals and objectives may change.
+Accordingly, you and your financial advisor must perform an
+annual review, as set forth in Item 9B below.
+Item 8: Client Contact with Edward Jones
+You may contact your Edward Jones financial advisor during
+normal business hours with questions regarding your account.
+> edwardjones.com
+Item 9: Additional Information
+A.  Disciplinary Information and Other Financial
+Industry Activities and Affiliations
+Disciplinary Information
+Edward Jones is a registered broker-dealer and investment
+adviser. This section contains information about certain legal and
+regulatory matters that Edward Jones believes are material to a
+client’s evaluation of our advisory business or the integrity of our
+management. Edward Jones has also been subject to various
+legal and regulatory proceedings relating to our brokerage
+business that are disclosed in Part 1 of our Form ADV, which is
+available on the SEC’s website at www.adviserinfo.sec.gov, as
+well as on FINRA’s website at www.finra.org/brokercheck.
+SEC – Municipal Bond Pricing. On August 13, 2015, Edward
+Jones, without admitting or denying the findings, entered into a
+settlement in public administrative and cease-and-desist
+proceedings with the SEC regarding certain of the firm’s
+municipal securities activities. Pursuant to the settlement, the
+SEC alleged that Edward Jones violated Sections 17(a)(2) and
+(3) of the Securities Act of 1933 (“Securities Act”), Sections
+15B(c)(1) and 15(b)(4)(E) of the Securities Exchange Act of 1934
+(“Exchange Act”), and MSRB Rules G-17, G-11(b) and (d), G 27
+and G-30(a). Edward Jones was censured and ordered to cease
+and desist from violating or causing any current and future
+violations of Sections 17(a)(2) and (3) of the Securities Act,
+Section 15B(c)(1) of the Exchange Act and MSRB Rules G-17,
+G-11, G-27 and G-30. The settlement required Edward Jones to
+pay $5,194,401.37 to current and former customers of Edward
+Jones and to pay a civil money penalty in the amount of $15
+million. In entering into the settlement, the SEC considered
+remedial acts undertaken by Edward Jones related to this matter.
+FINRA – Mutual Fund Sales Charge Waivers. On May 5, 2015,
+FINRA’s Enforcement Division advised Edward Jones that it was
+investigating whether any violations of the federal securities laws
+or rules had occurred with respect to mutual fund purchases and
+sales charge waivers for certain retirement plan and charitable
+organization accounts. Prior to being advised of the investigation,
+Edward Jones had commenced a review of this issue and
+self-reported to FINRA. On October 26, 2015, Edward Jones,
+without admitting or denying the findings, entered into a
+settlement agreement with FINRA to resolve this matter. Pursuant
+to the settlement, Edward Jones agreed to provide remediation to
+certain customers, estimated at the time of the settlement
+agreement to be approximately $13.5 million. A monetary penalty
+was not imposed by FINRA. In reaching the settlement, FINRA
+recognized the extraordinary cooperation of Edward Jones,
+including its self-reporting of the issue to FINRA.
+FINRA – Municipal Securities Transactions Below Minimum
+Denominations. On June 2, 2017, Edward Jones, without admitting
+or denying the findings, entered into a settlement agreement with
+FINRA’s Department of Market Regulation in connection with its
+investigation of possible violations of MSRB rules regarding
+transactions in certain municipal securities in amounts lower than the
+applicable minimum denominations. As part of the settlement, Edward
+Page 16 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 17 ---
+Jones agreed to pay a monetary fine of $210,000.
+FINRA – Supervision of Tools-Generated Reports. On July 13,
+2017, Edward Jones, without admitting or denying the findings,
+entered into a settlement agreement with FINRA in connection with
+its investigation of the supervision of the use and dissemination of
+reports generated through Edward Jones’ systems by financial
+advisors. FINRA expressly stated that its review of 65,000 reports
+did not reveal any instances of reports that were misleading.
+FINRA also stated that Edward Jones had made changes to
+enhance its supervisory processes. As part of the settlement,
+Edward Jones agreed to pay a monetary fine of $725,000.
+FINRA – Call Detail Records Production and Preservation. On
+December 13, 2022, Edward Jones entered into a settlement
+agreement with FINRA without admitting or denying the findings
+therein. FINRA alleged Edward Jones violated FINRA Rules
+8210(a)(1) and 2010 by (1) failing to timely, completely, and
+accurately respond to certain FINRA requests for call detail
+records that are not required broker-dealer books and records
+and (2) failing to preserve certain responsive call detail records
+during the pendency of regulatory requests. Edward Jones was
+censured, agreed to certify that it has established and
+implemented policies, procedures, processes and internal
+controls reasonably designed to address and remediate the
+issues identified by FINRA in the settlement, and agreed to pay a
+monetary fine of $1.1 million.
+State of Pennsylvania – Investment Adviser Registration. On
+January 12, 2024, Edward Jones and the Pennsylvania
+Department of Banking and Securities entered into a Consent
+Order. The Department alleged that from in or about January
+2015 through the present, Edward Jones failed to register at least
+one employee as an investment adviser representative in
+Pennsylvania in violation of Section 301(c.1)(1)(ii) of the
+Pennsylvania Securities Act of 1972 (“the 1972 Act”), 70 P.S. §
+1-301(c.1)(1)(ii). Without admitting or denying the findings in the
+Order, Edward Jones agreed to pay a monetary fine of $300,000
+and to comply with the relevant provision of the 1972 Act.
+SEC Off-Channel Communications Platforms Investigation.
+On August 14, 2024, Edward Jones entered into a settlement
+with the SEC in connection with the SEC’s industry-wide
+investigation into the preservation of electronic communications
+pursuant to applicable recordkeeping provisions of Section 17(a)
+of the Securities Exchange Act of 1934 (“Exchange Act”) and
+Section 204 of the Investment Advisers Act of 1940 (“Advisers
+Act”) and supervisory provisions of Section 15(b)(4)(E) of the
+Exchange Act and Section 203(e)(6) of the Advisers Act, and
+applicable rules thereunder. Edward Jones fully cooperated with
+the SEC’s investigation and has enhanced its policies and
+procedures concerning the use of approved communication
+methods. The settlement imposes a cease-and-desist order and
+censure, requires Edward Jones to pay a civil monetary penalty
+of $50 million, and requires Edward Jones to comply with
+undertakings including the retention of an independent
+compliance consultant to assess the firm’s policies and systems
+regarding electronic communications recordkeeping and assist
+Edward Jones in further enhancing those policies and systems.
+> edwardjones.com
+Multistate Supervision Investigation. As announced by the
+North American Securities Administrators Association (“NASAA”)
+on January 8, 2025, a coordinated investigation into Edward
+Jones’ supervision of financial advisors who serviced brokerage
+customers who hired the firm’s investment adviser to manage
+some or all of the customers’ securities investments during the
+period of approximately July 1, 2016 to June 30, 2018 (the
+“Investigation”) has been conducted by a multistate task force,
+coordinated among members of the NASAA, with Texas and
+Montana serving as the lead states for the other 48 states and 3
+U.S. territories participating in the Investigation (together the
+“Investigation Participants”). Specifically, the Investigation
+focused on whether Edward Jones had reasonably designed
+procedures to precisely apply the holding period of a Class A
+share mutual fund purchase relative to the fee offsets provided
+when brokerage clients holding these security types transferred
+to an Edward Jones advisory offering. Without admitting or
+denying the findings of facts or conclusions of law set forth in the
+orders issued by each Investigation Participant, Edward Jones
+agreed to pay each Investigation Participant $320,754.72 in
+administrative monetary fines, as well as an additional $15,000 in
+costs to certain states, that resulted in a total monetary fine of
+$17.25 million.
+Other Financial Industry Activities and Affiliations
+You should be aware that Edward Jones, our affiliates and our
+financial advisors perform services for you and other clients
+outside of Guided Solutions Fund, including the execution of
+brokerage transactions (e.g., the purchase or sale of securities or
+insurance products), research, the retail distribution of securities
+(e.g., mutual funds), the participation in principal transactions and
+certain underwritings and other investment advisory services.
+Edward Jones and our affiliates receive compensation, including
+fees and commissions, associated with these services. We have
+a financial interest in our clients’ transactions and the
+recommendations we make to clients to buy or sell securities or
+investment products.
+A conflict of interest exists where Edward Jones has an existing
+business relationship with the mutual fund families that are
+available as Eligible Investments through Guided Solutions Fund.
+Edward Jones receives revenue sharing payments from certain
+unaffiliated mutual fund families on client assets held outside of
+Edward Jones’ advisory programs. “Revenue sharing” generally
+means a mutual fund family shares with another company, like
+Edward Jones, a portion of the revenue it earns through
+managing mutual fund assets. Edward Jones’ receipt of revenue
+sharing outside of advisory programs creates a conflict of interest
+in the form of additional financial benefits to us, our financial
+advisors and equity owners. We believe that this conflict of
+interest is mitigated through internal policies designed to prevent
+Edward Jones, in our capacity as investment adviser, and any
+affiliated investment adviser, from considering revenue sharing
+from existing business relationships when selecting Eligible
+Investments for Guided Solutions Fund. Similarly, no affiliated
+investment adviser considers such business relationships or
+revenue sharing in recommending to the board of trustees of any
+Page 17 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 18 ---
+affiliated mutual fund that a sub-adviser be selected to manage
+the affiliated mutual funds.
+For more information regarding revenue sharing, please visit
+www.edwardjones.com/disclosures or request a revenue sharing
+disclosure document from your Edward Jones financial advisor.
+Edward Jones does not receive revenue sharing on assets held
+in Guided Solutions Fund accounts. Edward Jones and our
+financial advisors also receive compensation for services and
+recommendations that may differ from advice given to you while
+participating in Guided Solutions Fund.
+In our capacity as a broker-dealer, Edward Jones performs
+research and distributes recommendations to buy, sell or hold the
+equity securities of asset management companies or financial
+institutions with asset management affiliates that manage mutual
+funds designated as Eligible Investments in Guided Solutions
+Fund. In order to preserve the independence of this process and
+to address any conflicts of interest, we have adopted a policy
+under which we do not consider our opinion on equity securities
+of asset management companies or financial institutions in
+selecting mutual funds designated as Eligible Investments in
+Guided Solutions Fund. Similarly, the affiliated investment adviser
+does not consider Edward Jones’ opinion on equity securities of
+asset management companies or financial institutions when
+recommending sub-advisers to the board of trustees of an
+affiliated mutual fund.
+The following summarizes Edward Jones’ material relationships
+or arrangements with other entities that participate in the financial
+industry.
+Edward Jones, the primary operating subsidiary of JFC, is dually
+registered with the SEC as an investment adviser and broker-
+dealer, and is a member of FINRA.
+Olive Street, a wholly owned subsidiary of JFC, is registered as
+an investment adviser with the SEC and serves as the
+investment adviser of the affiliated mutual funds. Certain current
+or former associates of Edward Jones serve as officers or
+directors/ trustees of the affiliated investment adviser and/or the
+affiliated mutual funds. Appendix A contains a detailed discussion
+of our affiliation with the affiliated mutual funds.
+Edward Jones, an Ontario limited partnership (Edward Jones in
+Canada), an indirectly wholly owned subsidiary of JFC, is a
+broker-dealer registered with the Canadian Investment
+Regulatory Organization.
+EJTC, a wholly owned subsidiary of JFC, is a federally chartered
+savings and loan association that offers personal trust and
+investment management services. EJTC also acts as custodian
+for certain traditional IRAs and Roth IRAs that are participating,
+or have participated, in Guided Solutions Fund and other Edward
+Jones programs. For additional information about this
+arrangement, please see Item 4.
+Edward Jones owns directly or indirectly 100% of three insurance
+agencies that conduct insurance-related activities in the U.S.:
+Edward Jones Insurance Agency of New Mexico, L.L.C., a New
+Mexico limited liability company; Edward Jones Insurance
+Agency of Massachusetts, L.L.C., a Massachusetts limited
+> edwardjones.com
+liability company; and Edward Jones Insurance Agency of
+California, L.L.C., a California limited liability company.
+JFC indirectly owns 100% of two insurance agencies that
+conduct general insurance-related activities in Canada: Edward
+Jones Insurance Agency (Quebec) Inc., a Canadian corporation;
+and Edward Jones Insurance Agency, an Ontario, Canada,
+limited partnership.
+Edward Jones owns 7% of Customer Account Protection
+Company Holdings, Inc. (CAPCO), a captive insurance group.
+JFC indirectly owns 100% of EDJ Insurance Company, Inc., a
+Missouri captive insurance company.
+B.  Code of Ethics, Participation or Interest in
+Client Transactions and Personal Trading;
+Review of Accounts; Client Referrals and Other
+Compensation; and Financial Information
+Code of Ethics, Participation or Interest in Client
+Transactions and Personal Trading
+Edward Jones has established a Code of Ethics to ensure that
+our associates:
+•
+Act with integrity and in an ethical manner with you and all of
+our clients
+•
+Place your and all of our clients’ interests first
+•
+Conduct personal trading in compliance with our Code of
+Ethics, avoid potential conflicts of interest and make sure they
+do not abuse the faith and trust you have placed in them
+•
+Comply with all applicable rules, regulations and laws
+•
+Do not use any material nonpublic information they may
+receive as a result of their employment with Edward Jones
+Some Edward Jones associates are deemed “access persons”
+under our Code of Ethics because they may have access to
+nonpublic information regarding either the securities in a client’s
+accounts or changes to Eligible Investments, including asset
+allocations. Under our Code of Ethics, access persons must
+receive prior approval before acquiring a beneficial ownership
+interest in any security in an initial public offering, limited offering
+or hedge fund transaction. Additionally, access persons are
+required to submit to the chief compliance officer, or his or her
+delegate, a list of any securities they own and securities
+transactions they made for any account they control at Edward
+Jones or another financial institution. You may request a copy of
+the Edward Jones Code of Ethics from your financial advisor.
+As a broker-dealer, there may be times when Edward Jones will
+buy, sell or recommend that our brokerage clients who are not
+participating in Guided Solutions Fund buy securities that are
+also Eligible Investments in Guided Solutions Fund. These
+brokerage activities are done in the regular course of our
+business as a broker-dealer and are separate from our
+investment advisory services. There are times when we act as
+principal, which means we participate in client transactions by
+buying securities for our own inventory and selling those
+securities to our clients. To the extent conflicts arise under such
+transactions, Edward Jones is nevertheless obligated to execute
+Page 18 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 19 ---
+any such transaction in the manner it believes is in the client’s
+best interest.
+You should know that financial advisors, Edward Jones
+associates (including those directly involved with Guided
+Solutions Fund) and/or their family members are permitted to and
+do invest in Guided Solutions Fund. This practice could create a
+conflict of interest if associates placing trades for their own
+accounts were to place a trade before our clients and receive a
+better price on a security. To address this potential conflict, trades
+for financial advisors, Edward Jones associates (including those
+directly involved with Guided Solutions Fund) and/or their family
+members are aggregated along with other trades, which may
+include trades for your account.
+Edward Jones has internal supervisory reviews and procedures
+to review accounts held by our associates and certain family
+members and their personal trading practices. The reviews look
+for improper trading activities, including trading that may be in
+conflict with the best interests of a client. In addition to the Code
+of Ethics and the supervisory reviews, we prohibit financial
+advisors from placing trades for their personal accounts before
+trades for our clients in the same security. In the event a financial
+advisor’s personal order fills at a better price than a client’s order
+placed close in time, we will adjust the trade so the client
+receives the better price.
+Review of Accounts
+At the time your Guided Solutions Fund account is opened,
+Edward Jones’ supervisory associates will review your selected
+Account Portfolio Objective and the funding of your account. If
+you have sold investments purchased at Edward Jones in order
+to fund the account, the holding period of those investments will
+be reviewed for appropriateness. Supervisory personnel may
+also call you directly to discuss your understanding of Guided
+Solutions Fund, including the fees and expenses you are or will
+be paying.
+While you are invested in Guided Solutions Fund, Edward Jones
+will review your Target Allocations annually to determine whether
+they are in alignment with the Target Ranges or Investment
+Diagnostics for your Account Portfolio Objective and will notify
+you if they are not. If this happens, you should work with your
+financial advisor to determine what adjustments are needed to
+bring your account’s Target Allocations back into alignment. In the
+event that you do not provide instructions to bring your account
+back into alignment within a time period determined by Edward
+Jones, your account will be removed from Guided Solutions
+Fund. For more information on account alignment, see Item 4.
+In addition, you and your financial advisor must annually review
+whether there have been any changes to your financial
+circumstances including, but not limited to, your risk tolerance,
+Account Portfolio Objective and Goal Portfolio Objective
+(if applicable).
+If you decide to invest in a different Account Portfolio Objective,
+we may make recommendations to realign your account to match
+> edwardjones.com
+your new Account Portfolio Objective.
+You will receive a written account statement at least quarterly
+(monthly in months in which activity occurs in your account)
+containing a description of all activity in your account during the
+period, including all transactions, contributions, withdrawals, fees
+and the value of your account at the beginning and end of the period.
+Our review does not substitute for your own continued review and
+monitoring of your account and performance of your investments.
+You should review trade confirmations (as applicable), account
+statements and other information we send to you. Current and
+timely information about your account will be available in Edward
+Jones’ online client access system. If you have any questions,
+please discuss them with your financial advisor.
+Client Referrals and Other Compensation
+From time to time, Edward Jones and our financial advisors pay
+for client referrals and potential client leads from third parties
+(“paid solicitor arrangements”). The third parties providing the
+referrals and leads are not affiliated with Edward Jones. The
+compensation paid to third parties can include a flat-fee or
+subscription fee that is not dependent on whether a referral or
+lead becomes an Edward Jones client or an ongoing fee that is
+stated as a percentage of the Guided Solutions Fund Fee or the
+fee of other advisory programs offered at Edward Jones
+(collectively referred to as “Edward Jones Advisory Program”),
+which is dependent upon the referral or lead becoming a client in
+an Edward Jones Advisory Program. Edward Jones enters into
+written agreements with such third parties governing the paid
+solicitor arrangements. Paid solicitor arrangements create a
+conflict of interest as the third party has an incentive to
+recommend prospects engage with an Edward Jones financial
+advisor and, where the third party compensation is dependent
+upon the client enrolling in an Edward Jones Advisory Program,
+the third party has an incentive to recommend the prospect enroll
+in an Edward Jones Advisory Program.
+In addition to the paid solicitor arrangements disclosed above,
+from time to time, our financial advisors receive uncompensated
+referrals from other professionals or clients. Our financial
+advisors also may provide uncompensated referrals to other
+professionals. Other than in connection with Edward Jones
+approved solicitor arrangements, Edward Jones policy prohibits
+financial advisors from purchasing or providing any
+compensation, cash or non-cash, directly or indirectly, in
+exchange for appointments or referrals. The purchase of lists
+(such as mailing or calling lists), by Edward Jones and our
+financial advisors, from third parties does not involve solicitation
+or referrals to Edward Jones.
+From time to time, affiliates of Edward Jones may make and/or
+maintain investments in other firms, including financial services
+firms, that we utilize, in part, to deliver the service offerings of an
+Edward Jones Advisory Program. Such investments in these
+firms by our affiliates may influence our decision to incorporate
+such product or service offering into an Edward Jones Advisory
+Program.
+Page 19 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 20 ---
+> edwardjones.com
+Edward Jones has contracted with Broadridge Investor
+Communications Solutions, Inc. (“Broadridge”), an unaffiliated
+third-party vendor, to distribute proxies, periodic reports and
+voting instruction information to our clients. Pursuant to the
+agreement between Edward Jones and Broadridge, and in
+accordance with regulations, Broadridge charges the issuing
+company on behalf of Edward Jones for these services. Edward
+Jones receives from Broadridge a portion of the fees paid by the
+issuing company.
+Certain unaffiliated mutual fund companies and/or ETF sponsors
+(or their investment advisers) with mutual funds and/or ETFs on
+the list of Eligible Investments pay certain expenses on behalf of
+financial advisors, including training and educational expenses,
+and in some instances make payments directly to Edward Jones
+to subsidize training and educational costs for financial advisors.
+These companies also participate in conferences or other
+marketing activities with Edward Jones and generally share in the
+cost of those activities. Edward Jones has not entered into any
+agreement with any ETF, mutual fund, or its investment adviser
+or its distributors or affiliates providing for payment of such
+expenses as a condition of inclusion on the list of Eligible
+Investments or the selection of a sub-adviser for affiliated mutual
+funds. Our financial advisors are not allowed to consider an
+advisory product partner’s sponsorship of a marketing activity
+when choosing which Eligible Investments to suggest to you.
+Financial Information
+This section does not apply to Edward Jones.
+Item 10: Requirements for State-Registered
+Advisers
+This section does not apply to Edward Jones.
+Page 20 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD
+--- PDF PAGE 21 ---
+> edwardjones.com
+Appendix A
+Disclosures Regarding Affiliated Money Market Fund and Mutual Funds
+Edward Jones Money Market Fund. Your Guided Solutions
+Fund account may from time to time be invested in shares of the
+Edward Jones Money Market Fund (the “Money Market Fund”),
+which is advised by Olive Street Investment Advisers, LLC (“Olive
+Street”), an affiliate of Edward Jones. Olive Street receives a
+management fee of 0.20% of average net assets of the Money
+Market Fund, less any fees paid to its sub-adviser.
+The Money Market Fund declares dividends daily and pays them
+monthly to shareholders. Whether a dividend is accrued for a
+shareholder on a particular day is based on the Money Market
+Fund’s current yield and the size of the shareholder’s investment
+in the Money Market Fund. If a shareholder’s investment in the
+Money Market Fund is not large enough to result in a dividend of
+at least half a penny on a particular day, no dividend is accrued
+for the shareholder for that day. This fraction of a penny is not
+credited to the shareholder’s account nor is it aggregated with
+past or future unpaid fractions of a penny when determining
+whether a shareholder’s daily dividend equals at least a half
+penny on a particular day. Rather, this fraction of a penny is
+retained by the Money Market Fund as part of its overall fund
+assets, which are used to determine the Money Market Fund’s
+daily dividend calculation to all shareholders.
+The Money Market Fund pays a Rule 12b-1 fee of up to 0.25% of
+average net assets to Edward Jones for providing distribution and
+shareholder services to shareholders of the Money Market Fund’s
+Investment Shares and Retirement Shares, and an Administrative
+Shareholder Service Fee up to 0.15% of average net assets to
+Edward Jones for providing administrative services, including
+banking administrative services and sweep administrative services,
+to shareholders. Edward Jones provides distribution services,
+shareholder services, administrative services, and transfer agent
+services to the Money Market Fund and the accounts that our
+clients maintain in the Money Market Fund.
+For any Guided Solutions Fund account investing in the Money
+Market Fund, Edward Jones or an affiliate will apply a fee offset
+equal to the amount of the Money Market Revenue received by
+Edward Jones or an affiliate, with respect to such account.
+Please review the current summary prospectus for the Money
+Market Fund, which describes the investment characteristics of
+the Money Market Fund and the fees paid to Olive Street by the
+Money Market Fund. The prospectus also describes certain
+revenue received by Edward Jones in connection with the Money
+Market Fund.
+Bridge Builder Mutual Funds. You may choose to invest in
+shares of the Bridge Builder Mutual Funds (“Bridge Builder
+Funds”), which are also advised by Olive Street, an affiliate of
+Edward Jones. Bridge Builder Funds are sub-advised by multiple
+sub-advisers that are unaffiliated with us. If your account invests
+in a Bridge Builder Fund, Olive Street charges the fund a
+management fee which the fund pays directly to the fund’s
+sub-advisers. Olive Street has entered into an agreement with
+each Bridge Builder Fund to waive its management fees to the
+extent management fees charged by Olive Street exceed the
+management fees the fund is required to pay a fund’s sub-
+advisers (i.e., as a result of its waivers, Olive Street does not
+receive any management fees from a fund). The waiver
+agreement can only be terminated as described in the fund’s
+registration statement.
+Please review the current summary prospectus for each of the
+relevant Bridge Builder Funds, which describes the investment
+characteristics of the fund, risks of the fund, and the fees charged
+by Olive Street to the fund. Certain Bridge Builder Funds are only
+available in taxable accounts.
+Page 21 of 21 IAS-10458Z-A-PB REV. MAY 2025 © 2025 EDWARD D. JONES & CO., L.P. ALL RIGHTS RESERVED. AECSPAD

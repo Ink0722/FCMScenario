@@ -1,0 +1,33 @@
+{
+  "case": 12,
+  "method": "栏目与条款范围映射；未声称整本原件或逐句翻译验收",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "第一部分　第三方付款服务登记及授权条款",
+      "source_ids": [],
+      "source_locator": "",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 2,
+      "heading": "第二部分　贷款机构付款资料",
+      "source_ids": [
+        "3",
+        "4"
+      ],
+      "source_locator": "General Payment FAQ全部业务问答；Flexible Payments产品正文",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 3,
+      "heading": "本次账户资料及办理记录",
+      "source_ids": [],
+      "source_locator": "tools/account_record.txt；具体参数来源及研究设定见Notes",
+      "text_status": "research account record"
+    }
+  ],
+  "limitations": [
+    "第三方服务未取得原始完整合同；对应文本为基于公开机制的研究模拟"
+  ]
+}

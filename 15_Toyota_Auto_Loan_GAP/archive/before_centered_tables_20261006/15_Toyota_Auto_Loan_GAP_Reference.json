@@ -1,0 +1,428 @@
+{
+  "case_folder": "15_Toyota_Auto_Loan_GAP",
+  "title": "车辆余额差额保障协议及汽车保险资料",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "15_Toyota_Auto_Loan_GAP_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "第一部分　保障余额差额计划协议及披露",
+        "source_ids": [
+          "2"
+        ],
+        "locator": "NFCU 23A(8-26) PDF第1—2页全部业务条款；机构称谓匿名化"
+      },
+      {
+        "heading": "第二部分　加州汽车保险指南",
+        "source_ids": [
+          "4"
+        ],
+        "locator": "CDI Automobile Insurance PDF第2—9页，按原栏目顺序"
+      },
+      {
+        "heading": "本次账户资料及办理记录",
+        "source_ids": [],
+        "locator": "tools/account_record.txt；具体参数来源及研究设定见Notes"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": "参考PDF只排产品协议、公开披露和指南；任务、账户条件、实验控制及历史事件对照置于Material。所有判定依据保留在Notes。",
+  "content_sha256": "321fb9226b3fc6b46b34fef9af75eaba90d2abb63a8e7cd8d65b12f5631afe96",
+  "sections": [
+    {
+      "id": "S001",
+      "heading": "第一部分　保障余额差额计划协议及披露",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "15-01",
+      "line": 4,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S002",
+      "heading": "定义",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "15-01",
+      "line": 10,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S003",
+      "heading": "一般条款",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "15-01",
+      "line": 24,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S004",
+      "heading": "除外事项及限制",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "15-01",
+      "line": 39,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S005",
+      "heading": "示例一",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "15-01",
+      "line": 45,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S006",
+      "heading": "示例二",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "15-01",
+      "line": 48,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S007",
+      "heading": "保障事件后的贷款状态",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "15-01",
+      "line": 50,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S008",
+      "heading": "联系项目",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "15-01",
+      "line": 53,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S009",
+      "heading": "第二部分　加州汽车保险指南",
+      "source_ids": [
+        "4"
+      ],
+      "document_id": "15-02",
+      "line": 57,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S010",
+      "heading": "汽车保险简介",
+      "source_ids": [
+        "4"
+      ],
+      "document_id": "15-02",
+      "line": 59,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S011",
+      "heading": "加利福尼亚州法律",
+      "source_ids": [
+        "4"
+      ],
+      "document_id": "15-02",
+      "line": 61,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S012",
+      "heading": "你的汽车保单",
+      "source_ids": [
+        "4"
+      ],
+      "document_id": "15-02",
+      "line": 63,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S013",
+      "heading": "了解你的权利",
+      "source_ids": [
+        "4"
+      ],
+      "document_id": "15-02",
+      "line": 66,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S014",
+      "heading": "汽车保险费用",
+      "source_ids": [
+        "4"
+      ],
+      "document_id": "15-02",
+      "line": 69,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S015",
+      "heading": "责任保障与加州法律",
+      "source_ids": [
+        "4"
+      ],
+      "document_id": "15-02",
+      "line": 76,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S016",
+      "heading": "其他保障选项",
+      "source_ids": [
+        "4"
+      ],
+      "document_id": "15-02",
+      "line": 83,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S017",
+      "heading": "购买汽车保险",
+      "source_ids": [
+        "4"
+      ],
+      "document_id": "15-02",
+      "line": 100,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S018",
+      "heading": "填写申请",
+      "source_ids": [
+        "4"
+      ],
+      "document_id": "15-02",
+      "line": 104,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S019",
+      "heading": "与代理人或经纪人合作",
+      "source_ids": [
+        "4"
+      ],
+      "document_id": "15-02",
+      "line": 108,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S020",
+      "heading": "发生事故",
+      "source_ids": [
+        "4"
+      ],
+      "document_id": "15-02",
+      "line": 111,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S021",
+      "heading": "加州低成本汽车保险项目（CLCA）",
+      "source_ids": [
+        "4"
+      ],
+      "document_id": "15-02",
+      "line": 116,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S022",
+      "heading": "高风险驾驶记录与CAARP",
+      "source_ids": [
+        "4"
+      ],
+      "document_id": "15-02",
+      "line": 119,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S023",
+      "heading": "常用术语",
+      "source_ids": [
+        "4"
+      ],
+      "document_id": "15-02",
+      "line": 121,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S024",
+      "heading": "资源与投诉",
+      "source_ids": [
+        "4"
+      ],
+      "document_id": "15-02",
+      "line": 134,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    }
+  ],
+  "research_settings": {
+    "file": "tools/account_record.txt",
+    "section": "本次账户资料及办理记录",
+    "provenance": "案例参数、补充产品机制及研究控制的区别见Notes",
+    "sha256": "96f9af7178525848afcf0e008a7e11d1ed801fdd27f385217a9ac34b0d806fad"
+  },
+  "rendering": "native_xelatex",
+  "pages": 9,
+  "qa_status": "text_and_layout_checked",
+  "material_sha256": "a4999bb3a0644b02b16eb74d29774ef4e2af863fbf2d11e4f61a14a5fcd3b997",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "15-01",
+      "title": "余额差额保障计划协议及披露",
+      "pdf": "15_Toyota_Auto_Loan_GAP_Reference_01.pdf",
+      "content_source": "15_Toyota_Auto_Loan_GAP_Reference.txt",
+      "start_line": 3,
+      "end_line": 56,
+      "leading_source_heading": "第一部分　保障余额差额计划协议及披露",
+      "headings": {
+        "第一部分　保障余额差额计划协议及披露": {
+          "level": 2
+        },
+        "定义": {
+          "level": 2
+        },
+        "一般条款": {
+          "level": 2
+        },
+        "除外事项及限制": {
+          "level": 2
+        },
+        "示例一": {
+          "level": 2
+        },
+        "示例二": {
+          "level": 2
+        },
+        "保障事件后的贷款状态": {
+          "level": 2
+        },
+        "联系项目": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "2"
+      ],
+      "content_sha256": "a8c358dc5c1e8f3ca3115bea23d5d9c8025551ae12f8d72d21fd1311dd40d047",
+      "pages": 3,
+      "pdf_sha256": "ddb8083427d394e9b55d0d2f8ea6d5a114ff7e16e0365e4b0cfbbfc53fdad131",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": []
+    },
+    {
+      "document_number": "02",
+      "document_id": "15-02",
+      "title": "加州汽车保险指南",
+      "pdf": "15_Toyota_Auto_Loan_GAP_Reference_02.pdf",
+      "content_source": "15_Toyota_Auto_Loan_GAP_Reference.txt",
+      "start_line": 56,
+      "end_line": 140,
+      "leading_source_heading": "第二部分　加州汽车保险指南",
+      "headings": {
+        "第二部分　加州汽车保险指南": {
+          "level": 2
+        },
+        "汽车保险简介": {
+          "level": 2
+        },
+        "加利福尼亚州法律": {
+          "level": 2
+        },
+        "你的汽车保单": {
+          "level": 2
+        },
+        "了解你的权利": {
+          "level": 2
+        },
+        "汽车保险费用": {
+          "level": 2
+        },
+        "责任保障与加州法律": {
+          "level": 2
+        },
+        "其他保障选项": {
+          "level": 2
+        },
+        "保障项目汇总（原指南栏目）": {
+          "level": 2
+        },
+        "购买汽车保险": {
+          "level": 2
+        },
+        "填写申请": {
+          "level": 2
+        },
+        "与代理人或经纪人合作": {
+          "level": 2
+        },
+        "发生事故": {
+          "level": 2
+        },
+        "加州低成本汽车保险项目（CLCA）": {
+          "level": 2
+        },
+        "高风险驾驶记录与CAARP": {
+          "level": 2
+        },
+        "常用术语": {
+          "level": 2
+        },
+        "资源与投诉": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "4"
+      ],
+      "content_sha256": "8e5b79c45a3bf5d43da3be322d2f7dbf00877b34948c09e5bdb5bc17269a8806",
+      "pages": 6,
+      "pdf_sha256": "0d701a5a34f38006b79098ab0bb0b6cb701cefa580d0ec6a2bf666d130f80fb8",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": []
+    }
+  ],
+  "pdf_files": [
+    "15_Toyota_Auto_Loan_GAP_Reference_01.pdf",
+    "15_Toyota_Auto_Loan_GAP_Reference_02.pdf"
+  ],
+  "pages_definition": "各独立PDF页数之和；不存在现行合并PDF。",
+  "document_manifest": "tools/pdf_documents.json",
+  "heading_levels": 3,
+  "scenario_confirmation_location": "15_Toyota_Auto_Loan_GAP_Material.md — 场景信息／本次账户及办理条件",
+  "document_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "0f44ed1633fd591d94b6feb2f5c5df2aa7dbf79381942a469b5e82decef86b58",
+    "current_sha256": "321fb9226b3fc6b46b34fef9af75eaba90d2abb63a8e7cd8d65b12f5631afe96",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_widths": "content_adaptive",
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。"
+}

@@ -1,0 +1,43 @@
+{
+  "case": 13,
+  "pages": 7,
+  "paragraphs_checked": 92,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_layout_review": "passed",
+  "checked_date": "2026-10-06",
+  "participant_links_checked": true,
+  "source_manifest_hashes_checked": true,
+  "decision_criteria_preserved": true,
+  "material_sha256": "78cbaf3aef3077da1b62e33b1864ac78aa15e78e9b553f55c9d55db4a85ba29e",
+  "notes_sha256": "0ba4cfe2ff8c793522aad4ce90b6f0b23bb9040c8aed9f357e4718881230cac0",
+  "documents": [
+    {
+      "document_id": "13-01",
+      "pdf": "13_WellsFargo_Auto_Insurance_Overlap_Reference_01.pdf",
+      "pages": 1,
+      "text_checks": 12,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "2a6412883d8c8248999bf78834123c37b4fa1332969b2adf2311b14ea8b75ea3",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "13-02",
+      "pdf": "13_WellsFargo_Auto_Insurance_Overlap_Reference_02.pdf",
+      "pages": 6,
+      "text_checks": 80,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "c91322355045ba2a8e6b6377e222aabdfc0ccbe56f8035b4e2e16c087cbc7dc7",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 2,
+  "qa_status": "text_and_layout_checked",
+  "visual_review": "All 42 document first pages inspected; full first pages and multipage contact sheets inspected for fund prospectuses and representative tables; no overlap or clipping found.",
+  "current_report": "tools/pdf_documents_qa.json"
+}

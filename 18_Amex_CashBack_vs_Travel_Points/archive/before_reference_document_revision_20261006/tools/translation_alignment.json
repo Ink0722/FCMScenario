@@ -1,0 +1,42 @@
+{
+  "case": 18,
+  "method": "栏目与条款范围映射；未声称整本原件或逐句翻译验收",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "第一部分　消费者信用卡客户协议",
+      "source_ids": [
+        "6",
+        "7"
+      ],
+      "source_locator": "客户协议Part1—6；仲裁、账单权利、军事借贷及口译栏目；报价附录按本次确认适配",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 2,
+      "heading": "第二部分　日常返现卡奖励附录",
+      "source_ids": [
+        "2"
+      ],
+      "source_locator": "产品条款Part2各栏目；不采用新户优惠",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 3,
+      "heading": "第三部分　分类积分卡奖励附录",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "产品条款Part2各栏目；不采用新户优惠",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 4,
+      "heading": "本次账户资料及办理记录",
+      "source_ids": [],
+      "source_locator": "tools/account_record.txt；具体参数来源及研究设定见Notes",
+      "text_status": "research account record"
+    }
+  ],
+  "limitations": []
+}

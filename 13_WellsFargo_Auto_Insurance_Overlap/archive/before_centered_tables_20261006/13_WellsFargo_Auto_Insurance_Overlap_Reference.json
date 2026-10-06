@@ -1,0 +1,396 @@
+{
+  "case_folder": "13_WellsFargo_Auto_Insurance_Overlap",
+  "title": "汽车保险及贷款机构保障资料",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "13_WellsFargo_Auto_Insurance_Overlap_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "第一部分　贷款机构安排的车辆保障",
+        "source_ids": [
+          "4",
+          "3"
+        ],
+        "locator": "Chase What is force-placed auto insurance产品正文；CFPB强制投保问答"
+      },
+      {
+        "heading": "第二部分　加州汽车保险指南",
+        "source_ids": [
+          "5"
+        ],
+        "locator": "CDI Automobile Insurance PDF第2—9页，按原栏目顺序"
+      },
+      {
+        "heading": "本次账户资料及办理记录",
+        "source_ids": [],
+        "locator": "tools/account_record.txt；具体参数来源及研究设定见Notes"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": "参考PDF只排产品协议、公开披露和指南；任务、账户条件、实验控制及历史事件对照置于Material。所有判定依据保留在Notes。",
+  "content_sha256": "5c3be227efd55162c81f0f8d61b2494cdef3771780f4868a2522dea9510a905f",
+  "sections": [
+    {
+      "id": "S001",
+      "heading": "第一部分　贷款机构安排的车辆保障",
+      "source_ids": [
+        "3",
+        "4"
+      ],
+      "document_id": "13-01",
+      "line": 4,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S002",
+      "heading": "理解贷款机构购入的保障",
+      "source_ids": [
+        "3",
+        "4"
+      ],
+      "document_id": "13-01",
+      "line": 6,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S003",
+      "heading": "保单承保什么",
+      "source_ids": [
+        "3",
+        "4"
+      ],
+      "document_id": "13-01",
+      "line": 10,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S004",
+      "heading": "如何移除保障",
+      "source_ids": [
+        "3",
+        "4"
+      ],
+      "document_id": "13-01",
+      "line": 14,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S005",
+      "heading": "保持保险记录更新",
+      "source_ids": [
+        "3",
+        "4"
+      ],
+      "document_id": "13-01",
+      "line": 16,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S006",
+      "heading": "第二部分　加州汽车保险指南",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "13-02",
+      "line": 19,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S007",
+      "heading": "汽车保险简介",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "13-02",
+      "line": 21,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S008",
+      "heading": "加利福尼亚州法律",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "13-02",
+      "line": 23,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S009",
+      "heading": "你的汽车保单",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "13-02",
+      "line": 25,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S010",
+      "heading": "了解你的权利",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "13-02",
+      "line": 28,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S011",
+      "heading": "汽车保险费用",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "13-02",
+      "line": 31,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S012",
+      "heading": "责任保障与加州法律",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "13-02",
+      "line": 38,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S013",
+      "heading": "其他保障选项",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "13-02",
+      "line": 45,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S014",
+      "heading": "购买汽车保险",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "13-02",
+      "line": 62,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S015",
+      "heading": "填写申请",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "13-02",
+      "line": 66,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S016",
+      "heading": "与代理人或经纪人合作",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "13-02",
+      "line": 70,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S017",
+      "heading": "发生事故",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "13-02",
+      "line": 73,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S018",
+      "heading": "加州低成本汽车保险项目（CLCA）",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "13-02",
+      "line": 78,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S019",
+      "heading": "高风险驾驶记录与CAARP",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "13-02",
+      "line": 81,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S020",
+      "heading": "常用术语",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "13-02",
+      "line": 83,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S021",
+      "heading": "资源与投诉",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "13-02",
+      "line": 96,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    }
+  ],
+  "research_settings": {
+    "file": "tools/account_record.txt",
+    "section": "本次账户资料及办理记录",
+    "provenance": "案例参数、补充产品机制及研究控制的区别见Notes",
+    "sha256": "0a00fa52827db09bd472c518dc88327e87d37dd7e997a14082b473488981bd79"
+  },
+  "rendering": "native_xelatex",
+  "pages": 7,
+  "qa_status": "text_and_layout_checked",
+  "material_sha256": "2ffe8b40494760b8115a9b039705a31b12e2c6a7163bf194841dcf6ccf3a558d",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "13-01",
+      "title": "贷款机构安排的车辆保障资料",
+      "pdf": "13_WellsFargo_Auto_Insurance_Overlap_Reference_01.pdf",
+      "content_source": "13_WellsFargo_Auto_Insurance_Overlap_Reference.txt",
+      "start_line": 3,
+      "end_line": 18,
+      "leading_source_heading": "第一部分　贷款机构安排的车辆保障",
+      "headings": {
+        "第一部分　贷款机构安排的车辆保障": {
+          "level": 2
+        },
+        "理解贷款机构购入的保障": {
+          "level": 2
+        },
+        "保单承保什么": {
+          "level": 2
+        },
+        "如何移除保障": {
+          "level": 2
+        },
+        "保持保险记录更新": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "3",
+        "4"
+      ],
+      "content_sha256": "df88d2fe4ca3e0f2c50e5aa1c01448b550321be70310a991e5b9ac22f88a8119",
+      "pages": 1,
+      "pdf_sha256": "2a6412883d8c8248999bf78834123c37b4fa1332969b2adf2311b14ea8b75ea3",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": []
+    },
+    {
+      "document_number": "02",
+      "document_id": "13-02",
+      "title": "加州汽车保险指南",
+      "pdf": "13_WellsFargo_Auto_Insurance_Overlap_Reference_02.pdf",
+      "content_source": "13_WellsFargo_Auto_Insurance_Overlap_Reference.txt",
+      "start_line": 18,
+      "end_line": 102,
+      "leading_source_heading": "第二部分　加州汽车保险指南",
+      "headings": {
+        "第二部分　加州汽车保险指南": {
+          "level": 2
+        },
+        "汽车保险简介": {
+          "level": 2
+        },
+        "加利福尼亚州法律": {
+          "level": 2
+        },
+        "你的汽车保单": {
+          "level": 2
+        },
+        "了解你的权利": {
+          "level": 2
+        },
+        "汽车保险费用": {
+          "level": 2
+        },
+        "责任保障与加州法律": {
+          "level": 2
+        },
+        "其他保障选项": {
+          "level": 2
+        },
+        "保障项目汇总（原指南栏目）": {
+          "level": 2
+        },
+        "购买汽车保险": {
+          "level": 2
+        },
+        "填写申请": {
+          "level": 2
+        },
+        "与代理人或经纪人合作": {
+          "level": 2
+        },
+        "发生事故": {
+          "level": 2
+        },
+        "加州低成本汽车保险项目（CLCA）": {
+          "level": 2
+        },
+        "高风险驾驶记录与CAARP": {
+          "level": 2
+        },
+        "常用术语": {
+          "level": 2
+        },
+        "资源与投诉": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "5"
+      ],
+      "content_sha256": "8e5b79c45a3bf5d43da3be322d2f7dbf00877b34948c09e5bdb5bc17269a8806",
+      "pages": 6,
+      "pdf_sha256": "c91322355045ba2a8e6b6377e222aabdfc0ccbe56f8035b4e2e16c087cbc7dc7",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": []
+    }
+  ],
+  "pdf_files": [
+    "13_WellsFargo_Auto_Insurance_Overlap_Reference_01.pdf",
+    "13_WellsFargo_Auto_Insurance_Overlap_Reference_02.pdf"
+  ],
+  "pages_definition": "各独立PDF页数之和；不存在现行合并PDF。",
+  "document_manifest": "tools/pdf_documents.json",
+  "heading_levels": 3,
+  "scenario_confirmation_location": "13_WellsFargo_Auto_Insurance_Overlap_Material.md — 场景信息／本次账户及办理条件",
+  "document_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "b3bc6213603ab41d382ef1d41c61cf9c9344d5e8c75257b28cf68ad097d62ddf",
+    "current_sha256": "5c3be227efd55162c81f0f8d61b2494cdef3771780f4868a2522dea9510a905f",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_widths": "content_adaptive",
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。"
+}

@@ -1,0 +1,32 @@
+{
+  "case": 19,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "19-01",
+      "pdf": "19_LendingClub_Debt_Consolidation_Reference_01.pdf",
+      "pages": 2,
+      "text_checks": 18,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "5f2dc294e21a3051a6559e61f6909796e6f0423089b4f46d1489d2aa2c6fd236",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "19-02",
+      "pdf": "19_LendingClub_Debt_Consolidation_Reference_02.pdf",
+      "pages": 7,
+      "text_checks": 105,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "96114e93fbf9aea3ef5a9f0f5e8287b81e6e2ffb1922bad84a03700534c27c13",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked",
+  "checked_date": "2026-10-06",
+  "visual_review": "All 42 document first pages inspected; full first pages and multipage contact sheets inspected for fund prospectuses and representative tables; no overlap or clipping found.",
+  "archive": "archive/before_reference_document_revision_20261006"
+}

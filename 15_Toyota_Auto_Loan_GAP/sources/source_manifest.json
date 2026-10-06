@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "title": "CFPB，Toyota Motor Credit 2023年执法公告",
+    "url": "https://www.consumerfinance.gov/archive/newsroom/cfpb-orders-toyota-motor-credit-to-pay-60-million-for-illegal-lending-and-credit-reporting-misconduct/",
+    "resolved_url": "https://www.consumerfinance.gov/archive/newsroom/cfpb-orders-toyota-motor-credit-to-pay-60-million-for-illegal-lending-and-credit-reporting-misconduct/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_01.html",
+    "bytes": 157749,
+    "sha256": "78c3ac406f4a01aee67d612ab84f968bd165d3223a0c170c33b6812b7cb69b88",
+    "status": "downloaded"
+  },
+  {
+    "id": "2",
+    "title": "Navy Federal，Guaranteed Asset Protection Plan Agreement and Disclosure，NFCU 23A（8-26）",
+    "url": "https://www.navyfederal.org/content/dam/nfculibs/pdfs/loans/nfcu_23a.pdf",
+    "resolved_url": "https://www.navyfederal.org/content/dam/nfculibs/pdfs/loans/nfcu_23a.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_02.pdf",
+    "bytes": 65626,
+    "sha256": "252b3cbe38d91c16453799c67d0c0ac9b4f7aed4504bbe14a7fa0665d1176c78",
+    "status": "downloaded"
+  },
+  {
+    "id": "3",
+    "title": "Navy Federal，GAP产品说明及499美元费用",
+    "url": "https://www.navyfederal.org/loans-cards/auto-loans/auto-resources/gap.html",
+    "resolved_url": "https://www.navyfederal.org/loans-cards/auto-loans/auto-resources/gap.html",
+    "retrieved_date": "2026-10-06",
+    "file": "source_03.html",
+    "bytes": 130698,
+    "sha256": "7bca9e1b11a7ba15ebc434348884f7c5e0f5425f68e3fdcaf6ecc51a0cac4b9c",
+    "status": "downloaded"
+  },
+  {
+    "id": "4",
+    "title": "California Automobile Insurance Guide",
+    "url": "https://www.insurance.ca.gov/01-consumers/105-type/95-guides/01-auto/upload/IG-Auto-Insurance-Updated-020525.pdf",
+    "resolved_url": "https://www.insurance.ca.gov/01-consumers/105-type/95-guides/01-auto/upload/IG-Auto-Insurance-Updated-020525.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_04.pdf",
+    "bytes": 1129600,
+    "sha256": "3d3c1dfaa3ca3bca2cf3f46abfe1c6ffc164d17f4674f90b2099b30b52111eb1",
+    "status": "downloaded"
+  }
+]

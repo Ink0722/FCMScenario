@@ -1,0 +1,53 @@
+{
+  "case": 19,
+  "pages": 11,
+  "paragraphs_checked": 147,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_layout_review": "passed",
+  "checked_date": "2026-10-06",
+  "participant_links_checked": true,
+  "source_manifest_hashes_checked": true,
+  "decision_criteria_preserved": true,
+  "material_sha256": "245285c907a8ca36152dbe99676e0ee6cfdafd56c18270cf85a94146b07945b1",
+  "notes_sha256": "cb7670489f04ee59c02723f60264ae28ca24be2cd373a398a0ab463ede8dd8e6",
+  "documents": [
+    {
+      "document_id": "19-01",
+      "pdf": "19_LendingClub_Debt_Consolidation_Reference_01.pdf",
+      "pages": 2,
+      "text_checks": 18,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "51fa404d94c7682af29e95ae906686c5fa08cef7585cd243e92a4f9ca17e8267",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "19-02",
+      "pdf": "19_LendingClub_Debt_Consolidation_Reference_02.pdf",
+      "pages": 7,
+      "text_checks": 105,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "12ef315ed50f36189cc755565877f4ad9b8ef3906c687423757da77d44e9117e",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "19-03",
+      "pdf": "19_LendingClub_Debt_Consolidation_Reference_03.pdf",
+      "pages": 2,
+      "text_checks": 24,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "5e3de8ce62422de47e5494c081bd6c32752b7d16a269a74a9c05ccb376bf2ca4",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 3,
+  "qa_status": "text_and_layout_checked",
+  "visual_review": "All document first pages inspected; selected multipage documents inspected through contact sheets; no clipping or overlapping text detected.",
+  "current_report": "tools/pdf_documents_qa.json"
+}

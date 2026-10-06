@@ -1,0 +1,228 @@
+{
+  "case_number": "20",
+  "case_name": "现金账户：银行存款还是政府货币基金",
+  "scenario_id": "S-RSV-CASH-01",
+  "style": "hierarchical_native_pdf_v1",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "20-01",
+      "title": "银行存款归集项目披露",
+      "pdf": "20_Reserve_Cash_Sweep_vs_Money_Fund_Reference_01.pdf",
+      "content_source": "20_Reserve_Cash_Sweep_vs_Money_Fund_Reference.txt",
+      "start_line": 3,
+      "end_line": 108,
+      "leading_source_heading": "第一部分　银行存款归集项目披露",
+      "headings": {
+        "第一部分　银行存款归集项目披露": {
+          "level": 2
+        },
+        "定义": {
+          "level": 2
+        },
+        "概述": {
+          "level": 2
+        },
+        "项目运作——存款": {
+          "level": 2
+        },
+        "最高存款限额": {
+          "level": 2
+        },
+        "提款": {
+          "level": 2
+        },
+        "利息入账": {
+          "level": 2
+        },
+        "存款保险限额变更": {
+          "level": 2
+        },
+        "所有权记录": {
+          "level": 2
+        },
+        "参与银行": {
+          "level": 2
+        },
+        "银行状态": {
+          "level": 2
+        },
+        "账户银行清单": {
+          "level": 2
+        },
+        "新账户": {
+          "level": 2
+        },
+        "现有账户转入归集项目": {
+          "level": 2
+        },
+        "已采用项目的账户": {
+          "level": 2
+        },
+        "客户发起清单变更": {
+          "level": 2
+        },
+        "银行加入及退出": {
+          "level": 2
+        },
+        "银行状态变更": {
+          "level": 2
+        },
+        "其他项目变更": {
+          "level": 2
+        },
+        "现金余额的访问": {
+          "level": 2
+        },
+        "存款账户": {
+          "level": 2
+        },
+        "报表及确认": {
+          "level": 2
+        },
+        "货币基金溢出": {
+          "level": 2
+        },
+        "银行存款利率": {
+          "level": 2
+        },
+        "溢出基金收益": {
+          "level": 2
+        },
+        "FDIC保险及SIPC保护": {
+          "level": 2
+        },
+        "平台与其他机构的关系": {
+          "level": 2
+        },
+        "平台与其他机构取得的利益": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "8"
+      ],
+      "content_sha256": "de7210299fb56ce1b78fca8dcf6fd4e8558a240b5b299d5eed32f6caed659a4b",
+      "pages": 6,
+      "pdf_sha256": "485f6abeabb38b3cd96bc62d40620994c511d02d7b6ac93d31d72cc8713877e2",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    },
+    {
+      "document_number": "02",
+      "document_id": "20-02",
+      "title": "政府货币市场基金招募说明书",
+      "pdf": "20_Reserve_Cash_Sweep_vs_Money_Fund_Reference_02.pdf",
+      "content_source": "20_Reserve_Cash_Sweep_vs_Money_Fund_Reference.txt",
+      "start_line": 108,
+      "end_line": 222,
+      "leading_source_heading": "第二部分　政府货币市场基金招募说明书",
+      "headings": {
+        "第二部分　政府货币市场基金招募说明书": {
+          "level": 2
+        },
+        "投资目标": {
+          "level": 2
+        },
+        "费用表": {
+          "level": 2
+        },
+        "主要投资策略": {
+          "level": 2
+        },
+        "主要风险": {
+          "level": 2
+        },
+        "业绩": {
+          "level": 2
+        },
+        "顾问、交易及税务": {
+          "level": 2
+        },
+        "投资详情": {
+          "level": 2
+        },
+        "基本政策与份额估值": {
+          "level": 2
+        },
+        "买卖份额的一般事项": {
+          "level": 2
+        },
+        "买入": {
+          "level": 2
+        },
+        "卖出": {
+          "level": 2
+        },
+        "赎回支付政策": {
+          "level": 2
+        },
+        "份额转换": {
+          "level": 2
+        },
+        "账户功能与政策": {
+          "level": 2
+        },
+        "股息及资本收益分配": {
+          "level": 2
+        },
+        "税务后果": {
+          "level": 2
+        },
+        "基金管理": {
+          "level": 2
+        },
+        "分销": {
+          "level": 2
+        },
+        "财务摘要": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "431ef0b398fdbf49aab77234da05feb988bbca06aac8d8f0d8dbcf4f4a3cfe9f",
+      "pages": 6,
+      "pdf_sha256": "71904ba075127cd637378900774a841800984cc25aab3354aad09f51403f4807",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    },
+    {
+      "document_number": "03",
+      "document_id": "20-03",
+      "title": "本次账户资料及办理记录",
+      "pdf": "20_Reserve_Cash_Sweep_vs_Money_Fund_Reference_03.pdf",
+      "content_source": "20_Reserve_Cash_Sweep_vs_Money_Fund_Reference.txt",
+      "start_line": 222,
+      "end_line": 283,
+      "leading_source_heading": "本次账户资料及办理记录",
+      "headings": {
+        "本次账户资料及办理记录": {
+          "level": 2
+        },
+        "A：银行存款归集": {
+          "level": 2
+        },
+        "B：政府货币市场基金": {
+          "level": 2
+        },
+        "资产及事件": {
+          "level": 2
+        },
+        "当时的处理记录": {
+          "level": 2
+        },
+        "办理确认事项": {
+          "level": 2
+        }
+      },
+      "source_ids": [],
+      "content_sha256": "c7bc7a8bfdd3ebfdf36ddf7715f8f68ba3a56ce1f4a51c50aeace6b6dbd78042",
+      "pages": 2,
+      "pdf_sha256": "fbd04f9511543c3da034fd3b224ac8872f972c546279ae49db8ab6ed40fb31cc",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    }
+  ]
+}

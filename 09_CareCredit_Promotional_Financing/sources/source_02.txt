@@ -1,0 +1,1734 @@
+
+--- PDF PAGE 1 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 1 of 29
+UNITED STATES OF AMERICA
+CONSUMER FINANCIAL PROTECTION BUREAU
+ADMINISTRATIVE PROCEEDING
+File No. 2013-CFPB-0009
+In the Matter of
+CONSENT ORDER
+GE Capital Retail Bank,
+CareCredit LLC
+The Consumer Financial Protection Bureau has reviewed the business practices of GE
+Capital Retail Bank (the Bank) and its affiliate CareCredit LLC (CareCredit) (collectively,
+Respondent) relating to its health-care credit-card program operating under the CareCredit name,
+and has identified violations of sections 1031 and 1036 of the Consumer Financial Protection Act of
+2010 (CFPA), 12 U.S.C. §§ 5531, 5536. Under sections 1053 and 1055 of the CFPA, 12 U.S.C. §§
+5563, 5565, the Bureau issues this consent order (Order).
+I
+JURISDICTION
+1. The Bureau has jurisdiction over this matter under sections 1053 and 1055 of the
+CFPA, 12 U.S.C. §§ 5563, 5565.
+II
+STIPULATION
+2. Respondent has executed a "Stipulation and Consent to the Issuance of a Consent
+Order," dated December 6, 2013 (Stipulation), which is incorporated by reference and is accepted by
+the Bureau. By this Stipulation, Respondent has consented to the issuance of this Order by the
+I
+--- PDF PAGE 2 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 2 of 29
+Bureau under sections 1053 and 1055 of the CFPA, 12 U.S. C. §§ 5563, 5565, without admitting or
+denying any of the below findings of fact or conclusions of law, except that Respondent admits that
+the Bureau has jurisdiction over it and the subject matter of this action.
+III
+DEFINITIONS
+For purposes of this Order, the following definitions shall apply:
+3. "CareCredit Card" shall mean the consumer credit card issued and marketed by
+Respondent primarily for health-care services, including dental, veterinarian, cosmetic, vision, and
+audiology services, that may be used by consumers only with Enrolled Providers.
+4. "Effective Date" shall mean the date on which the Order is entered.
+5. "Enrolled Provider" shall mean any provider that has a contract with Respondent
+permitting it to accept CareCredit Cards as financing for services offered to consumers.
+6. "Termination Date" shall mean the date by which the redress process described in
+Section V(B) below shall terminate, which shall be 18 months after the Effective Date.
+7. "Respondent" shall mean GE Capital Retail Bank and its affiliate, CareCredit LLC.
+IV
+FINDINGS AND CONCLUSIONS
+The Bureau finds the following:
+8. T he Bank, formerly known as GE Money Bank, is a federally-chartered savings
+association, and CareCredit is a California limited-liability company; both are indirect subsidiaries of
+General Electric Capital Corporation (GE Capital).
+9. Respondent issues the CareCredit Card, which is marketed primarily for health-care
+services, including dental, veterinarian, cosmetic, vision, and audiology services. The CareCredit
+Card is a "consumer financial product or service" as that term is defined in section 1 002(5) of the
+2
+--- PDF PAGE 3 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 3 of 29
+CFPA. 12 U.S.C. § 5481(5).
+10. Respondent is a "covered person" as that term is defined in section 1002(6) of the
+CFPA. 12 U.S.C. § 5481 (6).
+11. The Bank is an insured depository institution with assets greater than
+$10,000,000,000 within the meaning of 12 U.S.C. § 5515(a).
+A. CareCredit Card Financing Options
+12. Consumers can use the CareCredit Card only with Enrolled Providers. Enrolled
+Providers offer consumers the CareCredit Card to finance the cost of health-care services. Dental
+practices comprise approximately 55 percent of Respondent's CareCredit business.
+13. Respondent has approximately 175,000 Enrolled Prm·iders and approximately
+4,100,000 active CareCredit cardholders.
+14. From 2009 through the E ffective Date, Respondent provided two types of financing
+options for the CareCredit Card, which Respondent described in marketing materials as:
+a. " o Interest if Paid in Full Within 6, 12, 18, or 2-t months" (the Promotional
+Option); and
+b. "14.9 percent . APR and Fixed Monthly Payments Required Until Paid in
+F ull" on qualifying purchases made with the CareCredit Card (the Fi.;.;:ed
+Payment Option).
+15. The Promotional Option is for a defined period. If the consumer does not pay the
+original balance in full within the promotional period, Respondent charges 26.99 percent interest on
+the consumer's declining balance from the date of the consumer's original purchase. A 26.99 percent
+interest rate then applies to the account balance going forward. This type of financing arrangement
+is typically called a deferred-interest promotion.
+16. Approximately 85 percent of CareCredit consumers choose the Promotional Option
+3
+--- PDF PAGE 4 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 4 of 29
+over the Fixed Payment Option.
+17. Consumers apply for and open a CareCredit Card through one of two channels: the
+"Prm·ider Channel" and the "Consumer Channel."
+18. \\!hen consumers open a CareCredit Card through the Consumer Channel, they do
+so online, often at their own homes, and they typically are not billed for dental or other health-care
+services at the same time as card enrollment. These consumers receive their initial disclosures
+directly from Respondent.
+19. When consumers open a CareCredit Card through the Provider Channel, they apply
+for and enroll in the card in an Enrolled Provider's office. E nrolled Providers give consumers
+application materials, convey information about the CareCredit Card, and facilitate the submission
+of the application to Respondent. .Aside from the printed application and other written disclosures,
+which arc prepared by Respondent, any additional information the consumer receives regarding the
+card's terms typically comes from an Enrolled Provider's staff member, such as an office manager or
+receptionist. Consumers open the card and are billed for their dental or other health-care setYices
+that are typically performed at that time or shortly thereafter. Respondent promptly issues payment
+to the Enrolled Provider for the services charged to the CareCredit Card.
+B. Insufficient Training and Monitoring of the Provider Channel
+20. The Bureau's investigation determined that in some cases Respondent insufficiently
+trained Enrolled Providers on delivering material information to consumers about the Promotional
+Option's terms. In some cases, Respondent also failed to sufficiently monitor Enrolled Providers'
+compliance with Respondent's policies and the law.
+21. The Bureau's investigation found that in some instances, by virtue of the facts
+described in Paragraph 20, Enrolled P roviders and their office staff impro perly completed
+CareCredit Card application information and submitted the application on behalf of consumers.
+4
+--- PDF PAGE 5 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 5 of 29
+Some Enrolled Providers com·eyed the terms of the Promotional Option to consumers orally,
+sometimes incorrecdy. For example, contrary to Respondent's policies, some Enrolled Providers:
+a. told consumers that the CareCredit Card was "interest free for 12 months,"
+as opposed to being a deferred-interest promotion; and
+b. failed to provide consumers with the proper written disclosures or otherwise
+inform consumers that the interest rate would be 26.99 percent at the end of
+the promotional period.
+22. Some consumers did not receive the written disclosures creditors are required to
+provide before account opening under Regulation Z, 12 C.F.R. § 1026.5, 1026.6.
+23. Even if a consumer enrolling in the Promotional Option through the Pro,·ider
+Channel received proper, written disclosures, some Enrolled Providers, contrary to Respondent's
+policies, orally provided contradictory or misleading information about the card, causing consumers
+to misunderstand the Promotional Option.
+C. Insufficient Materials
+24. In addition, where the E nrolled Providers provided incorrect information to
+consumers, the consumer-facing materials that Respondent prm·ided to its Enrolled Providers were
+not adequate to counteract the effects o f the incorrect information that consumers received, such as
+a clear explanation that the 26.99 percent interest would accrue from the date of purchase and be
+charged to the consumer's account if the original balance was not paid within the promotional
+period.
+25. The consumer-facing materials used by Respondent to explain the card's terms,
+coupled with the lack of sufficient procedures to ensure that the Enrolled Providers adequately
+communicated those terms to consumers, resulted in certain consumers misunderstanding the card's
+terms and the steps to take to avoid deferred interest, penalties, and fees.
+5
+--- PDF PAGE 6 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 6 of 29
+26. Some consumers who enrolled in Respondent's Promotional O ption through d1e
+Provider Channel paid deferred interest because they lacked information about the terms of the
+CareCredit Card.
+27. Accordingly, some consumers incurred substantial debt that was cosdy,
+unanticipated, and not reasonably avoidable.
+D . Unfair and Deceptive Practices in Respondent's Provider Channel
+28. As described above, Respondent's failure to adequately train and monitor all
+Enrolled Providers, and Respondent's failure to ensure that material disseminated by the Enrolled
+Providers was capable of counteracting erroneous information given to consumers, caused
+substantial injury to consumers that was not reasonably avoidable, and was not out weighed by
+countervailing benefits to consumers or to competition. These practices therefore violated section
+1031(c)(1) of the CFPA's prohibition on unfair acts or practices. 12 U.S.C. §§ 5531, 5536(a)(1)(B).
+By virtue of these facts, Respondent engaged in these unfair acts or practices.
+29. r\s described above, certain Enrolled Providers, in offering Respondent's CareCredit
+Card to consumers, (i) told consumers that the CareCredit Card's Promotional Option was a " no-
+interest" credit card railier ilian a deferred-interest card, and (ii) failed to inform consumers selecting
+the Promotional Option that interest would accrue at a rate of 26.99 percent from the date of
+purchase if the balance was not paid before the promotional period ended. These were material
+misrepresentations and omissions of fact, likely to mislead consumers, and constituted deceptive and
+misleading statements and practices in violation of section 1031 (a)(1) of the CFPA's prohibition on
+deceptive acts or practices. 12 U.S.C. §§ 5531, 5536(a)(1)(B). Respondent's operation of the Provider
+Channel resulted in these deceptive and misleading acts and practices.
+6
+--- PDF PAGE 7 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 7 of 29
+v
+ORDER
+IT IS H ERE BY ORDERED that Respondent shall cease and desist the unfair and
+deceptive acts or practices described above and shall take affirmative actions set forth below in
+Paragraphs 30 through 51 and described in A ttachments A-1 through A-5, which constitutes the
+Remedial Monitoring Plan.
+IT IS H EREBY ORDERED that Respondent shall, within the timeframes set forth
+below, implement the following Remedial Monitoring Plan to prevent further violations of sections
+1031 and 1036 of the CFPA, 12 U.S.C. §§ 5531,5536 (the prohibitions o n deceptive and unfair acts
+or practices).
+IT IS H EREBY ORDERED that Respo ndent shall set aside $27,700,000 in a
+Reimbursement Fund to be distributed to consumers in the Appeal Group and the D eferred
+Interest Group, as set forth below in P aragraphs 52 through 55, in the manner set forth in
+Paragraphs 56 through 83, with any remaining funds to be used by the Bureau in its sole discretion
+for such eguitable relief or to be transferred to the United States Treasury. Respondent shall also set
+aside an Auxiliary Fund in the amount of $6,400,000 for the same purpose, except that any
+remaining funds shall return to Respondent.
+IT IS H E REBY ORDERED that Respondent shall bear all costs related to the Remedial
+Monitoring Plan, Reimbursement Fund, Auxiliary Pund, and Credit Bureau Rehabilitation Plan set
+forth below in Section V(A)-(B).
+A. Rem edial Monitoring Plan
+T ransparency Principles
+30. Respondent's E nrolled Provider contracts shall include "Transparency Principles,"
+(Attachment A-1 ), reguiring that E nrolled Providers accurately describe the terms of the CareCredit
+7
+--- PDF PAGE 8 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 8 of 29
+Card to consumers. \'\fith.in 60 days from the E ffective Date, Respondent shall submit to the Bureau
+for approval a cover letter to Enrolled Providers .indicating that the Transparency Principles will
+become a material part of the contract with the Enrolled Provider and that continued participation
+in the CareCred.it Card program, .including acceptance of CareCredit Cards as payment, will
+constitute consent by the Enrolled Provider to the terms of the Transparency Principles. Within 60
+days of Bureau approval, Respondent shall send the Bureau-approved cover letter with the
+Transparency Principles to Enrolled Providers.
+Charges in Advance of Treatment
+31. Respondent's E nrolled Provider contracts shall prohibit charges for services not yet
+rendered, unless those services (i) include orthodontic services, or are custom products ordered by
+the consumer, or (ii) are intended to be and are completed, or out-of-pocket costs incurred, within
+30 days of the applicable charge. For all services other than those in (i) above, if services are not
+completed within 30 days, the consum er is entitled to a refund or account credit for all such services
+not yet completed.
+Charges in the Provider Channel over $1,000
+32. For any consumer who wishes to submit a new CareCredit application for dental or
+audiology charges over $1,000, the Enrolled Provider will require the consumer to apply directly
+with Respondent and will provide the consumer with a toll-free number for that purpose. This
+requirement shall not apply to (i) transactions that occur more than three days after an application is
+completed in the Provider Channel, (ii) applications in the Provider Channel other than for dental
+and audiology services, or ( iii) applications completed in the Consumer Channel. Respondent will
+provide the toll-free number to Enrolled Providers for this purpose within 120 days o f the Effective
+Date. During the phone application process, Respondent shall inform the consumer of the terms
+and conditions o f the financing by using an approved script, which is attached to the O rder as
+8
+--- PDF PAGE 9 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 9 of 29
+Attachment A-2. Respondent's Enrolled Provider contracts shall be amended to require this
+process. Respondent will not materially change the language of Attachment A-2 for three years
+without the Bureau's approval unless required by law, in which case Respondent shall provide at
+least 30 days advance notice to the Bureau of any anticipated change.
+33. In the event an Enrolled Provider fails to follow the procedure set forth in
+Paragraph 32 for a newly-enrolled consumer, Respondent shall provide that consumer with an
+unqualified right to reverse the covered dental or audiology transaction from his or her account,
+even if setYices are in fact rendered.
+Enhancements to Disclosures
+3-4-. \~'ithin 120 days of the Effective Date, Respondent shall include a revised cover page
+to its printed application, (.ree Attachment A-3), which is approved by the Bureau, and shall
+disseminate it to all Enrolled Providers with instructions to replace any existing applications with the
+new application. Respondent's Enrolled Provider contracts shall require Enrolled Providers to
+maintain the signature page for si..x years. For a period of three years, Respondent will not materially
+change the language in the cover page of Attachment A-3 without approval of the Bureau, unless
+required by law, in which case Respondent shall provide at least 30 days advance notice to the
+Bureau of any anticipated change. Respondent may change the annual percentage rate without the
+Bureau's approval.
+35. Additionally, within 120 days of the Effective Date, to the extent the disclosures as
+set forth in the cover page to the printed application (.ree Attachment A-3) are applicable to the
+Consumer Channel, Respondent shall use its best efforts to ensure that they arc prominently
+displayed on CareCredit's website alo ng with the application.
+Additional Enhancements
+36. Other than for consumers who incur charges dcset ibed in Paragraphs 32-33, starting
+9
+--- PDF PAGE 10 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 10 of 29
+within 90 days of the E ffective Date, Respondent shall make best efforts to call consumers within 48
+hours, and in no event longer than 72 hours (\\lelcome Call), from the submission o f any new
+CareCredit application in the Provider Channel resulting in a same-day charge on a new account.
+The Welcome Call shall provide consumers with (i) the amount of the initial transaction and how
+the consumers can find additional details about their account, (ii) notice that for the services
+charged, those services must be performed within 30 days, and (iii) for consumers who applied for
+the Promotional Option, that interest at the rate of 26.99 percent (or the applicable interest rate at
+that time) will be incurred from the date of purchase and charged if the original balance is not paid
+by the end of the promotional period. A copy of an approved script for the \X'clcome Call is
+attached to this Order as Attachment A-4.
+37. In each of the two billing statements that are sent before the end of the promotional
+period, there shall be a clear and prominent warning of the promotional period's expiration. (See
+Attachment A-5).
+38. Within 120 days of the Effective D ate, for consumers who opt out of paper billing
+statements, Respondent shall use its best efforts to send an email in each of the two billing cycles
+before the end o f the promotional period, clearly advising in the text of the email that the
+promotional period is expiring. In addition, in those same two cycles, the billing statements available
+to consumers who opt out o f paper billing statements shall be substantially similar to the statement
+set forth in Attachment A-5.
+Enrolled Provider Training
+39. Respondent shall enhance its training curriculum for Enrolled Providers, including a
+web-based training program explaining the terms and conditions of the CareCredit Card, applicable
+elements of this O rder, and the requirements of the Transparency Principles. Respondent's web-
+based training program shall prevent Enrolled Providers from skipping pages, and include post-
+10
+--- PDF PAGE 11 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 11 of 29
+training testing, which the Enrolled Provider must pass to qualify. Respondent shall provide new
+training materials, including the web-based training, to the Bureau for approval within 60 days of the
+Effective Date. Respondent shall retrain all Enrolled Providers within 18 months after the Bureau's
+approval of such training materials (Training D eadline).
+40. Respondent shall obtain a written certification or digital acknowledgement that the
+Enrolled Provider took the new training, which it shall retain for four years. Thereafter, Respondent
+shall require retraining every two years, and keep certifications or acknowledgements of such
+retraining for at least four years.
+41. For any Enrolled Provider who fails to have at least one employee complete the
+training by 30 days after the Training Deadline, Respondent shall suspend that Enrolled Provider's
+ability to process CareCredit applications until the training is completed.
+Rebates to Enrolled Providers
+42. Respondent shall not give kickbacks, rebates, compensation, or in-kind services to
+any Enrolled Provider in exchange for an Enrolled Provider's new loan volume. This prm·ision does
+not prevent Respondent from basing prospective pricing in Enrolled Provider contracts on
+historical '·olume.
+Use of Paid Endorsements
+43. Respondent shall not use any paid endorsements to professional associations in any
+consumer-facing marketing or related consumer-facing materials.
+Termination of Certain Enrolled Providers
+44. Except for Enrolled Providers described in Paragraph 45 below, Respondent shall
+terminate any Enrolled Prm·ider who has a chargeback rate of more than five percent of its
+financing transactions within a one-year period.
+45. For Enrolled Providers with fewer than 20 CareCredit transactions every SL'> months
+I I
+--- PDF PAGE 12 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 12 of 29
+and more than one chargeback in the same period, Respondent shall monitor such Enrolled
+Providers and take appropriate actions, up to and including termination, where warranted.
+46. r\s part of the annual report described in Section VI of the Order, Respondent shall
+review with the Bureau Enrolled Provider performance to determine whether additional suspensions
+or terminations are warranted based on complaints, monitoring, chargebacks, and other information.
+Prompt Complaint Resolution, Refunds, and Rescission
+47. Respondent shall use its best efforts to resolve consumer complaints within 30 days
+of the date the consumer contacts Respondent, and use its best efforts issue refunds, credits, and
+chargebacks where appropriate within 45 days of receiving a complaint. For purposes of th.is Order,
+a complaint is any CareCredit cardholder-initiated dispute about h.is or her account.
+-1-8. Respondent shall accept complaints from consumers by telephone or in writing.
+Both oral and written complaints will be used to assess and monitor Enrolled Providers' adherence
+to their CareCredit contracts, as amended by th.is Order.
+-1-9. \'\'bile a balance is being carried, Respondent will not impose fees or interes t on the
+disputed balance, or send an account to collection as a result of a consumer's failure to pay a
+disputed balance while a complaint is pending. Respondent may require any complaint to be ftled
+within 60 months of the date of the consumer's transaction, but shall not otherwise impose any time
+limits for the filing of complaints.
+50. When a consumer claims that an Enrolled Provider omitted or misrepresented the
+CareCredit Card's terms and conditions in connection with the opening of an account in the
+Provider Channel, Respondent shall require the Enrolled Provider to forward the consumer's
+signature page (see Attachment .A-3) and a signed sales receipt. If the Enrolled ProYider docs not
+forward these materials to Respondent, Respondent shall close the account, rescind the transaction,
+and charge back any amount incurred on the account. If the Enrolled Provider forwards a signature
+12
+--- PDF PAGE 13 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 13 of 29
+page (see Attachment A-3) but no sales receipt, Respondent shall refund any disputed amount
+charged to the account.
+51. Respondent agrees to maintain and to implement standardized procedures for
+tracking all complaints and, within 45 days of the Effective Date, shall provide to the Bureau a
+written description of these procedures, which will provide the basis of the complaint reporting in
+CareCredit's annual report to the Bureau, as set forth in Section VI below.
+B . Consumer Redress Process
+Consumers Eligible for Redress Process
+52. Respondent shall identify all consumers who contacted Respondent to dispute a
+charge incurred between January 1, 2009 and nine months after the Effective Date, and whose
+dispute was resolved in favor of the E nrolled Provider or Respondent. Such consumers shall include
+those who enrolled through either the Provider Channel or the Consumer Channel, and who used
+the card for any type of transaction. For purposes o f this Order, these consumers will be referred to
+as the "Appeal G roup." Consumers who are eligible for remediation under the 1\ ssurance of
+Discontinuance entered into by Respondent and the New York Attorney General o n .June 3, 2013
+(New York AOD) are not included in the Appeal Group.
+53. Respondent shall inform the Appeal Group that they are en tided to appeal
+Respondent's previous determination of their dispute and may be entided to reimbursement. The
+no tice shall explain the procedures to submit certification that the individual: (i) did not receive
+some or all of the products or services for which the individual was charged; (ii) was promised a
+credit refund by the E nrolled Provider that is not yet reflected on the individual's CareCredit
+statement; (iii) did not authorize the CareCredit application or charge; or (i,·) was not adeguately
+informed that they would owe interest if the balance was not paid in full upon expiration of the
+promotional period, the rate o f interest, or that the applicable interest accrues on the outstanding
+13
+--- PDF PAGE 14 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 14 of 29
+balance during the promotional period from the purchase date. Certifications based on disputes that
+fall outside these four categories will not be reviewed under this Order.
+54. Respondent shall identify all consumers who (i) enrolled through the Provider
+Channel, (ii) completed a deferred-interest transaction for dental or audiology services between
+January 1, 2009 and December 31, 2012, and (iii) were assessed interest on such promotion, as long
+as the interest was assessed by nine months after the Effective Date. Such consumers shall be
+identified as the "Deferred Interest Group." The Deferred Interest G roup shall not include: (i)
+consumers who initiated more than one deferred-interest transaction, where the second transaction
+occurred after the expiration o f the promotional period for the first deferred-interest transaction on
+the account; (ii) consumers whose deferred interest was charged off, waived, or not paid; (iii)
+consumers who are included in the .Appeal Group; or (iv) consumers who are eligible for
+remediation under the New York AOD.
+55. Respondent shall inform the Deferred Interest Group that they are entitled to f.t.le a
+dispute with Respondent and may be entitled to reimbursement if they were not adequately
+informed and did not understand: (i) that they would owe interest if their balance was not paid in
+full upon expiration of the promotional period; (ii) their applicable interest rate; or (iii) that the
+applicable interest rate accrues on the outstanding balance during the promotional period from the
+purchase date.
+Notification and Certification Process for Review
+56. Respondent will send Bureau-approved notices to the Appeal Group. (See
+Attachment .\ -6.) The notices shall be sent by U .S. Mail. For those consumers with open accounts
+who have elected to receive correspondence relating to their account (e.g., statements) by email,
+notices shall be also sent by email. The notices shall include:
+a. A statement that the consumer may submit a claim if one of the four
+14
+--- PDF PAGE 15 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 15 of 29
+categories identified in Paragraph 53 is applicable.
+b. A form for the consumer to complete, sign, and return, which sets forth the
+category for relief forming the basis of the claim, and the dates of the charges
+that the consumer believes were improper. The form may be submitted by
+return mail.
+c. A statement that CarcCrcdit has 30 days from receipt of the submission to
+issue reimbursement, or submit the claim to an independent adjudicator for
+review (Independent Adjudicator).
+d. A statement that the consumer must respond within 90 days of receipt for
+their appeal to be reconsidered. The statement must include an address to
+which the consumer shall send a response.
+c. A prepaid return envelope.
+f. A statement requesting the consumer's mailing address for receipt of any
+reimbursement.
+g. For mailed notifications of a claim, a statement on the outer envelope, in 16-
+point or larger red font, that the consumer may be owed money.
+Notifications of a claim made through email must include a statement in the
+subject line of the email that the consumer may be owed money. The email
+must also alert the consumer that a notice containing a prepaid return
+envelope will be mailed to the consumer.
+57. Respondent will send Bureau-approved notices to the Deferred Interest Group,
+(1\ttachmcnt .A-7). The notices shall be sent by U.S. l\Iail. For those consumers with open accounts
+who have elected to receive correspondence relating to their account (e.g., statements) by email,
+notices shall be also sent by email. T he notices shall include:
+15
+--- PDF PAGE 16 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 16 of 29
+a. A statement that the consumer may submit a claim if the categories identified
+in Paragraphs 54-55 are applicable.
+b. A form for the consumer to complete, sign, and return, which sets forth the
+dates o f the charges that the consumer believes were improper, and the basis
+for the consumer's claim that they were not adequately informed and did not
+understand: (i) that they would owe interest if their balance was not paid in
+full upon expiration of the promotional period; (ii) their applicable interest
+rate; or (iii) that the applicable interest rate accrues on the outstanding
+balance during the promotional period from the purchase date. The form
+may be submitted by return mail.
+c. A statement that CareCredit has 60 days from receipt of the reply to approve
+the consumer's entitlement to any reimbursement, or submit the claim to the
+Independent Adjudicator for review.
+d. A statement that the consumer must respond within 90 days of receipt for
+their dispute to be considered. The statement must include an address to
+which the consumer shall send a response.
+e. A prepaid return envelope.
+f. A statement requesting the consumer's mailing address for receipt of any
+reimbursement.
+g. For mailed notifications of a claim, a statement on the outer envelope, in 16-
+point or larger red font, that the consumer may be owed money.
+Notifications of a claim made through email must include a statement in the
+subject line o f the email that the consumer may be owed money. The email
+must also alert the consumer that a notice containing a prepaid return
+16
+--- PDF PAGE 17 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 17 of 29
+envelope will be sent to the consumer
+58. The Independent Adjudicator shall be agreed upon by the Bureau and Respondent
+within 60 days of the Effective D ate.
+59. Within 60 days after the agreement on the Independent Adjudicator, Respondent
+shall send the notices to consumers within the Appeal Group and Deferred Interest Group to the
+last-known address and, for consumers with open accounts who have elected to receive
+correspondence relating to their account (e.g., statements) by email, the last-known email address.
+60. If additional consumers meet the requirements to be part of the Appeal Group or
+the D eferred Interest Group after Respondent sends the initial notices to the Appeal Group and
+Deferred Interest Group, Respondent shall send additional notices in the same manner as set forth
+above on an ongoing basis to such consumers. Respondent shall use its best efforts to ensure that
+such additional notices are sent within 30 days from the date upon which the consumer meets the
+requirements to be part of the Appeal Group or Deferred Interest Group.
+61. Respondent shall make reasonable efforts to ensure the notices are received,
+including contacting the United States Post O ffice for forwarding addresses for notices returned as
+undeliverable.
+Review Process, Reimbursement Fund, and Auxiliary Fund
+62. Once a certified appeal or certified dispute (collectively, Certifications) is received
+from a consumer in either the Appeal Group or the Deferred Interest Group, Respondent shall not
+assess any interest on the disputed balance on the consumer's CareCredit Card until a decision is
+made by either Respondent or the Independent Adjudicator.
+63. Respondent shall ensure it has adequate staff to handle queries, claims, and
+Certifications pertaining to this Order.
+64. Consumers within the Appeal Group and the Deferred Interest Group include those
+17
+--- PDF PAGE 18 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 18 of 29
+with open CareCredit accounts and those with closed accounts with and without a balance.
+65. Respondent's reimbursement determinations shall include all reguested amounts that
+have not been previously reimbursed by Respondent, which shall include any interest, fees, or
+penalties paid by the consumer, and nine percent annual interest from the date of the ftrst disputed
+charge to the date reimbursement is issued. The Independent Adjudicator's reimbursement
+determinations shall include the amount of reimbursement determined to be owed, which shall
+include any interest, fees, or penalties imposed by Respondent, and nine percent annual interest
+added to the reimbursemen t amount from the date on which the Independent Adjudicator
+determines reimbursement should have been made. \X!hether made by Respondent or the
+Independent Adjudicator, reimbursement determinations will be referred to as "Reimbursement
+Awards" in this Order.
+66. Respondent shall issue Reimbursement Awards as follows:
+a. For any consumer with an open CareCredit account, Respondent shall issue a
+statement credit or send a reimbursement check made payable to the
+consumer and mailed to the consumer's address as set forth in the
+consumer's Certification;
+b. For any consumer with a closed or inactive ($0 balance) CareCredit account,
+Respondent shall send a reimbursement check made payable to the consumer
+and mailed to the consumer's address as set forth in the consumer's
+Certification;
+c. If the consumer is deceased, and the active account balance is greater than
+the Reimbursement Award, Respondent "vill provide a statement credit to
+the account; otherwise, a reimbursement check "vill be sent to the consumer's
+estate; for accounts with an estate, the Reimbursement Award will be
+18
+--- PDF PAGE 19 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 19 of 29
+determined based on the status of the estate; and
+d. With respect to any bankruptcy, estate, and accounts in litigation,
+Respondent shall make the Reimbursement .Award in accordance with
+applicable law.
+67. Within 30 days of receipt of a Certification from an Appeal Group member,
+Respondent shall either (i) issue a Reimbursement Award, or (ii) refer the consumer's Certification
+to the Independent Adjudicator to review the facts and claim set forth in the Certification for a
+decision on the appeal. The Independent Adjudicator shall use its best efforts to render a decision
+within 60 days o f the Independent Adjudicator's receipt of the Certification.
+68. After the Independent Adjudicator renders a decision, the Independent Adjudicator
+shall promptly notify Respondent of the decision. A fter learning of the Independent .Adjudicator's
+decision, Respondent shall use its best efforts to notify the Appeal Group consumer of the decision
+within 30 days. If the Independent Adjudicator determines that the consumer in the .Appeal G roup
+is entitled to a Reimbursement Award, Respondent shall send the Reimbursement Award with such
+notification.
+69. Within 60 days receipt of a Certification from a Deferred Interest Group member,
+Respondent shall either (i) make a determination to issue a Reimbursement Award, or (ii) refer the
+consumer's Certification to the Independent Adjudicator to review the facts and claims for a
+decision on the dispute. The Independent Adj udicator shall use its best efforts to render a decision
+within 60 days o f the Independent Adjudicator's receipt of the Certification.
+70. After all determinations have been made with respect to Certifications submitted by
+Ap peal Group and D eferred Interest G roup members -whether by Respondent or the Independent
+Adjudicator - Respondent shall calculate the Reimbursement Award of each Deferred Interest
+Group member in accordance with Paragraphs 65 and 76 and issue the Reimbursement Awards in
+19
+--- PDF PAGE 20 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 20 of 29
+accordance with Paragraph 66.
+71. Respondent shall continue to cooperate with the Bureau and prompdy resolve all
+consumer complaints that the Bureau submits to it, or otherwise come to its attention.
+72. All Certifications must be submitted and reviewed and all Reimbursement Awards
+made by Respondent or the Independent Adjudicator by the Termination Date.
+Reimbursement Fund and Auxiliary Fund
+73. Respondent shall set aside $27,700,000 to reimburse consumers in the r\ppea1 Group
+and the Deferred Interest Group who submit Certifications and for whom Respondent or the
+Independent Adjudicator rule in their favor (Reimbursement Fund).
+74. In addition to the Reimbursement Fund, Respondent shall set aside an additional
+$6,400,000 to reimburse consumers in the Appeal Group and the Deferred Interest Group who
+submit Certifications and for whom Respondent or the Independent Adjudicator rule in their favor
+(Auxiliary Fund). The Auxiliary Fund will be utilized only after the Reimbursement Fund is fully
+utilized.
+75. Any Reimbursement Award, whether determined by Respondent or the Independent
+Adjudicator, shall be paid to members of the r\ppeal Group within 30 days after Respondent's
+decision on the consumer Certification, or Respondent's notice of the Independent r\djudicator's
+decision on the consumer's Certification. Any Reimbursement Award, whether determined by
+Respondent or the Independent Adjudicator, shall be paid to members of the Deferred Interest
+Group by the Termination Date.
+76. If Reimbursement Awards to consumers in the Deferred Interest Group collecti,·ely
+exceed the amount of money remaining in the Reimbursement Fund and the ~ -\.uxiliary Fund, each
+consumer in the Deferred Interest Group shall receive a pro rata share of their Reimbursement
+Award.
+20
+--- PDF PAGE 21 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 21 of 29
+77. \\'ithin 30 days after the Termination Date, if the funds in the Reimbursement Fund
+are not exhausted, Respondent shall be ordered to pay to the Bureau, in the form of a wire transfer
+to the Bureau or to such agent as the Bureau may direct, and in accordance with wiring instructions
+to be provided by counsel for the Bureau, the difference between the amount of redress in the form
+of Reimbursement Awards provided to consumers in the Appeal Group and the Deferred Interest
+Group, and the amount remaining in the Reimbursement Fund (the Unused Reimbursement
+Funds). Any unused funds in the 1\uxiliary Fund shall return to Respondent.
+78. The Bureau may apply any Unused Reimbursement Funds for such other equitable
+relief, including consumer information remedies, as determined to be reasonably related to the
+violations described in Section IV of this Order. Any funds not used for such equitable relief shall
+be deposited in the United States Treasury. Respondent shall have no right to challenge any actions
+that the Bureau or its representatives may take pursuant to this paragraph.
+79. Respondent shall bear all costs, separate and apart from the amount it sets aside in
+the Reimbursement Fund and Auxiliary Fund, related to the notification, processing, and resolution
+of Certifications submitted to the Independent Adjudicator, including the cost of the Independent
+Adjudicator.
+80. The notice and claims process described in this Order is designed to fully
+compensate consumers for the violations of law cited herein. Redress provided by Respondent shall
+not limit consumers' rights.
+81. Respondent shall not attach any conditions to the reimbursement provided to
+consumers, including requiring consumers to waive any rights.
+82. In the event of any default on Respondent's obligations to make payment under this
+Order, interest, computed according to 28 U.S.C. § 1961, as amended, shall accrue on any
+outstanding amounts not paid from the date o f default to the date of payment, and shall immediately
+2 1
+--- PDF PAGE 22 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 22 of 29
+become due and payable.
+83. Except to the extent any unused funds in the Auxiliary Fund are returned to
+Respondent pursuant to Paragraph 77, Respondent shall relinquish all dominion, control, and title to
+the funds paid to the fullest extent permitted by law, and no part of the funds shall be returned to
+Respondent.
+Credit Bureau Rehabilitation Plan
+84. Within 90 days of the Effective Date, Respondent shall develop a notice and
+remediation plan for the purpose of providing credit bureau rehabilitation to certain consumers.
+This plan, which must be approved by the Bureau, shall apply to consumers who would othenvise
+have been eligible for the Deferred Interest Group except that their CareCredit accounts were
+charged o ff by Respondent and the total amount of payments on their account at time of charge off
+was less than the promotional purchase amount.
+VI
+COMPLIANCE PROVISIONS
+A. Reporting Requirements
+85. Respondent shall establish, at its own expense, a compliance monitor for the
+Consumer Redress Process (Compliance Monitor). The Compliance Monitor must be mutually
+agreed upon between the Bureau and Respondent. The Compliance Monitor shall review and verify
+tha t Respondent adheres to all aspects of the Consumer Redress Process described in Section V(B).
+86. For every si..." months after the Effective Date until the Termination Date, the
+Compliance Monitor shall prepare a detailed written report verifying Respondent's compliance with
+the Consumer Redress Process (Redress Report). The Redress Report shall also include a list of the
+consumers Respondent sent notices to, a list of consumers who submitted a Certification, whether
+each consumer received a Reimbursement Award and, if so, whether it was at the determination of
+22
+--- PDF PAGE 23 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 23 of 29
+Respondent or the Independent Adjudicator, whether the Reimbursement Award was a credit to a
+consumer's account or a cash disbursement, and whether the consumer was part of the Appeal
+Group or the Deferred Interest G roup.
+87. Within 30 days after the Termination Date and distribution of all Reimbursement
+Awards as set forth in Section V, Respondent shall submit a report to the Bureau setting forth a list
+of the consumers who submitted a Certification, whether each consumer received a Reimbursement
+r\ ward and, if so, whether it was at the determination of Respondent or the Independent
+Adjudicator, whether the Reimbursement Award was a credit to a consumer's account or a cash
+disbursement, and whether the consumer was part of the Appeal Group or the Deferred Interest
+Group. The report will provide a detailed accounting of all reimbursement to consumers and an
+accounting of funds remaining, if any, in the Reimbursement Fund, and to be paid to the Bureau as
+set forth in Paragraph 77.
+88. For each of the next three years following the Termination Date, Respondent shall
+sub mit an annual report to the Bureau describing the results of the measures that Respondent
+undertakes as set forth in Section V of this Order concerning complaint-handling, monitoring, and
+enforcement, including but not limited to information relating to termination and suspension of
+E nrolled Providers.
+89. Respondent and the Compliance Monitor shall follow a comprehensive plan that is
+designed to ensure Respondent's relevant conduct complies with all terms of the Order (Compliance
+Plan). The Compliance Plan, which must be submitted to the Bureau within 45 days o f the Effective
+Date, shall include:
+a. detailed steps for addressing each action required by this Order; and
+b. to the extent not already prescribed in this Order, specific timeframes and
+deadlines for implementation of the steps described above.
+23
+--- PDF PAGE 24 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 24 of 29
+90. The E nforcement Director, or someone acting on the Enforcement Director's
+behalf, shall have the discretion to make a determination of non-objection to the Compliance Plan
+or direct Respondent to revise it. In the event that the Enforcement Director directs Respondent to
+revise the Compliance Plan, Respondent shall make the revisions and resubmit the Compliance Plan
+to the Enforcement Director within 30 days.
+91. Upon notification that the Enforcement Director has made a determination of non-
+objection to the Compliance Plan, Respondent shall implement and adhere to the steps,
+recommendations, deadlines, and timeframes set forth in the Compliance Plan.
+92. Respondent shall no tify the Bureau of any change that may affect obligations arising
+under this Order, including but not limited to a dissolution, assignment, sale, merger, or other action
+that would result in the emergence of a successor company; the creation or dissolution of a
+subsidiary, parent, or affiliate that engages in any acts or practices subject to this O rder; the
+proposed filing of any bankruptcy or insolvency proceeding by or against Respondent; or a change
+in Respondent's name or address. To the extent any of the above described eYents will result in
+Respondent having a new name, Respondent may seck, and the Bureau agrees to consider, an
+extension of the deadlines set forth in Paragraphs 30, 32, 3-J. and 3.5.
+B. Order Distribution and Acknowledgement
+93. Within 30 days of the E ffective D ate, Respondent shall deliver a copy of this O rder
+to each of its Board members and executive o fficers, as well as to any managers, supervisors, or
+other management-level agents and representatives who have responsibilities related to the subj ect
+matter of the Order.
+9-J.. For three years from the Effective Date, Respondent shall deliver a copy of this
+O rder to any business entity resulting from any change in structure as set forth in the Reporting
+Requirements in Paragraphs 8.5-92, any future Board members and executi,·e officers, as well as to
+24
+--- PDF PAGE 25 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 25 of 29
+any managers, supervisors, or other management-level agents and representatives who will have
+responsibilities related to the subject matter of the Order before they assume their responsibilities.
+95. Respondent shall secure a signed and dated statement acknowledging receipt of a
+copy of this Order, with any electronic signatures complying with the requirements of the E-
+Sign Act, 15 U.S.C. § 7001 et seq., within 30 days of delivery, from all persons receiving a copy of this
+Order pursuant to this Section.
+C. Recordkeeping
+96. Respondent shall create and retain, for at least three years from the Effective Date,
+and make available to Bureau representatives upon request, the following business records: (i) all
+documents and records necessary to demonstrate full compliance with each provision of this Order,
+including all submissions to the Bureau; (ii) all documents and records pertaining to the Remedial
+Monitoring Plan, Reimbursement Fund, and Auxiliary Fund, as set forth in Section V above; and
+(iii) copies of all scripts used by Respondent's representatives in enrolling consumers, training
+materials, advertisements, websites, and other marketing materials relating to the CareCredit Card.
+D . Notices
+97. Unless otherwise directed in writing by a Bureau representative, Respondent shall
+provide all submissions, requests, communications, consents, or other documents relating to this
+Order in writing and by overnight courier (not the United States Postal Service) with the subject line
+of the documents beginning: In re GE Capital Retail Bank, File No. 2013-CFPB-0009, as set out
+below.
+Enforcement Director
+Consumer Financial Protection Bureau
+ATTENTION: Office of Enforcement
+1700 G Street, N.W.
+Washington, D.C. 20552
+Regional Director of Supervision,
+West Region
+25
+--- PDF PAGE 26 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 26 of 29
+Consumer Financial Protection Bureau
+301 Howard Street
+Suite 1200
+San Francisco, CA 94105.
+E. Compliance and Extensions ofTime
+98. Upon a written showing of good cause, the Enforcement Director may, in his
+discretion, modify any non-material provisions of this Order (e.g., reasonable extensions of time).
+Any such modification by the Enforcement Director shall be in writing.
+F. Role of the Board
+99. With the exception of documents required to be submitted for Bureau approval
+pursuant to Paragraphs 30, 32, 34, 39, 84, and 89, the Board shall review all material submissions
+(including plans, reports, programs, policies, and procedures) required by this Order before
+submission to the Bureau.
+100. Although this Order requires Respondent to submit certain documents for the
+review or non-objection by the Enforcement Director, the Board shall have the ultimate
+responsibility for proper and sound management of Respondent and for ensuring that Respondent
+complies with Federal consumer financial law and this Order.
+101. In each instance in this Order in which the Board is required to ensure adherence to,
+or undertake to perform certain obligations of Respondent, the Board shall:
+a. authorize and adopt such actions on behalf of Respondent as may be
+necessary for Respondent to perform its obligations and undertakings under
+the terms of this Order;
+b. require the timely reporting by Respondent management of such actions
+directed by Respondent management to be taken under the terms of this
+Order; and
+26
+--- PDF PAGE 27 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 27 of 29
+c. require corrective action be taken in a timely and appropriate manner in the
+case of any material non-compliance with such actions.
+VII
+ADMINISTRATIVE PROVISIONS
+102. Except as set forth in Paragraph 107, below, the provisions of this Order shall not
+bar, estop, or otherwise prevent the Bureau, or any o ther federal or state agency or department,
+from taking any other action against Respondent.
+103. This Order is intended to be, and shall be construed to be, a final order issued under
+12 U.S.C. § 5563(b), and expressly does not form, and may not be construed to form, a contract
+binding the Bureau or the United States.
+104. This Order shall be effective on the date of issuance, and shall remain effective and
+enforceable, except to the extent that, and until such time as, any provisions o f this Order shall have
+been amended, suspended, waived, or terminated in writing by the Bureau or its designated agent.
+105. This Order is applicable to eve17 state in the United States, except the State of ew
+York. Compliance with the New York AOD constitutes compliance with this Order with respect to
+all consumers located in and all activities conducted in the State of New York, except that the
+redress relating to the Deferred Interest Group must be conducted pursuant to this Order for
+consumers located in the State of New York.
+106. Calculation of time limitations shall run from the Effective Date and shall be based
+on calendar days, unless otherwise noted.
+107. This Order constitutes a settlement of the administrative proceeding against
+Respondent contemplated by the Bureau, based on the conduct described in Section IV (Findings
+and Conclusions) of this Order. The Bureau releases and discharges Respondent from all potential
+liability (other than as set forth in this Order) for a cease and desist or other order or civil money
+27
+--- PDF PAGE 28 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 28 of 29
+penalty that has been or might have been asserted by the Bureau based on Respondent's conduct, as
+described in Section IV of this Order, to the extent such practices occurred before the Effective
+Date and arc known to the Bureau as of the Effective Date of the Order. Notwithstanding the
+foregoing, the practices described in Section IV of this Order may be used by the Bureau in future
+enforcement actions against Respondent and its affiliates, including without limitation to establish a
+pattern or practice of violations or the continuation of a pattern or practice of violations or to
+calculate the amount of any penalty. This release shall not preclude or affect any right of the Bureau
+to determine and ensure compliance with the terms and provisions of the Order, or to seck penalties
+for any violations thereof.
+108. The provisions of this Order shall be binding upon Respondent, and if Respondent
+is disposed of, spun-off, or sold, such sale, spin-off, or disposition will be contingent upon the new
+entity or purchaser's agreement to abide by the terms of this Order and all obligations imposed on
+or undertaken by Respondent herein as long as the CareCredit Card is offered by the new entity or
+purchaser.
+109. The proYisions of this Order shall be enforceable by the Bureau. 1 \ny ''iolation of
+this Order may result in the imposition by the Bureau of the maximum amount of civil money
+penalties allowed under section 1055(c) of the CFPA, 12 U.S.C. § 5565(c).
+110. This Order, the attachments to the Order, and the accompanying Stipulation contain
+the complete agreement between the parties. No promises, representations, or warranties other than
+those set forth in this Order and the accompanying Stipulation have been made by any of the
+parties. This O rder, the Attachments, and the accompanying Stipulation supersede all prior
+communications, discussio ns, or understandings, if any, of the parties, whether oral or in writing.
+28
+--- PDF PAGE 29 ---
+2013-CFPB-0009 Document 1 Filed 12/10/2013 Page 29 of 29
+111. Nothing in this Order or the accompanying Stipulation shall be construed as
+allowing Respondent, its Board, officers, or employees to violate any law, rule, or regulation.
+IT IS SO ORDERED, this J..Q_ th day of December, 2013.
+Director
+Consumer Financial Protection Bureau
+29
+--- PDF PAGE 30 ---
+2013-CFPB-0009 Document 01-1 Filed 12/10/2013 Page 1 of 1
+Transparency Principles
+CareCredit promotes full transparency and disclosure to all applicants for its health-care financing program (the
+“CareCredit Program”). To assure that applicants are aware of several key attributes of the CareCredit
+Program, you hereby agree as follows:
+1) You will ensure that those personnel in your office who discuss the CareCredit Program with applicants take
+and pass the CareCredit training, and receive official certification by CareCredit based on its official training.
+2) You must retain each applicant’s signature page for six years from the date of the application. Failure to
+keep and, upon request, produce the signature page to CareCredit may expose your office to an automatic
+chargeback upon c o n s u m e r dispute.
+3) You or your staff must inform all CareCredit applicants of the following:
+(a) CareCredit is a credit card and is NOT an in-house credit program. CareCredit is NOT an
+interest-free credit card.
+(b) The deferred interest program carries an APR of 26.99%, which accrues on the outstanding
+balance during the promotional period from the date of the transaction. Finance charges can
+be avoided ONLY IF the promotional balance is paid off prior to the end of the promotional
+period.
+(c) Cardholder accounts should only be charged for those costs incurred or services actually
+rendered within 30 days of the charge; if services are not rendered within 30 days, the
+consumer has the right to an automatic refund from you for services not yet rendered.
+Additional services may be billed as you provide them to the consumer. These requirements
+do not apply to charges for orthodontic services or for custom products ordered by the
+consumer.
+(d) For all new in-office applications processed by providers for dental or audiology with
+initial charges over $1,000, you must require the consumer to apply directly with
+CareCredit using CareCredit’s toll-free telephone number for that purpose. This
+requirement does not apply to transactions that occur more than three days after the
+consumer completes an in-office application or where the consumer has an existing
+account. If you do not comply with this requirement, the consumer will have a right to
+reverse the charge from his or her account, even if services are rendered. If the
+consumer exercises this right, CareCredit may chargeback the transaction.
+(e) You agree to respond to inquiries from CareCredit regarding consumer complaints within 21
+days of the date of inquiry.
+4) You will maintain a fair refund policy, which CareCredit has the right to review.
+5) These program changes are designed to provide transparency for patient cardholders. CareCredit reserves
+the right to monitor your adherence to these and other CareCredit policies. Providers who violate these
+policies will be subject to chargebacks as well as to termination.
+--- PDF PAGE 31 ---
+2013-CFPB-0009 Document 01-2 Filed 12/10/2013 Page 1 of 1
+Application Call Script Proposal for Dental or Audiology Charges over $1,000 -
+CareCredit
+Thank you for calling GE Capital Retail Bank’s application phone line. By completing this process, you will be applying for
+a CareCredit credit card account.
+There are two types of CareCredit promotional options, one or both of which may be available on qualifying purchases
+made with your CareCredit credit card account, based on your provider and your purchase.
+The first option that may be available is the “Deferred Interest/No Interest If Paid In Full” promotion. If you obtain a
+Deferred Interest/No Interest If Paid in Full” promotion, interest, at the rate of 26.99%, will accrue on your outstanding
+promotional balance from the date of purchase. But this interest will not be assessed if you pay the promotional balance
+in full before the expiration of the promotional period, which may be either 6, 12, 18, or 24 months depending on
+availability. Your required minimum monthly payments may or may not pay off the entire promotional purchase before the
+end of the promotional period. This means in order to pay the promotion in full before the end of the promotional period,
+you may need to pay more than the required minimum monthly payments.
+The second option that may be available is a promotion involving a fixed 14.90% APR and fixed monthly payment
+amounts based on repayment over a 24, 36, 48 or 60 month period. Purchases of $1,000 or more may be eligible for a
+24, 36 or 48 month offer and purchases of $2,500 or more may be eligible for a 60 month offer.
+Please note that your account should only be charged for products and services that you have either received or will
+receive within 30 days of the initial charge on your account, unless you have ordered custom products.
+Please stay on the line to continue with the application process for a CareCredit credit card account.
+--- PDF PAGE 32 ---
+2013-CFPB-0009 Document 01-3 Filed 12/10/2013 Page 1 of 12
+[CareCredit Header]
+Two Types of Promotional Options May Be Available
+One or more of these promotional options may be available on qualifying purchase made with your
+CareCredit credit card account, based on your provider and your purchase.
+No Interest if Paid in Full within 6, 12, 18 or 24 Months*
+Interest at the rate of 26.99% will be charged to your account from the date of purchase if the
+promotional purchase is not paid in full within the promotional period. To avoid late fees, you must
+make your Total Minimum Monthly Payments by the due date each month. These Minimum Monthly
+Payments may or may not pay off the promotional purchase before the end of the promotional period.
+To make sure that you are not charged the interest accrued at 26.99%, you must pay the total
+promotional purchase amount with the promotional period.
+OR
+14.90% APR and Fixed Monthly Payments Required Until Paid in Full**
+Fixed monthly payment amount based on repayment over 24, 36, 48 or 60 month period. Purchases of
+$1,000 or more are eligible for a 24, 36 or 48 month offer and purchases of $2,500 or more are eligible
+for a 60 month offer.
+*, ** See Page 12 for details.
+What You Should Know When Using CareCredit
+For “No Interest if paid in full” promotions, you will have to pay interest that accrues at 26.99% from
+the date of purchase if you do not pay the full amount within the promotional period.
+Your account should only be charged for services that have been completed or that will be
+provided within 30 days of the initial charge on your account. CareCredit’s agreement with your
+provider prohibits charges for products or services that are not delivered or completed within 30 days of
+the charge, unless the charges are for custom products or orthodontic services.
+Right to Refund.* CareCredit knows that healthcare procedures can be a significant investment.
+CareCredit provides you with the right to a refund to your CareCredit account for any dental or
+audiology transaction amount greater than $1,000 if the transaction occurred within three days of the
+date your provider submitted the application. Note that exercising this right does not preclude your
+provider from directly attempting to collect payment from you for services rendered.
+* Applicable only if you applied for your CareCredit credit card account through a dental or audiology
+provider; does not apply to applications submitted directly to CareCredit via the telephone or online.
+[Application Instructions]
+--- PDF PAGE 33 ---
+APPLICATION AND CREDIT CARD
+2013-CFPB-0009 Document 01-3 Filed 12/10/2013 Page 2 of 12
+For Providers: (800) 859-9975
+AccOUNT AGReeMENT
+For Patients/Clients: (800) 365-8295
+Credit is extended by GE Capital Retail Bank
+**MARRIED WI Residents only: If you are applying for an individual account and your
+Submit by Internet: cARecreDIT.cOM
+spouse also is a WI resident, combine your and your spouse’s financial information.
+Office Merchant #
+ESTIMATED Fee $
+Signature of Provider (Please Do Not Print)
+X Date
+Pre-Approval Offer
+qAccepted qRefused Date
+______
+Photo ID verified (initial): Applicant 1st ID Type / Number
+# _______________________________________________________
+Driver’s License State Issued Federal Government
+Issuance State Exp. Date Applicant 2nd ID Type / Issuer Exp. Date
+Account #
+Authorization # or Key # Approved Credit Limit
+Provided by
+GE Capital Retail Bank:
+1. APPLICANT INFORMATION: Please tell us about yourself. Please note that you must reside in the United States and be 18 years or older to apply.
+Name (First-Middle-Last) Please Print Date of Birth / /
+Social Security Number
+- -
+Home Phone Number*
+( )
+Mailing Address Apt.# City State ZIP Cell/Other Phone Number*
+( )
+If the above address is a P.O. Box, you must provide a street address for yourself or a contact person.
+Contact Person Name Street Address (Street Name and Number)
+Your Address? Contact Person?
+City State ZIP
+Housing Information
+PARENTS/RELATIVE
+OWN RENT OTHER
+Nearest Relative Phone
+Number*
+Alimony, child support or separate maintenance income need not be included unless relied upon for credit. You may include the monthly amount that you have available to spend from your assets. **
+Monthly Net Income From All Sources
+Employer’s Phone Number*
+( ) $_____________________
+( )
+Email Address (optional)*
+*You authorize GE Capital Retail Bank (“GECRB”) to contact you at each phone number you have provided. By providing a cell phone
+number and/or email address, you agree to receive special offers, updates and account information, including text messages, from
+CareCredit, LLC, providers that accept the CareCredit credit card and GE Capital Retail Bank. Standard text messaging rates may apply.
+2. JOINT INFORMATION: An additional card will be issued to the person indicated below. The applicant (and joint applicant, if any) will be liable for all transactions made on the account including those made by any authorized user. JOINT APPLICANT: You agree that we may send notices to you and/or applicant at the applicant’s address, regardless of whether you live at that address.
+Name (First-Middle-Last) Please Print Date of Birth / /
+Social Security Number
+- -
+Home Phone Number *
+( )
+Mailing Address Apt.# City State ZIP Cell/Other Phone Number *
+( )
+If the above address is a P.O. Box, you must provide a street address for yourself or a contact person.
+Contact Person Name Street Address (Street Name and Number)
+Your Address? Contact Person?
+City State ZIP
+Housing Information
+PARENTS/RELATIVE
+OWN RENT OTHER
+Nearest Relative Phone
+Number *
+**Alimony, child support or separate maintenance income need not be included unless relied upon for credit. You may include the monthly amount that you have available to spend from your assets.
+Monthly Net Income From All Sources**
+Employer’s Phone Number *
+( )
+$_____________________
+( )
+Joint Applicant ID Type / Number
+# _____________________________________________________________
+Driver’s License State Issued Federal Government
+Issuance State Exp. Date Joint Applicant 2nd ID Type / Issuer Exp. Date
+E-Mail Address (optional)*
+*You authorize GE Capital Retail Bank (“GECRB”) to contact you at each phone number you have provided. By providing a cell phone
+number and/or email address, you agree to receive special offers, updates and account information, including text messages, from
+CareCredit, LLC, providers that accept the CareCredit credit card and GE Capital Retail Bank. Standard text messaging rates may apply.
+3. APPLICANT and JOINT APPLICANT: We need your signature(s) below.
+By applying for this account or accepting a prescreen offer, I am asking GE Capital Retail Bank (“GECRB”) to issue me a CareCredit Credit Card (the “Card”), and I agree that:
+•
+I am providing the information in this application to GECRB, CareCredit LLC, and providers that accept the Card and program sponsors. GECRB may provide information about me (even if my application is declined or my account is not opened) to CareCredit LLC, providers that accept the Card and program sponsors (and their respective affiliates) so that they can create and update their records, and provide me with service and special offers.
+•
+GECRB may obtain information from others about me (including requesting reports from consumer reporting agencies and other sources) to evaluate my application or determine
+whether to open my account, and to review, maintain, or collect my account.
+•
+I consent to GECRB and any other owner or servicer of my account contacting me about my account, including using any contact information or cell phone numbers I provide, and I consent to the use of any automatic telephone dialing system and/or an artificial or prerecorded voice when contacting me, even if I am charged for the call under my phone plan.
+•
+I have read and agree to the credit terms and other disclosures in this application, and I understand that if my application is approved or an account is opened, the GECRB credit card account agreement (“Agreement”) will govern my account. Among other things, the Agreement: (1) includes a resolving a dispute with arbitration provision
+that limits my rights unless I reject the provision by following the provision’s instructions; and (2) makes each applicant responsible for paying the entire amount of
+the credit extended.
+PLEASE See NEXT PAGE FOR RATES, FeeS AND OTHER COST INFORMATION.
+Federal law requires GecRB to obtain, verify and record information that identifies you when you open an account. GecRB will use your name, address, date of birth,
+and other information for this purpose.
+If I have been pre-approved, I request that you open the type of account for which I was pre-approved. I have read the Prescreen Disclosures, credit terms and other disclosures on
+the next pages and have been provided my credit limit applicable to the account. GECRB reserves the right to refuse to open an account in my name if GECRB determines that I no longer meet GECRB’s credit criteria or if I do not have sufficient income.
+If you apply with a Joint Applicant, each of you will be jointly and individually responsible for obligations under the Agreement and by signing below, you each agree that you
+intend to apply for joint credit.
+Signature of Applicant X
+Signature of Joint Applicant (If Applicable)
+X
+____________________________________________________________
+Date___________________ Date___________________
+____________________________________________________________
+(Please Do Not Print) (Please Do Not Print)
+184-291-00
+REV 071513
+PLEASE READ THE GE CAPITAL RETAIL BANK CREDIT CARD ACCOUNT AGREEMENT
+BEFORE SIGNING THIS APPLICATION.
+(2)
+--- PDF PAGE 34 ---
+2013-CFPB-0009 Document 01-3 Filed 12/10/2013 Page 3 of 12
+Welcome to CareCredit.
+Please retain the following documents
+for your records:
+•
+Promotional Information
+•
+•
+Account Agreement
+Privacy Policy
+(3)
+(11)
+--- PDF PAGE 35 ---
+2013-CFPB-0009 Document 01-3 Filed 12/10/2013 Page 4 of 12
+Two Types of Promotional Options May Be Available
+One or more of these promotional options may be available on qualifying purchases made with your CareCredit credit card
+account, based on your provider and your purchase.
+No Interest if Paid in Full within 6, 12, 18 or 24 Months*
+Interest at the rate of 26.99% will be charged to your account from the date of purchase if the promotional purchase is not
+paid in full within the promotional period. To avoid late fees, you must make your Total Minimum Monthly Payments by the
+due date each month. These Minimum Monthly Payments may or may not pay off the promotional purchase before the end of
+the promotional period. To make sure that you are not charged the interest accrued at 26.99%, you must pay the total
+promotional purchase amount within the promotional period.
+OR
+14.90% APR and Fixed Monthly Payments Required Until Paid in Full**
+Fixed monthly payment amount based on repayment over 24, 36, 48 or 60 month period. Purchases of $1,000 or more are
+eligible for a 24, 36 or 48 month offer and purchases of $2,500 or more are eligible for a 60 month offer.
+*,** See Page 12 for details
+What You Should Know When Using CareCredit
+For “No Interest if paid in full” promotions, you will have to pay interest that accrues at 26.99% from the date of purchase
+if you do not pay the full amount within the promotional period.
+Your account should only be charged for services that have been completed or that will be provided within 30 days
+of the initial charge on your account. CareCredit’s agreement with your provider says that your account should only be
+charged for custom products you have ordered or products and services that you have either received or will receive within 30
+days of the initial charge on your account.
+Right to Refund.* CareCredit knows that healthcare procedures can be a significant investment. CareCredit provides you with
+the right to a refund to your CareCredit account for any transaction amount greater than $1,000 if the transaction occurred
+within three days of the date your provider submitted the application. Note that exercising this right does not preclude your
+provider from directly attempting to collect payment from you for services rendered.
+* Not Applicable in Veterinary or Vision Providers
+184-291-00
+REV 071513
+(4)
+(3)
+--- PDF PAGE 36 ---
+2013-CFPB-0009 Document 01-3 Filed 12/10/2013 Page 5 of 12
+GE CAPITAL RETAIL BANK
+Keep For Your Records
+SecTION I: RATES AND FeeS TABLE
+cARecreDIT CREDIT CARD AccOUNT AGReeMENT
+Interest Rates and Interest Charges
+Annual Percentage Rate (APR)
+for Purchases 26.99%
+Paying Interest Your due date is at least 23 days after the close of each billing cycle. We will not charge you any interest on non-promotional purchases if you pay your entire balance by the due date each month. We will begin charging interest on promotional purchases on the purchase date.
+Minimum Interest Charge If you are charged interest, the charge will be no less than $2.
+For Credit Card Tips from
+the Consumer Financial
+Protection Bureau
+To learn more about factors to consider when applying for or using a credit card, visit
+the website of the Consumer Financial Protection Bureau at
+http://www.consumerfinance.gov/learnmore.
+Fees
+Penalty Fees
+• Late Payment
+• Returned Payment
+Up to $35
+Up to $35
+How We Will Calculate Your Balance: We use a method called “daily balance”. See your credit card account agreement for more
+details.
+Billing Rights: Information on your rights to dispute transactions and how to exercise those rights is provided in your credit card
+account agreement.
+Please read the following disclosure if you have received a pre-approval for a credit card
+You can choose to stop receiving “prescreened” offers of credit from this and other companies by
+calling toll-free 1-888-567-8688. See PRESCReeN & OPT-OUT NOTIce below for more information about
+prescreened offers.
+PRESCREEN & OPT-OUT NOTICE: This “prescreened” offer of credit is based on information in your credit report indicating that you
+meet certain criteria. This offer is not guaranteed if you do not meet our criteria. If you do not want to receive prescreened offers of
+credit from this and other companies, call the consumer reporting agencies toll-free, at 1-888-567-8688, write to: TransUnion LLC,
+Attn: Marketing Opt-Out, P.O. Box 505, Woodlyn, PA 19094-0505; Equifax Options, P.O. Box 740123, Atlanta, GA 30374-0123; or
+Experian Opt-Out, P.O. Box 919, Allen, TX 75013.
+(5)
+(4)
+--- PDF PAGE 37 ---
+2013-CFPB-0009 Document 01-3 Filed 12/10/2013 Page 6 of 12
+SecTION II: RATES, FeeS AND PAYMENT INFORMATION
+OF THE CARecREDIT CREDIT CARD AccOUNT AGReeMENT
+How Interest Is Calculated
+Your Interest Rate We use a daily rate to calculate the interest on the balance on your account each day. The daily rate for purchases is the APR times
+1/365. The daily rate for purchases is .07395% (APR 26.99%). Interest will be imposed in amounts or at rates not in excess of those
+permitted by applicable law.
+When We Charge Interest We charge interest on your purchases from the date you make the purchase until you pay the purchase in full. See exceptions below.
+•
+We will not charge you interest during a billing cycle on any non-promotional purchases if:
+1. You had no balance at the start of the billing cycle; OR
+2. You had a balance at the start of the billing cycle and you paid that balance in full by the due date in that billing cycle.
+We always charge interest on promotional purchases and their related fees from the date you make the purchase.
+•
+We will credit, as of the start of the billing cycle, any payment you make by the due date that we allocate to non-promotional purchases if:
+1. You had no balance at the start of the previous billing cycle; OR
+2. You had a balance at the start of the previous billing cycle and you paid that balance in full by the due date in the previous billing
+cycle.
+How We Calculate
+We figure the interest charge on your account separately for each balance type. We do this by applying the daily rate to the daily balance for each day in the billing cycle. A separate daily balance is calculated for the following balance types, as applicable: purchases and balances subject to different interest rates, plans or special promotions. See below for more details on how this works.
+Interest
+1. How to get the daily balance. We take the starting balance each day, add any new charges and fees, and subtract any payments or credits. This gives us the daily balance. Debt cancellation fees, if any, and late payment fees are treated as new purchases.
+2. How to get the daily interest amount. We multiply each daily balance by the daily rate that applies.
+3. How to get the starting balance for the next day. We add the daily interest amount in step 2 to the daily balance from step 1.
+4.
+How to get the interest charge for the billing cycle. We add all the daily interest amounts that were charged during the billing cycle
+for each balance type.
+We charge a minimum of $2.00 of interest in any billing cycle in which you owe interest. Interest, as calculated above, is added as applicable to each balance type. Minimum interest charges in excess of the calculated interest are treated as new purchases.
+How Fees Work
+Late Payment Fee Returned Payment Fee We will charge this fee if we do not receive the total minimum payment due on your account by 5 p.m. (ET) on the due date. This fee is
+equal to:
+1. $25, if you have paid your total minimum payment due by the due date in each of the prior six billing cycles.
+OR
+2. $35, if you have failed to pay your total minimum payment due by the due date in any one or more of the prior six billing cycles.
+The late payment fee will not be more than the total minimum payment that was due.
+We will charge this fee if any check, other instrument, or electronic payment authorization you provide us in payment on your account, is not honored upon first presentment. We will charge this fee even if the check, instrument or electronic authorization is later honored. This fee is equal to:
+1. $25, if your payments have been honored in each of the prior six billing cycles.
+OR
+2. $35, if any payment has been dishonored upon first presentment in any one or more of the prior six billing cycles.
+The returned payment fee will not be more than the total minimum payment that was due.
+Minimum Payment Calculation
+Your total minimum payment is calculated as follows.
+1. The sum of:
+a. The greater of either:
+(i) $25; or
+(ii) 3.25% of the new balance shown on your billing statement (excluding any balance attributable to any special promotional purchase with a unique payment
+calculation); or
+(iii ) The sum of 1% of your new balance shown on your billing statement (excluding any balance attributable to any special promotional purchase with a unique
+payment calculation) plus interest, late payment fees and returned payment fees charged in the current billing cycle; PLUS
+b. c. Any past due amounts; PLUS
+Any payment due in connection with a special promotional purchase with a unique payment calculation.
+We round up to the next highest whole dollar in figuring your total minimum payment. Your total minimum payment will never be more than your new balance.
+Special Promotional Financing Offer Information
+At times, we may offer you special financing promotions for certain transactions (“special promotions”). The terms of this Agreement apply to any special promotions. However,
+any special promotional terms that are different than the terms in this Agreement will be explained on promotional advertising or other disclosures provided to you. Below is a
+description of certain special promotions that may be offered, in addition to 14.90% APR promotions with a unique payment calculation.
+No Interest if Paid in Full Within 6 Months No Interest if Paid in Full Within 12 Months
+No Interest if Paid in Full Within 18 Months
+No Interest if Paid in Full Within 24 Months
+For each promotion, if the promotional balance is not paid in full within the
+promotional period, interest will be imposed from the date of purchase at the
+Purchase APR that applies to your account when the promotional purchase
+is made.
+At the time your account is opened, the Purchase APR is 26.99%.
+When you make a qualifying purchase under one of these promotions, no interest will be assessed on the purchase if you pay the following (the “promotional balance”) in full
+within the applicable promotional period. If you do not, interest will be assessed on the promotional balance from the date of the purchase. Minimum or fixed monthly payments
+are required. Regular account terms apply to non-promotional purchases and, after promotion ends, to promotional purchases. Offers are subject to credit approval. These
+promotional offers may not be available at all times for all purchases. Please see any special promotion advertising or other disclosures provided to you for the full terms of any
+special promotion offered.
+(6)
+(5)
+--- PDF PAGE 38 ---
+2013-CFPB-0009 Document 01-3 Filed 12/10/2013 Page 7 of 12
+SecTION III: STANDARD PROVISIONS OF THE CARecREDIT CREDIT CARD AccOUNT AGReeMENT
+ABOUT THE CREDIT CARD AccOUNT AGReeMENT
+This Agreement. This is an Agreement between you and GE Capital Retail Bank, 170 Election Road, Suite 125, Draper, UT 84020, for your credit card account. By opening or
+using your account, you agree to the terms of the entire Agreement. The entire Agreement includes the four sections of this document and the application you submitted to us
+in connection with the account. These documents replace any other agreement relating to your account that you or we made earlier or at the same time.
+Parties To This Agreement. This Agreement applies to each account holder approved on the account and each of you is responsible for paying the full amount due, no matter
+which one uses the account. We may treat each of you as one account holder and may refer to each of you as “you” or “your”. GE Capital Retail Bank may be referred to as
+“we”, “us” or “our”.
+Changes To This Agreement. We may change, add or delete terms of this Agreement, including interest rates, fees and charges.
+Special Promotions. The terms of this Agreement apply to any special promotion. However, any special promotional terms that are different than the terms in this Agreement
+will be explained on promotional advertising or other disclosures provided to you.
+HOW TO USE YOUR AccOUNT/CARD
+Use Of Your Account. You may use your account only for lawful personal, family or household purposes. You may use your account for purchases from dealers/merchants/
+retailers that accept the card.
+You Promise To Pay. You promise to pay us for all amounts owed to us under this Agreement.
+Your Responsibility. Each account holder will receive a card. You may not allow anyone else to use your account. If you do, or if you ask us to send a card to someone else,
+you will be responsible for paying for all charges resulting from their transactions.
+Purchase Limits. To prevent fraud, we may limit the number or dollar amount of purchases you can make in any particular amount of time. We also may decline any particular
+charge on your account for any reason.
+Credit Limit. You will be assigned a credit limit that we may increase or decrease from time to time. If we approve a purchase that makes you go over your credit limit, we do
+not give up any rights under this Agreement and we do not treat it as an increase in your credit limit.
+HOW AND WHEN TO MAKE PAYMENTS
+When Payments Are Due. You must pay at least the total minimum payment due on your account by 5 p.m. (ET) on the due date of each billing cycle. Payments received
+after 5 p.m. (ET) will be credited as of the next day. You may at any time pay, in whole or in part, the total unpaid balance without any additional charge for prepayment. If you
+have a balance subject to interest, earlier payment may reduce the amount of interest you will pay. We may delay making credit available on your account in the amount of your
+payment even though we will credit your payment when we receive it.
+Payment Options. You can pay by mail, online or at certain dealers/merchants/retailers that accept the card and payments. We may allow you to make payments over the
+phone but we will charge you a fee to make expedited phone payments. Your payment must be made in U.S. dollars by physical or electronic check, money order or a similar
+instrument from a bank located in the United States.
+How To Make A Payment. You must follow the instructions for making payments provided on your billing statement. If you do not, credit of your payment may be delayed up to
+five days. Your billing statement also explains how information on your check is used.
+Payment Allocation. We will apply the required total minimum payment to balances on your account using any method we choose. Any payment you make in excess of the
+required total minimum payment will be applied to higher APR balances before lower APR balances. Applicable law may require or permit us to apply excess payments in a
+different manner in certain situations, such as when your account has a certain type of special promotion.
+INFORMATION ABOUT YOU
+Using and Sharing Your Information. When you applied for an account, you gave us, providers that accept the card and program sponsors information about yourself that we
+could share with each other. Providers that accept the card and program sponsors (and their respective affiliates) will use the information in connection with the credit program
+and for things like creating and updating their records and offering you special benefits. More information about how we use and share information is set forth in the privacy
+policy for your account.
+Address/Phone Change. You agree to tell us right away if you change your address or phone number(s). We will contact you at the address or phone number in our records
+until we update our records with your new address or phone number.
+Consent to Communications. You consent to us contacting you using all channels of communication and for all purposes. We will use the contact information you provide
+to us. You also consent to us and any other owner or servicer of your account contacting you using any communication channel. This may include text messages, automatic
+telephone dialing systems and/or an artificial or prerecorded voice. This consent applies even if you are charged for the call under your phone plan. You are responsible for any
+charges that may be billed to you by your communications carriers when we contact you.
+Telephone Monitoring. For quality control, you allow us to listen to or record telephone calls between you and us.
+IMPORTANT INFORMATION ABOUT YOUR AccOUNT
+Closing Your Account. You may close your account at any time by sending a letter to the address shown on your billing statement or calling customer service. We may close
+your account at any time, for any reason. If your account is closed, you must stop using it. You must still pay the full amount you owe and this Agreement will remain in effect
+until you do.
+Collection Costs. If we ask an attorney who is not our salaried employee to collect your account, we may charge you our collection costs. These include court costs and
+reasonable attorneys’ fees.
+Credit Bureau Reporting. We may report information about your account to credit bureaus. Late payments, missed payments, or other defaults on your account may be shown
+in your credit report. Tell us if you think we reported wrong information about you to a credit bureau. Write to us at GE Capital Retail Bank, P.O. Box 965036, Orlando, FL 32896-
+5036. Tell us what information is wrong and why you think it is wrong. If you have a copy of the credit report that includes the wrong information, send us a copy.
+Default. You are in default if you make a late payment, do not follow any other term of this Agreement or become bankrupt or insolvent. If you default or upon your death, we
+may (a) request that you pay the full amount due right away, (b) take legal action to collect the amounts owed, and/or (c) take any other action allowed.
+Disputed Amounts. The billing rights summary in section IV of this Agreement describes what to do if you think there is a mistake on your bill. If you send us
+correspondence about a disputed amount or payment, you must send it to the address for billing inquiries. We do not give up any rights under this Agreement if
+we accept a payment marked “payment in full” or given with any other conditions or limitations.
+Unauthorized Use. If your card is lost, stolen or used without your consent, call us immediately at 866-396-8254. You will not be liable for unauthorized use on your account,
+but you will be responsible for all use by anyone you give your card to or allow to use your account.
+IMPORTANT INFORMATION ABOUT THIS AGReeMENT
+Assignment. We may sell, assign or transfer any or all of our rights or duties under this Agreement or your account, including our rights to payments. We do not have to give
+you prior notice of such action. You may not sell, assign or transfer any of your rights or duties under this Agreement or your account.
+Enforceability. If any part of this Agreement is found to be void or unenforceable, all other parts of this Agreement will still apply.
+Governing Law. Except as provided in the Resolving a Dispute with Arbitration section, this Agreement and your account are governed by federal law and, to the extent state
+law applies, the laws of Utah without regard to its conflicts of law principles. This Agreement has been accepted by us in Utah.
+Waiver. We may give up some of our rights under this Agreement. If we give up any of our rights in one situation, we do not give up the same right in another situation.
+(7)
+(6)
+--- PDF PAGE 39 ---
+2013-CFPB-0009 Document 01-3 Filed 12/10/2013 Page 8 of 12
+RESOLVING A DISPUTE WITH ARBITRATION
+PLEASE READ THIS SecTION CAREFULLY. IF YOU DO NOT REJecT IT, THIS SecTION WILL APPLY TO YOUR AccOUNT, AND MOST DISPUTES BETWeeN YOU
+AND US WILL BE SUBJecT TO INDIVIDUAL ARBITRATION. THIS MEANS THAT: (1) NEITHER A COURT NOR A JURY WILL RESOLVE ANY SUCH DISPUTE; (2) YOU
+WILL NOT BE ABLE TO PARTICIPATE IN A CLASS ACTION OR SIMILAR PROceeDING; (3) LESS INFORMATION WILL BE AVAILABLE; AND (4) APPEAL RIGHTS
+WILL BE LIMITED.
+•
+•
+What claims are subject to arbitration
+1. If either you or we make a demand for arbitration, you and we must arbitrate any dispute or claim between you or any other user of your account, and us, our affiliates,
+agents and/or dealers/merchants/retailers that accept the card or program sponsors if it relates to your account, except as noted below.
+2. We will not require you to arbitrate: (1) any individual case in small claims court or your state’s equivalent court, so long as it remains an individual case in that court; or
+(2) a case we file to collect money you owe us. However, if you respond to the collection lawsuit by claiming any wrongdoing, we may require you to arbitrate.
+3. Notwithstanding any other language in this section, only a court, not an arbitrator, will decide disputes about the validity, enforceability, coverage or scope of this section
+or any part thereof (including, without limitation, the next paragraph of this section and/or this sentence). However, any dispute or argument that concerns the validity or
+enforceability of the Agreement as a whole is for the arbitrator, not a court, to decide.
+No Class Actions
+YOU AGRee NOT TO PARTICIPATE IN A CLASS, REPRESENTATIVE OR PRIVATE ATTORNEY GENERAL ACTION AGAINST US IN COURT OR ARBITRATION.
+ALSO, YOU MAY NOT BRING CLAIMS AGAINST US ON BEHALF OF ANY AccOUNT HOLDER WHO IS NOT A AccOUNT HOLDER ON YOUR AccOUNT, AND
+YOU AGRee THAT ONLY AccOUNT HOLDERS ON YOUR AccOUNT MAY BE JOINED IN A SINGLE ARBITRATION WITH ANY CLAIM YOU HAVE.
+•
+•
+•
+If a court determines that this paragraph is not fully enforceable, only this sentence will remain in force and the remainder will be null and void, and the court’s determination
+shall be subject to appeal. This paragraph does not apply to any lawsuit or administrative proceeding filed against us by a state or federal government agency even when
+such agency is seeking relief on behalf of a class of borrowers, including you. This means that we will not have the right to compel arbitration of any claim brought by such
+an agency.
+How to start an arbitration, and the arbitration process
+1. The party who wants to arbitrate must notify the other party in writing. This notice can be given after the beginning of a lawsuit or in papers filed in the lawsuit. Otherwise,
+your notice must be sent to GE Capital Retail Bank, Legal Operation, P.O. Box 29110, Shawnee Mission, KS 66201, ATTN: ARBITRATION DEMAND. The party seeking
+arbitration must select an arbitration administrator, which can be either the American Arbitration Association (AAA), 1633 Broadway, 10th Floor, New York, NY 10019,
+www.adr.org, (800) 778-7879, or JAMS, 620 Eighth Avenue, 34th Floor, New York, NY 10018, www.jamsadr.com, (800) 352-5267. If neither administrator is able or
+willing to handle the dispute, then the court will appoint an arbitrator.
+2. If a party files a lawsuit in court asserting claim(s) that are subject to arbitration and the other party files a motion with the court to compel arbitration, which is granted,
+it will be the responsibility of the party asserting the claim(s) to commence the arbitration proceeding.
+3. The arbitration administrator will appoint the arbitrator and will tell the parties what to do next. The arbitrator must be a lawyer with at least ten years of legal experience.
+Once appointed, the arbitrator must apply the same law and legal principles, consistent with the FAA, that would apply in court, but may use different procedural rules.
+If the administrator’s rules conflict with this Agreement, this Agreement will control.
+4. The arbitration will take place by phone or at a reasonably convenient location. If you ask us to, we will pay all the fees the administrator or arbitrator charges, as long as
+we believe you are acting in good faith. We will always pay arbitration costs, as well as your legal fees and costs, to the extent you prevail on claims you assert against
+us in an arbitration proceeding which you have commenced.
+Governing Law for Arbitration
+This Arbitration section of your Agreement is governed by the Federal Arbitration Act (FAA). Utah law shall apply to the extent state law is relevant under the FAA. The
+arbitrator’s decision will be final and binding, except for any appeal right under the FAA. Any court with jurisdiction may enter judgment upon the arbitrator’s award.
+How to reject this section.
+You may reject this Arbitration section of your Agreement. If you do that, only a court may be used to resolve any dispute or claim. To reject this section, you
+must send us a notice within 60 days after you open your account or we first provided you with your right to reject this section. The notice must include your
+name, address and account number, and must be mailed to GE Capital Retail Bank, P.O. Box 965012, Orlando, FL 32896-5012. This is the only way you can reject
+this section.
+SecTION IV: OTHER IMPORTANT INFORMATION OF THE CARecREDIT CREDIT CARD AccOUNT AGReeMENT
+STATE NOTIceS
+CALIFORNIA ReSIDeNTS: If you are married, you may apply for a separate account.
+NEW JERSEY RESIDENTS: Certain provisions of this Agreement are subject to applicable law. As a result, they may be void, unenforceable or inapplicable in some
+jurisdictions. None of these provisions, however, is void, unenforceable or inapplicable in New Jersey.
+NEW YORK ReSIDeNTS: A consumer credit report may be obtained in connection with evaluating your application and subsequently in connection with updates, renewals,
+or extensions of credit for which this application is made. Upon your request, you will be informed whether a report was obtained, and if so, of the name and address of the
+consumer reporting agency. This Agreement will not become effective unless and until you or an authorized user signs a sales slip or memorandum evidencing a purchase or
+lease of property or services or the payment of a fine by use of your credit card and prior thereto you will not be responsible for any purchase or lease of property or services
+by use of your credit card after its loss or theft.
+OHIO ReSIDeNTS: The Ohio laws against discrimination require that all creditors make credit equally available to all creditworthy customers, and that credit reporting agencies
+maintain separate credit histories on each individual upon request. The Ohio Civil Rights Commission administers compliance with this law.
+TENNESSee RESIDENTS: This Agreement will not become effective unless and until we have (1) provided the disclosures required pursuant to the federal Truth in Lending
+Act, (2) you or an authorized user uses the account, and (3) we extend credit to you for that transaction on your account.
+WISCONSIN RESIDENTS: No provision of a marital property agreement, a unilateral statement under sec. 766.59, Wis. Stats., or a court decree under sec. 766.70, Wis.
+Stats., adversely affects the interest of the creditor unless the creditor, prior to the time credit is granted, is furnished a copy of the agreement, statement or decree or has actual
+knowledge of the adverse provision when the obligation to the creditor is incurred. Married residents of Wisconsin applying for an individual account must give us the
+name and address of their spouse if the spouse also is a Wisconsin resident, regardless of whether the spouse may use the card. Please provide this information
+to us at P.O. Box 965033, Orlando, FL 32896-5033.
+Your signature on the application or sales slip (or online screen) for the initial purchase approved on this account represents your signature on this Agreement. It
+is incorporated herein by reference.
+We have signed this Agreement as follows:
+Margaret Keane
+Chairman and CEO
+GE Capital Retail Bank
+(8)
+(7)
+--- PDF PAGE 40 ---
+2013-CFPB-0009 Document 01-3 Filed 12/10/2013 Page 9 of 12
+YOUR BILLING RIGHTS SUMMARY
+Your Billing Rights: Keep this Document for Future Use
+This notice tells you about your rights and our responsibilities under the Fair Credit Billing Act.
+What To Do If You Find A Mistake On Your Statement
+If you think there is an error on your statement, write to us at:
+GE Capital Retail Bank
+P.O. Box 965035, Orlando, FL 32896-5035
+In your letter, give us the following information:
+•
+Account information: Your name and account number.
+•
+Dollar amount: The dollar amount of the suspected error.
+•
+Description of problem: If you think there is an error on your bill, describe what you believe is wrong and why you believe it is a mistake.
+You must contact us:
+•
+Within 60 days after the error appeared on your statement.
+•
+At least 3 business days before an automated payment is scheduled, if you want to stop payment on the amount you think is wrong.
+You must notify us of any potential errors in writing. You may call us, but if you do we are not required to investigate any potential errors and you may have to pay the amount
+in question.
+What Will Happen After We Receive Your Letter
+When we receive your letter, we must do two things:
+1. Within 30 days of receiving your letter, we must tell you that we received your letter. We will also tell you if we have already corrected the error.
+2. Within 90 days of receiving your letter, we must either correct the error or explain to you why we believe the bill is correct.
+While we investigate whether or not there has been an error:
+•
+We cannot try to collect the amount in question, or report you as delinquent on that amount.
+•
+The charge in question may remain on your statement, and we may continue to charge you interest on that amount.
+•
+While you do not have to pay the amount in question, you are responsible for the remainder of your balance.
+•
+We can apply any unpaid amount against your credit limit.
+After we finish our investigation, one of two things will happen:
+•
+If we made a mistake: You will not have to pay the amount in question or any interest or other fees related to that amount.
+•
+If we do not believe there was a mistake: You will have to pay the amount in question, along with applicable interest and fees. We will send you a statement of the
+amount you owe and the date payment is due. We may then report you as delinquent if you do not pay the amount we think you owe.
+If you receive our explanation but still believe your bill is wrong, you must write to us within 10 days telling us that you still refuse to pay. If you do so, we cannot report you
+as delinquent without also reporting that you are questioning your bill. We must tell you the name of anyone to whom we reported you as delinquent, and we must let those
+organizations know when the matter has been settled between us.
+If we do not follow all of the rules above, you do not have to pay the first $50 of the amount you question even if your bill is correct.
+Your Rights If You Are Dissatisfied With Your Credit Card Purchases
+If you are dissatisfied with the goods or services that you have purchased with your credit card, and you have tried in good faith to correct the problem with the merchant,
+you may have the right not to pay the remaining amount due on the purchase.
+To use this right, all of the following must be true:
+1. The purchase must have been made in your home state or within 100 miles of your current mailing address, and the purchase price must have been more than
+$50. (Note: Neither of these are necessary if your purchase was based on an advertisement we mailed to you, or if we own the company that sold you the goods or services.)
+2. You must have used your credit card for the purchase. Purchases made with cash advances from an ATM or with a check that accesses your credit card account
+do not qualify.
+3. You must not yet have fully paid for the purchase.
+If all of the criteria above are met and you are still dissatisfied with the purchase, contact us in writing at:
+GE Capital Retail Bank
+P.O. Box 965035, Orlando, FL 32896-5035
+While we investigate, the same rules apply to the disputed amount as discussed above. After we finish our investigation, we will tell you our decision. At that point, if we think
+you owe an amount and you do not pay, we may report you as delinquent.
+(9)
+(8)
+--- PDF PAGE 41 ---
+2013-CFPB-0009 Document 01-3 Filed 12/10/2013 Page 10 of 12
+PRIVAcy POLIcy Rev. 10/11
+FACTS WHAT DOES GE CAPITAL RETAIL BANK DO
+WITH YOUR PERSONAL INFORMATION?
+Why?
+Financial companies choose how they share your personal information. Federal law gives consumers the right to limit
+some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal
+information. Please read this notice carefully to understand what we do.
+What?
+The types of personal information we collect and share depend on the product or service you have with us.
+This information can include:
+•
+•
+•
+Social Security number and income
+Account balances and payment history
+Credit history and credit scores
+How?
+All financial companies need to share customers’ personal information to run their everyday business. In the section
+below, we list the reasons financial companies can share their customers’ personal information; the reasons GE Capital
+Retail Bank chooses to share; and whether you can limit this sharing.
+Reasons we can share your personal information Does GE Capital
+Retail Bank
+share?
+Can you limit
+this sharing?
+For our everyday business purposes—
+such as to process your transactions, maintain your
+account(s), respond to court orders and legal
+investigations, or report to credit bureaus
+Yes No
+For our marketing purposes—
+to offer our products and services to you Yes No
+For joint marketing with other financial companies Yes No
+For our affiliates’ everyday business purposes—
+information about your transactions and experiences Yes No
+For our affiliates’ everyday business purposes—
+information about your creditworthiness Yes Yes
+For our affiliates to market to you Yes Yes
+For nonaffiliates to market to you Yes Yes*
+To limit our
+sharing
+Call 1-877-905-2097—our menu will prompt you through your choice(s).
+Please note:
+If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you
+are no longer our customer, we continue to share your information as described in this notice. However, you can contact
+us at any time to limit our sharing.
+Questions? Call 1-877-905-2097.
+(10)
+(9)
+--- PDF PAGE 42 ---
+2013-CFPB-0009 Document 01-3 Filed 12/10/2013 Page 11 of 12
+Page 2
+What we do
+How does GE Capital Retail
+Bank protect my personal
+information?
+To protect your personal information from unauthorized access and use, we use security
+measures that comply with federal law. These measures include computer safeguards and
+secured files and buildings.
+How does GE Capital Retail
+Bank collect my personal
+information?
+We collect your personal information, for example, when you
+•
+open an account or give us your contact information
+•
+provide account information or pay your bills
+•
+use your credit card
+We also collect your personal information from others, such as credit bureaus, affiliates, or
+other companies.
+Why can’t I limit all sharing? Federal law gives you the right to limit only
+•
+sharing for affiliates’ everyday business purposes—information about your creditworthiness
+•
+affiliates from using your information to market to you
+•
+sharing for nonaffiliates to market to you
+State laws and individual companies may give you additional rights to limit sharing.
+See below for more on your rights under state law.
+What happens when I limit
+sharing for an account I hold
+jointly with someone else?
+Your choices will apply to everyone on your account.
+Definitions
+Affiliates Companies related by common ownership or control. They can be financial and nonfinancial
+companies.
+•
+Our affiliates include companies with a GE, General Electric or Monogram name; financial
+companies such as General Electric Capital Corporation and Monogram Credit Services;
+and nonfinancial companies, such as General Electric Company.
+Nonaffiliates Companies not related by common ownership or control. They can be financial and
+nonfinancial companies.
+•
+Nonaffiliates we share with can include direct marketing companies and the retailer named
+on your account.
+Joint marketing A formal agreement between nonaffiliated financial companies that together market financial
+products or services to you.
+•
+Our joint marketing partners include insurance companies.
+Other important information
+We follow state law if state law provides you with additional privacy protections. For instance, if (and while) your billing address is in
+Vermont, we will treat your account as if you had exercised the opt-out choice described above and you do not need to contact us to
+opt-out. If you move from Vermont and you wish to restrict us from sharing information about you as provided in this notice, you must
+then contact us to exercise your opt-out choice.
+*Please keep in mind that, as permitted by federal law, we share information about you with dealers/merchants/retailers/providers/
+contractors that accept the card and program sponsors in connection with maintaining and servicing the GE Capital Retail Bank credit
+card program identified in the enclosed statement, including for dealers/merchants/retailers/providers/contractors that accept the card
+and program sponsors to market to you. If you opt out of sharing with nonaffiliates, your opt out will not prohibit us from sharing your
+information with dealers/merchants/retailers/providers/contractors that accept the card and program sponsors.
+The above notice applies only to the consumer credit card account covered by the attached GE Capital Retail Bank Credit Card Account
+Agreement and does not apply to any other accounts you have with us. It replaces our previous privacy notice disclosures to you. We
+can change our privacy policy at any time and will let you know if we do if/as required by applicable law.
+For helpful information about identity theft, visit the Federal Trade Commission’s (FTC) consumer website at http://www.ftc.gov/idtheft.
+(10)
+(11)
+--- PDF PAGE 43 ---
+2013-CFPB-0009 Document 01-3 Filed 12/10/2013 Page 12 of 12
+Important Information for Approved Cardholders
+If you are approved for CareCredit®, please note your 16-digit account number and credit limit.
+Account Number: ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___
+Credit Limit: $_____________________________ Date: ____________________
+Your CareCredit Card: Should arrive within 14 days. You can use your account
+before your card arrives with your account number and your ID.
+GE Capital Retail Bank Cardholder Inquiry (866) 893-7864
+The GE Capital Retail Bank Cardholder Inquiry Center can answer all questions
+regarding your CareCredit account.
+IMPORTANT PROMOTIONAL OPTION INFORMATION
+See Sales Slip for Additional Details about the special financing option applicable to your purchase.
+Not all enrolled healthcare practices offer all special financing options, so please ask your practice to explain which ones are available
+for your purchase.
+No Interest if Paid in Full within 6, 12, 18 or 24 Months*
+On qualifying purchases of $200 or more made with your CareCredit credit card account. Interest will be charged to your account from the
+purchase date if the promotional purchase is not paid in full within the promotional period.
+Purchases eligible for 6, 12 or 18 month promotions: Minimum Monthly Payments required. Purchases eligible for a 24 Month promotion: Fixed
+Monthly Payments required until paid in full and based on repayment over 24 months. Required monthly payments may or may not pay off
+purchase before end of promotional period.
+•
+The minimum monthly payment amount shown on your billing statement is required to keep your account current.
+•
+The Promotional Purchase Summary in your billing statement will show the amount of Deferred Interest Charges accumulated
+to date.
+•
+To avoid paying the Deferred Interest Charges, you must pay the promotional purchase in full within the promotional period.
+14.90% APR and Fixed Monthly Payments Required Until Paid in Full**
+On qualifying purchases made with your CareCredit credit card account. Fixed monthly payment amount based on repayment over 24, 36, 48
+or 60 month period. Purchases of $1000 or more are eligible for a 24, 36 or 48 month offer and purchases of $2500 or more are eligible for a 60
+month offer.
+•
+The minimum monthly payment shown on your billing statement will include the fixed monthly payment.
+•
+The minimum monthly payment amount shown on your billing statement is required to keep your account current.
+•
+You have the option of paying more than the required minimum monthly payment.
+Promotional Options
+* No Interest if Paid in Full within 6, 12, 18 or 24 Months
+Offer applies only to single-receipt qualifying purchases of $200 or more. No interest will be charged on the promotional purchase if you pay the promotional
+purchase amount in full within the promotional period which may be 6, 12, 18 or 24 months. If you do not, interest will be charged on the promotional
+purchase from the purchase date. If your purchase qualifies for a 24 month promotional offer, fixed monthly payments are required equal to 4.1667% of initial
+promotional purchase amount until promotion is paid in full. The fixed monthly payment will be rounded up to the next highest whole dollar and may be higher
+than the minimum payment that would be required if this was a non-promotional purchase. For all other promotional offers, the regular minimum monthly
+payment terms of the account will apply. Regular account terms apply to non-promotional purchases and, after promotion ends, to promotional balance,
+except the fixed monthly payment will apply until the promotion is paid in full. For new accounts: Purchase APR is 26.99%; Minimum Interest Charge is $2.
+Existing cardholders should see their credit card agreement for their applicable terms. Subject to credit approval.
+** 14.90% APR and Fixed Monthly Payments Required Until Paid in Full
+Interest will be charged on promotional purchases from the purchase date at a reduced 14.90% APR, and fixed monthly payments are required until
+promotion is paid in full and will be calculated as follows: on 24 month promotions – 4.8439% of initial promotional purchase amount; on 36 month
+promotions – 3.4616% of initial promotional purchase amount; on 48 month promotions – 2.7780% of initial promotional purchase amount; and on
+60 month promotions – 2.3737% of initial promotional purchase amount. The fixed monthly payment will be rounded up to the next highest whole dollar and
+may be higher than the minimum payment that would be required if this was a non-promotional purchase. Regular account terms apply to non-promotional
+purchases. For new accounts: Purchase APR is 26.99%; Minimum Interest Charge is $2. Existing cardholders should see their credit card agreement for
+their applicable terms. Subject to credit approval.
+(12)
+--- PDF PAGE 44 ---
+2013-CFPB-0009 Document 01-4 Filed 12/10/2013 Page 1 of 1
+Welcome Call Script
+Welcome to the CareCredit Family! We are calling from GE Capital Retail Bank, the issuer of your new
+CareCredit credit card account, to thank you for recently opening your new account at your Healthcare
+Professional.
+We would also like to thank you for your recent purchase of (insert amount) that was charged to your account on
+(insert date). Details about your purchase and your required minimum monthly payments will be provided on your
+statements every month.
+If you have a Deferred Interest/No Interest if Paid in Full promotion on your account, the required minimum monthly
+payments may or may not pay off your promotional purchase before the end of the promotional period. This
+means in order to pay the promotion in full before the end of the promotional period, you may need to pay more
+than the required minimum monthly payments. Interest at the rate of 26.99% will be charged to your outstanding
+promotional balance from the date of purchase if the promotional purchase is not paid in full within the promotional
+period. To make sure you are not charged the interest accrued at 26.99%, you must pay the total promotional
+purchase amount within the promotional period. To avoid late fees you must make the minimum monthly
+payments by each monthly due date each month.
+Please note that your account should only be charged for products and services that you have either received or
+will receive within 30 days of the initial charge on your account, unless those services are orthodontic services or
+you have ordered custom products.
+If you have any questions about your account or any part of this message, please contact us at 877-822-2021.
+Our representatives are available Monday through Friday 8 AM to Midnight Eastern Time. Visit CareCredit.com to
+learn more about where CareCredit is accepted and to manage your account online.
+Again, that number is 877-822-2021.
+Thank you from your friends at CareCredit, and GE Capital Retail Bank, 170 Election Road, Draper Utah 84020.
+--- PDF PAGE 45 ---
+2013-CFPB-0009 Document 01-5 Filed 12/10/2013 Page 1 of 4
+--- PDF PAGE 46 ---
+2013-CFPB-0009 Document 01-5 Filed 12/10/2013 Page 2 of 4
+--- PDF PAGE 47 ---
+2013-CFPB-0009 Document 01-5 Filed 12/10/2013 Page 3 of 4
+--- PDF PAGE 48 ---
+2013-CFPB-0009 Document 01-5 Filed 12/10/2013 Page 4 of 4
+--- PDF PAGE 49 ---
+2013-CFPB-0009 Document 01-6 Filed 12/10/2013 Page 1 of 5
+[Respondent logo]
+_____, 2014
+BY FIRST CLASS MAIL
+Re: Notice of Settlement
+Dear CareCredit Customer:
+We are sending this notice to you in connection with an agreement between GE Capital
+Retail Bank, CareCredit, LLC, and the Consumer Financial Protection Bureau (the “CFPB”).
+Under that agreement, certain consumers who previously disputed past charges on their
+CareCredit cards are being given an additional opportunity to appeal those charges. We are
+sending you this letter because our records indicate that you may be eligible to make an
+appeal and may be entitled to refunds on some or all of those disputed charges.
+DETERMINING YOUR ELIGIBILITY
+Under our agreement with the CFPB, you are eligible to appeal a previously disputed
+charge on your CareCredit card account if you meet one or more of the following conditions:
+1. Your card was charged for products or services that you did not receive.
+2. Your healthcare provider promised you a refund for charges on your CareCredit
+card that is not reflected on your account.
+3. You did not authorize the application for your CareCredit card, or you did not
+authorize the specific charges that you dispute.
+4. You were not adequately informed about and did not understand (a) that you
+would owe interest on your account if the balance was not paid in full by the
+expiration of the promotional period; (b) your interest rate; or (c) that the
+applicable interest accrues on your balance during the promotional period from
+the purchase date.
+--- PDF PAGE 50 ---
+2013-CFPB-0009 Document 01-6 Filed 12/10/2013 Page 2 of 5
+This appeal process applies only to customers who disputed a charge incurred on their
+CareCredit account since January 1, 2009, and who had their claim denied. Customers who wish
+to dispute a charge for the first time should follow the ordinary process for doing so. This
+process also does not apply to residents of New York State who are subject to a separate
+agreement between CareCredit and the New York Attorney General’s Office.
+WHAT YOU CAN DO
+If you meet these criteria, then you can submit a claim form appealing your disputed
+charge. You may submit your claim using the enclosed form and prepaid envelope, but you must
+include a mailing address so that we can forward any reimbursement that you are entitled. You
+must submit your claim within ninety days of receiving this letter in order to be eligible for
+this appeal process.
+WHAT WE WILL DO
+CareCredit will respond to your claim within thirty days of receiving it. If your appeal is
+granted, we will respond by sending a reimbursement for your charges to the mailing address
+that you designate in your claim form. If we do not grant your appeal, we will forward your
+claim and information related to your claim to an independent adjudicator, who will attempt to
+resolve your appeal within sixty days. We will notify you of the outcome of the adjudicator’s
+decision after the adjudicator completes his or her review of your appeal.
+Enclosure
+--- PDF PAGE 51 ---
+2013-CFPB-0009 Document 01-6 Filed 12/10/2013 Page 3 of 5
+APPEALS CLAIM FORM
+You must submit this claim form to CareCredit at [insert address] within ninety days of
+receiving your notice from CareCredit for your claim to be considered.
+This Claim Form will be kept confidential and will be used only for purposes of: (1) confirming
+that you are eligible to file a claim under CareCredit’s agreement with the Consumer Financial
+Protection Bureau; and (2) evaluating the basis for your specific claim.
+SECTION A – CLAIMANT INFORMATION
+Name (please print)
+Street Address Apt. No., if applicable
+City State Zip Code
+Telephone Number E-Mail Address
+CareCredit Account
+Number
+SECTION B –DISPUTED CHARGE INFORMATION(S)
+Date of disputed transaction: _____ / _____ / ______
+MM DD YY
+Amount in dispute: $_______
+Healthcare providers name: _______________________
+--- PDF PAGE 52 ---
+2013-CFPB-0009 Document 01-6 Filed 12/10/2013 Page 4 of 5
+SECTION C – BASIS FOR CLAIM
+Check all that apply and include below an explanation for why you believe that the charges you
+disputed were improper. If you do not include an explanation, your claim may be denied. Please
+also attach any documentation that you believe supports your claim. If you check a box, but we
+determine that your dispute does not fall into the checked category or one of the other categories,
+your claim may be denied.
+  My card was charged for products or services that I did not receive.
+  My healthcare provider promised me a refund that is not reflected on my CareCredit
+account.
+  I did not authorize the application for a CareCredit card, or I did not authorize the
+specific charges that I dispute.
+  I was not adequately informed about and did not understand (a) that I would owe interest
+on my account if the balance was not paid in full by the end of the promotional period;
+(b) my interest rate; or (c) that interest accrues on my balance during the promotional
+period starting from the date of my purchase.
+SECTION D – SIGNATURE
+By signing below, I certify that all information provided in this claim form is true and correct to
+the best of my knowledge. I agree materials associated with my original claim may be
+forwarded to the independent adjudicator.
+Date Signature
+--- PDF PAGE 53 ---
+[Respondent logo]
+[Insert return address]
+2013-CFPB-0009 Document 01-6 Filed 12/10/2013 Page 5 of 5
+[Insert Customer Name]
+[Insert customer address]
+YOU MAY BE OWED MONEY
+--- PDF PAGE 54 ---
+2013-CFPB-0009 Document 01-7 Filed 12/10/2013 Page 1 of 5
+[Respondent logo]
+_______, 2014
+BY FIRST CLASS MAIL
+Re: Notice of Settlement
+Dear CareCredit Customer:
+We are sending this notice to you in connection with an agreement between GE Capital
+Retail Bank, CareCredit, LLC, and the Consumer Financial Protection Bureau (the “CFPB”).
+Under that agreement, certain consumers are eligible to file a claim to recover some or all of the
+interest assessed on certain transactions that were subject to deferred interest promotions. In a
+deferred interest promotion, interest accrues on your transactional balance during the
+promotional period (which can range from 6 to 24 months) but you are not charged that interest
+if you pay the entire transactional balance off before the promotional period expires. We are
+sending you this letter because our records indicate that you may be eligible to file such a
+claim and may be entitled to refunds on some or all of those charges.
+DETERMINING YOUR ELIGIBILITY
+following conditions:
+Under our agreement with the CFPB, you are eligible to file a claim if you meet all of the
+1. You enrolled in CareCredit through a doctor or other healthcare provider’s office
+and not directly through our website or by phone, in order to obtain dental or
+audiology services.
+2. You completed a transaction for dental or audiology services with a deferred
+interest promotion between January 1, 2009, and December 31, 2012.
+3. You were assessed interest on that transaction.
+4. You were not adequately informed about and did not understand (a) that you
+would owe interest on your account if the balance was not paid in full by the
+expiration of the promotional period; (b) your interest rate; or (c) that the
+--- PDF PAGE 55 ---
+2013-CFPB-0009 Document 01-7 Filed 12/10/2013 Page 2 of 5
+applicable interest accrues on your balance during the promotional period from
+the purchase date.
+WHAT YOU CAN DO
+If you meet these criteria, then you can submit a claim form disputing your deferred
+interest charge. You may do so using the enclosed form and prepaid envelope, but you must
+include a mailing address so that we can forward any reimbursement that you are entitled. You
+must submit your form by mail within ninety days of receiving this letter in order to be
+eligible to recover in this claim process.
+WHAT WE WILL DO
+CareCredit will respond to your claim within sixty days of receiving it. During that time
+we will investigate your claim and either (a) determine that you are entitled to reimbursement, or
+(b) refer your claim and information related to your claim to an independent adjudicator for a
+determination. After determinations have been made on all submitted claims, we will calculate
+and issue any reimbursement payments. Reimbursement amounts may be impacted by the
+number of valid claims received. We anticipate this process will be completed by approximately
+mid-2015.
+Enclosure
+--- PDF PAGE 56 ---
+2013-CFPB-0009 Document 01-7 Filed 12/10/2013 Page 3 of 5
+DEFERRED INTEREST CLAIM FORM
+Eligible CareCredit cardholders may use this claim form to dispute certain deferred interest
+charges to their accounts. You must submit this claim form to CareCredit at [insert address]
+within ninety days of receiving your notice from CareCredit for your claim to be considered.
+This Claim Form will be kept confidential and will be used only for purposes of: (1) confirming
+that you are eligible to file a claim under CareCredit’s agreement with the Consumer Financial
+Protection Bureau; and (2) evaluating the basis for your specific claim.
+SECTION A – CLAIMANT INFORMATION
+Name (please print)
+Street Address Apt. No., if applicable
+City State Zip Code
+Telephone Number E-Mail Address
+CareCredit Account
+Number
+SECTION B – DISPUTED CHARGE INFORMATION
+Date of disputed transaction: _____ / _____ / ______
+MM DD YY
+Transaction amount: $______
+Healthcare provider’s name: ________________________
+--- PDF PAGE 57 ---
+2013-CFPB-0009 Document 01-7 Filed 12/10/2013 Page 4 of 5
+SECTION C – BASIS FOR CLAIM
+Check all that apply and include below an explanation for why you believe that you were not
+adequately informed of and did not understand the issues that form the basis for your claim. If
+you do not provide an explanation, your claim may be rejected. Please also attach any
+documentation that you believe supports your claim.
+  I was not adequately informed and did not understand that I would owe interest on my
+account if the balance was not paid in full by the end of the promotional period.
+  I was not adequately informed and did not understand the interest rate on my account.
+  I was not adequately informed and did not understand that interest accrues on my account
+balance during the promotional period starting from the date of my purchase.
+SECTION D – SIGNATURE
+By signing below, I certify that all information provided in this claim form is true and correct to
+the best of my knowledge. I agree materials associated with my original claim may be
+forwarded to the independent adjudicator.
+Date Signature
+--- PDF PAGE 58 ---
+[Respondent logo]
+[Insert return address]
+2013-CFPB-0009 Document 01-7 Filed 12/10/2013 Page 5 of 5
+[Insert Customer Name]
+[Insert customer address]
+YOU MAY BE OWED MONEY

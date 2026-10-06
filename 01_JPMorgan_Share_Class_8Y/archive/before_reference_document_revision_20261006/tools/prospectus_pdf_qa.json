@@ -1,0 +1,16 @@
+{
+  "pages": 33,
+  "source_units": 976,
+  "rendered_units": 920,
+  "removed_repeated_footer_units": 56,
+  "missing_text_units": [],
+  "native_latex_overflow": false,
+  "original_translation_array_unchanged": true,
+  "body_paragraphs_preserved": true,
+  "tables": 15,
+  "pdf_sha256": "023de48dd64afc7e5ea15bd83fa2e3c478b8b4b21de16fa7e3888454a72c0bd6",
+  "archive": "archive/before_document_split_layout_20261006",
+  "visual_review": "All document first pages inspected; selected multipage documents inspected through contact sheets; no clipping or overlapping text detected.",
+  "checked_date": "2026-10-06",
+  "document_id": "01-01"
+}

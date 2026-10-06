@@ -1,0 +1,442 @@
+{
+  "case_folder": "14_Navient_Student_Loan_Payment_Pause_90D",
+  "title": "联邦教育贷款暂缓及失业延期申请资料",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "14_Navient_Student_Loan_Payment_Pause_90D_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "第一份　一般暂缓还款申请",
+        "source_ids": [
+          "6"
+        ],
+        "locator": "FSA General Forbearance Request PDF第1—8页；所有表格栏目及告知"
+      },
+      {
+        "heading": "第二份　失业延期还款申请",
+        "source_ids": [
+          "2"
+        ],
+        "locator": "FSA Unemployment Deferment Request PDF第1—9页；所有表格栏目及告知"
+      },
+      {
+        "heading": "本次账户资料及办理记录",
+        "source_ids": [],
+        "locator": "tools/account_record.txt；具体参数来源及研究设定见Notes"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": "参考PDF只排产品协议、公开披露和指南；任务、账户条件、实验控制及历史事件对照置于Material。所有判定依据保留在Notes。",
+  "content_sha256": "c56885f91ae64759308285c73908240207642b70766f1ab2af6413a8f0fc48f2",
+  "sections": [
+    {
+      "id": "S001",
+      "heading": "第一份　一般暂缓还款申请",
+      "source_ids": [
+        "6"
+      ],
+      "document_id": "14-01",
+      "line": 4,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S002",
+      "heading": "第一部分　借款人信息",
+      "source_ids": [
+        "6"
+      ],
+      "document_id": "14-01",
+      "line": 9,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S003",
+      "heading": "第二部分　暂缓申请",
+      "source_ids": [
+        "6"
+      ],
+      "document_id": "14-01",
+      "line": 11,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S004",
+      "heading": "第三部分　借款人／保证人的理解、证明及授权",
+      "source_ids": [
+        "6"
+      ],
+      "document_id": "14-01",
+      "line": 17,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S005",
+      "heading": "第四部分　填写说明",
+      "source_ids": [
+        "6"
+      ],
+      "document_id": "14-01",
+      "line": 25,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S006",
+      "heading": "第五部分　定义",
+      "source_ids": [
+        "6"
+      ],
+      "document_id": "14-01",
+      "line": 29,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S007",
+      "heading": "资本化示例表",
+      "source_ids": [
+        "6"
+      ],
+      "document_id": "14-01",
+      "line": 41,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S008",
+      "heading": "第六部分　完整申请送往何处",
+      "source_ids": [
+        "6"
+      ],
+      "document_id": "14-01",
+      "line": 47,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S009",
+      "heading": "第七部分　填写协助",
+      "source_ids": [
+        "6"
+      ],
+      "document_id": "14-01",
+      "line": 49,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S010",
+      "heading": "第八部分　重要告知",
+      "source_ids": [
+        "6"
+      ],
+      "document_id": "14-01",
+      "line": 51,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S011",
+      "heading": "第二份　失业延期还款申请",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "14-02",
+      "line": 64,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S012",
+      "heading": "第一部分　借款人信息",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "14-02",
+      "line": 69,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S013",
+      "heading": "第二部分　延期资格判断",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "14-02",
+      "line": 71,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S014",
+      "heading": "4. 是否延长当前已批准的失业延期？",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "14-02",
+      "line": 76,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S015",
+      "heading": "7. 你是否已经向该就业机构登记？",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "14-02",
+      "line": 81,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S016",
+      "heading": "第三部分　请求、理解、证明及授权",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "14-02",
+      "line": 84,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S017",
+      "heading": "第四部分　填写说明",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "14-02",
+      "line": 92,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S018",
+      "heading": "第五部分　定义",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "14-02",
+      "line": 95,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S019",
+      "heading": "资本化示例表",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "14-02",
+      "line": 107,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S020",
+      "heading": "第六部分　完整申请送往何处",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "14-02",
+      "line": 113,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S021",
+      "heading": "第七部分　填写协助",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "14-02",
+      "line": 115,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S022",
+      "heading": "第八部分　重要告知",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "14-02",
+      "line": 117,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    }
+  ],
+  "research_settings": {
+    "file": "tools/account_record.txt",
+    "section": "本次账户资料及办理记录",
+    "provenance": "案例参数、补充产品机制及研究控制的区别见Notes",
+    "sha256": "2a71c13b3f9c35eb94464097cdeea065a510f839b0fcbbe6dcd4698764b8697b"
+  },
+  "rendering": "native_xelatex",
+  "pages": 8,
+  "qa_status": "text_and_layout_checked",
+  "material_sha256": "0c30ffadb0984c9478093bf82831a82c08ec93997197ee5567390f311a035a49",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "14-01",
+      "title": "一般暂缓还款申请",
+      "pdf": "14_Navient_Student_Loan_Payment_Pause_90D_Reference_01.pdf",
+      "content_source": "14_Navient_Student_Loan_Payment_Pause_90D_Reference.txt",
+      "start_line": 3,
+      "end_line": 63,
+      "leading_source_heading": "第一份　一般暂缓还款申请",
+      "headings": {
+        "第一份　一般暂缓还款申请": {
+          "level": 2
+        },
+        "第一部分　借款人信息": {
+          "level": 1
+        },
+        "第二部分　暂缓申请": {
+          "level": 1
+        },
+        "第三部分　借款人／保证人的理解、证明及授权": {
+          "level": 1
+        },
+        "第四部分　填写说明": {
+          "level": 1
+        },
+        "第五部分　定义": {
+          "level": 1
+        },
+        "资本化示例表": {
+          "level": 2
+        },
+        "第六部分　完整申请送往何处": {
+          "level": 1
+        },
+        "第七部分　填写协助": {
+          "level": 1
+        },
+        "第八部分　重要告知": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "6"
+      ],
+      "content_sha256": "d9c5b6091796947256a50a3538fe7acf7cce8dd1e7100585bcd1f8cc00d39c4c",
+      "pages": 4,
+      "pdf_sha256": "bef719de0679fbd2f5a04946d6cdbafbc55ec2115aa28fee145e4385931196f4",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [
+        {
+          "header": [
+            "利息处理",
+            "贷款金额",
+            "资本化利息",
+            "未偿本金",
+            "月供",
+            "付款次数",
+            "总付款"
+          ],
+          "weights": [
+            0.1888122362824265,
+            0.14818967662900348,
+            0.137363882425252,
+            0.14818967662900348,
+            0.11462742570265556,
+            0.11462742570265556,
+            0.14818967662900348
+          ]
+        }
+      ]
+    },
+    {
+      "document_number": "02",
+      "document_id": "14-02",
+      "title": "失业延期还款申请",
+      "pdf": "14_Navient_Student_Loan_Payment_Pause_90D_Reference_02.pdf",
+      "content_source": "14_Navient_Student_Loan_Payment_Pause_90D_Reference.txt",
+      "start_line": 63,
+      "end_line": 130,
+      "leading_source_heading": "第二份　失业延期还款申请",
+      "headings": {
+        "第二份　失业延期还款申请": {
+          "level": 2
+        },
+        "第一部分　借款人信息": {
+          "level": 1
+        },
+        "第二部分　延期资格判断": {
+          "level": 1
+        },
+        "4. 是否延长当前已批准的失业延期？": {
+          "level": 2
+        },
+        "7. 你是否已经向该就业机构登记？": {
+          "level": 2
+        },
+        "第三部分　请求、理解、证明及授权": {
+          "level": 1
+        },
+        "第四部分　填写说明": {
+          "level": 1
+        },
+        "第五部分　定义": {
+          "level": 1
+        },
+        "资本化示例表": {
+          "level": 2
+        },
+        "第六部分　完整申请送往何处": {
+          "level": 1
+        },
+        "第七部分　填写协助": {
+          "level": 1
+        },
+        "第八部分　重要告知": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "2"
+      ],
+      "content_sha256": "eededdcd9f7681b1aed1e7c21efb61d1ce489fff9e01086cd4cb8fb288796247",
+      "pages": 4,
+      "pdf_sha256": "922037e196722a8c58c7bbb39a770fcbcb4bd99e252ee99af4a1f6276a83b2f3",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [
+        {
+          "header": [
+            "利息处理",
+            "贷款金额",
+            "资本化利息",
+            "未偿本金",
+            "月供",
+            "付款次数",
+            "总付款"
+          ],
+          "weights": [
+            0.1888122362824265,
+            0.14818967662900348,
+            0.137363882425252,
+            0.14818967662900348,
+            0.11462742570265556,
+            0.11462742570265556,
+            0.14818967662900348
+          ]
+        }
+      ]
+    }
+  ],
+  "pdf_files": [
+    "14_Navient_Student_Loan_Payment_Pause_90D_Reference_01.pdf",
+    "14_Navient_Student_Loan_Payment_Pause_90D_Reference_02.pdf"
+  ],
+  "pages_definition": "各独立PDF页数之和；不存在现行合并PDF。",
+  "document_manifest": "tools/pdf_documents.json",
+  "heading_levels": 3,
+  "scenario_confirmation_location": "14_Navient_Student_Loan_Payment_Pause_90D_Material.md — 场景信息／本次账户及办理条件",
+  "document_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "047701aff399726da4a3dd537dd24498d51a964ccdbfa0b9bce456dbbba368d6",
+    "current_sha256": "c56885f91ae64759308285c73908240207642b70766f1ab2af6413a8f0fc48f2",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_widths": "content_adaptive",
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

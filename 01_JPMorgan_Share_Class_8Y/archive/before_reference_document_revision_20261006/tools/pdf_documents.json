@@ -1,0 +1,20 @@
+{
+  "case_number": "01",
+  "case_name": "基金份额选择：八年持有",
+  "scenario_id": "S-JPM-01",
+  "style": "hierarchical_native_pdf_v1",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "01-01",
+      "title": "基金M招募说明书",
+      "pdf": "01_JPMorgan_Share_Class_8Y_Prospectus.pdf",
+      "content_source": "01_JPMorgan_Share_Class_8Y_Prospectus.json",
+      "format": "aligned_source_units",
+      "pages": 33,
+      "pdf_sha256": "023de48dd64afc7e5ea15bd83fa2e3c478b8b4b21de16fa7e3888454a72c0bd6",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    }
+  ]
+}

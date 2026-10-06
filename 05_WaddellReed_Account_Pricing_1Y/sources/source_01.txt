@@ -1,0 +1,345 @@
+
+--- PDF PAGE 1 ---
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 95828 / September 19, 2022
+INVESTMENT ADVISERS ACT OF 1940
+Release No. 6136 / September 19, 2022
+ADMINISTRATIVE PROCEEDING
+File No. 3-21107
+In the Matter of
+Respondent.
+WADDELL & REED, LLC,
+ORDER INSTITUTING ADMINISTRATIVE
+AND CEASE-AND-DESIST PROCEEDINGS,
+PURSUANT TO SECTION 15(b) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+AND SECTIONS 203(e) AND 203(k) OF THE
+INVESTMENT ADVISERS ACT OF 1940,
+MAKING FINDINGS, AND IMPOSING
+REMEDIAL SANCTIONS AND A CEASE-
+AND-DESIST ORDER
+I.
+The Securities and Exchange Commission (“Commission”) deems it appropriate and in the
+public interest that public administrative and cease-and-desist proceedings be, and hereby are,
+instituted pursuant to Section 15(b) of the Securities Exchange Act of 1934 (“Exchange Act”) and
+Sections 203(e) and 203(k) of the Investment Advisers Act of 1940 (“Advisers Act”) against
+Waddell & Reed, LLC (“Respondent”).
+II.
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”), which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting
+Administrative and Cease-And-Desist Proceedings, Pursuant to Section 15(b) of the Securities
+Exchange Act of 1934 and Sections 203(e) and 203(k) of the Investment Advisers Act of 1940,
+Making Findings, and Imposing Remedial Sanctions and a Cease-And-Desist Order (“Order”), as
+set forth below.
+--- PDF PAGE 2 ---
+III.
+On the basis of this Order and Respondent’s Offer, the Commission finds1 that
+Summary
+1. These proceedings arise out of breaches of fiduciary duty and compliance failures
+by Waddell & Reed, Inc. (“Waddell”), a former registered investment adviser and broker-dealer.
+Specifically, Waddell failed to take reasonable steps with respect to certain clients in its wrap fee
+investment advisory program known as MAPLatitude after their accounts were flagged in
+Waddell’s systems for potential “reverse churning.
+” Reverse churning generally refers to the
+practice where a client is charged a fee that covers all advisory services and trading costs even
+though the client trades infrequently. A wrap fee account may not be in the best interest of a client
+with minimal or no trading activity as compared to a non-wrap fee or brokerage account, where the
+client would otherwise pay trading costs (commissions) as incurred but lower overall fees than in a
+wrap account.
+2. Waddell’s compliance policies and procedures required Waddell to conduct
+reviews at specified intervals to monitor whether the MAPLatitude program remained suitable for
+advisory clients or whether their accounts should be converted to brokerage accounts. Specifically,
+Waddell’s policy stated that MAPLatitude “accounts with less than four (4) trades over the most
+recent eight (8) quarters ... will be terminated” and converted to a brokerage account.
+3. Waddell, however, did not fulfill its fiduciary duty as an investment adviser
+because it failed to take reasonable steps after the MAPLatitude program appeared no longer to be
+in certain clients’ best interests. In particular, from at least January 1, 2015 to July 31, 2021 (the
+“Relevant Period”), Waddell’s monitoring flagged 737 MAPLatitude accounts that, pursuant to its
+compliance policies, should have been converted to brokerage accounts. Yet, Waddell did not
+conduct adequate follow-up, including conversion of those MAPLatitude accounts, which led
+those accounts to pay Waddell $484,645 in wrap fees during the Relevant Period. Furthermore,
+Waddell failed to adopt and implement written compliance policies and procedures reasonably
+designed to prevent violations of the Advisers Act and the rules thereunder in connection with the
+MAPLatitude program.
+Respondent
+Waddell & Reed, Inc. (“Waddell”), now known as Waddell & Reed, LLC, was a
+4. dually-registered investment adviser and broker-dealer and wholly-owned subsidiary of Waddell &
+Reed Financial, Inc. On April 30, 2021, Waddell & Reed Financial, Inc. was acquired by
+Macquarie Asset Management (“Macquarie”). Immediately upon completion of the acquisition,
+Macquarie sold Waddell to LPL Financial Holdings, Inc. (“LPL”). In July 2021, LPL discontinued
+Waddell’s MAPLatitude program. Waddell remains a subsidiary of LPL, but Waddell withdrew its
+1 The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any other
+person or entity in this or any other proceeding.
+2
+--- PDF PAGE 3 ---
+registration with the Commission as an investment adviser in October 2021, and its registration as
+a broker-dealer in December 2021.
+Facts
+5. At all relevant times, Waddell was an investment adviser and broker-dealer
+serving advisory clients and brokerage customers, respectively, nationwide. Waddell provided
+wealth management services and full-service brokerage services, through a network of financial
+advisors, primarily to retail clients and customers. Through its financial advisors, Waddell
+offered clients a variety of fee-based advisory programs. These programs utilized a variety of
+underlying investment options, including mutual funds, individual stocks and bonds, and
+exchange traded funds.
+6. Waddell offered a wrap fee investment advisory program known as MAPLatitude.
+Waddell’s Form ADV brochures (the “brochures”) described MAPLatitude as “designed to
+provide you [the client] with a full array of advice, guidance and flexibility in one bundle with
+one annual asset-based fee.” The brochures stated that the “ongoing advice provided by your
+advisor is one of the key components of” MAPLatitude. The MAPLatitude wrap fees were paid
+quarterly, based upon the value of the assets in the client’s account.
+7. Waddell’s brochures in the Relevant Period also discussed the differences between
+an advisory relationship and a brokerage relationship, and the factors to consider when choosing
+between them. These brochures explained that an advisory relationship is a “fiduciary” relationship
+requiring Waddell to “act solely in the best interest of its clients” and noted that one of the factors
+to consider when choosing an advisory relationship is anticipated “frequent” trading. On the
+other hand, these brochures noted that infrequent trading is a factor to consider when choosing a
+brokerage relationship.
+8. Waddell’s “Compliance Policies for Financial Advisors” (the “Compliance
+Policy”) addressed how the fee structure of an advisory account differs from that of a brokerage
+account, and explained that financial advisors should consider this difference when determining
+which type of account is most suitable for a given client: “Generally, it would not be in the client's
+best interest ... to place the client in an account with a fee structure that reasonably can be expected
+to result in a greater cost than an alternative account offered by the firm that generally provides the
+same services and benefits to the customer.” For the MAPLatitude program, specifically, the
+Compliance Policy stated that MAPLatitude accounts must maintain “an appropriate level of ...
+activity” and that an account with less than four trades over the most recent eight quarters
+(“Inactive Accounts”) “will be terminated and the account will be converted to a traditional
+brokerage ... account.”
+9. Further, Waddell had policies and procedures whereby its compliance and
+supervisory personnel, on a quarterly basis, reviewed MAPLatitude accounts, flagged Inactive
+Accounts, and created what Waddell called “reverse churning” reports. The stated purpose of the
+review was for various Waddell supervisory and compliance personnel to monitor whether the
+MAPLatitude program remained in the clients’ best interests.
+3
+--- PDF PAGE 4 ---
+10. Application of Waddell’s Compliance Policy for its MAPLatitude program lacked
+reasonable coordination, oversight, and a method of confirming that Inactive Accounts had been
+addressed appropriately. As a result of these deficiencies in the design of Waddell’s compliance
+program, Waddell failed to implement its Compliance Policy over a six-year period when it
+repeatedly failed to follow up, including by failing to move clients from MAPLatitude accounts to
+brokerage accounts after the MAPLatitude account no longer appeared to be in a client’s best
+interest.
+11. For example, after flagging Inactive Accounts and generating “reverse churning”
+reports, Waddell in some instances did not follow its policy of contacting the financial advisors
+associated with those accounts to determine whether the clients desired to increase their trading
+activity and meet Waddell’s criteria to remain in the MAPLatitude program. Further, Waddell at
+times did not follow-up on Inactive Accounts identified as unresolved, which were accounts that
+continued to be out of compliance with the Compliance Policy even after Waddell had reached out
+to the clients’ financial advisors. Although some Inactive Accounts were converted to brokerage
+accounts, at other times, Waddell personnel, even after determining to convert a MAPLatitude
+account, did not instruct Waddell’s operations personnel to convert the account to a brokerage
+account. In other instances, where Waddell personnel instructed operations staff to convert a
+MAPLatitude account to a brokerage account, the operations staff did not take this action.
+12. Waddell’s failure to implement its Compliance Policy resulted in Waddell clients
+with Inactive Accounts paying the firm $484,645 in wrap fees during the Relevant Period.
+Duty of Care Failures
+13. An investment adviser’s fiduciary duty includes a duty of care. To fulfill this
+obligation, an adviser, among other things, must provide investment advice in the best interest of
+its client based on the client’s objectives, and must generally provide advice and monitoring over
+the entire course of the relationship.
+14. Further, an investment adviser’s fiduciary duty applies to all investment advice
+the adviser provides to clients, including advice about account type. Advice about account type
+includes advice about whether to open or invest through a certain type of account, e.g., a
+commission-based brokerage account or a fee-based advisory account. As a general matter, an
+investment adviser’s duty to monitor extends to all personalized advice it provides to the client,
+including, for example, in an ongoing relationship, an evaluation of whether a client’s account or
+program type (for example, a wrap account) continues to be in the client’s best interest.
+15. During the Relevant Period, Waddell did not fulfill its duty of care obligations
+when it failed to take reasonable steps after the MAPLatitude program appeared no longer to be in
+its clients’ best interests.
+4
+--- PDF PAGE 5 ---
+Compliance Deficiencies
+16. During the Relevant Period, Waddell failed to adopt and implement written
+compliance policies and procedures reasonably designed to prevent violations of the Advisers
+Act and the rules thereunder in connection with Inactive Accounts in its MAPLatitude program.
+Violations
+17. As a result of the conduct described above, Respondent willfully2 violated Section
+206(2) of the Advisers Act, which makes it unlawful for any investment adviser, directly or
+indirectly, to “engage in any transaction, practice or course of business which operates as a fraud
+or deceit upon any client or prospective client.” Scienter is not required to establish a violation of
+Section 206(2), but rather a violation may rest on a finding of negligence. SEC v. Steadman, 967
+F.2d 636, 643 n.5 (D.C. Cir. 1992) (citing SEC v. Capital Gains Research Bureau, Inc., 375 U.S.
+180,194-95 (1963)).
+18. As a result of the conduct described above, Respondent willfully violated Section
+206(4) of the Advisers Act and Rule 206(4)-7 thereunder, which require a registered investment
+adviser to adopt and implement written compliance policies and procedures reasonably designed
+to prevent violations of the Advisers Act and the rules thereunder. A violation of Section 206(4)
+and the rules thereunder does not require scienter. Steadman, 967 F.2d at 647.
+Disgorgement
+19. The disgorgement and prejudgment interest ordered in Section IV are consistent
+with equitable principles and do not exceed Respondent’s net profits from its violations, and will
+be distributed to harmed investors (i.e., Waddell clients and former clients who paid advisory fees
+during the quarters in the Relevant Period that their MAPLatitude accounts were out of compliance
+with Waddell’s Compliance Policy) (hereinafter “Affected Clients”) to the extent feasible. Upon
+approval of the distribution final accounting by the Commission, any amounts remaining that are
+infeasible to return to Affected Clients, and any amounts returned to the Commission in the future
+that are infeasible to return to Affected Clients, may be transferred to the general fund of the U.S.
+Treasury, subject to Section 21F(g)(3) of the Exchange Act.
+2 “Willfully,” for purposes of imposing relief under Section 203(e) of the Advisers Act, “‘means no more than that the
+person charged with the duty knows what he is doing.’” Wonsover v. SEC, 205 F.3d 408, 414 (D.C. Cir. 2000) (quoting
+Hughes v. SEC, 174 F.2d 969, 977 (D.C. Cir. 1949)). There is no requirement that the actor “also be aware that he is
+violating one of the Rules or Acts.” Tager v. SEC, 344 F.2d 5, 8 (2d Cir. 1965). The decision in The Robare Group,
+Ltd. v. SEC, which construed the term “willfully” for purposes of a differently structured statutory provision, does not
+alter that standard. 922 F.3d 468, 478-79 (D.C. Cir. 2019) (setting forth the showing required to establish that a person
+has “willfully omit[ed]” material information from a required disclosure in violation of Section 207 of the Advisers
+Act).
+5
+--- PDF PAGE 6 ---
+IV.
+In view of the foregoing, the Commission deems it appropriate, and in the public interest to
+impose the sanctions agreed to in Respondent’s Offer.
+Accordingly, pursuant to Section 15(b) of the Exchange Act and Sections 203(e) and
+203(k) of the Advisers Act, it is hereby ORDERED that:
+A. Respondent cease and desist from committing or causing any violations and any
+future violations of Sections 206(2) and 206(4) of the Advisers Act and Rule 206(4)-7 promulgated
+thereunder.
+B. Respondent is censured.
+C. Respondent shall pay disgorgement and prejudgment interest totaling $575,589 to
+the Affected Clients as follows:
+(i) Respondent shall pay disgorgement of $484,645 and prejudgment interest of
+$90,944, consistent with the provisions of this Subsection C.
+(ii) Within 10 days of the issuance of this Order, Respondent shall deposit
+$575,589 (the “Distribution Fund”) into a segregated account for the benefit of Affected Clients
+not unacceptable to the Commission staff, and Respondent shall provide the Commission staff with
+evidence of such deposit in a form acceptable to the Commission staff. If timely deposit into the
+designated account is not made, additional interest shall accrue pursuant to SEC Rule of Practice
+600 [17 C.F.R. § 201.600].
+(iii) Respondent shall pay to Affected Clients, from the Distribution Fund, an
+amount representing the advisory fees such clients paid to Waddell during the quarters in the
+Relevant Period that Affected Clients’ accounts were out of compliance with Waddell’s
+Compliance Policy, plus reasonable interest on such fees. No portion of the Distribution Fund shall
+be paid to any Affected Client in which Respondent, or any of its officers or directors, has a
+financial interest. At the time of payment, Waddell shall notify all Affected Clients of the
+settlement terms of this Order by sending a copy of this Order to all Affected Clients via mail,
+email, or such other method not unacceptable to the Commission staff together with a cover letter
+in a form not unacceptable to the Commission staff.
+(iv) Respondent shall, within 90 days from the date of this Order, submit a
+proposed disbursement calculation (the “Calculation”) to the Commission staff for review and
+approval. Respondent also shall provide the Commission staff such additional information and
+supporting documentation as the Commission staff may request for the purpose of its review. In
+the event of one or more objections by the Commission staff to Respondent’s proposed Calculation
+or any of its information or supporting documentation, Respondent shall submit a revised
+Calculation for the review and approval of the Commission staff or additional information or
+supporting documentation within ten (10) days of the date that the Commission staff notifies
+Respondent of the objection. The revised Calculation shall be subject to all of the provisions of this6
+--- PDF PAGE 7 ---
+Subsection C. Respondent shall, within thirty (30) days of the written approval of the Calculation
+by the Commission staff, submit a payment file (the “Payment File”) for review and acceptance by
+the Commission staff demonstrating the application of the methodology to each Affected Client.
+The Payment File should identify, at a minimum, (i) the name of each Affected Client; (ii) the
+exact amount of the payment to be made from the Distribution Fund to each Affected Client; and
+(iii) the amount of reasonable interest to be paid.
+(v) Respondent shall complete the disbursement of all amounts payable to
+Affected Clients within 90 days of the date that the Commission staff accepts the Payment File,
+unless such time period is extended as provided in Paragraph viii of this Subsection C.
+(vi) If Respondent is unable to distribute any portion of the Distribution Fund
+for any reason, including an inability to locate an Affected Client or any factors beyond
+Respondent’s control, Respondent shall transfer any such undistributed funds to the Commission
+for transmittal to the United States Treasury in accordance with Section 21F(g)(3) of the Exchange
+Act when the distribution of funds is complete and before the final accounting provided for in
+Paragraph vii of this Subsection C is submitted to the Commission staff. Payment must be made in
+one of the following ways:
+1. Respondent may transmit payment electronically to the
+Commission, which will provide detailed ACH transfer/Fedwire
+instructions upon request;
+2. Respondent may make direct payment from a bank account via
+Pay.gov through the SEC website at
+http://www.sec.gov/about/offices/ofm.htm; or
+3. Respondent may pay by certified check, bank cashier’s check, or
+United States postal money order, made payable to the Securities
+and Exchange Commission and hand-delivered or mailed to:
+Enterprise Services Center
+Accounts Receivable Branch
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+Payments by check or money order must be accompanied by a cover letter identifying Respondent
+as Respondent in these proceedings, and the file number of these proceedings; a copy of the cover
+letter and check or money order must be sent to Ian Karpel, Division of Enforcement, Securities
+and Exchange Commission, 1961 Stout St., Suite 1700, Denver, CO 80294.
+(vii) Within 150 days after Respondent completes the distribution of all amounts
+payable to Affected Clients, Respondent shall return all undisbursed funds to the Commission.
+Respondent shall submit to the Commission staff a final accounting and certification of the
+disposition of the Distribution Fund for Commission approval, which final accounting and
+certification shall include, but not be limited to: (i) the amount paid to each Affected Client, with7
+--- PDF PAGE 8 ---
+the reasonable interest amount, reported separately; (ii) the date of each payment; (iii) the check
+number or other identifier of the money paid to each Affected Client; (iv) the amount of any
+returned payment and the date received; (v) a description of the efforts to locate a prospective
+Affected Client whose payment was returned or to whom payment was not made for any reason;
+(vi) the total amount, if any, to be forwarded to the Commission for transfer to the United States
+Treasury; and (vii) an affirmation that Respondent has made payments from the Distribution Fund
+to Affected Clients in accordance with the Payment File approved by the Commission staff.
+Respondent shall submit an accounting and certification, together with proof and supporting
+documentation of such payment (whether in the form of electronic payments or cancelled checks)
+in a form acceptable to the Commission staff, under a cover letter that identifies Respondent and
+the file number of these proceedings to Ian Karpel, Division of Enforcement, Securities and
+Exchange Commission, 1961 Stout St., Suite 1700, Denver, CO 80294. Respondent shall provide
+any and all supporting documentation for the accounting and certification to the Commission staff
+upon its request and shall cooperate with any additional requests by the Commission staff in
+connection with the accounting and certification.
+(viii) The Commission staff may extend any of the procedural dates set forth in this
+Subsection C for good cause shown. Deadlines for dates relating to the Distribution Fund shall be
+counted in calendar days, except that if the last day falls on a weekend or federal holiday, the next
+business day shall be considered to be the last day.
+(ix) Respondent shall be responsible for administering the Distribution Fund and
+may hire a professional at its own cost to assist it in the administration of the distribution. The costs
+and expenses of administering the Distribution Fund, including any such professional services,
+shall be borne by Respondent and shall not be paid out of the Distribution Fund.
+(x) A Distribution Fund is a Qualified Settlement Fund (“QSF”) under Section
+468B(g) of the Internal Revenue Code, 26 U.S.C. Sections 1.468B.1-1.468B.5. Respondent shall
+be responsible for any and all tax compliance responsibilities associated with the distribution of the
+Distribution Fund, including but not limited to tax obligations resulting from the Distribution
+Fund’s status as a QSF and the Foreign Account Tax Compliance Act, and may retain any
+professional services necessary. The costs and expenses of any such professional services shall be
+borne by Respondent and shall not be paid out of the Distribution Fund.
+D. Respondent shall, within 10 days of the entry of this Order, pay a civil money
+penalty in the amount of $200,000 to the Securities and Exchange Commission for transfer to the
+general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3). If timely
+payment is not made, additional interest shall accrue pursuant to 31 U.S.C. §3717. Payment must
+be made in one of the following ways:
+(i) Respondent may transmit payment electronically to the Commission, which
+will provide detailed ACH transfer/Fedwire instructions upon request;
+(ii) Respondent may make direct payment from a bank account via Pay.gov
+through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+8
+--- PDF PAGE 9 ---
+(iii) Respondent may pay by certified check, bank cashier’s check, or United
+States postal money order, made payable to the Securities and Exchange Commission and
+hand-delivered or mailed to:
+Enterprise Services Center
+Accounts Receivable Branch
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+Payments by check or money order must be accompanied by a cover letter identifying Respondent
+as a Respondent in these proceedings, and the file number of these proceedings; a copy of the
+cover letter and check or money order must be sent to Ian Karpel, Division of Enforcement,
+Securities and Exchange Commission, 1961 Stout St., Suite 1700, Denver, CO 80294.
+E. Amounts ordered to be paid as civil money penalties pursuant to this Order shall be
+treated as penalties paid to the government for all purposes, including all tax purposes. To preserve
+the deterrent effect of the civil penalty, Respondent agrees that in any Related Investor Action, it
+shall not argue that it is entitled to, nor shall it benefit by, offset or reduction of any award of
+compensatory damages by the amount of any part of Respondent’s payment of a civil penalty in
+this action ("Penalty Offset"). If the court in any Related Investor Action grants such a Penalty
+Offset, Respondent agrees that it shall, within 30 days after entry of a final order granting the
+Penalty Offset, notify the Commission's counsel in this action and pay the amount of the Penalty
+Offset to the Securities and Exchange Commission. Such a payment shall not be deemed an
+additional civil penalty and shall not be deemed to change the amount of the civil penalty imposed
+in this proceeding. For purposes of this paragraph, a "Related Investor Action" means a private
+damages action brought against Respondent by or on behalf of one or more investors based on
+substantially the same facts as alleged in the Order instituted by the Commission in this
+proceeding.
+By the Commission.
+Vanessa A. Countryman
+Secretary
+9

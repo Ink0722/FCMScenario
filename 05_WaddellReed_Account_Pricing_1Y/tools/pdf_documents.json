@@ -1,0 +1,164 @@
+{
+  "case_number": "05",
+  "case_name": "账户收费方式：一年交易安排",
+  "scenario_id": "S-WR-01",
+  "style": "content_sized_centered_tables_financial_typography_v3",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "05-01",
+      "title": "顾问基金账户项目披露手册",
+      "pdf": "05_WaddellReed_Account_Pricing_1Y_Reference_01.pdf",
+      "content_source": "05_WaddellReed_Account_Pricing_1Y_Reference.txt",
+      "start_line": 3,
+      "end_line": 258,
+      "leading_source_heading": "顾问基金账户项目披露手册",
+      "headings": {
+        "顾问基金账户项目披露手册": {
+          "level": 2
+        },
+        "第4项：服务、费用及报酬": {
+          "level": 1
+        },
+        "顾问基金账户项目概述": {
+          "level": 2
+        },
+        "合资格投资与账户入资": {
+          "level": 2
+        },
+        "投资重新分类与目标调整": {
+          "level": 2
+        },
+        "再平衡": {
+          "level": 2
+        },
+        "经纪服务与交易合并": {
+          "level": 2
+        },
+        "交易分配与交易错误": {
+          "level": 2
+        },
+        "证券抵押信用额度": {
+          "level": 2
+        },
+        "退出顾问基金账户": {
+          "level": 2
+        },
+        "费用及支出的计算与支付": {
+          "level": 2
+        },
+        "计费组与折扣": {
+          "level": 2
+        },
+        "费用的扣收": {
+          "level": 2
+        },
+        "不包含在项目费用中的其他费用": {
+          "level": 2
+        },
+        "财务顾问报酬": {
+          "level": 2
+        },
+        "成本、支出及服务的比较": {
+          "level": 2
+        },
+        "第5项：账户要求及客户类型": {
+          "level": 1
+        },
+        "第6项：顾问基金账户投资选择及评估": {
+          "level": 1
+        },
+        "按表现收费及并行管理": {
+          "level": 2
+        },
+        "分析方法、投资策略及损失风险": {
+          "level": 2
+        },
+        "损失风险": {
+          "level": 2
+        },
+        "代理投票": {
+          "level": 2
+        },
+        "法律通知": {
+          "level": 2
+        },
+        "第7项：客户向机构提供的信息": {
+          "level": 1
+        },
+        "第8项：客户与机构联系": {
+          "level": 1
+        },
+        "第9项：其他信息——账户审查": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "5"
+      ],
+      "content_sha256": "02e8cf0b0f3135246b180a5b018e8ad9da2a8f42ea4cbc912b2b26cb4012c5ba",
+      "pages": 10,
+      "pdf_sha256": "b0a0d8cc3e7d2595d08982cf4bd12fe8d35f8f9c25964a5aa50f1f0277d302cc",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [
+        {
+          "header": [
+            "资产中的部分",
+            "年项目服务费率",
+            "年平台费率"
+          ],
+          "weights": [
+            0.530741032144596,
+            0.23462948392770194,
+            0.23462948392770194
+          ]
+        }
+      ]
+    },
+    {
+      "document_number": "02",
+      "document_id": "05-02",
+      "title": "经纪账户股票与ETF佣金表",
+      "pdf": "05_WaddellReed_Account_Pricing_1Y_Reference_02.pdf",
+      "content_source": "05_WaddellReed_Account_Pricing_1Y_Reference.txt",
+      "start_line": 258,
+      "end_line": 274,
+      "leading_source_heading": "经纪账户股票与ETF佣金表",
+      "headings": {
+        "经纪账户股票与ETF佣金表": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "2",
+        "3"
+      ],
+      "content_sha256": "e57ee95db438166b0c9868cbf2cbf5f7b421769fb679f3617ed5becd1e340796",
+      "pages": 1,
+      "pdf_sha256": "8c0e9c60036c3b7608ef4171978dc6c1f350a51aec1411bb7c13c0fd3e417a4f",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [
+        {
+          "header": [
+            "单笔交易本金",
+            "佣金"
+          ],
+          "weights": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    }
+  ],
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",
+  "content_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "28afdfa415258ba444f6e4d6ab2514db73016eb36922378d1f7966dda3fc8279",
+    "current_sha256": "28afdfa415258ba444f6e4d6ab2514db73016eb36922378d1f7966dda3fc8279",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

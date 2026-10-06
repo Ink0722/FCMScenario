@@ -1,0 +1,4 @@
+URL: https://www.fidelity.com/cash-management/fidelity-cash-management-account/cash-management-ov?s_tnt=123526%3A1%3A0&version=v2
+Retrieved: 2026-10-06
+Method: official-page web-search excerpt; full page returned HTTP 400. Exact quote date unverified.
+Excerpt: 3.28% 7-day yield; 1.84% annual percentage yield

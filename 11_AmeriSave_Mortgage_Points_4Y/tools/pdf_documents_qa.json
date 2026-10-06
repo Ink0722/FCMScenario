@@ -1,0 +1,31 @@
+{
+  "case": 11,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "11-01",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_02.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "c405c8cd947adb261c9fdfd6f71ac7555c849a93c8179f1837089e0ea633638b",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "11-02",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_03.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "65f799fcdf3aff11bf1a6a485fdfd70336443a0bed767d54dcb0907ddd2ed27d",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "visual_review": "Centered table headers, short entries and numeric cells; paragraph cells left aligned; table endings bound and short HTML header line breaks removed; representative table pages inspected."
+}

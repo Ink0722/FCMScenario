@@ -1,0 +1,44 @@
+{
+  "case": 19,
+  "pages": 9,
+  "paragraphs_checked": 123,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_layout_review": "passed",
+  "checked_date": "2026-10-06",
+  "participant_links_checked": true,
+  "source_manifest_hashes_checked": true,
+  "decision_criteria_preserved": true,
+  "material_sha256": "245285c907a8ca36152dbe99676e0ee6cfdafd56c18270cf85a94146b07945b1",
+  "notes_sha256": "cb7670489f04ee59c02723f60264ae28ca24be2cd373a398a0ab463ede8dd8e6",
+  "documents": [
+    {
+      "document_id": "19-01",
+      "pdf": "19_LendingClub_Debt_Consolidation_Reference_01.pdf",
+      "pages": 2,
+      "text_checks": 18,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "4ae7fa1e508c95700e2315275caf8811e8a29aa22e79854e642347fffe7c960c",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "19-02",
+      "pdf": "19_LendingClub_Debt_Consolidation_Reference_02.pdf",
+      "pages": 7,
+      "text_checks": 105,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "c2356fb27e83a1543bbf48d8b4730153400ee8fb0145a40f6924ce8f6f4ae951",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 2,
+  "qa_status": "text_and_layout_checked",
+  "visual_review": "Centered table headers, short entries and numeric cells; paragraph cells left aligned; table endings bound and short HTML header line breaks removed; representative table pages inspected.",
+  "current_report": "tools/pdf_documents_qa.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

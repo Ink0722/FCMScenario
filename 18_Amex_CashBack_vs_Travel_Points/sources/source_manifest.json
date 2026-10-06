@@ -1,0 +1,84 @@
+[
+  {
+    "id": "1",
+    "title": "CFPB，American Express 2012年奖励及其他信用卡业务执法公告",
+    "url": "https://www.consumerfinance.gov/archive/newsroom/cfpb-orders-american-express-to-pay-85-million-refund-to-consumers-harmed-by-illegal-credit-card-practices/",
+    "resolved_url": "https://www.consumerfinance.gov/archive/newsroom/cfpb-orders-american-express-to-pay-85-million-refund-to-consumers-harmed-by-illegal-credit-card-practices/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_01.html",
+    "bytes": 155963,
+    "sha256": "84d0e295f0543f6fa08ff30144e1c2cd1c3f0521f75c9d139a2c8c0d65300360",
+    "status": "downloaded"
+  },
+  {
+    "id": "2",
+    "title": "Wells Fargo，Active Cash信用及奖励条款",
+    "url": "https://www.wellsfargo.com/credit-cards/active-cash/terms/",
+    "resolved_url": "https://www.wellsfargo.com/credit-cards/documents/active-cash-terms/?utm_medium=www-redirect&utm_source=credit-cards--active-cash--terms",
+    "retrieved_date": "2026-10-06",
+    "file": "source_02.html",
+    "bytes": 74549,
+    "sha256": "9d4bc0d4d68289c89adb8c28d55eb52aba3a5a944d844fca6b5c4bf9a510760b",
+    "status": "downloaded"
+  },
+  {
+    "id": "3",
+    "title": "Wells Fargo，Autograph信用及奖励条款",
+    "url": "https://www.wellsfargo.com/credit-cards/autograph-visa/terms/",
+    "resolved_url": "https://www.wellsfargo.com/credit-cards/documents/autograph-visa-terms/?utm_medium=www-redirect&utm_source=credit-cards--autograph-visa--terms",
+    "retrieved_date": "2026-10-06",
+    "file": "source_03.html",
+    "bytes": 81558,
+    "sha256": "2cf340c12131bf95a1ea58a427318beda2112435c5087adbb5203e2d8d7ba43a",
+    "status": "downloaded"
+  },
+  {
+    "id": "4",
+    "title": "CNBC Select，Active Cash与Autograph兑换比较（二手补充）",
+    "url": "https://www.cnbc.com/select/wells-fargo-active-cash-vs-wells-fargo-autograph/",
+    "resolved_url": "https://www.cnbc.com/select/wells-fargo-active-cash-vs-wells-fargo-autograph/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_04.html",
+    "bytes": 881479,
+    "sha256": "66138de829cff4b668d0f68dd9348f4551ca1f6c1bdc54d9a8ec72733cdf4a8f",
+    "status": "downloaded"
+  },
+  {
+    "id": "5",
+    "title": "Choice Privileges，官方银行积分转酒店积分比例及兑换渠道",
+    "url": "https://www.choicehotels.com/choice-privileges/redeem-points",
+    "retrieved_date": "2026-10-06",
+    "status": "unavailable",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "6",
+    "title": "Wells Fargo Active Cash account agreement",
+    "url": "https://www.wellsfargo.com/credit-cards/documents/active-cash-agreement/",
+    "resolved_url": "https://www.wellsfargo.com/credit-cards/documents/active-cash-agreement/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_06.html",
+    "bytes": 124047,
+    "sha256": "5d6621a0792192af071d1896c68839c786f8f887b284e4db47add0aa3bffb542",
+    "status": "downloaded"
+  },
+  {
+    "id": "7",
+    "title": "Wells Fargo Autograph account agreement",
+    "url": "https://www.wellsfargo.com/credit-cards/agreements/autograph-visa-agreement/",
+    "resolved_url": "https://www.wellsfargo.com/credit-cards/documents/autograph-visa-agreement/?utm_medium=www-redirect&utm_source=credit-cards--agreements--autograph-visa-agreement",
+    "retrieved_date": "2026-10-06",
+    "file": "source_07.html",
+    "bytes": 124202,
+    "sha256": "7e76e7f4c952820130b4ca50ed7b69947eaa3e5c85c36243f609b21dfb1e936b",
+    "status": "downloaded"
+  },
+  {
+    "id": "8",
+    "title": "Wells Fargo Rewards full terms",
+    "url": "https://www.wellsfargo.com/credit-cards/rewards/terms/",
+    "retrieved_date": "2026-10-06",
+    "status": "unavailable",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

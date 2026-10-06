@@ -1,0 +1,49 @@
+{
+  "case": 10,
+  "pages": 19,
+  "paragraphs_checked": 315,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_review": "Centered table headers, short entries and numeric cells; paragraph cells left aligned; table endings bound and short HTML header line breaks removed; representative table pages inspected.",
+  "text_extraction_method": "PDFKit line selections sorted by page coordinates; headers/footers excluded",
+  "documents": [
+    {
+      "document_id": "10-01",
+      "pdf": "10_CapitalOne_Credit_Monitoring_AddOn_Reference_01.pdf",
+      "pages": 2,
+      "text_checks": 21,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "302496dc6db6578d4c842ff608c72e48cba7ca9162c8e28074513867666bf555",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "10-02",
+      "pdf": "10_CapitalOne_Credit_Monitoring_AddOn_Reference_02.pdf",
+      "pages": 14,
+      "text_checks": 255,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "8c26ef8874371a688fae7b8f4548671c0e3306cbaedc609aca6c2f1999df08ff",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "10-03",
+      "pdf": "10_CapitalOne_Credit_Monitoring_AddOn_Reference_03.pdf",
+      "pages": 3,
+      "text_checks": 39,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "d255507dfcc74ed6a5858131d06a27a2fc8687398fd8099538d1987e2e51de58",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 3,
+  "qa_status": "text_and_layout_checked",
+  "checked_date": "2026-10-06",
+  "current_report": "tools/pdf_documents_qa.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

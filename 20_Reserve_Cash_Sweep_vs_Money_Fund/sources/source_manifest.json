@@ -1,0 +1,113 @@
+[
+  {
+    "id": "1",
+    "title": "SEC，Reserve Primary Fund运营方披露案件，2009-104",
+    "url": "https://www.sec.gov/newsroom/press-releases/2009-104-sec-charges-operators-reserve-primary-fund-fraud",
+    "retrieved_date": "2026-10-06",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2",
+    "title": "Fidelity，Cash Management Account及两种核心头寸",
+    "url": "https://www.fidelity.com/investing/cash-management",
+    "resolved_url": "https://www.fidelity.com/investing/cash-management",
+    "retrieved_date": "2026-10-06",
+    "file": "source_02.html",
+    "bytes": 430507,
+    "sha256": "ed8830890e9e4d1da5b66b7be2dc0427fa292c90911160f80ca8085cc8dc80dd",
+    "status": "downloaded"
+  },
+  {
+    "id": "3",
+    "title": "Fidelity，SPAXX等货币基金招募说明书，SPAXX基金摘要及费用",
+    "url": "https://www.actionsxchangerepository.fidelity.com/ShowDocument/1078163/FaxToCDocument.htm?applicationId=AONG&clientId=Fidelity&collectionId=1078163&criticalIndicator=Y&docFormat=html&docName=SMF-PRO.html&docType=PROS&extraId=1783208055576&securityId=31617H102&securityIdType=CUSIP&tocIndicator=true",
+    "resolved_url": "https://www.actionsxchangerepository.fidelity.com/ShowDocument/1078163/FaxToCDocument.htm?applicationId=AONG&clientId=Fidelity&collectionId=1078163&criticalIndicator=Y&docFormat=html&docName=SMF-PRO.html&docType=PROS&extraId=1783208055576&securityId=31617H102&securityIdType=CUSIP&tocIndicator=true",
+    "retrieved_date": "2026-10-06",
+    "file": "source_03.html",
+    "bytes": 548168,
+    "sha256": "f0eb8671d6ac64192f740b78924a8fafcc1aa0e6c659b72b123161ba075dff96",
+    "status": "downloaded"
+  },
+  {
+    "id": "4",
+    "title": "Fidelity，原Cash Management Account公开页及带日期存款APY资料",
+    "url": "https://www.fidelity.com/cash-management/fidelity-cash-management-account",
+    "retrieved_date": "2026-10-06",
+    "status": "unavailable",
+    "error": "HTTP Error 400: Bad Request"
+  },
+  {
+    "id": "5",
+    "title": "Fidelity，Manage Cash，2026-09-24七日年化收益资料",
+    "url": "https://www.fidelity.com/go/manage-cash-rising-costs",
+    "resolved_url": "https://www.fidelity.com/go/manage-cash-rising-costs",
+    "retrieved_date": "2026-10-06",
+    "file": "source_05.html",
+    "bytes": 230061,
+    "sha256": "f7b85a2c96d05abb044552694b1928f22c5aec9f8fe0de8daa73068f9ffb5d6d",
+    "status": "downloaded"
+  },
+  {
+    "id": "6",
+    "title": "SEC投资管理部门，2008年Reserve基金净值0.97美元与赎回暂停的历史问答",
+    "url": "https://www.sec.gov/divisions/investment/guidance/reservefundmmffaq.htm",
+    "retrieved_date": "2026-10-06",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "7",
+    "title": "美国财政部／美联储／FDIC，2023-03-12银行存款处置联合声明",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312b.htm",
+    "resolved_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312b.htm",
+    "retrieved_date": "2026-10-06",
+    "file": "source_07.html",
+    "bytes": 84152,
+    "sha256": "a9dd4bfa08b920ee473e587bcffefd37b5d9f22773d3c7d270f2f9bcf293a3c6",
+    "status": "downloaded"
+  },
+  {
+    "id": "8",
+    "title": "Fidelity Cash Management Account Legal Booklet",
+    "url": "https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/fcma-legal-booklet.pdf",
+    "resolved_url": "https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/fcma-legal-booklet.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_08.pdf",
+    "bytes": 524446,
+    "sha256": "109a15f60beac72dff9aedf5ca34d96aef2c8dddc456f59aad5d0182f5de44f0",
+    "status": "downloaded"
+  },
+  {
+    "id": "9",
+    "title": "Fidelity Cash Management FAQ",
+    "url": "https://www.fidelity.com/spend-save/faqs-cash-management-account",
+    "resolved_url": "https://www.fidelity.com/spend-save/faqs-cash-management-account",
+    "retrieved_date": "2026-10-06",
+    "file": "source_09.html",
+    "bytes": 275511,
+    "sha256": "6a6772e87a1a550814e1cde7b1507920b4bf51681d954ab8ccc00ffc34c13bad",
+    "status": "downloaded"
+  },
+  {
+    "id": "10",
+    "title": "Fidelity CMA current interest rates",
+    "url": "https://digital.fidelity.com/prgw/digital/fdic-interest-rate/fcma",
+    "resolved_url": "https://digital.fidelity.com/prgw/digital/fdic-interest-rate/fcma",
+    "retrieved_date": "2026-10-06",
+    "file": "source_10.html",
+    "bytes": 13516,
+    "sha256": "4550b55946672848a87bd033c0c62f231d24866522504b2195c80d611847e8ec",
+    "status": "downloaded"
+  },
+  {
+    "id": "11",
+    "title": "CMA paired historical rates, official-page search excerpt",
+    "url": "https://www.fidelity.com/cash-management/fidelity-cash-management-account/cash-management-ov?s_tnt=123526%3A1%3A0&version=v2",
+    "file": "source_11_web_excerpt.txt",
+    "sha256": "48642dfeec5842d682e1cf6562fb6bef8887a8604fc6535135afdc21ae9b41f9",
+    "status": "search_excerpt_only",
+    "retrieved_date": "2026-10-06",
+    "limitation": "Full page unavailable; exact quote date unverified; values used as research settings"
+  }
+]

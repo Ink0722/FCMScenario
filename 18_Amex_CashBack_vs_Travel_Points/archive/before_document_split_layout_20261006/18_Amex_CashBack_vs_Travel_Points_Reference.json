@@ -1,0 +1,100 @@
+{
+  "case_folder": "18_Amex_CashBack_vs_Travel_Points",
+  "title": "消费信用卡客户协议及奖励附录",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "18_Amex_CashBack_vs_Travel_Points_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "第一部分　消费者信用卡客户协议",
+        "source_ids": [
+          "6",
+          "7"
+        ],
+        "locator": "客户协议Part1—6；仲裁、账单权利、军事借贷及口译栏目；报价附录按本次确认适配"
+      },
+      {
+        "heading": "第二部分　日常返现卡奖励附录",
+        "source_ids": [
+          "2"
+        ],
+        "locator": "产品条款Part2各栏目；不采用新户优惠"
+      },
+      {
+        "heading": "第三部分　分类积分卡奖励附录",
+        "source_ids": [
+          "3"
+        ],
+        "locator": "产品条款Part2各栏目；不采用新户优惠"
+      },
+      {
+        "heading": "本次账户资料及办理记录",
+        "source_ids": [],
+        "locator": "tools/account_record.txt；具体参数来源及研究设定见Notes"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": [
+    "保留所采用栏目内的金融关系、例外及程序",
+    "账户状态、个别报价及实验控制置于PDF账户记录，来源区别见Notes",
+    "未补造收益、事故概率、服务优势或资格"
+  ],
+  "content_sha256": "bc45ceb08679b7f9e4fae88de7dd14b86f6974cfda5a4f01c4d27db97bfedf52",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "第一部分　消费者信用卡客户协议",
+      "source_ids": [
+        "6",
+        "7"
+      ],
+      "source_locator": "客户协议Part1—6；仲裁、账单权利、军事借贷及口译栏目；报价附录按本次确认适配",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 2,
+      "heading": "第二部分　日常返现卡奖励附录",
+      "source_ids": [
+        "2"
+      ],
+      "source_locator": "产品条款Part2各栏目；不采用新户优惠",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 3,
+      "heading": "第三部分　分类积分卡奖励附录",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "产品条款Part2各栏目；不采用新户优惠",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 4,
+      "heading": "本次账户资料及办理记录",
+      "source_ids": [],
+      "source_locator": "tools/account_record.txt；具体参数来源及研究设定见Notes",
+      "text_status": "research account record"
+    }
+  ],
+  "research_settings": {
+    "file": "tools/account_record.txt",
+    "section": "本次账户资料及办理记录",
+    "provenance": "案例参数、补充产品机制及研究控制的区别见Notes",
+    "sha256": "13c719f55456f71d9949a92ef61a14ca81965e321196cafa96686df2e36541cb"
+  },
+  "rendering": "native_xelatex",
+  "pages": 10,
+  "qa_status": "pdf_rendered_text_check_passed",
+  "material_sha256": "c700b645ec86d9a876abbe8a51b95fa0f70e4ed8eddccb31f35519a0c8ec606d"
+}

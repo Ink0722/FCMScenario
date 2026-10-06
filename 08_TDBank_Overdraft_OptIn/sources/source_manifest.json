@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "CFPB，TD Bank行政命令，2020-08-20",
+    "url": "https://files.consumerfinance.gov/f/documents/cfpb_td-bank-na_consent-order_2020-08.pdf",
+    "resolved_url": "https://files.consumerfinance.gov/f/documents/cfpb_td-bank-na_consent-order_2020-08.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_01.pdf",
+    "bytes": 1059619,
+    "sha256": "10f9389ba14fd53b0ae1d99869f0721faefc625bf82ddb5a333d4c42816be43a",
+    "status": "downloaded"
+  },
+  {
+    "id": "2",
+    "title": "TD，Debit Card Advance重要条款",
+    "url": "https://www.td.com/us/en/personal-banking/overdraft-services/regdd",
+    "resolved_url": "https://www.td.com/us/en/personal-banking/overdraft-services/regdd",
+    "retrieved_date": "2026-10-06",
+    "file": "source_02.html",
+    "bytes": 171323,
+    "sha256": "03c2733eccdf5fe1142ce320a137428f39adc8863ef123000219d6547cb8c696",
+    "status": "downloaded"
+  },
+  {
+    "id": "3",
+    "title": "TD，透支服务书面通知",
+    "url": "https://www.td.com/content/dam/tdb/document/pdf/personal-banking/rege_modelA-en.pdf",
+    "resolved_url": "https://www.td.com/content/dam/tdb/document/pdf/personal-banking/rege_modelA-en.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_03.pdf",
+    "bytes": 108237,
+    "sha256": "dff1949169552f961213ee2d0e9d1b0f9727e91eb1db10c44c12395ce041210a",
+    "status": "downloaded"
+  },
+  {
+    "id": "4",
+    "title": "TD，透支服务与Grace Period说明",
+    "url": "https://www.td.com/us/en/personal-banking/overdraft-services",
+    "resolved_url": "https://www.td.com/us/en/personal-banking/overdraft-services",
+    "retrieved_date": "2026-10-06",
+    "file": "source_04.html",
+    "bytes": 291737,
+    "sha256": "c387439f5bdaeb31eb88a626a15666d29b2b8c5656af9776f27d4d48ecff04e9",
+    "status": "downloaded"
+  },
+  {
+    "id": "5",
+    "title": "CFPB，理解透支Opt-in选择",
+    "url": "https://www.consumerfinance.gov/archive/blog/understanding-overdraft-opt-choice/",
+    "resolved_url": "https://www.consumerfinance.gov/archive/blog/understanding-overdraft-opt-choice/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_05.html",
+    "bytes": 151650,
+    "sha256": "5663cbfd7ef7e92aac3852c97add1bbaa3c7d9c9809686be0f91ce52cdb193b6",
+    "status": "downloaded"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "title": "FTC，GoLoansOnline浮动／固定利率广告案件，2014-05",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2014/05/mortgage-lead-generator-will-pay-225000-settle-ftc-charges-it-deceptively-advertised-mortgage-rates",
+    "resolved_url": "https://www.ftc.gov/news-events/news/press-releases/2014/05/mortgage-lead-generator-will-pay-225000-settle-ftc-charges-it-deceptively-advertised-mortgage-rates",
+    "retrieved_date": "2026-10-06",
+    "file": "source_01.html",
+    "bytes": 999895,
+    "sha256": "2da1fe868a2b039ae4cae931eee4e9ffc4b8bde641cf9e17bc4777f2f6c22b29",
+    "status": "downloaded"
+  },
+  {
+    "id": "2",
+    "title": "CFPB，Consumer Handbook on Adjustable-Rate Mortgages，官方ARM教学披露",
+    "url": "https://www.consumerfinance.gov/documents/5984/cfpb_charm_booklet.pdf",
+    "resolved_url": "https://files.consumerfinance.gov/f/documents/cfpb_charm_booklet.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_02.pdf",
+    "bytes": 457892,
+    "sha256": "5ef890331bfe87a1d0f370b91a2ca0b6a8a13d52e0c8b2cafb74c9b2132ae643",
+    "status": "downloaded"
+  },
+  {
+    "id": "3",
+    "title": "CFPB，Discount Points and Lender Credits，5%固定利率教学示例",
+    "url": "https://www.consumerfinance.gov/ask-cfpb/how-should-i-use-lender-credits-and-points-also-called-discount-points-en-136/",
+    "resolved_url": "https://www.consumerfinance.gov/ask-cfpb/how-should-i-use-lender-credits-and-points-also-called-discount-points-en-136/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_03.html",
+    "bytes": 156350,
+    "sha256": "f06662b9666c266314d0b2f537931b2d43eed45ab94c1b894a66a8b059a22898",
+    "status": "downloaded"
+  },
+  {
+    "id": "4",
+    "title": "CFPB Your home loan toolkit",
+    "url": "https://www.consumerfinance.gov/documents/5992/cfpb_your-home-loan-toolkit.pdf",
+    "resolved_url": "https://files.consumerfinance.gov/f/documents/cfpb_your-home-loan-toolkit.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_04.pdf",
+    "bytes": 2013558,
+    "sha256": "7f9c2663177950356fd2960f0ca55466530d7eacf1ec96750ee2930840625229",
+    "status": "downloaded"
+  },
+  {
+    "id": "5",
+    "title": "Fannie Mae Multistate Fixed Rate Note 3200 English",
+    "url": "https://singlefamily.fanniemae.com/media/document/pdf/legal-documents/form-3200",
+    "retrieved_date": "2026-10-06",
+    "status": "web_full_text_extracted",
+    "error": "HTTP Error 403: Forbidden",
+    "pdf_download_status": "unavailable",
+    "file": "fannie_web_extracted.txt",
+    "sha256": "d9ec210c40f42f295cce67c9e528d6d32a483e5e81f8a4b3c2b2633e34a6220b",
+    "method": "web tool extracted full source text"
+  },
+  {
+    "id": "6",
+    "title": "Fannie Mae Multistate Fixed Rate Note 3200 Chinese",
+    "url": "https://singlefamily.fanniemae.com/media/document/pdf/multistate-fixed-rate-note-3200-chinese",
+    "retrieved_date": "2026-10-06",
+    "status": "web_full_text_extracted",
+    "error": "HTTP Error 403: Forbidden",
+    "pdf_download_status": "unavailable",
+    "file": "fannie_web_extracted.txt",
+    "sha256": "d9ec210c40f42f295cce67c9e528d6d32a483e5e81f8a4b3c2b2633e34a6220b",
+    "method": "web tool extracted full source text"
+  },
+  {
+    "id": "7",
+    "title": "Fannie Mae Fixed Adjustable Rate Note 3442",
+    "url": "https://singlefamily.fanniemae.com/media/document/pdf/legal-documents/form-3442",
+    "retrieved_date": "2026-10-06",
+    "status": "web_full_text_extracted",
+    "error": "HTTP Error 403: Forbidden",
+    "pdf_download_status": "unavailable",
+    "file": "fannie_arm_web_extracted.txt",
+    "sha256": "7b90d7eec3b71ede4ee9c4bbd885c19da6e581a65286e9fbbf6371e2ee9c11ea",
+    "method": "web tool extracted full source text"
+  },
+  {
+    "id": "8",
+    "title": "Fannie Mae Fixed Adjustable Rate Note 3442 Chinese",
+    "url": "https://singlefamily.fanniemae.com/media/35231/display",
+    "retrieved_date": "2026-10-06",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

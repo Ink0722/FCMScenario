@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "FINRA，2018年4月纪律公告，LPL条目，PDF第4页",
+    "url": "https://www.finra.org/sites/default/files/publication_file/April_2018_Disciplinary_Actions.pdf",
+    "resolved_url": "https://www.finra.org/sites/default/files/publication_file/April_2018_Disciplinary_Actions.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_01.pdf",
+    "bytes": 173571,
+    "sha256": "9b6c2122493d4da021efb0b1a2c703b20c1f394603cd520e0a1fc749784ca50f",
+    "status": "downloaded"
+  },
+  {
+    "id": "2",
+    "title": "Marcus，七个月No-Penalty CD产品页",
+    "url": "https://www.marcus.com/us/en/savings/no-penalty-cds/7M",
+    "retrieved_date": "2026-10-06",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "3",
+    "title": "Marcus，Deposit Account Agreement，第IV部分",
+    "url": "https://www.marcus.com/content/dam/marcus/us/en/pdfs/Marcus_Deposit_Account_Agreement.pdf",
+    "retrieved_date": "2026-10-06",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "4",
+    "title": "Fidelity，Certificates of Deposit，产品、交易与退出说明",
+    "url": "https://www.fidelity.com/fixed-income-bonds/cds/",
+    "resolved_url": "https://www.fidelity.com/fixed-income-bonds/cds/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_04.html",
+    "bytes": 263071,
+    "sha256": "e7ac978195111228c7d4708ac7a3e44f8dbac3f0188f1bfa9512423b1ea5a342",
+    "status": "downloaded"
+  },
+  {
+    "id": "5",
+    "title": "Fidelity，CD Disclosure Statement，Early Withdrawal与Secondary Market",
+    "url": "https://www.fidelity.com/products/fixedincome/pdf/cddisclosure.pdf",
+    "resolved_url": "https://www.fidelity.com/products/fixedincome/pdf/cddisclosure.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_05.pdf",
+    "bytes": 85925,
+    "sha256": "856a5c6564da7fe8087e5c6b87b117b6eb25a778fcee1885e61823ad7dc87180",
+    "status": "downloaded"
+  },
+  {
+    "id": "6",
+    "title": "FDIC，存款保险的适用事件与保障范围",
+    "url": "https://www.fdic.gov/consumer-resource-center/2022-08/importance-deposit-insurance-and-understanding-your-coverage",
+    "resolved_url": "https://www.fdic.gov/consumer-resource-center/2022-08/importance-deposit-insurance-and-understanding-your-coverage",
+    "retrieved_date": "2026-10-06",
+    "file": "source_06.html",
+    "bytes": 91204,
+    "sha256": "9e105cf74c2c40f218e2cc9afc6407dcf92cc18d2226df89319bed5b0c0d3f17",
+    "status": "downloaded"
+  }
+]

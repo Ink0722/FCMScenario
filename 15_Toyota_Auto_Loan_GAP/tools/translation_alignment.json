@@ -1,0 +1,32 @@
+{
+  "case": 15,
+  "method": "栏目与条款范围映射；未声称整本原件或逐句翻译验收",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "第一部分　保障余额差额计划协议及披露",
+      "source_ids": [
+        "2"
+      ],
+      "source_locator": "NFCU 23A(8-26) PDF第1—2页全部业务条款；机构称谓匿名化",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 2,
+      "heading": "第二部分　加州汽车保险指南",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "CDI Automobile Insurance PDF第2—9页，按原栏目顺序",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 3,
+      "heading": "本次账户资料及办理记录",
+      "source_ids": [],
+      "source_locator": "tools/account_record.txt；具体参数来源及研究设定见Notes",
+      "text_status": "research account record"
+    }
+  ],
+  "limitations": []
+}

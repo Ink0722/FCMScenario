@@ -1,0 +1,101 @@
+\documentclass[UTF8,fontset=none,11pt,a4paper]{ctexart}
+\usepackage[left=21mm,right=21mm,top=27mm,bottom=22mm,headheight=26pt,headsep=6mm]{geometry}
+\usepackage{fontspec}
+\setmainfont{texgyretermes-regular.otf}[BoldFont=texgyretermes-bold.otf,ItalicFont=texgyretermes-italic.otf]
+\setCJKmainfont{Songti.ttc}[Path=/System/Library/Fonts/Supplemental/,FontIndex=6,AutoFakeBold=2]
+\setCJKsansfont{Songti.ttc}[Path=/System/Library/Fonts/Supplemental/,FontIndex=6,AutoFakeBold=2]
+\usepackage[table]{xcolor}
+\definecolor{TableHead}{HTML}{EEF0ED}
+\definecolor{Muted}{HTML}{666C68}
+\usepackage{booktabs,longtable,array,fancyhdr,needspace,xurl}
+\usepackage[unicode,hidelinks]{hyperref}
+\urlstyle{same}
+\linespread{1.32}
+\setlength{\parindent}{2em}
+\setlength{\parskip}{3pt}
+\setlength{\LTpre}{8pt}\setlength{\LTpost}{10pt}
+\ctexset{section={format=\fontsize{15}{20}\selectfont\bfseries,beforeskip=18pt,afterskip=8pt},subsection={format=\fontsize{12}{16}\selectfont\bfseries,beforeskip=12pt,afterskip=6pt},subsubsection={format=\normalsize\bfseries,beforeskip=9pt,afterskip=4pt}}
+\pagestyle{fancy}\fancyhf{}
+\renewcommand{\headrulewidth}{.3pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyhead[L]{\parbox[b]{\linewidth}{\fontsize{8}{10}\selectfont\color{Muted}住房贷款：固定月供还是先固定后浮动·本次账户资料及办理记录}}
+\fancyfoot[C]{\small\color{Muted}\thepage}
+\hypersetup{pdftitle={本次账户资料及办理记录},pdfsubject={仅供模拟使用·住房贷款：固定月供还是先固定后浮动·17-01},pdfauthor={金融决策模拟材料}}
+\begin{document}
+{\noindent\fontsize{20}{25}\selectfont\bfseries 本次账户资料及办理记录\par}
+\vspace{7pt}{\noindent\small\color{Muted}仅供模拟使用·住房贷款：固定月供还是先固定后浮动·17-01\par}\vspace{10pt}
+\subsection*{A：30年固定利率}
+\textbf{借款本金、摊还期限：} 216,000美元，30年
+
+
+\textbf{开始适用的年利率：} 5.00\%
+
+
+\textbf{开始的本金及利息月供：} 约1,159.53美元
+
+
+\textbf{首次利率调整：} 不调整
+
+
+\textbf{之后调整频率：} 不调整
+
+
+\textbf{调整时采用的利率规则：} 始终5.00\%
+
+
+\textbf{单次调整上限：} 不适用
+
+
+\textbf{整个贷款期间的利率范围：} 5.00\%
+
+
+\textbf{调整后的月供：} 本金及利息月供保持不变
+
+
+\textbf{折扣点及贷款机构费用：} 本次不支付折扣点；双方其他贷款机构费用相同
+
+
+\subsection*{B：5/1浮动利率}
+\textbf{借款本金、摊还期限：} 216,000美元，30年
+
+
+\textbf{开始适用的年利率：} 前60个月3.00\%
+
+
+\textbf{开始的本金及利息月供：} 前60个月约910.66美元
+
+
+\textbf{首次利率调整：} 第61个月
+
+
+\textbf{之后调整频率：} 每12个月调整一次
+
+
+\textbf{调整时采用的利率规则：} 1年期美国国债指数利率加2.50个百分点，再按调整上限及利率上下限处理
+
+
+\textbf{单次调整上限：} 首次及以后每次，相对之前利率最多上升或下降2个百分点
+
+
+\textbf{整个贷款期间的利率范围：} 最低2.50\%，最高8.00\%
+
+
+\textbf{调整后的月供：} 按当时未偿本金、新利率和剩余摊还期限重新计算
+
+
+\textbf{折扣点及贷款机构费用：} 本次不支付折扣点；双方其他贷款机构费用相同
+
+
+这里的月供只包括本金和利息。房产税、住房保险及两项共同的交易费用由已安排的其他资金支付，不随选项改变。两项都没有本次持有安排涉及的提前结清罚金，也没有只付利息或增加本金余额的付款方式。
+
+
+\subsection*{办理确认事项}
+B的前5年利率确定，之后的每次调整使用合同规定观察日的指数。指数未来数值随市场变化；调整上限限制一次变化的幅度，整个贷款的利率上下限也继续适用。合同期限仍是30年，并不是第5年必须清偿全部贷款。
+
+
+A在前12年的本金及利息月供按同一利率计算。B在前5年按3.00\%计算，从第6年开始由调整规则决定之后的利率、月供和归还本金进度。第12年末两项都结算各自届时未清偿本金。
+
+
+你现在选择的是贷款合同；第6年至第12年的实际指数尚未发生。本次不包含以后出售住房、换贷款或改变付款计划的另外选择。
+
+\end{document}

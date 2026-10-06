@@ -1,0 +1,31 @@
+{
+  "case": 14,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "14-01",
+      "pdf": "14_Navient_Student_Loan_Payment_Pause_90D_Reference_01.pdf",
+      "pages": 4,
+      "text_checks": 74,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "bef719de0679fbd2f5a04946d6cdbafbc55ec2115aa28fee145e4385931196f4",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "14-02",
+      "pdf": "14_Navient_Student_Loan_Payment_Pause_90D_Reference_02.pdf",
+      "pages": 4,
+      "text_checks": 80,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "922037e196722a8c58c7bbb39a770fcbcb4bd99e252ee99af4a1f6276a83b2f3",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "visual_review": "Centered table headers, short entries and numeric cells; paragraph cells left aligned; table endings bound and short HTML header line breaks removed; representative table pages inspected."
+}

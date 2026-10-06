@@ -1,0 +1,86 @@
+{
+  "case_folder": "11_AmeriSave_Mortgage_Points_4Y",
+  "title": "住房贷款报价及固定利率借据",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "11_AmeriSave_Mortgage_Points_4Y_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "本次账户资料及办理记录",
+        "source_ids": [],
+        "locator": "研究状态；来源区别见Notes"
+      },
+      {
+        "heading": "固定利率借据——报价A",
+        "source_ids": [
+          "4",
+          "5"
+        ],
+        "locator": "Fannie Mae 3200第1—10条"
+      },
+      {
+        "heading": "固定利率借据——报价B",
+        "source_ids": [
+          "4",
+          "5"
+        ],
+        "locator": "Fannie Mae 3200第1—10条"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": [
+    "保留所采用栏目内的金融关系、例外及程序",
+    "账户状态、个别报价及实验控制置于PDF账户记录，来源区别见Notes",
+    "未补造收益、事故概率、服务优势或资格"
+  ],
+  "content_sha256": "3b11509b33446961aeff0ab4780ef80c0aee9e4e0664d06e411c03a0cb9b51ed",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "本次账户资料及办理记录",
+      "source_ids": [],
+      "source_locator": "研究状态；来源区别见Notes",
+      "text_status": "research account record"
+    },
+    {
+      "id": 2,
+      "heading": "固定利率借据——报价A",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "source_locator": "Fannie Mae 3200第1—10条",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 3,
+      "heading": "固定利率借据——报价B",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "source_locator": "Fannie Mae 3200第1—10条",
+      "text_status": "Chinese source-based clause adaptation"
+    }
+  ],
+  "research_settings": {
+    "file": "tools/account_record.txt",
+    "section": "本次账户资料及办理记录",
+    "provenance": "案例参数、补充产品机制及研究控制的区别见Notes",
+    "sha256": "40c0bf98f8531c5062b9e7d74d0b764beaa3434e42656dfe93f49f5084899f03"
+  },
+  "rendering": "native_xelatex",
+  "pages": 6,
+  "qa_status": "pdf_rendered_text_check_passed",
+  "material_sha256": "64e121af80dd8a60875f7aad0d43ace150cf7c15b1c3d9550cfb55d371936cd0"
+}

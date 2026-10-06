@@ -1,0 +1,33 @@
+{
+  "pages": 32,
+  "source_units": 976,
+  "rendered_units": 920,
+  "removed_repeated_footer_units": 56,
+  "missing_text_units": [],
+  "native_latex_overflow": false,
+  "original_translation_array_unchanged": true,
+  "body_paragraphs_preserved": true,
+  "tables": 15,
+  "pdf_sha256": "41b16af8657dee22f212b3904a10ff845f5fe86ac615e9a20148c62d37048ae9",
+  "archive": "archive/before_reference_document_revision_20261006",
+  "visual_review": "Centered table headers, short entries and numeric cells; paragraph cells left aligned; table endings bound and short HTML header line breaks removed; representative table pages inspected.",
+  "checked_date": "2026-10-06",
+  "document_id": "01-01",
+  "current_report": "tools/pdf_documents_qa.json",
+  "pagination_updated": true,
+  "documents": [
+    {
+      "document_id": "01-01",
+      "pdf": "01_JPMorgan_Share_Class_8Y_Prospectus.pdf",
+      "pages": 32,
+      "text_checks": 920,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "a652a8b0a013cb15f38ee2684d950a9432663b5678999fcb9cc0becdfcc39495",
+      "latex_overflow": false
+    }
+  ],
+  "paragraphs_checked": 920,
+  "missing_paragraphs": [],
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

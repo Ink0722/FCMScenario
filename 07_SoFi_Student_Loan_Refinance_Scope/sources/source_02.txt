@@ -1,0 +1,198 @@
+
+--- PDF PAGE 1 ---
+162 3197
+UNITED STATES OF AMERICA
+BEFORE THE FEDERAL TRADE COMMISSION
+COMMISSIONERS: Joseph J. Simons, Chairman
+Noah Joshua Phillips
+Rohit Chopra
+Rebecca Kelly Slaughter
+Christine S. Wilson
+________________________________________________
+In the Matter of
+SOCIAL FINANCE, INC., a corporation, also
+d/b/a SOFI, and DOCKET NO. C-4673
+SOFI LENDING CORP., a corporation, also
+d/b/a SOFI.
+________________________________________________
+COMPLAINT
+The Federal Trade Commission, having reason to believe that Social Finance, Inc., a
+corporation, also doing business as SoFi, and SoFi Lending Corp., a corporation, also doing
+business as SoFi (collectively, “Respondents” or “SoFi”) have violated the provisions of the
+Federal Trade Commission Act, and it appearing to the Commission that this proceeding is in the
+public interest, alleges:
+1. Respondent Social Finance, Inc., also doing business as SoFi, is a Delaware corporation
+with its principal office or place of business at One Letterman Drive, Building A, San Francisco,
+California 94129.
+2. Respondent SoFi Lending Corp., also doing business as SoFi, is a California corporation
+with its principal office or place of business at 375 Healdsburg Avenue, Suite 280, Healdsburg,
+CA 95448. SoFi Lending Corp. is a wholly owned subsidiary of Respondent Social Finance,
+Inc.
+3. Respondents have marketed, advertised, offered, and originated a variety of credit
+products to consumers, including unsecured loans for the purposes of refinancing consumers’
+student loans. Respondents have disseminated or have caused to be disseminated advertisements
+promoting such student loan refinances.
+4. The acts and practices of Respondents alleged in this complaint have been in or affecting
+commerce, as “commerce” is defined in Section 4 of the Federal Trade Commission Act.
+--- PDF PAGE 2 ---
+Respondents’ Claims Regarding the
+Average Savings Achieved by Consumers
+5. Since at least April 2016, Respondents’ Internet, television, and direct mail
+advertisements have represented that consumers who obtain a student loan refinance from
+Respondents have saved, on average, specific large amounts of money over the lifetime of their
+loans or each month.
+6. In fact, in numerous instances, Respondents’ representations inflate the average savings
+consumers have actually achieved – sometimes even doubling the actual savings – by selectively
+excluding large categories of consumers. For example, in numerous instances, Respondents
+have promoted average lifetime savings amounts in their advertisements that exclude all
+consumers whose loans with Respondents have a longer term than the previous student loans that
+consumers refinanced. Most of these excluded consumers actually pay more money – thousands
+of dollars, on average – as a result of their loans with Respondents over the lifetime of those
+loans.
+7. Additionally, in numerous instances, Respondents have promoted average monthly
+savings amounts in their advertisements that exclude all consumers, on the flip side, whose loans
+with Respondents have a shorter term than the previous student loans that the consumers
+refinanced. Most of these excluded consumers actually pay more money each month – hundreds
+of dollars, on average – as a result of their loan with Respondents.
+8. In numerous instances, Respondents’ Internet advertisements have made prominent,
+unqualified claims regarding the average lifetime or monthly savings achieved by consumers
+who have obtained a student loan refinance from Respondents. For example, these
+advertisements, copies of which are attached as Exhibits A through E, have included the
+following statements:
+2
+--- PDF PAGE 3 ---
+Exhibit A
+Exhibit B
+3
+--- PDF PAGE 4 ---
+Exhibit C
+Exhibit D
+Exhibit E
+4
+--- PDF PAGE 5 ---
+9. Respondents have made similar claims in television advertisements. For example, the
+visual component of a television advertisement broadcast during the fall 2017 Major League
+Baseball playoffs, attached as Exhibit F, prominently represents the following about consumers’
+average lifetime savings:
+Exhibit F
+10. Respondents have also made similar claims in their direct mail advertisements. A copy
+of one such advertisement is attached as Exhibit G.
+A. The front of the first page of the direct mailer makes the following
+representations:
+Exhibit G at 2
+B. At the bottom of the reverse side of this page – buried beneath descriptions of the
+frequently asked questions, terms and conditions, and prescreen opt-out notices –
+the mailer contains the following fine print disclaimer:
+Exhibit G at 3
+5
+--- PDF PAGE 6 ---
+This fine print disclaimer, in a buried provision, reveals that consumers had not,
+in fact, saved the average lifetime amount prominently promoted on the front of
+this direct mailer. Instead, it acknowledges on the fifth and sixth lines of fine
+print text that, among other things, “SoFi’s average savings methodology for
+student loan refinancing excludes refinancings in which . . . members elect SoFi
+loans with longer maturity than their existing student loans.”
+11. Consumers who view one of Respondents’ Internet or television advertisements, or who
+receive one of Respondents’ direct mail advertisements, can apply for prequalification by
+visiting one of Respondents’ website landing pages. In numerous instances, these landing pages
+again prominently promote the average savings amounts represented to consumers in
+Respondents’ advertisements. Examples of such landing pages are attached as Exhibits H and I.
+The following statements have been featured at or near the top of these landing pages:
+Exhibit H
+Exhibit I
+6
+--- PDF PAGE 7 ---
+12. To the extent Respondents’ websites reveal that the prominently-touted average savings
+are not actually the average savings, that information is buried.
+A. For example, if consumers who view the landing page in Exhibit I above notice
+and click on the small number “2f” that follows the statement “members who
+refinance with us save an average of $288,
+” they have been directed to a separate
+webpage titled “Disclosures & Disclaimers” – an example of which is attached as
+Exhibit J. This webpage contains a lengthy list of buried disclaimers. Among
+those many disclaimers is the following:
+Exhibit J at 2
+This disclaimer, in a buried provision, reveals that consumers had not, in fact,
+saved the average monthly savings amount prominently promoted on the landing
+pages and Respondents’ other advertisements. Instead, it acknowledges on the
+sixth and seventh lines of text that, among other things, “SoFi’s monthly savings
+methodology for student loan refinancing excludes refinancings in which . . .
+members elect a SoFi loan with a shorter term than their prior student loan
+term(s).”
+B. If consumers who view the landing page in Exhibit I above notice and click on the
+small number “2” in the statement “members who refinance with us save an
+average . . . $22,3592 total,
+” they have also been directed to the separate webpage
+titled “Disclosures & Disclaimers” – attached as Exhibit J. Among the lengthy
+list of buried disclaimers is the following:
+7
+--- PDF PAGE 8 ---
+Exhibit J at 1
+This disclaimer, in a buried provision, reveals that consumers had not, in fact,
+saved the average lifetime savings amount prominently promoted on the landing
+pages and Respondents’ other advertisements. Instead, it acknowledges on the
+seventh and eighth lines of text that, among other things, “SoFi’s average savings
+methodology for student loan refinancing excludes refinancings in which …
+members elect SoFi loans with longer maturity than their existing student loans.”
+13. From the landing pages described in Paragraph 11 above, in many instances consumers
+can apply for prequalification for a loan by clicking on a button or link, such as the “Find My
+Rate” button in Exhibit H above.
+14. After consumers click on the button or link, they can apply for prequalification. In order
+to apply for prequalification, in numerous instances, consumers have had to create an online
+account with Respondents, and then fill out an online application. In numerous instances, the
+application has required that consumers enter a variety of personal information, including name,
+contact information, date of birth, income, citizenship status, employment information, and
+educational history.
+15. After consumers are prequalified for a loan online, in numerous instances Respondents’
+website directs consumers to a webpage alerting them that they prequalify and displaying the
+available loan options for which they prequalify (based on information consumers can input
+regarding their current student loans). An example of such a webpage is attached as Exhibit K.
+As shown in Exhibit K, this webpage provides the consumer’s estimated individual savings for a
+select group of loans, while excluding the individual estimated savings or losses for other
+available loans, as discussed below:
+A. To the extent a consumer seeking a fixed rate loan would pay more over the
+lifetime of a loan or each month, the webpage does not inform the consumer how
+much more money the consumer would pay. Instead, it falsely states that the
+consumer’s lifetime or monthly savings would be “$0.00.”
+B. To the extent a consumer seeking a variable rate loan would pay more each
+month, the website does not inform the consumer how much more money the
+consumer would pay. Instead, it falsely states that the consumer’s monthly
+savings would be “$0.00.”
+16. Respondents’ prominent representations, in Paragraphs 8 through 11 above, that
+consumers have saved, on average, large amounts of money over the lifetime of their loans or
+each month are false. In fact, these representations significantly inflate the average savings
+consumers have actually achieved – sometimes even doubling the actual savings – by selectively
+excluding large categories of consumers. Further, none of Respondents’ advertisements, buried
+disclaimers, or application information, as described in Paragraphs 8 through 15 above, shows
+consumers who were exposed to Respondents’ deceptive savings claims the actual, dramatically-
+lower average lifetime or monthly savings Respondents’ consumers have received. In fact, as
+8
+--- PDF PAGE 9 ---
+noted above, most of the consumers excluded from Respondents’ savings claims pay more
+money over the relevant time periods – losing thousands of dollars (on average) over the lifetime
+of their loans, or paying hundreds of dollars more (on average) in monthly payments.
+FEDERAL TRADE COMMISSION ACT VIOLATION
+Count I
+False, Misleading, or Unsubstantiated Claims Regarding the
+Amount of Money Saved by Consumers
+17. In connection with the advertising, marketing, promotion, or offering of student loans,
+Respondents have represented, directly or indirectly, expressly or by implication, that:
+A. Consumers who obtain a refinance of student loans from Respondents have saved a
+specific, large average amount over the lifetime of these loans, such as “$18,936” or
+“$22,359”;
+B. Consumers who obtain a refinance of student loans from Respondents have saved a
+specific, large average monthly amount, such as “$292” or “$316”; and
+C. Consumers who prequalify for a refinance of student loans from Respondents will not
+lose money over the lifetime of one or more of Respondents’ refinance loans, or each
+month.
+18. In numerous instances, the representations set forth in Paragraph 17 were false or
+misleading, or were not substantiated at the time the representations were made.
+19. Therefore, Respondents’ practices constitute deceptive acts or practices in or affecting
+commerce in violation of Section 5(a) of the FTC Act, 15 U.S.C. §45(a).
+THEREFORE, the Federal Trade Commission this twenty-second day of February
+2019, has issued this Complaint against Respondents.
+By the Commission.
+April J. Tabor
+Acting Secretary
+SEAL:
+9

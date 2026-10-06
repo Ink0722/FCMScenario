@@ -1,0 +1,1970 @@
+
+--- PDF PAGE 1 ---
+Disciplinary and
+Other FINRA Actions
+Firm Expelled
+Craig Scott Capital, LLC (CRD® #155924, Uniondale, New York)
+September 7, 2017 – An Office of Hearing Officers (OHO) decision became
+final in which the firm was expelled from FINRA® membership. In light of the
+expulsion, no monetary sanctions were imposed. The sanction was based
+on findings that the firm, acting through three registered representatives,
+excessively traded in customer accounts. The findings stated the trading in
+the affected customer accounts was excessive based on the cost-to-equity
+ratios and turnover rates. The registered representatives had de facto control
+over the trading in the accounts. In light of the level of commissions, markups,
+markdowns and other charges to the customers, the level of trading was
+inconsistent with the customers’ objectives and financial situations. The
+firm was responsible for the excessive trading of customer accounts by its
+registered representatives and was responsible for the representatives’
+excessive trading under principles of respondeat superior.
+The findings also stated that the excessive trading in customer accounts
+constituted churning. Accordingly, by churning customer accounts, the firm
+violated Section 10(b) of the Securities Exchange Act of 1934 (Exchange Act)
+and Rule 10b-5, and FINRA Rules 2010 and 2020. The findings also included
+that the firm failed to establish, maintain and enforce a reasonable supervisory
+system, including written supervisory procedures (WSPs) to prevent excessive
+trading and churning of customer accounts, and failed to reasonably supervise
+its registered representatives to prevent these behaviors. The firm’s owners
+were aware of “red flags” indicating that registered representatives were, or
+might be, excessively trading and churning customer accounts. Nonetheless,
+the owners failed to reasonably respond to those red flags and thus failed to
+exercise reasonable supervision.
+FINRA found that the firm failed to establish a reasonable system and
+procedures to ensure that its sales force avoided contacting persons on the
+firm-specific do-not-call list and the national do-not-call list. The firm relied on
+an honor system, whereby members of the sales force would provide names to
+a sales assistant to place on the firm’s do-not-call list, which was periodically
+circulated to the registered representatives. Generally, the firm’s cold-callers
+routinely failed to check, or ignored, the internal list. FINRA also found that
+the firm provided false information to FINRA regarding the use of recording
+equipment and the recording of telephone calls at the firm. (FINRA Case
+#2015044823501)
+Reported for
+November 2017
+FINRA has taken disciplinary actions
+against the following firms and
+individuals for violations of FINRA
+rules; federal securities laws, rules
+and regulations; and the rules of
+the Municipal Securities Rulemaking
+Board (MSRB).
+Contents
+Firm Expelled 1
+Firms Fined, Individuals
+Sanctioned 2
+Firms Fined 4
+Individuals Barred 13
+Individuals Suspended 18
+Complaints Filed 35
+1
+--- PDF PAGE 2 ---
+November 2017
+Firms Fined, Individuals Sanctioned
+Revere Securities LLC (CRD #14178, New York, New York) and Kurt Alfred Hurst (CRD
+#1681153, Elizabeth, New Jersey)
+September 7, 2017 – A Letter of Acceptance, Waiver and Consent (AWC) was issued in
+which the firm was censured and fined $75,000. Former branch manager Hurst was
+fined $5,000 and suspended from association with any FINRA member in any principal
+capacity for two months. Without admitting or denying the findings, the firm and Hurst
+consented to the sanctions and to the entry of findings that the firm failed to develop
+and implement an anti-money laundering (AML) program that was reasonably designed
+to achieve and monitor its compliance with requirements of the Bank Secrecy Act. The
+findings stated that the firm failed to establish and implement policies and procedures that
+could be reasonably expected to detect and cause the reporting of potentially suspicious
+activity relating to transactions involving the deposit and liquidation of millions of shares
+of microcap stocks.. In April 2013, a new registered representative joined the firm. Hurst
+and the representative knew, at the time the representative was on-boarded, that his
+clients regularly engaged in microcap stock transactions. After the representative joined
+the firm, many of his customers deposited microcap stocks in physical certificate or
+electronically, and then proceeded to liquidate those positions and wired out the proceeds
+shortly thereafter. As branch manager, Hurst was responsible for approving securities
+deposits and for monitoring the customer activity that followed, including potentially
+suspicious activity. The representative’s customers liquidated more than 23 million shares
+of microcap stocks, generating proceeds for the customers of approximately $889,000.
+The firm’s AML procedures were not sufficiently tailored to a microcap stock liquidation
+business and the associated regulatory risks, including the use of such securities by issuers,
+stock promoters and others affiliated with the issuers for money laundering or to commit
+securities fraud or market manipulation. The firm’s system for reviewing for potentially
+suspicious trading activity consisted primarily of its manual review of daily trade blotters,
+which was conducted by Hurst. However, Hurst failed to identify any of the deposit and
+liquidation activity of the representative’s customers as potentially suspicious, nor he did
+he escalate any of it to the firm’s AML Compliance Officer. This manual review was not
+reasonably designed to detect patterns of potentially suspicious activity that might occur
+over the course of days, weeks or months. The firm’s system for detecting and investigating
+red flags relating to the microcap stock activities of representative’s customers also was
+unreasonable. The firm and Hurst failed to identify any of the representative’s customers’
+activities as potentially suspicious notwithstanding the existence of red flags, such as the
+deposit and liquidation of the same microcap stock by several of the representative’s clients
+in a short timeframe; clients with problematic criminal, civil or regulatory histories; and
+promotional activity.
+The firm and Hurst also failed to establish, maintain and enforce a supervisory system
+that was reasonably designed to achieve compliance with Section 5 of the Securities Act
+of 1933 (Securities Act). Hurst was responsible for securities deposits, both electronic and
+2 Disciplinary and Other FINRA Actions
+--- PDF PAGE 3 ---
+November 2017
+physical, at the firm’s New York branch. Neither Hurst nor the firm conducted due diligence
+or investigations with respect to electronic deposits of microcap stocks and therefore made
+no determination that those microcap stocks were registered and free from restriction.
+For physical certificates of microcap stocks, the firm and Hurst relied solely on information
+obtained from interested parties rather than conducting adequate independent reviews to
+determine whether proposed resale transactions amounted to unregistered distributions.
+As a result of these inadequate procedures, the firm and Hurst failed to conduct reasonable
+due diligence before executing sales of microcap stocks to verify that the transactions were
+either registered or exempt from registration.
+The findings also included that the firm failed to meet the documentation requirements
+related to microcap stock transactions and failed to establish a supervisory system that was
+reasonably designed to achieve compliance with the disclosure rules governing penny stock
+transactions. The firm relied on its registered representatives and trading desk to correctly
+flag those transactions for which documentation was required and failed to establish a
+process to test that the system was functioning properly.
+The suspension is in effect from October 2, 2017, through December 1, 2017. (FINRA Case
+#2014039396101)
+Ziv Investment Company (CRD #4316, Chicago, Illinois) and Peter Gordon Ziv (CRD
+#1178100, Chicago, Illinois)
+September 26, 2017 – An AWC was issued in which the firm was censured and fined
+$75,000. Ziv was fined $10,000 and suspended from association with any FINRA member
+in any principal capacity for 15 business days. Without admitting or denying the findings,
+the firm and Ziv consented to the sanctions and to the entry of findings that they failed
+to establish, maintain and enforce adequate WSPs, and failed to establish an adequate
+supervisory system related to the review, and documentation of the review, of daily
+transactions and customer orders. The findings stated that the firm’s WSPs failed to make
+clear the records it would utilize to perform principal reviews of daily transactions, the
+identity of the registered principals designated to conduct daily supervisory reviews and
+approvals, and the process to be used to memorialize the review and approvals. Under
+the firm’s WSPs, Ziv, as president and chief compliance officer (CCO), was responsible
+for establishing, maintaining and enforcing the firm’s supervisory control system,
+policies and procedures to achieve compliance with the federal securities laws and FINRA
+rules. In addition to the ambiguous WSPs, different principals at the firm had different
+understandings as to the identity of the specific registered principal responsible for
+the daily review of transactions and as to how they would conduct and document their
+reviews. The various principals and operations personnel at the firm also had conflicting
+understandings and practices regarding the procedures in which to accept customer orders
+and the exact information required on order tickets. The firm only documented the identity
+of the representative who was assigned to the account, but not the representative who
+accepted the orders from the customer, which in many cases was different from the person
+Disciplinary and Other FINRA Actions 3
+--- PDF PAGE 4 ---
+November 2017
+assigned to the account. In addition, the trade tickets did not show evidence of principal
+review. Ziv, the firm’s designated registered options principal, delegated the review and
+approval of options transactions executed by him to a person who was not a registered
+options principal, even though the firm had another registered options principal. Ziv’s
+delegation of options transactions were unreasonable because they were reviewed and
+approved by an unqualified principal.
+The findings also stated that the firm and Ziv failed to provide documentation that Ziv, or
+a qualified designee, performed a review and approved discretionary accounts in writing
+prior to discretionary orders being executed on the accounts’ behalf. The findings also
+included that the firm and Ziv could not demonstrate a reasonable inspection of its branch
+office, failed to maintain an inspection memorandum for its branch office and failed to
+evidence the testing and verification of the branch’s safeguarding of customer funds and
+securities, maintenance of books and records, supervision of customer accounts, customer
+transmittal of funds, and validation of certain customer information.
+The suspension was in effect from October 16, 2017, through November 3, 2017. (FINRA
+Case #2014039231701)
+Firms Fined
+CFD Investments, Inc. (CRD #25427, Kokomo, Indiana)
+September 7, 2017 – An AWC was issued in which the firm was censured and fined
+$30,000. Without admitting or denying the findings, the firm consented to the sanctions
+and to the entry of findings that it failed to establish, maintain, and enforce a reasonable
+supervisory system designed to ensure the review of its representatives’ sales of leveraged
+and inverse exchange-traded funds (non-traditional ETFs). The findings stated that the firm
+failed to reasonably supervise the sales of non-traditional ETFs, in that firm representatives
+sold non-traditional ETFs totaling $2 million dollars to their customers, involving
+approximately 150 transactions. The firm did not have written procedures reasonably
+tailored to address the unique features and risks associated with non-traditional ETFs and
+did not provide formal training to the representatives involved in selling the products to
+retail customers. The findings also stated that the firm did not have any exception reports
+or surveillance tools to monitor the accounts holding non-traditional ETFs for potentially
+unsuitable and lengthy holding periods. As a consequence, many of the customers held
+these products for long periods of time. (FINRA Case #2014039216501)
+Citigroup Global Markets Inc. (CRD #7059, New York, New York)
+September 8, 2017 – An AWC was issued in which the firm was censured, fined $65,000,
+and required to revise its WSPs. Without admitting or denying the findings, the firm
+consented to the sanctions and to the entry of findings that it failed to accept or decline
+in the FINRA/Nasdaq Trade Reporting Facility (FNTRF) transactions in reportable securities
+4 Disciplinary and Other FINRA Actions
+--- PDF PAGE 5 ---
+November 2017
+within 20 minutes after execution. The findings stated that the firm’s supervisory system
+for its Convertible Trading Desk did not provide for supervision reasonably designed to
+achieve compliance with respect to FINRA Rule 7230A(b). The findings also stated that the
+firm failed to submit to the over-the-counter (OTC) Reporting FacilityTM (ORFTM) last sale
+reports of transactions in OTC equity securities within 10 seconds after execution, and
+failed to submit last sale reports of transactions in OTC equity securities within 10 seconds
+after execution. (FINRA Case #2015045971701)
+Virtu Financial Capital Markets LLC (CRD #45986, New York, New York)
+September 8, 2017 – An AWC was issued in which the firm was censured and fined
+$175,000. A lower fine was imposed after considering, among other things, the firm’s
+revenue and financial resources. Without admitting or denying the findings, the firm
+consented to the sanctions and to the entry of findings that it failed to maintain electronic
+brokerage records related to approximately 46 million market-making transactions in
+”write one, read many” (WORM) format. The findings stated that the firm failed to provide
+the required 90-day notice to FINRA prior to retaining a vendor to provide electronic
+storage. The findings also stated that the firm did not have an audit system for those
+records it failed to maintain in WORM format. The findings also included that the firm
+failed to obtain an attestation from its third-party vendor that it will supply electronically
+stored records to regulatory authorities in the event the firm is unable to provide such
+records. FINRA found that the firm failed to establish, maintain and enforce WSPs
+reasonably designed to achieve compliance with the record retention requirements under
+Exchange Act Rule 17a-4. (FINRA Case #2016051831201)
+ITG Inc. (CRD #29299, New York, New York)
+September 12, 2017 – An AWC was issued in which the firm was censured and fined
+$22,500, to be paid jointly to FINRA and other exchanges in related disciplinary actions,
+of which $3,000 shall be paid to FINRA. Without admitting or denying the findings,
+the firm consented to the sanctions and to the entry of findings that it failed to take
+reasonable steps to establish that intermarket sweep orders it routed met the definitional
+requirements set forth in Regulation NMS Rule 600(b)(30). The findings stated that the
+firm failed to establish and maintain a supervisory system that was reasonably designed
+to achieve compliance with Regulation NMS Rule 611(c) and applicable securities laws and
+regulations regarding the use of intermarket sweep orders. (FINRA Case #2015045281203)
+J.P. Morgan Securities LLC (CRD #79, New York, New York)
+September 13, 2017 – An AWC was issued in which the firm was censured, fined
+$1,100,000, and required to revise its WSPs and provide a written report regarding the
+implementation and performance (to date) of the revised WSPs. Without admitting or
+denying the findings, the firm consented to the sanctions and to the entry of findings
+that the firm undertook a Code-Split to create separate order management systems
+(OMS) for its institutional cash clients and for its retail clients. The findings stated that
+Disciplinary and Other FINRA Actions 5
+--- PDF PAGE 6 ---
+November 2017
+in implementing the Code-Split, the firm failed to account for certain filters in the firm’s
+prior OMS which resulted in the over-advertisement of trade volume. As a result, the firm
+erroneously captured volume that had already been advertised on a trade date when it later
+swept for volume that was delayed for advertising, based on client preference, on trade
+date plus three (T+3). The firm’s prior system also did not filter out replicated parent-child
+order volume. As a result, an institutional client trade that was advertised appropriately
+on a particular trade date would be submitted again for advertisement, and in the case of
+some parent-child orders, more than once, on a T+3 basis. As additional institutional clients
+were moved to the new OMS, a process that occurred over a four-month period, the impact
+of the over-advertised T+3 volume increased. The firm likely overstated its advertised trade
+volume by billions of shares through Bloomberg and AutEx. Ultimately, the firm voluntarily
+removed billions of shares that it advertised, including advertisements related to actual
+executions, but not until after the relevant trade dates. The findings also stated that the
+individual who conducted reviews of the accuracy of advertised trade volume did not have
+access to firmwide execution volume because of information barriers. Thus, firmwide
+execution volume was not readily accessible to the individuals conducting reviews of
+the accuracy of advertised trade volume. This inhibited the firm’s ability to adequately
+know the trade volume for any security to ensure any advertisement of such volume was
+accurate. The firm also failed to have any supervisory system, including WSPs, in place
+to review the accuracy of trade volume advertised on a T+3 basis. The firm’s supervisory
+deficiencies adversely affected the firm’s ability to adequately review the accuracy of its
+trade volume advertisements. (FINRA Case #2012033515001)
+Aegis Capital Corp. (CRD #15007, New York, New York)
+September 20, 2017 – An AWC was issued in which the firm was censured, fined $27,500,
+ordered to pay $620.30, plus interest, in restitution to customers, and required to revise
+its WSPs. Without admitting or denying the findings, the firm consented to the sanctions
+and to the entry of findings that it failed to execute orders fully and promptly. The findings
+stated that the firm failed to use reasonable diligence to ascertain the best inter-dealer
+market and failed to buy or sell in such a market so that the resultant price to its customer
+was as favorable as possible under prevailing market conditions. The findings also stated
+that the firm’s supervisory system did not provide for supervision reasonably designed
+to achieve compliance with respect to certain applicable securities laws and regulations
+and FINRA rules. The firm’s WSPs failed to sufficiently provide for the one or more of the
+minimum requirements for adequate WSPs concerning FINRA Rule 5310 compliance.
+(FINRA Case #2016048939201)
+Scottrade, Inc. (CRD #8206, St. Louis, Missouri)
+September 22, 2017 – An AWC was issued in which the firm was censured, fined $170,000,
+and required to revise its supervisory system, including, but not limited to, its WSPs.
+Without admitting or denying the findings, the firm consented to the sanctions and to
+the entry of findings that it did not “media report” 1,130,000 transactions to the OTCRF.
+6 Disciplinary and Other FINRA Actions
+--- PDF PAGE 7 ---
+November 2017
+The findings stated that as a result, the quality and usability of information received and
+employed by FINRA in its overall surveillance of market activity in OTC equity securities
+was negatively impacted. In addition, information made available to the public as part of
+FINRA’s regular dissemination of information regarding media reported transactions was
+not made available with respect to these 1,130,000 transactions. The findings also stated
+that the firm’s supervisory system did not provide for supervision reasonably designed to
+achieve compliance with FINRA’s equity trade reporting rules related to media reporting.
+(FINRA Case #2015044085201)
+Enclave Capital LLC (CRD #22732, New York, New York)
+September 25, 2017 – An AWC was issued in which the firm was censured and fined
+$30,000. Without admitting or denying the findings, the firm consented to the sanctions
+and to the entry of findings that it conducted a securities business while failing to
+maintain its required minimum net capital, and maintained inaccurate financial books and
+records. The findings stated that the firm failed to accrue certain business expenses which
+resulted in maintaining an inaccurate general ledger and filing inaccurate Financial and
+Operational Combined Uniform Single (FOCUS) reports. The findings also stated that the
+firm’s net capital deficiencies were caused by the firm’s failure to accrue certain business
+related expenses, the firm’s repayment of a loan, a delay in the collection of non-allowable
+receivables and a monthly operating loss. (FINRA Case #2015046229701)
+Quantriver Financial, LLC (CRD #153906, Fort Meyers, Florida)
+September 25, 2017 – An AWC was issued in which the firm was censured, fined $10,000,
+and required to revise its WSPs and provide a representation that revised its WSPs to
+address its deficiencies. FINRA imposed a lower fine after it considered, among other things,
+the firm’s revenues and financial resources. Without admitting or denying the findings,
+the firm consented to the sanctions and to the entry of findings that it failed to transmit
+reportable order events (ROEs) to the Order Audit Trail System (OATSTM). The findings stated
+that the firm’s supervisory system was not designed to reasonably achieve compliance
+with respect to the applicable securities laws and regulations and FINRA rules. The firm’s
+WSPs failed to provide for one or more of the minimum requirements for adequate WSPs
+concerning OATS reporting. (FINRA Case #2016050169001)
+Aaron Capital Incorporated (CRD #28583, Memphis Tennessee)
+September 27, 2017 – An AWC was issued in which the firm was censured and fined
+$5,000. A lower fine was imposed after considering, among other things, the firm’s revenue
+and financial resources. Without admitting or denying the findings, the firm consented
+to the sanctions and to the entry of findings that it engaged in a securities business while
+failing to maintain required net capital. The findings stated that the net capital deficiency
+resulted from the firm’s failure to record approximately $90,000 in liabilities in its general
+ledger and to include those liabilities in its net capital computations. The firm erroneously
+calculated and reported an excess net capital in its FOCUS filings. The findings also stated
+Disciplinary and Other FINRA Actions 7
+--- PDF PAGE 8 ---
+November 2017
+that the firm’s automated email-surveillance system flagged 135,855 emails for review
+by one of four principals to which it had assigned that responsibility; however, only 73
+of those emails were actually reviewed. This resulted from the firm’s failure to properly
+communicate the email-review responsibilities to all of the principals that the firm had
+designated in its WSPs as responsible for email review. The firm subsequently reviewed the
+flagged emails after the failure was identified. (FINRA Case #2015043288701)
+H. Beck, Inc. (CRD #1763, Bethesda, Maryland)
+September 27, 2017 – An AWC was issued in which the firm was censured and fined
+$50,000. Without admitting or denying the findings, the firm consented to the sanctions
+and to the entry of findings that through a registered representative, made unsuitable
+recommendations of nontraditional ETFs and metals and mining stocks to a firm customer.
+The findings stated that the customer, a professional athlete with no investment
+experience, had a moderate risk tolerance and an investment objective of long-term
+growth. The customer lost a total of $1,115,793 on these investments. The findings also
+stated that the firm allowed its registered representatives to recommend nontraditional
+ETFs to their customers without establishing and maintaining a supervisory system
+reasonably designed to ensure that these recommendations were suitable. The firm failed
+to reasonably tailor its systems and procedures to address the unique risks involved with
+investing in nontraditional ETFs and did not provide specific guidance to assist its brokers
+and supervisors in assessing the factors that would make a nontraditional ETF suitable or
+unsuitable for a particular investor. The firm did not provide any special training relating
+to the suitability of nontraditional ETFs and reviewed transactions involving nontraditional
+ETFs in the same manner it reviewed transactions involving standard ETFs and equities.
+Although the firm used a trade surveillance system to monitor trading in its customers’
+accounts, it did not implement any parameters to flag transactions involving nontraditional
+ETFs for further review. As a result, the firm failed to ensure that the securities the
+registered representative recommended to the customer were consistent with his
+investment profile, and it failed to identify and investigate these transactions to determine
+whether these investments were suitable for the customer. The firm’s trade surveillance
+system did not flag for suitability review any of the registered representative’s sales of
+nontraditional ETFs to the customer. The firm paid the customer $1.5 million to settle his
+arbitration claims against the firm, which arose in part from the registered representative’s
+recommendations. As a result, the firm is not required to make restitution as part of this
+settlement. (FINRA Case #2016048675901)
+Wedbush Securities, Inc. (CRD #877, Los Angeles, California)
+September 27, 2017 – An AWC was issued in which the firm was censured and fined a
+total of $470,000, of which $400,000 is payable to FINRA. Without admitting or denying
+the findings, the firm consented to the sanctions and to the entry of findings that it failed
+to transmit ROEs to OATS. The findings stated that the firm failed to detect a technology
+issue that affected its reporting system, which caused the ROEs generated by one of its
+8 Disciplinary and Other FINRA Actions
+--- PDF PAGE 9 ---
+November 2017
+sponsored access clients not to be transmitted to OATS. The firm failed to enforce its WSPs,
+which specified that the firm would review its OATS Web interface reports and data to
+ensure that all ROEs were being submitted to OATS. Based on the volume of non-reporting
+and the extended period over which it occurred, the firm’s supervisory system did not
+provide for supervision reasonably designed to achieve compliance with the securities laws
+and regulations and FINRA rules regarding OATS.
+The findings also stated that in 171 instances, the firm accepted a short sale order from
+another person, or effected a short sale for its own account, without first borrowing the
+security, or entering into a bona-fide arrangement to borrow the security; and had a fail-to-
+deliver position at a registered clearing agency in such a security that was not closed out in
+accordance with the requirements of paragraph (a) of Securities and Exchange Commission
+(SEC) Rule 204. In four instances, the firm executed a short sale order and failed to properly
+mark the order as short. The firm’s supervisory system did not provide for supervision
+reasonably designed to achieve compliance with respect to the applicable securities
+laws and regulations concerning Rule 204 of Regulation SHO. The findings also included
+that for 61 settlement dates, the firm reported inaccurate short interest positions. The
+violations resulted from a coding error that caused the firm to erroneously include short
+interest positions from certain accounts in the short interest reports the firm submitted to
+FINRA. The firm’s supervisory system did not provide for supervision reasonably designed
+to achieve compliance with respect to the applicable securities laws and regulations, and
+FINRA rules, concerning short interest position reporting. (FINRA Case #2011030598001)
+Weston Financial Services LLC (CRD #117946, New York, New York)
+September 27, 2017 – An AWC was issued in which the firm was censured and fined
+$20,000. Without admitting or denying the findings, the firm consented to the sanctions
+and to the entry of findings that it failed to maintain accurate financial books and records.
+The findings stated that the firm predominantly engaged in secondary market securities
+transactions, matching buyers and sellers of alternative investments, including hedge fund
+interests. While the firm maintained certain underlying purchase and sale information for
+transactions in multiple different formats and locations, it did not maintain a purchase
+and sale blotter for these secondary market transactions as required under SEC and FINRA
+rules. The findings also stated that the firm failed to conduct timely searches of account or
+transactional information based on requests made by the U.S. Treasury’s Financial Crimes
+Enforcement Network, as required under the Bank Secrecy Act and its implementing
+regulations. (FINRA Case #2013035268401)
+Chardan Capital Markets LLC (CRD #120128, New York, New York)
+September 28, 2017 – An AWC was issued in which the firm was censured, fined $135,000,
+and required to address certain deficiencies. Without admitting or denying the findings,
+the firm consented to the sanctions and to the entry of findings that it failed to conduct
+reviews for potential marking-the-close activities, as required by its WSPs. The findings
+Disciplinary and Other FINRA Actions 9
+--- PDF PAGE 10 ---
+November 2017
+stated that the reports relied upon by the firm failed to identify potential prohibited
+transactions and practices in proprietary accounts, including potential marking-the-close
+transactions involving two OTC marketplace securities. Because proprietary orders directed
+by the firm’s proprietary trader were placed on those markets, the firm failed to surveil
+those orders and failed to detect and prevent potential marking-the-close activity as
+required by its WSPs.
+The findings also stated that the firm failed to enforce a supervisory system, including
+WSPs, to supervise the activities of the firm’s registered representatives and associated
+persons, which was reasonably designed to achieve compliance with applicable securities
+laws and regulations and FINRA rules. Although the firm’s WSPs included procedures to
+detect prohibited transactions and practices in proprietary accounts, such as the proprietary
+trader’s marking-the-close activities, the firm failed to conduct order reviews for marking
+activities, as required by its WSPs. The proprietary trader’s marking-the-close activities
+took place in two OTC markets and, therefore, the firm failed to reasonably supervise for
+potential marking activities in OTC marketplace securities. (FINRA Case #2011030509803)
+GBM International, Inc. (CRD #28684, Houston, Texas)
+September 28, 2017 – An AWC was issued in which the firm was censured, fined $15,000,
+and required to revise its WSPs. Without admitting or denying the findings, the firm
+consented to the sanctions and to the entry of findings that it failed to transmit ROEs to
+OATS. The findings stated that the firm’s supervisory system did not provide for supervision
+reasonably designed to achieve compliance with respect to the applicable securities laws
+and regulations and FINRA rules concerning OATS reporting accuracy. The firm’s supervisory
+system did not include WSPs providing for adequate supervisory steps, in that they did not
+provide for a sampling of OATS reports to underlying order records to verify the accuracy of
+the firm’s OATS reports. (FINRA Case #2016049504801)
+NTB Financial Corporation fka Neidiger, Tucker, Bruner, Inc. (CRD #7425, Centennial,
+Colorado)
+September 28, 2017 – An AWC was issued in which the firm was censured and fined
+$30,000. Without admitting or denying the findings, the firm consented to the sanctions
+and to the entry of findings that contrary to its WSPs, the firm’s former CCO allowed
+certain representatives to use their personal emails to send and/or receive business-related
+communications, so long as such emails were copied to a firm email address for review
+and retention purposes. The firm’s written procedures were not updated to reflect this
+modification. In addition, not all representatives complied with the condition that they
+copy emails to a firm email address. At least three representatives used personal email
+addresses to send and/or receive business-related emails that were not always copied
+to the firm. Most of these emails were internal firm communications sent from a firm
+email address to the representatives’ personal email addresses and were thus captured
+by the firm. Additionally, the firm failed to enforce its WSPs pertaining to email review.
+10 Disciplinary and Other FINRA Actions
+--- PDF PAGE 11 ---
+November 2017
+Those procedures required that, on an ongoing basis, 10 percent of all retail registered
+representatives’ emails and five percent of other department emails would be reviewed for
+“appropriateness of communications” using a random “sampling basis.” The firm’s email
+review system flagged a random sample of approximately 350,000 emails for review during
+a period of time, but the firm reviewed less than one percent of the flagged emails. (FINRA
+Case #2015043355601)
+Oak Tree Securities, Inc. (CRD #18126, Livermore, California)
+September 28, 2017 – An AWC was issued in which the firm was censured and fined
+$50,000. Without admitting or denying the findings, the firm consented to the sanctions
+and to the entry of findings that it failed to establish, maintain and enforce a supervisory
+system, including WSPs, reasonably designed to ensure the security of electronically
+stored confidential customer information ,including failing to oversee, supervise and
+monitor third-party vendors involved with its public website. The findings stated that
+the firm used the third-party vendors to create and host its public website, which both
+contained general information about the firm and allowed registered representatives to
+access firm systems and account information. The firm, however, did not have any policies
+and procedures in place to ensure that it maintained the confidentiality of its customers’
+nonpublic personal information stored and accessed electronically. In addition, the firm did
+not have policies and procedures in place to adequately supervise its third-party vendors to
+ensure those vendors maintained the confidentiality of its customers’ nonpublic personal
+information stored and accessed electronically. The firm’s purchase and sale blotter was
+accessible through the firm’s public website by using the website map or by manually
+entering a specific address into a browser. The blotter contained links that led to a series
+of menus containing client names that, if selected, caused customer account numbers
+to appear, including, in limited instances, account numbers comprised of customers’
+social security numbers. During at least seven days, an Internet search engine accessed
+the firm’s purchase and sale blotter by ‘crawling’ through the firm’s public website. Thus,
+the firm’s public website exposed ‘ nonpublic personal information—including names,
+account numbers, and social security numbers—of over 700 customers. (FINRA Case
+#2015043455201)
+R. Seelaus & Co., Inc. (CRD #14974, Summit, New Jersey)
+September 28, 2017 – An AWC was issued in which the firm was censured and fined
+$35,000. Without admitting or denying the findings, the firm consented to the sanctions
+and to the entry of findings that it failed to report information regarding purchase and
+sale transactions effected in municipal securities to the Real-Time Transaction Reporting
+System (RTRS) in the manner prescribed by Municipal Securities Rulemaking Board (MSRB)
+Rule G-14 RTRS Procedures and the RTRS Users Manual. The findings stated that the
+firm’s supervisory system did not provide for supervision reasonably designed to achieve
+compliance with respect to the applicable securities laws and regulations and the MSRB
+rules concerning municipal securities reporting. (FINRA Case #2015047779501)
+Disciplinary and Other FINRA Actions 11
+--- PDF PAGE 12 ---
+November 2017
+Alexander Capital, L.P. (CRD #40077, New York, New York)
+September 29, 2017 – An AWC was issued in which the firm was censured, fined $80,000,
+and required to submit a certification that its policies, systems and procedures (written
+and otherwise), and training are reasonably designed with respect to the firm’s compliance
+with FINRA Rule 3310 and the requirements of the Bank Secrecy Act and the regulations
+promulgated thereunder—including, but not limited to, those related to monitoring for and
+identifying, investigating, and responding to red flags of suspicious transactions in general
+and specifically with respect to microcap securities, and compliance with Section 5 of the
+Securities Act and the applicable rules and regulations with respect to the distribution of
+unregistered securities. Without admitting or denying the findings, the firm consented
+to the sanctions and to the entry of findings that it failed to develop and implement an
+AML program that was reasonably designed to achieve and monitor its compliance with
+requirements of the Bank Secrecy Act and the implementing regulations thereunder. The
+findings stated that the firm failed to establish and implement policies and procedures
+that could be reasonably expected to detect and cause the reporting of potentially
+suspicious activity relating to transactions involving the liquidation of hundreds of millions
+of shares of microcap stocks. The firm’s AML procedures were not sufficiently tailored to
+a microcap stock liquidation business and the associated regulatory risks, including the
+use of such securities by issuers, stock promoters and others affiliated with the issuers for
+money laundering or to commit securities fraud or market manipulation. Although the
+firmmonitored for potentially suspicious trading activity by conducting manual review of
+daily trade blotters. This manual review was not reasonably designed to detect patterns of
+potentially suspicious activity that might occur over the course of days, weeks or months.
+In addition, the firm’s system for detecting and investigating red flags relating to the
+microcap stock activities of its customers was unreasonable. The firm failed to detect
+any of the customers’ activities as potentially suspicious, notwithstanding the existence
+of red flags such as the liquidation of hundreds of millions of shares of microcap stocks,
+regulatory inquiries concerning the trading in certain microcap securities, SEC suspension
+of trading orders in the microcap stocks being traded and promotional activity. The findings
+also stated that the firm failed to establish a supervisory system, including WSPs, that
+was reasonably designed to achieve compliance with Section 5. The firm’s WSPs failed to
+set forth guidance as to the diligence or investigation required to be performed before
+executing sales of microcap securities to verify the securities were registered or subject to a
+transactional exemption. In practice, the firm failed to conduct any inquiry into whether the
+microcap securities being liquidated were freely tradeable. (FINRA Case #2014039351101)
+Growth Capital Services, Inc. (CRD #124658, San Francisco, California)
+September 29, 2017 – An AWC was issued in which the firm was censured and fined
+$35,000. Without admitting or denying the findings, the firm consented to the sanctions
+and to the entry of findings that it failed to establish and implement an adequate
+supervisory system to fulfill its supervisory responsibilities with respect to the private
+securities transactions of five registered representatives. The findings stated that the
+12 Disciplinary and Other FINRA Actions
+--- PDF PAGE 13 ---
+November 2017
+firm was aware of, but did not review, investor transactions in funds formed though the
+approved outside business activities of the five registered representatives, and it did not
+record the transactions on its books and records. Subsequently, the firm again failed to
+establish and implement an adequate supervisory system with respect to the private
+securities transactions of two registered representatives. Although red flags indicated
+that a registered representative was engaging in private securities transactions through
+an approved outside business activity, the firm failed to investigate, review, approve,
+document or supervise the private securities transactions. Although the firm was aware
+that a registered representative had completed two private securities transactions, the
+firm did not timely review those private securities transactions, or impose restrictions on
+the activities of the representative pending its review. The findings also stated that the
+firm did not conduct annual office inspections of its main office of supervisory jurisdiction.
+Additionally, the firm did not establish a reasonable inspection cycle for non-branch
+locations in its WSPs and failed to inspect four non-branch locations, even though the
+registered representatives had been associated with the firm for over three years. The
+findings also included that the firm failed to maintain documentation of principal approval
+and review for business websites maintained by the firm’s registered representatives.
+In addition, the firm failed to establish a policy or system for approval, supervision, or
+retention of registered representatives’ business social media accounts, and did not review,
+approve, supervise, or retain any of the social media accounts maintained by registered
+representatives for securities-related business purposes. Content posted by the firm’s
+registered representatives was oversimplified, incomplete and lacked the disclosures
+necessary to provide a sound basis for evaluating the facts communicated, including
+disclosure of FINRA member affiliation, relationships between FINRA members and named
+non-members, and identification of products and services offered by the member. FINRA
+found that the designated principal did not conduct adequate testing of supervisory control
+policies and procedures. Specifically, reports reflected areas tested, but did not reflect the
+results of the tests. Furthermore, the designated principal did not test the firm’s supervision
+of outside business activities and private securities transactions or supervision of websites
+and social media accounts. (FINRA Case #2013034981501)
+Individuals Barred
+Bruce Page Barber (CRD #3095959, Colorado Springs, Colorado)
+September 5, 2017 – An AWC was issued in which Barber was barred from association with
+any FINRA member in all capacities. Without admitting or denying the findings, Barber
+consented to the sanction and to the entry of findings that he refused to provide FINRA
+with requested documents and information in connection with its investigation concerning
+his outside business activity and solicitation of member firm customers to invest in a
+private securities offering. (FINRA Case #2017053346301)
+Disciplinary and Other FINRA Actions 13
+--- PDF PAGE 14 ---
+November 2017
+Richard Grant Cody (CRD #2794558, Neptune, New Jersey)
+September 5, 2017 – An OHO decision became final in which Cody was barred from
+association with any FINRA member in all capacities. The sanction was based on findings
+that Cody provided false and misleading information to FINRA, failed to provide documents
+and information to FINRA, and failed to appear and provide testimony in connection with
+FINRA’s investigation. The findings stated that FINRA was attempting to determine if Cody
+had violated the terms of his FINRA suspension by acting in a manner requiring registration
+while suspended. (FINRA Case #2016048538901)
+William August Glaser (CRD #1274847, St. Albans, Missouri)
+September 5, 2017 – An AWC was issued in which Glaser was barred from association with
+any FINRA member in all capacities. Without admitting or denying the findings, Glaser
+consented to the sanction and to the entry of findings that he refused to respond to FINRA
+requests for information and documents in connection with an investigation into the
+circumstances surrounding the termination of Glaser’s registration by his member firm.
+The findings stated that the firm terminated Glaser’s registration, reporting that it had
+received an arbitration claim alleging that he had solicited a private investment away from
+the firm. (FINRA Case #2017054809301)
+Jian Heng Wu (CRD #6422242, Brooklyn, New York)
+September 7, 2017 – An AWC was issued in which Wu was barred from association
+with any FINRA member in all capacities. Without admitting or denying the findings,
+Wu consented to the sanction and to the entry of findings that he failed to produce
+FINRA-requested documents and information during the course of an investigation
+into the circumstances surrounding his termination from his member firm. (FINRA Case
+#2016050091703)
+Ka Keung Lam (CRD #3074213, Staten Island, New York)
+September 8, 2017 – An AWC was issued in which Lam was barred from association with
+any FINRA member in all capacities. Without admitting or denying the findings, Lam
+consented to the sanction and to the entry of findings that he refused to appear for FINRA
+on-the-record testimony during the course of an investigation into the circumstances
+surrounding his termination from his member firm. (FINRA Case #2016050091701)
+Lorenzo C. Esteva (CRD #2170595, Miami, Florida)
+September 11, 2017 – An AWC was issued in which Esteva was barred from association
+with any FINRA member in all capacities. Without admitting or denying the findings, Esteva
+consented to the sanction and to the entry of findings that he failed to produce FINRA-
+requested documents and information as part of an investigation into customer complaints
+that he provided falsified account statements to a customer from 2001 to 2017, and that
+he improperly journaled funds between accounts of two unrelated customers. (FINRA Case
+#2017054827701)
+14 Disciplinary and Other FINRA Actions
+--- PDF PAGE 15 ---
+November 2017
+Tim Leissner (CRD #3146057, Beverly Hills, California)
+September 11, 2017 – An AWC was issued in which Leissner was barred from association
+with any FINRA member in all capacities. Without admitting or denying the findings,
+Leissner consented to the sanction and to the entry of findings that he failed to provide
+FINRA with documents and information during the course of an investigation concerning
+certain representations he made in a reference letter he provided to a financial institution
+that were allegedly both inaccurate and unauthorized by his member firm. (FINRA Case
+#2016049149601)
+Anthony Vultaggio Jr. (CRD #5292477, Smithtown, New York)
+September 11, 2017 – An AWC was issued in which Vultaggio was barred from association
+with any FINRA member in all capacities. Without admitting or denying the findings,
+Vultaggio consented to the sanction and to the entry of findings that he refused to appear
+for FINRA on-the-record testimony during the course of an examination into his potential
+undisclosed offering of securities through an undisclosed outside business without prior
+notice to or consent from his member firm. (FINRA Case #2017054945301)
+Yilih Choong (CRD #6297107, Bayside, New York)
+September 12, 2017 – An AWC was issued in which Choong was barred from association
+with any FINRA member in all capacities. Without admitting or denying the findings,
+Choong consented to the sanction and to the entry of findings that she failed to
+produce FINRA-requested documents and information as part of an investigation into
+the circumstances surrounding her termination from her member firm. (FINRA Case
+#2016050091702)
+Tamara Antoinette Holloway (CRD #6532903, Greensboro, North Carolina)
+September 12, 2017 – An AWC was issued in which Holloway was barred from association
+with any FINRA member in all capacities. Without admitting or denying the findings,
+Holloway consented to the sanction and to the entry of findings that she refused to
+provide FINRA-requested information and documents in connection with its investigation
+into allegations made by her member firm on a Form U5 stating that she was terminated
+from the firm after “allegations by the parent property and casualty insurance company
+for failure to follow procedures regarding acceptance and remittance of automobile and
+homeowners insurance premiums.” (FINRA Case #2016052630701)
+Michael J. O’Connor (CRD #5791343, Moreland Hills, Ohio)
+September 12, 2017 – An AWC was issued in which O’Connor was barred from association
+with any FINRA member in all capacities. Without admitting or denying the findings,
+O’Connor consented to the sanction and to the entry of findings that he refused to appear
+for FINRA on-the-record testimony related to a Form U5 filed by his member firm disclosing
+that his employment was terminated based on concerns related to the timing of his
+disclosure of his status of power of attorney and financial arrangement with a client, who
+ultimately became his wife. (FINRA Case #2017053138701)
+Disciplinary and Other FINRA Actions 15
+--- PDF PAGE 16 ---
+November 2017
+William Francis Garbarino (CRD #730278, Newtown, Connecticut)
+September 13, 2017 – An AWC was issued in which Garbarino was barred from association
+with any FINRA member in all capacities. Without admitting or denying the findings,
+Garbarino consented to the sanction and to the entry of findings that he falsely testified
+during a FINRA arbitration proceeding that office staff at his member firm did not
+photocopy and reuse customer signatures to create change of broker forms, and each
+of the customer signatures contained in a sample of those forms were authentic and
+non-identical. The findings stated that the arbitration involved issues relating to the
+authenticity of customer change of broker forms submitted by Garbarino’s office staff
+to several annuity companies. During Garbarino’s testimony at the arbitration, he was
+shown a group of the submitted change of broker forms and asked whether certain
+customer signatures on the forms were photocopied and used to create new forms.
+Garbarino testified that the customers’ signatures were authentic and not photocopies of
+the originals. Garbarino knew at the time of his testimony that his son, who worked in his
+office, obtained from certain customers executed, but partially blank, signature pages for
+such forms, photocopied those pages and used the copies to create falsified new forms
+containing identical, non-authentic signatures. These falsified forms were then submitted
+to several annuity companies as originals. (FINRA Case #2014043695702)
+Marc Mitchell Ravenscroft (CRD #2767673, Charlotte, North Carolina)
+September 19, 2017 – An AWC was issued in which Ravenscroft was barred from
+association with any FINRA member in all capacities. Without admitting or denying the
+findings, Ravenscroft consented to the sanction and to the entry of findings that he
+converted at least $16,299 from his member firm as reimbursements for business-related
+credit card charges that were refunded to his credit card by a vendor. The findings stated
+that Ravenscroft charged travel-related expenses to his firm’s corporate credit card, which
+he later canceled, causing the associated charges to be partially or wholly refunded to his
+firm credit card by the vendor. Ravenscroft requested and obtained reimbursement from
+the firm for the charges, but he did not advise the firm that the charges had been credited
+back to his corporate credit card. Ravenscroft used the reimbursed monies from the firm to
+pay for personal expenses. Ravenscroft committed these acts without the firm’s knowledge
+or approval. The findings also stated that by submitting inaccurate expense reports to the
+firm, Ravenscroft caused the firm to create and maintain inaccurate books and records.
+(FINRA Case #2016049759001)
+Gregory Stewart Brent (CRD #1858718, Beltsville, Maryland)
+September 20, 2017 – An AWC was issued in which Brent was barred from association
+with any FINRA member in all capacities. Without admitting or denying the findings, Brent
+consented to the sanction and to the entry of findings that he refused to appear for FINRA
+on-the-record testimony in connection with its inquiry into the circumstances surrounding
+his termination from his member firm. (FINRA Case #2017052877701)
+16 Disciplinary and Other FINRA Actions
+--- PDF PAGE 17 ---
+November 2017
+Dale Earl Krueger (CRD #1100066, Freeland, Michigan)
+September 22, 2017 – An AWC was issued in which Krueger was barred from association
+with any FINRA member in all capacities. Without admitting or denying the findings,
+Krueger consented to the sanction and to the entry of findings that he accepted customer
+funds to purchase collectible medals, but failed to properly segregate and account for
+the medals from his own holdings and used a portion of the funds to make unauthorized
+loan and commission payments to third parties. The findings stated that the customers’
+investment in the medals was made through a business entity controlled by Krueger
+and $25,000 was deposited into a bank account owned or controlled by Krueger. Krueger
+failed to provide the customers with any documentation of the sale, physically separate
+the medals that had been purchased from his own holdings, and adequately document
+the customers’ holdings in his own records. Krueger transferred to the former registered
+representative who solicited the customers to invest in the collectible medals sold by
+Krueger, and that his representative’s relatives, at least $5,800 of the customers’ funds as
+purported loans or commissions, without confirming directly with the customers that they
+had authorized any such loans or commissions. The findings also stated that Krueger failed
+to provide FINRA with requested documents. (FINRA Case #2015048137601)
+Barbara Jean Waters (CRD #2162078, Woodbridge, New Jersey)
+September 25, 2017 – An AWC was issued in which Waters was barred from association
+with any FINRA member in all capacities. Without admitting or denying the findings,
+Waters consented to the sanction and to the entry of findings that she refused to
+appear for FINRA on-the-record testimony pertaining to her Form U5, disclosing that her
+employment had been terminated because of, among other reasons, concerns regarding
+a submitted expense report. (FINRA Case #2015047719501)
+Peyton Nelson Jackson (CRD #1988387, Alexandria, Virginia)
+September 27, 2017 – An OHO decision became final in which Jackson was barred from
+association with any FINRA member in all capacities. The sanction was based on findings
+that Jackson failed to comply with multiple FINRA requests for information pertaining to an
+investigation into the validity of allegations by several of Jackson’s former customers who
+filed statements of claim against him and his former member firms alleging, among other
+things, that he recommended unsuitable securities and engaged in fraud. (FINRA Case
+#2016049252901)
+Dennis Boyd McMurray (CRD #2557396, Rancho Santa Margarita, California)
+September 27, 2017 – An AWC was issued in which McMurray was barred from association
+with any FINRA member in all capacities. Without admitting or denying the findings,
+McMurray consented to the sanction and to the entry of findings that he failed to
+provide FINRA-requested documents and information related to an investigation into the
+circumstances surrounding his termination from his member firm. The findings stated
+that McMurray’s firm submitted a Form U5 disclosing an internal review of him relating to
+“private securities transactions/selling away.” (FINRA Case #2016051351801)
+Disciplinary and Other FINRA Actions 17
+--- PDF PAGE 18 ---
+November 2017
+Individuals Suspended
+Robert Hayes Hoffmann (CRD #4008798, Greenwood, Indiana)
+September 1, 2017 – An AWC was issued in which Hoffmann was assessed a deferred
+fine of $5,000 and suspended from association with any FINRA member in all capacities
+for three months. Without admitting or denying the findings, Hoffmann consented to
+the sanctions and to the entry of findings that he willfully failed to amend his Form U4 to
+timely disclose an unsatisfied Internal Revenue Service tax lien filed against him.
+The suspension is in effect from September 5, 2017, through December 4, 2017. (FINRA
+Case #2015045024901)
+Jeffrey Alan Smith (CRD #2400590, Irvine, California)
+September 5, 2017 – An AWC was issued in which Smith was assessed a deferred fine of
+$5,000 and suspended from association with any FINRA member in all capacities for three
+months. Without admitting or denying the findings, Smith consented to the sanctions and
+to the entry of findings that he maintained and used pre-signed and altered forms which
+caused his member firm to have inaccurate books and records. The findings stated that
+Smith had customers sign blank forms and made additional photocopies of some of the
+blank-signed forms so that he could reuse the customers’ signatures. Smith utilized these
+blank-signed forms to effect transactions authorized by the clients. In addition, Smith, with
+a client’s authorization, submitted an altered, pre-signed form upon which correction fluid
+had been used to white-out and correct an inaccurate bank account number.
+The suspension is in effect from September 5, 2017, through December 4, 2017. (FINRA
+Case #2012033566202)
+William Fitzgerald White (CRD #2168943, San Diego, California)
+September 5, 2017 – An Offer of Settlement was issued in which White was fined $12,500
+and suspended from association with any FINRA member in all capacities for 16 months.
+Without admitting or denying the allegations, White consented to the sanctions and to
+the entry of findings that he willfully failed to timely amend his Uniform Application for
+Securities Industry Registration or Transfer (Form U4) to disclose a bankruptcy petition,
+tax liens, FINRA arbitrations and a civil litigation. The findings stated that White failed to
+timely respond to FINRA requests for documents and information during the course of
+an investigation into whether he disclosed certain reportable events on his Form U4. The
+findings also stated that White opened and traded in an outside securities account without
+giving prior written notice to his member firm and the executing firm.
+The suspension is in effect from October 2, 2017, through February 1, 2019. (FINRA Case
+#2015048104602)
+18 Disciplinary and Other FINRA Actions
+--- PDF PAGE 19 ---
+November 2017
+Joseph Ira Yanofsky (CRD #870054, Franktown, Colorado)
+September 5, 2017 – An AWC was issued in which Yanofsky was fined $10,000 and
+suspended from association with any FINRA member in all capacities for 20 business days.
+Without admitting or denying the findings, Yanofsky consented to the sanctions and to
+the entry of findings that he exercised discretion in customer accounts without written
+authorization to do so. The findings stated that Yanofsky’s exercise of discretion occurred
+in connection with certain of his member firm’s syndicate equity offerings. Yanofsky’s
+customers verbally expressed their general desire and authorization to participate in every
+syndicate offering the firm made available. These customers did not have discretionary
+accounts, and their verbal authorization to participate in every syndicate offering
+was never reduced to writing. On certain occasions, however, Yanofsky purchased the
+syndicate offering shares for these customers without having received the customers’
+specific authorization to participate in those offerings. The findings also stated that
+Yanofsky directed a subordinate employee to use another registered representative’s login
+credentials and computer to enter syndicate offering orders as soon as ticketing opened.
+In doing so, Yanofsky was attempting to maximize the number of his customers’ orders
+that could be filled prior to the firm’s allocation of offering shares being depleted. By doing
+so, Yanofsky caused the firm’s trading records to be inaccurate and falsely reflect the true
+identity of the person who had entered or accepted those orders on behalf of customers.
+The suspension was in effect from October 2, 2017, through October 27, 2017. (FINRA Case
+#2015045664601)
+Walter John Dubiel (CRD #4234689, Farmington, Connecticut)
+September 6, 2017 – An AWC was issued in which Dubiel was assessed a deferred fine
+of $10,000 and suspended from association with any FINRA member in all capacities for
+45 business days. Without admitting or denying the findings, Dubiel consented to the
+sanctions and to the entry of findings that he improperly shared his login and password
+information with an unauthorized individual. The findings stated that Dubiel’s action
+provided the unauthorized individual, who was associated with a different FINRA member
+firm, access to non-public personal customer information from Dubiel’s member firm.
+Dubiel thereby caused his firm to violate Regulation S-P. The findings also stated that
+during a branch audit, Dubiel made a false statement to a firm branch examiner concerning
+his sharing of his firm’s login and password information.
+The suspension is in effect from September 18, 2017, through November 17, 2017. (FINRA
+Case #2015048038401)
+Nancy L. Johnson (CRD #1743981, Denver, Colorado)
+September 7, 2017 – An AWC was issued in which Johnson was assessed a deferred fine of
+$10,000 and suspended from association with any FINRA member in all capacities for five
+months. Without admitting or denying the findings, Johnson consented to the sanctions
+Disciplinary and Other FINRA Actions 19
+--- PDF PAGE 20 ---
+November 2017
+and to the entry of findings that she made false written statements to her member firm
+on its forms and in its electronic distribution system in connection with the processing of a
+wire transfer request. The findings stated that Johnson received an email purportedly from
+a customer requesting the transfer of $86,000 from the customer’s account. Unbeknownst
+to Johnson, the email was sent by an imposter who had improperly accessed the customer’s
+email account. Johnson submitted a wire request, which was revised by the imposter due to
+incorrect beneficiary bank routing information submitted in the original wire request, into
+the firm’s electronic disbursement system, falsely representing on a firm form and in the
+system that another firm employee had verbally confirmed the request with the customer.
+The funds were received by the bank but they were returned by that bank due to an
+invalid beneficiary account number. The imposter then provided Johnson with a different
+beneficiary, before again changing the beneficiary to an individual, who maintained an
+account at a different bank. Johnson resubmitted the request, as further revised, into
+the system, falsely representing on a firm form and in the system that she had verbally
+confirmed the request with the customer. As a result of Johnson falsely indicating that she
+and another employee had each spoken with the customer and confirmed the wire transfer
+request when, in fact, they had not done so, she caused the firm to make and preserve
+inaccurate books and records. The findings also stated that Johnson willfully failed to timely
+disclose the filing of a bankruptcy petition on her Form U4 and misrepresented that she had
+no reportable bankruptcies in a Form U4 filed during this period.
+The suspension is in effect September 18, 2017, through February 17, 2018. (FINRA Case
+#2016049035301)
+Mark Sherman Perry (CRD #1219294, Mt. Pleasant, South Carolina)
+September 7, 2017 – An AWC was issued in which Perry was suspended from association
+with any FINRA member in all capacities for 18 months. In light of Perry’s financial status,
+no monetary sanction has been imposed. Without admitting or denying the findings, Perry
+consented to the sanction and to the entry of findings that he made unsuitable investment
+recommendations to four elderly, retired customers. The findings stated that Perry over-
+concentrated the customers’ accounts in precious metal sector securities. Perry also
+recommended that the customers purchase and hold leveraged mutual funds and/or ETFs
+in their accounts for extended time periods of up to 963 days. Perry had no reasonable basis
+to believe that his recommendation that the customers hold leveraged mutual funds and/
+or ETFs in their accounts for extended time periods was suitable for any customer. Perry’s
+unsuitable investment recommendations resulted in collective realized and unrealized
+losses of approximately $200,000 in the four customers’ accounts. The findings also
+stated that Perry falsified the account records of the elderly customers by misstating each
+customer’s risk tolerance in order to recommend that the customer purchase high-risk
+securities. The findings also included that Perry sent several emails to a customer wherein
+he made misleading and promissory statements about the investments in the customer’s
+account. Perry had no basis for making these statements and admitted that the statements
+20 Disciplinary and Other FINRA Actions
+--- PDF PAGE 21 ---
+November 2017
+were designed to ease the customer’s anxiety about the investments in his account. FINRA
+found that Perry failed to disclose two customer complaints regarding trading losses to his
+member firms. Perry caused his member firm to maintain inaccurate books and records by
+misstating several customers’ risk tolerance on new account forms, making misleading and
+promissory statements in written communications with a customer and failing to report
+the two customer complaints to his firms.
+The suspension is in effect from September 18, 2017, through March 17, 2019. (FINRA Case
+#2015044939901)
+Benjamin S. Burton (CRD #4207173, Scott Depot, West Virginia)
+September 8, 2017 – An AWC was issued in which Burton was assessed a deferred fine of
+$7,500 and suspended from association with any FINRA member in all capacities for three
+months. Without admitting or denying the findings, Burton consented to the sanctions and
+to the entry of findings that he exercised discretion without his member firm’s approval
+in a customer’s securities account. The findings stated that although the customer had
+given Burton verbal authorization to exercise discretion in her account, Burton failed to
+obtain written authorization from the customer and never obtained his firm’s approval
+of the account as a discretionary account. The findings also stated that Burton made false
+statements on firm compliance questionnaires concerning his use of discretion.
+The suspension is in effect from September 18, 2017, through December 17, 2017. (FINRA
+Case #2016052219202)
+Christopher Shawn Easter (CRD #6207142, Lakewood, Washington)
+September 8, 2017 – An AWC was issued in which Easter was assessed a deferred fine of
+$5,000 and suspended from association with any FINRA member in all capacities for three
+months. Without admitting or denying the findings, Easter consented to the sanctions and
+to the entry of findings that he fabricated an account document required to maintain a
+customer’s corporate business bank account, signed the customer’s name to the document
+without the customer’s consent and submitted the document to the bank in order to
+prevent the bank from closing the account.
+The suspension is in effect from September 18, 2017, through December 17, 2017. (FINRA
+Case #2017053444901)
+Drew Mansfield Johnson (CRD #2449525, Andover, Minnesota)
+September 8, 2017 – An AWC was issued in which Johnson was assessed a deferred fine
+of $5,000 and suspended from association with any FINRA member in all capacities for six
+months. Without admitting or denying the findings, Johnson consented to the sanctions
+and to the entry of findings that he participated in private securities transactions involving
+customers without providing prior or subsequent written notice to his member firm. The
+findings stated that Johnson was introduced to an individual who was seeking to raise
+Disciplinary and Other FINRA Actions 21
+--- PDF PAGE 22 ---
+November 2017
+funds on behalf of a small, privately held company. At this individual’s request, Johnson
+thereafter facilitated transactions by which the customers separately agreed to lend the
+privately held company a total of $125,000 in exchange for promises that they would be
+repaid with interest and would receive warrants to purchase shares of the company’s stock
+at a specified price within the ensuing five years. Among other things, Johnson arranged
+and attended meetings in which the investment opportunity was discussed with the
+customers, asked questions on behalf of his customers about the privately held company
+and the details concerning their loans and warrants, and facilitated the paperwork
+necessary to complete the transactions. At least two of Johnson’s customers who lent
+money to the privately held company were not repaid part or all of their principal, and none
+exercised their warrants.
+The suspension is in effect from September 18, 2017, through March 17, 2018. (FINRA Case
+#2015048022101)
+Paul William Marks (CRD #5609430, Evans, New York)
+September 8, 2017 – An AWC was issued in which Marks was assessed a deferred fine of
+$5,000 and suspended from association with any FINRA member in all capacities for six
+months. Without admitting or denying the findings, Marks consented to the sanctions and
+to the entry of findings that in connection with a customer’s annual deposits to a fixed
+annuity contract, Marks forged required forms for deposits without the customer’s consent
+or authorization. The findings stated that Marks’ member firm learned of the forgeries
+when the customer called the firm to inquire about the status of a January 2016 transfer.
+At that time, the customer informed the firm that she had not signed transfer paperwork
+since June 2015. The firm began an investigation and in three separate interviews, Marks
+made false statements to the firm by denying forging his customer’s signatures. The
+findings also stated that Marks failed to timely execute the customer’s 2015 transaction,
+which resulted in a two-month delay in the customer’s investment.
+The suspension is in effect from September 18, 2017, through March 17, 2018. (FINRA Case
+#2016050372601)
+Darrell Scott Pope (CRD #4596113, Louisville, Kentucky)
+September 8, 2017 – An AWC was issued in which Pope was assessed a deferred fine of
+$7,500 and suspended from association with any FINRA member in all capacities for four
+months. Without admitting or denying the findings, Pope consented to the sanctions
+and to the entry of findings that he engaged in an undisclosed outside business activity
+outside the scope of his employment with his member firm. The findings stated that Pope
+attempted to secure a buyer for sellers of Iraqi Dinar currency in anticipation of a finder’s
+fee. Pope had established a company to conduct this activity and used his personal email
+address to communicate with the sellers and potential buyers about the potential terms of
+a sale. Pope also conducted due diligence on potential buyers, prepared transaction-related
+documentation and made arrangements to facilitate a potential currency sale.. However,
+Pope did not notify the firm about his outside business activity.
+22 Disciplinary and Other FINRA Actions
+--- PDF PAGE 23 ---
+November 2017
+The suspension is in effect from September 18, 2017, through January 17, 2018. (FINRA
+Case #2015048303401)
+Francis Louis Smookler Jr. (CRD #2712672, Upper Brookville, New York)
+September 8, 2017 – An Offer of Settlement was issued in which Smookler was assessed
+a deferred fine of $5,000 and suspended from association with any FINRA member in all
+capacities for 30 business days. Without admitting or denying the allegations, Smookler
+consented to the sanctions and to the entry of findings that he intentionally caused his
+member firm to maintain inaccurate books and records by causing another individual to
+be misidentified as the broker of record for orders in customers’ accounts at the firm. The
+findings stated that throughout the time that Smookler was associated with the firm,
+he was not registered to transact business as a broker-dealer or agent of a broker-dealer
+in the states where the customers resided. The individual paid Smookler a portion of the
+commissions that were generated by the trades.
+The suspension was in effect from September 18, 2017, through October 27, 2017. (FINRA
+Case #2016048490901)
+Kinan Nimeh (CRD #4438900, Melville, New York)
+September 11, 2017 – An AWC was issued in which Nimeh was fined $5,000, suspended
+from association with any FINRA member in all capacities for two months and ordered
+to pay $3,578, plus interest, in restitution to a customer. Without admitting or denying
+the findings, Nimeh consented to the sanctions and to the entry of findings that he
+recommended unsuitable transactions in leveraged ETFs (non-traditional ETFs) in customer
+accounts. The findings stated that these investments were not meant to be held for
+extended periods. In fact, the prospectuses for the non-traditional ETFs recommended
+by Nimeh warned that the ETFs were intended to be used as short-term trading vehicles,
+not long-term investments. Despite the warning in the prospectuses (as well as FINRA
+Regulatory Notice 09-31), Nimeh recommended that the non-traditional positions be held
+in these customers’ accounts for between 62 and 176 days. Nimeh did not have reasonable
+grounds for believing that these recommendations were suitable.
+The suspension is in effect from October 2, 2017, through December 1, 2017. (FINRA Case
+#2016050827501)
+John Isaac Roach (CRD #4226769, Shaker Heights, Ohio)
+September 13, 2017 – An AWC was issued in which Roach was fined $5,000 and suspended
+from association with any FINRA member in all capacities for 10 business days. Without
+admitting or denying the findings, Roach consented to the sanctions and to the entry of
+findings that he exercised discretion to purchase mutual funds with a total approximate
+value of $62,000 in a customer’s account without having obtained prior written
+authorization from the customer to exercise discretion or prior written acceptance of the
+account as discretionary from his member firm. The findings stated that although Roach
+Disciplinary and Other FINRA Actions 23
+--- PDF PAGE 24 ---
+November 2017
+had discussed making these purchases with the customer sometime prior to the day he
+executed each transaction, he failed to contact the customer to obtain his authorization
+to go forward with each transaction on the same days the transactions took place.
+The suspension was in effect from October 2, 2017, through October 13, 2017. (FINRA
+Case #2014040641902)
+Lawrence Alan Stack (CRD #2550460, Suwanee, Georgia)
+September 13, 2017 – An AWC was issued in which Stack was assessed a deferred fine
+of $5,000 and suspended from association with any FINRA member in all capacities for
+30 business days. Without admitting or denying the findings, Stack consented to the
+sanctions and to the entry of findings that he failed to provide prior written notice to his
+member firm of outside business activities involving rental properties. The findings stated
+that Stack and a business partner formed limited liability companies to hold and manage
+multi-family rental properties. Stack’s business partner initiated the formation of the
+companies, however, Stack signed all the paperwork. Stack’s role with the limited liability
+companies was to locate potential properties for purchase and to contribute money to
+purchase the properties. Although Stack had previously disclosed to his firm that he had a
+separate outside business activity through which he purchased and managed other rental
+properties, he failed to provide the firm with prior written notice of his involvement with
+the limited liability companies.
+The suspension was in effect from September 18, 2017, October 27, 2017. (FINRA Case
+#2015047293501)
+Mehran Tazhibi (CRD #5416037, Monterey, California)
+September 13, 2017 – An AWC was issued in which Tazhibi was assessed a deferred fine of
+$10,000 and suspended from association with any FINRA member in all capacities for two
+months. Without admitting or denying the findings, Tazhibi consented to the sanctions and
+to the entry of findings that he made an unsuitable recommendation to retail customers,
+a recently retired married couple, to invest approximately $135,000 in a non-investment
+grade, speculative-rated municipal bond intended by the issuer only for sale to institutional
+buyers. The findings stated that when Tazhibi recommended the bond to them, the
+customers had an investment profile that included an investment objective of income and
+growth and a conservative risk tolerance. In addition, although the bond was intended only
+for sale to approved institutional buyers, the customers were individual retail customers
+and did not qualify as approved institutional buyers. Tazhibi’s recommendation that the
+customers invest in the bond was inconsistent with their financial situation and objectives
+and the intended market for the bond. In light of these factors, Tazhibi lacked a reasonable
+basis to recommend the bond to the customers and failed to deal fairly with them. The
+bond was later canceled based on a restructuring agreement with the bondholders.
+Tazhibi’s member firm paid restitution to the customers to compensate them for their
+losses.
+24 Disciplinary and Other FINRA Actions
+--- PDF PAGE 25 ---
+November 2017
+The suspension is in effect from September 18, 2017, through November 17, 2017.
+(FINRA Case #2016048911301)
+Tiffany Ann De Ruosi (CRD #2256196, Newport Beach, California)
+September 15, 2017 – An AWC was issued in which De Ruosi was assessed a deferred
+fine of $5,000 and suspended from association with any FINRA member in all capacities
+for six months. Without admitting or denying the findings, De Ruosi consented to the
+sanctions and to the entry of findings that she willfully failed to timely amend her Form
+U4 to disclose a felony charge in connection with a motor vehicle incident. The findings
+stated that this felony charge was reduced to a misdemeanor, to which she pled guilty.
+The findings also stated that De Ruosi provided a false answer on her member firm’s annual
+compliance questionnaire by denying that she had been arrested, charged and arraigned
+for any criminal offense since her last submission to the firm.
+The suspension is in effect from September 18, 2017, through March 17, 2018. (FINRA
+Case #2015046161601)
+Todd J. Jones (CRD #5913166, Shoreline, Washington)
+September 15, 2017 – An AWC was issued in which Jones was assessed a deferred fine of
+$15,000 and suspended from association with any FINRA member in all capacities for four
+months. Without admitting or denying the findings, Jones consented to the sanctions and
+to the entry of findings that he exercised discretion in client accounts without written
+permission to do so. The findings stated that Jones caused his member firm to maintain
+inaccurate books and records by mismarking most of the orders as unsolicited. Jones’ firm’s
+policies only permitted the purchase in brokerage accounts of leveraged exchange-traded
+products on an unsolicited basis.
+The suspension is in effect from September 18, 2017, through January 17, 2018.
+(FINRA Case #2015047381301)
+Stephen Scott Brown (CRD #1799847, Rochester, New York) and James Peter Goetz Jr.
+(CRD #2826111, Rochester, New York)
+September 18, 2017 – An OHO decision became final in which Brown was fined $125,000
+and suspended from association with any FINRA member in all capacities for nine months.
+Goetz was fined $25,000 and suspended from association with any FINRA member in
+all capacities for one month. The sanctions were based on findings that Brown failed to
+disclose, in compliance disclosure and in response to his member firm’s inquires, the full
+scope of his participation in outside businesses, firm customers’ involvement with or
+investment in outside businesses and the expansion of his involvement in investments
+away from the firm. The findings stated that Brown misrepresented and omitted facts
+during his firm’s internal investigation. The findings also stated that Brown participated
+in a material expansion of an outside business without amending his original disclosure.
+Disciplinary and Other FINRA Actions 25
+--- PDF PAGE 26 ---
+November 2017
+The finding also included that Brown actively engaged in managing an outside business
+without disclosing it as such and failed to disclose an additional outside business activity.
+FINRA found that Goetz invested in private securities transactions without providing prior
+written notice to, and receiving prior written permission from, his firm. The allegations
+that Brown provided false responses to his firm during an internal investigation relating to
+one of his private investments and that Brown directed an associate to alter the name of
+a payee on a check request with the intent to circumvent his firm’s U.S. Treasury Office of
+Foreign Asset Control compliance systems were dismissed.
+Brown’s suspension is in effect from October 2, 2017, through July 1, 2018. Goetz’s
+suspension was in effect from August 31, 2017, through September 30, 2017. (FINRA Case
+#2014042690502)
+Kevin Ray Bonner (CRD #1601140, Des Moines, Washington)
+September 19, 2017 – An AWC was issued in which Bonner was assessed a deferred fine
+of $2,500 and suspended from association with any FINRA member in all capacities for six
+months. Without admitting or denying the findings, Bonner consented to the sanctions
+and to the entry of findings that he borrowed $50,000 from a customer without his
+member firm’s knowledge or approval and in violation of the firm’s policies. The findings
+stated that the $50,000 loan was intended to be short-term, that no interest rate was set,
+and that the loan was not documented. Bonner repaid $10,000 and he and the customer
+memorialized the outstanding loan in a written promissory note, which provided that
+the loan bore interest at an annual rate of four percent, and that all unpaid principal and
+accrued interest was payable in full on March 5, 2014. Thereafter, Bonner repaid more than
+$15,000 to the customer. Bonner filed a Chapter 7 petition in bankruptcy and received a
+bankruptcy discharge. Bonner’s loan to the customer then totaling $28,327 in interest and
+accrued principal was discharged through the bankruptcy. That amount was never repaid
+to the customer. The findings also stated that Bonner willfully failed to amend his Form U4
+to report that his license to act as an accountant was suspended by the Washington State
+Board of Accountancy.
+The suspension is in effect from October 2, 2017, through April 1, 2018. (FINRA Case
+#2016049664001)
+Sharon Melinda Kwan (CRD #2578627, Arcadia, California)
+September 19, 2017 – An AWC was issued in which Kwan was fined $15,000 and
+suspended from association with any FINRA member in all capacities for four months.
+Without admitting or denying the findings, Kwan consented to the sanctions and to the
+entry of findings that she participated in undisclosed outside business activities involving
+her member firm’s customers without providing prior written notice to the firm. The
+findings stated that Kwan participated in undisclosed real estate activities with two
+customers, who were also personal friends, involving residential properties. Kwan also
+provided inaccurate annual firm compliance attestations regarding her outside business
+26 Disciplinary and Other FINRA Actions
+--- PDF PAGE 27 ---
+November 2017
+activities. The findings also stated that notwithstanding the firm’s policy prohibition, Kwan
+opened and maintained two joint bank accounts with a firm customer in furtherance
+of their real estate activities. Kwan’s customer deposited almost $1.4 million into the
+accounts. Kwan deposited an almost equal amount into the same two accounts. Kwan did
+not disclose, and her firm did not approve, her joint bank accounts with the firm customer.
+Kwan also provided inaccurate annual firm compliance attestations regarding her joint
+bank accounts with a firm customer.
+The suspension is in effect from October 16, 2017, through February 15, 2018. (FINRA Case
+#2013038528501)
+Brant Andrew Ray (CRD #4746637, Southaven, Mississippi)
+September 19, 2017 – An Offer of Settlement was issued in which Ray was assessed a
+deferred fine of $10,000 and suspended from association with any FINRA member in all
+capacities for 18 months. Without admitting or denying the allegations, Ray consented
+to the sanctions and to the entry of findings that contrary to his member firm’s written
+procedures, he borrowed $50,000 from a 70-year-old customer. The findings stated that
+at the time of the loan, Ray’s firm prohibited borrowing from customers with certain
+exceptions not applicable here, and the loan met none of the exceptions to FINRA Rule
+3240. Moreover, Ray failed to provide his firm with prior written notice of the loan. The
+findings also stated that Ray falsely attested in a firm annual compliance questionnaire
+that he was in compliance with his firm’s prohibition customer loans. The findings also
+included that Ray provided FINRA with false information and testimony in connection with
+the investigation of his loan from the customer.
+The suspension is in effect from October 2, 2017, through April 1, 2019. (FINRA Case
+#2015047096601)
+Evan Foehrkolb (CRD #5343517, Essex, Maryland)
+September 20, 2017 – An AWC was issued in which Bonner was assessed a deferred fine
+of $5,000 and suspended from association with any FINRA member in all capacities for six
+months. Without admitting or denying the findings, Foehrkolb consented to the sanctions
+and to the entry of findings that he willfully failed to timely disclose on his Form U4
+felony charges that had been filed against him. The findings stated that Foehrkolb falsely
+answered on his member firm’s annual compliance certification that he had not been
+charged with any felony since his last attestation.
+The suspension is in effect from October 16, 2017 through April 15, 2018. (FINRA Case
+#2016052430501)
+Corinne Renae Mittag (CRD #2754498, Omaha, Nebraska)
+September 20, 2017 – An Offer of Settlement was issued in which Mittag was suspended
+from association with any FINRA member in all capacities for 30 days. In light of Mittag’s
+Disciplinary and Other FINRA Actions 27
+--- PDF PAGE 28 ---
+November 2017
+financial status, no monetary sanction has been imposed. Without admitting or denying
+the allegations, Mittag consented to the sanction and to the entry of findings that she
+made unauthorized trades in a customer’s account by submitting sales of corporate bond
+positions and the sale of a mutual fund position without discussing such sales with the
+customer or getting authorization from the customer to make the sales. The findings stated
+that an imposter posing as a firm customer sent emails to Mittag, requesting that Mittag
+sell securities to generate cash in the account to fund a wire request to a third-party in the
+United Kingdom. Mittag did not have written authorization from the customer to exercise
+discretion in his account and the firm did not permit discretionary accounts and had not
+accepted the customer’s account as discretionary. The findings also stated that despite the
+firm’s policies that prohibited trade requests received through email, traditional mail or
+voicemail from being accepted, and required wire requests sent to third-parties in foreign
+jurisdictions to be confirmed by telephone, Mittag never communicated by telephone
+about the sales with the customer or the imposter, and never obtained authorization from
+the customer for the sales. The findings also included that Mittag falsely represented to
+two principals at her member firm that she had spoken with the customer regarding the
+request to sell securities and to wire transfer the resulting funds to a third party in a foreign
+jurisdiction. FINRA found that based on Mittag’s false representations, the firm supervisors
+granted exceptions to the firm’s policies requiring a customer’s identity to be verified and
+requiring disclosures to be read to the customer over the telephone. By making these false
+representations, Mittag caused the firm to sign an attestation form that inaccurately stated
+that the firm had verbally confirmed the wire request with the customer. The attestation
+form was false and inaccurate, causing the firm to create and preserve false and inaccurate
+records.
+The suspension was in effect from October 16, 2017, through November 14, 2017. (FINRA
+Case #2015044594201)
+Thomas H. Lawrence III (CRD #1839619, Chapel Hill, Tennessee)
+September 22, 2017 – An Offer of Settlement was issued in which Lawrence was assessed
+a deferred fine of $5,000, suspended from association with any FINRA member in all
+capacities for 24 months, and ordered to pay $41,332.65, plus interest, in deferred
+restitution to a customer. Without admitting or denying the allegations, Lawrence
+consented to the sanctions and to the entry of findings that he and his wife asked a
+customer and friend, a 96-year-old retiree, for a loan to pay their taxes instead of seeking
+another source of financing. The findings stated that the customer agreed to provide the
+loan and at Lawrence’s request, wrote a check for $39,364.43 to the United States Treasury
+to be used to pay Lawrence’s 2012 taxes. Lawrence drafted and signed a promissory
+note reflecting the customer’s loan of $39,364.43 to him and his wife, plus another loan
+of $10,000 that Lawrence’s wife previously obtained from the customer. Lawrence’s
+member firm prohibited associated persons from borrowing from customers, except
+for immediate family members—and then only with the firm’s prior written approval.
+28 Disciplinary and Other FINRA Actions
+--- PDF PAGE 29 ---
+November 2017
+Lawrence acknowledged to the firm five times before borrowing from the customer that
+he was not allowed to solicit or accept a loan from a client for any reason and continued
+to acknowledge the firm’s policy against borrowing from customers after he obtained the
+loan. However, Lawrence did not notify the firm about the loan before obtaining it, the firm
+never approved his loan, and the customer was not a member of Lawrence’s immediate
+family. Lawrence did not repay any portion of the customer’s loan.
+The suspension is in effect from October 2, 2017, through October 1, 2019. (FINRA Case
+#2016051945101)
+Murray Sinclaire Jr. (CRD #1365335, Cincinnati, Ohio)
+September 25, 2017 – An AWC was issued in which Sinclaire was fined $35,000, suspended
+from association with any FINRA member in any principal capacity for six months, and
+required to requalify by examination as a Municipal Securities Principal (Series 53) prior to
+acting in that capacity with any FINRA member. Without admitting or denying the findings,
+Sinclaire consented to the sanctions and to the entry of findings that he failed to ensure
+that his member firm’s personnel disclosed all material facts in documents used to sell an
+offering in which the firm was the sole underwriter and failed to ensure compliance with
+MSRB rules and the firm’s WSPs, which required such disclosures. The findings stated that
+Sinclaire was the owner of his firm, and through June 2016 was the President, Managing
+Member and chief executive officer (CEO) of the firm. As such, the firm’s WSPs made clear
+that Sinclaire had ultimate responsibility to ensure that the firm was at all times complying
+with MSRB rules and acting in accordance with its WSPs. Among other things, the WSPs
+delegated to Sinclaire the responsibility of ensuring that the firm disclosed to customers
+all material facts concerning securities transactions, including a complete description of
+the securities, consistent with MSRB Rule G-17. Sinclaire was also the direct supervisor of
+firm personnel responsible for the due diligence and sales regarding municipal or private
+offerings sold or underwritten by the firm. Sinclaire had ultimate supervisory responsibility
+for ensuring that all material facts were properly disclosed to the firm’s customers
+in connection with such offerings. The findings also stated that Sinclaire delegated
+responsibility for the review of the private placement memorandum (PPM) to others at
+the firm but had direct, personal and particular knowledge of his own conflicts of interest,
+which he should have ensured was disclosed in the PPM
+The suspension is in effect from October 16, 2017, through April 15, 2018. (FINRA Case
+#2015043591702)
+Kenneth Dominic Savino (CRD #1132632, Avon, Connecticut)
+September 26, 2017 – An AWC was issued in which Savino was fined $5,000 and suspended
+from association with any FINRA member in all capacities for 15 business days. Without
+admitting or denying the findings, Savino consented to the sanctions and to the entry of
+findings that he purchased shares of a security for $100,000 without providing prior notice
+Disciplinary and Other FINRA Actions 29
+--- PDF PAGE 30 ---
+November 2017
+to his member firm. The findings stated that on an annual compliance questionnaire
+submitted to the firm, Savino inaccurately indicated that he had not participated in any
+private securities transactions.
+The suspension was in effect from October 16, 2017, through November 3, 2017. (FINRA
+Case #2015047946801)
+Alfredo Caba (CRD #5614508, Leonia, New Jersey)
+September 27, 2017 – An AWC was issued in which Caba was assessed a deferred fine of
+$2,500 and suspended from association with any FINRA member in all capacities for three
+months. Without admitting or denying the findings, Caba consented to the sanctions
+and to the entry of findings that he made false statements to a member firm about the
+circumstances of his termination from his previous firm. The findings stated that Caba
+was involuntarily terminated by his previous firm after the firm received numerous
+customer complaints against him related to his sales of mutual funds. During the process
+of seeking to become associated with the present firm, Caba completed a pre-registration
+disclosure and consent form in which he falsely stated that he left his most recent position
+voluntarily anddenied being subject to any sales practice customer complaints that have
+not been reported on FINRA’s CRD system. Caba also told the firm’s hiring manager that he
+voluntarily resigned from his previous firm, which was false.
+The suspension is in effect from October 2, 2017, through January 1, 2018. (FINRA Case
+#2015047810201)
+James Henry Dresselaers (CRD #1106109, Germantown, Maryland)
+September 27, 2017 – An AWC was issued in which Dresselaers was fined $10,000,
+suspended from association with any FINRA member in all capacities for 60 days and
+ordered to disgorge $18,708, plus interest, of commissions received. Without admitting or
+denying the findings, Dresselaers consented to the sanctions and to the entry of findings
+that he recommended that a customer invest in several nontraditional ETFs and stocks
+issued by companies in the metals and mining sector. The findings stated that these
+recommendations were unsuitable for the customer, a professional athlete with no
+investment experience, a moderate risk tolerance, and an investment objective of long-
+term growth. The customer told Dresselaers that he needed his earnings as an athlete to
+last the rest of his life. Notwithstanding the customer’s investment profile, Dresselaers
+recommended that the customer invest more than $2.3 million in nontraditional ETFs,
+including leveraged, inverse ETFs. Dresselaers then recommended that the customer hold
+these investments for extended periods of time, some for more than five years. In addition
+to recommending nontraditional ETFs, Dresselaers recommended that the customer invest
+approximately $500,000 in several different equities, including approximately $375,000 in
+stocks issued by companies in the metals and mining sector. As a result of these and other
+recommendations by Dresselaers, approximately 65 percent of the customer’s portfolio
+30 Disciplinary and Other FINRA Actions
+--- PDF PAGE 31 ---
+November 2017
+was invested in the metals and mining sector. This concentration exposed the customer to
+the risk of significant losses when the metals and mining market declined. The customer
+suffered losses of more than $1.1 million on these investments.
+The suspension is in effect from October 16, 2017, through December 14, 2017. (FINRA Case
+#2016048675902)
+Matthew Russell Nemer (CRD #2813102, Ross, California)
+September 27, 2017 – An Offer of Settlement was issued in which Nemer was assessed a
+deferred fine of $20,000 and suspended from association with any FINRA member in all
+capacities for two years. Without admitting or denying the allegations, Nemer consented
+to the sanctions and to the entry of findings that he published multiple research reports
+on a company while engaged in employment discussions with that company and failed
+to disclose his conflict of interest, either to his member firm or in the research reports
+concerning the company. The findings stated that Nemer authored a research report on
+the company and failed to disclose in the research report that he had a financial interest
+in the company’s securities, as a result of his acceptance of an employment offer from
+the company that was inclusive of the company’s securities. Nemer did not disclose to his
+member firm his employment discussions with and acceptance of an employment offer
+from the company to,in part, preserve his ability to receive his annual bonus from the firm.
+As planned, Nemer resigned from the firm, after receiving his annual bonus with the intent
+to join the other company. The company rescinded its employment offer to Nemer during
+the employment retention period following his resignation from his firm. The findings also
+stated that Nemer failed to disclose material conflicts of interest in five research reports
+he authored. As a result of Nemer’s failure to disclose those material conflicts of interest,
+these research reports that were published were misleading. In addition, Nemer failed to
+disclose his financial interest in a covered company in a research report he authored that
+was published. As a result of Nemer’s failure to disclose his financial interest, that research
+report was misleading.
+The suspension is in effect from October 2, 2017, through October 1, 2019. (FINRA Case
+#2016051925301)
+Lawrence Michael Koresko (CRD #1888222, Malvern, Pennsylvania)
+September 28, 2017 – An AWC was issued in which Koresko was assessed a deferred fine
+of $10,000 and suspended from association with any FINRA member in all capacities for six
+months. Without admitting or denying the findings, Koresko consented to the sanctions
+and to the entry of findings that he willfully failed to timely amend his Form U4 to report
+that he was a defendant in at least 12 civil lawsuits, all arising out of his outside business
+activities. The findings stated that the lawsuits involved securities, were investment-
+related, or contained allegations of sales practice violations, as those terms are defined
+in the Form U4. The findings also stated that Koresko provided inaccurate answers on his
+Disciplinary and Other FINRA Actions 31
+--- PDF PAGE 32 ---
+November 2017
+member firm’s annual compliance questionnaires by attesting that he had not received a
+customer complaint relating to securities or insurance in the past 12 months and had no
+reportable disclosures.
+The suspension is in effect from October 2, 2017, through April 1, 2018. (FINRA Case
+#2014043493201)
+Erick J. Arnett (CRD #5007131, Spring Hill, Florida)
+September 29, 2017 – An Offer of Settlement was issued in which Arnett was assessed
+a deferred fine of $7,500 and suspended from association with any FINRA member in all
+capacities for four months. Without admitting or denying the allegations, Arnett consented
+to the sanctions and to the entry of findings that he engaged in an outside business activity
+by operating a marketing consulting firm for compensation without properly disclosing
+it to his member firm. The findings stated that Arnett provided marketing services to his
+business partner and fellow firm representative, and others in exchange for compensation
+through his outside business activity. Arnett received 35 checks totaling more than $60,000
+from the business partner, including 22 checks totaling more than $27,000 for which
+the business partner referenced an entity in the memo line of the check that provided
+separately-managed futures and commodities trading accounts. The person who ran the
+entity was an associate of Arnett and the business partner andhad also previously been
+registered with their member firm. Investments in the entity were not offered or approved
+for sale by the firm. Arnett knew that his business partner was referring clients to the
+entity and his marketing efforts for the business partner resulted in client referrals by the
+business partner to the entity. The business partner referred approximately 28 people to
+the entity who collectively invested more than $2 million, some of whom lost a substantial
+amount of the money they invested. The findings also stated that Arnett willfully failed to
+timely amend his Form U4 to disclose a personal bankruptcy.
+The suspension is in effect from October 2, 2017, through February 1, 2018. (FINRA Case
+#2015044778302)
+Charles Anderson Cumber Jr. (CRD #2514669, Albuquerque, New Mexico)
+September 29, 2017 – An AWC was issued in which Cumber was fined $7,500 and
+suspended from association with any FINRA member in all capacities for four months.
+Without admitting or denying the findings, Cumber consented to the sanctions and to the
+entry of findings that he conducted insurance sales through a limited liability company
+he formed and did not disclose any of the insurance business, residual commissions,
+or the existence of the company to his member firm. The findings stated that Cumber
+falsely attested to the firm that he was not involved in any outside business activities and
+repeatedly acknowledged his understanding that the receipt of residual commissions
+should be disclosed to the firm through an outside business activity disclosure. Cumber
+explicitly agreed that he would not sell insurance products for any entity other than the
+32 Disciplinary and Other FINRA Actions
+--- PDF PAGE 33 ---
+November 2017
+firm without prior notice and approval. However, Cumber engaged in equity-indexed
+annuity sales to individuals, some of whom were firm customers. The sales totaled
+approximately $2.63 million, and Cumber earned approximately $125,000 in commissions
+from the associated insurance company. Cumber also received approximately $27,000
+in trailing compensation in connection with previous sales of insurance products. These
+payments were received by Cumber’s limited liability company. While associated with the
+firm, Cumber received approximately $345,000 in payments from the insurance company
+for sales of equity-indexed annuities and other insurance products.
+The suspension is in effect from October 16, 2017, through February 15, 2018. (FINRA Case
+#2016050901101)
+Donna L. Johnson (CRD #4285943, Colleyville, Texas)
+September 29, 2017 – An AWC was issued in which Johnson was assessed a deferred
+fine of $10,000 and suspended from association with any FINRA member in all capacities
+for nine months. Without admitting or denying the findings, Johnson consented to the
+sanctions and to the entry of findings that she accepted four wire transfer requests from
+a customer via email, which were sent while the customer’s email was hacked, without
+verbal confirmation from the customer in violation of her member firm’s WSPs. The
+findings stated that in each of the four instances, Johnson failed to follow the firm’s WSPs
+that were specifically designed to prevent email hackers from obtaining funds from a
+customer’s accounts. When Johnson submitted each request for processing, she falsely
+attested in the firm’s system that the broker she assisted at the firm had verbally confirmed
+the request for processing. In fact, the broker that Johnson assisted had not done so, and
+Johnson had not asked him if he had. Each request required the completion of a form
+signed by the broker or the customer. In each instance, Johnson improperly recycled the
+signatures of the broker and the customer from a previously-signed document by cutting
+and pasting the signatures onto the wire request form. Each of the four wire requests was
+processed by the clearing firm as a result of Johnson’s violation of firm policies. As a result,
+$72,970 was wired to international banks, none of which was recovered. Johnson recycled
+the customer’s signature on wire request forms on at least ten other occasions, involving
+legitimate requests for wire transfers. Johnson did not have the customer’s knowledge or
+consent in any of the instances where she recycled previously-used signatures. The firm,
+which was unable to recover any of the $72,970 that had been wired out pursuant to
+fraudulent email requests, immediately restored this amount to the customer’s accounts
+and terminated Johnson’s association with the firm as a result of her violation of the firm’s
+WSPs.
+The suspension is in effect from October 2, 2017, through July 1, 2018. (FINRA Case
+#2016048636501)
+Disciplinary and Other FINRA Actions 33
+--- PDF PAGE 34 ---
+November 2017
+Donald P. Southwick (CRD #4425538, Wixom, Michigan)
+September 29, 2017 – An AWC was issued in which Southwick was suspended from
+association with any FINRA member in all capacities for six months. In light of Southwick’s
+financial status, no monetary sanction has been imposed. Without admitting or denying
+the findings, Southwick consented to the sanction and to the entry of findings that he
+failed to perform a reasonable basis suitability analysis prior to recommending investments
+in two private offerings, a bond offering and a bridge loan, to his customers. The findings
+stated that Southwick did not have an understanding of the potential risks and rewards
+associated with the offering, the financial condition of his member firm’s parent at the
+time, or the illiquid nature of the investments. Southwick relied entirely on information
+provided in a script by senior officers of the parent, and he did not conduct his own analysis
+of the bond offering or bridge loan. Southwick accepted representations of others at face
+value without undertaking reasonable, independent steps to verify those representations,
+and he failed to obtain adequate information regarding the parent’s financial condition.
+While Southwick’s customers who invested in the bond offering still hold their investments,
+interest payments ceased after May 2015. Similarly, when the bridge loan principal and
+interest payments were due to his customers in 2015, the parent defaulted on repayment.
+The findings also stated that Southwick recommended unsuitable transactions in the
+securities accounts of two customers by recommending purchases that resulted in an over-
+concentration of illiquid private offerings, inconsistent with their investment objectives
+and risk tolerance. Southwick recommended they each invest a significant portion of
+their stated liquid net worth in the bond offering and bridge loan notes, both of which
+were illiquid investments. The recommendation to invest in the illiquid, risky private bond
+offering was inconsistent with one customer’s investment objectives and risk tolerance,
+and the concentration in this investment did not meet the customer’s investment
+objectives. Southwick recommended the other customer invest more than half of her
+stated net worth in the bond offering and bridge loan. The bond offering and bridge loan
+carried a significant amount of risk, as evidenced by the high rate of interest and lack of
+liquidity, and the concentration in this investment did not meet the customer’s investment
+objectives.
+The suspension is in effect from October 16, 2017, through April 15, 2018. (FINRA Case
+#2016049789601)
+Patrick Francis Sportelli (CRD #5427450, Buffalo, New York)
+September 29, 2017 – An AWC was issued in which Sportelli was assessed a deferred fine
+of $5,000 and suspended from association with any FINRA member in all capacities for 60
+days. Without admitting or denying the findings, Sportelli consented to the sanctions and
+to the entry of findings that he engaged in undisclosed outside business activities as a real
+estate agent after his member firm expressly prohibited his participation in such activities.
+The findings stated that Sportelli received approximately $20,000 in compensation in 2015
+and 2016. Sportelli failed to notify the firm that he was continuing to work as a real estate
+34 Disciplinary and Other FINRA Actions
+--- PDF PAGE 35 ---
+November 2017
+agent after it denied his request and instructed him to cease any such activities. In fact,
+when confronted by the firm, Sportelli initially denied that he continued to maintain a real
+estate license. Sportelli also falsely represented on a firm annual certification that he had
+not engaged in any outside business activities.
+The suspension is in effect from October 2, 2017, through November 30, 2017. (FINRA Case
+#2017053425501)
+Complaints Filed
+FINRA issued the following complaints. Issuance of a disciplinary complaint represents
+FINRA’s initiation of a formal proceeding in which findings as to the allegations in the
+complaint have not been made, and does not represent a decision as to any of the
+allegations contained in the complaint. Because these complaints are unadjudicated,
+you may wish to contact the respondents before drawing any conclusions regarding the
+allegations in the complaint.
+James Stewart Meagher (CRD #2328325, New York, New York)
+September 1, 2017 – Meagher was named a respondent in a FINRA complaint alleging
+that he was involved in two separate fraudulent schemes, in willful violation of Section
+10(b) of the Exchange Act and Rule 10b-5 thereunder, and FINRA Rules 2010 and 2020.
+The complaint alleges that Meagher engaged in a manipulative trading activity known as
+marking the close. Meagher marked the close by placing orders to purchase OTC securities
+for his member firm’s proprietary accounts shortly before market close on the final trading
+day of each month. Meagher’s orders were placed at prices that exceeded the inside offer
+at the time, and his executions resulted in higher closing prices for the securities. The
+higher closing prices were used by the firm to value the securities in the firm’s proprietary
+account, in which Meagher was responsible for trading, thus having a positive impact on
+his compensation. The complaint also alleges that after Meagher left his firm, he employed
+a second fraudulent scheme which was designed to defraud an individual. The individual
+wired $25,080 to Meagher for the purpose of purchasing shares of a stock at $38 per share.
+Instead, Meagher purchased a lesser amount of shares for the individual, misappropriating
+$3,080 of the individual’s money for his personal use. Approximately one week later,
+without any disclosure to the individual, Meagher sold all of the individual’s shares at $30
+per share and used the proceeds for his personal use, including paying for trips, a car rental
+and gambling. In furtherance of his scheme and in response to a request by the individual
+that Meagher sell the shares, Meagher, who became registered with a FINRA member on
+November 14, 2012, subsequently represented falsely to the individual that he had sold
+the shares on November 14, 2012 at $21 per share (totaling $13,860) and that he would
+wire the proceeds to the individual. In doing so, Meagher failed to disclose that he had
+sold the shares months earlier for $30 per share and that the proceeds of the sale owed
+to the individual, net of the individual’s share of the commissions charged, were $17,155.
+Disciplinary and Other FINRA Actions 35
+--- PDF PAGE 36 ---
+November 2017
+In addition, Meagher only wired a total of $7,000 to the individual. The complaint further
+alleges that in connection with FINRA’s investigation of this matter, Meagher provided false
+and misleading testimony by repeatedly asserting that the money he received from the
+individual was for a personal loan and that he had fully repaid the individual. (FINRA Case
+#2011030509802)
+Silver Leaf Partners, LLC (CRD #126694, New York, New York)
+September 20, 2017 – The firm was named a respondent in a FINRA complaint alleging
+that it shared transaction-based compensation with an unregistered individual to find
+entities to participate in its stock loan and block trade business. The complaint alleges
+that the firm paid transaction-based compensation to unregistered entities owned by its
+registered representatives, including even after being told by the SEC that such practice
+was prohibited. The complaint also alleges that the firm failed to adequately supervise
+its business and failed to establish, maintain and enforce adequate written procedures.
+The firm had no written procedures in its WSPs or elsewhere, nor did it implement
+appropriate supervisory procedures, prohibiting or otherwise addressing the payment
+of transaction-based compensation to finders or to unregistered entities owned by its
+registered representatives. The failure to have reasonable supervisory procedures resulted
+in improper payments to an unregistered individual and to unregistered entities affiliated
+with its brokers. Additionally, the firm failed to take reasonable steps to prevent one
+of its registered representatives from sharing transaction-based compensation with
+the unregistered individual in the face of red flags such as multiple emails from the
+representative to the firm’s management reflecting his sharing of transaction-based
+compensation with the unregistered individual and the unregistered individual acting as
+an agent on behalf of the firm. The firm also failed to follow up on the red flag of the SEC’s
+warning that payments to unregistered entities affiliated with its brokers were improper.
+The firm supervisory system, including its WSPs, also completely failed to address its stock
+loan and block trade introduction business and failed to follow up on red flags raised by
+that business. (FINRA Case #2014042606902)
+Hector Hugo Gutierrez Jr. (CRD #6595317, Brownsville, Texas)
+September 21, 2017 – Gutierrez was named a respondent in a FINRA complaint alleging
+that he failed to appear and provide FINRA on-the-record testimony relating to the reasons
+for his termination from his member firm. The complaint alleges that his firm reported in a
+Form U5, in pertinent part, that Gutierrez had been terminated from the firm for accessing
+and updating the accounts of his own family members rather than having another team
+member handle those transactions and that he entered his manager’s initials on a review
+form indicating that his manager reviewed the form at the firm’s bank affiliate. (FINRA Case
+#2016049745502)
+36 Disciplinary and Other FINRA Actions
+--- PDF PAGE 37 ---
+November 2017
+Bradley Carl Reifler (CRD #1589414, Millbrook, New York)
+September 26, 2017 – Reifler was named a respondent in a FINRA complaint alleging that
+he failed to comply with his obligation to provide full and complete testimony by refusing
+to answer questions asked by FINRA during on-the-record testimony pertaining to an
+investigation into a closed-end mutual fund that Reifler created while associated with his
+member firm. (FINRA Case #2016050924601)
+Farid Morim (CRD #5023477, Los Angeles, California)
+September 29, 2017 – Morim was named a respondent in a FINRA complaint alleging that
+he failed to timely respond to FINRA requests for information and documents in connection
+with its investigation into his potential conversion of customer assets and undisclosed
+outside business activities. The complaint alleges that in furtherance of the investigation,
+FINRA requested that Morim provide additional documents and information and he failed
+to comply with these requests. (FINRA Case #2015047528202)
+Sandlapper Securities, LLC (CRD #137906, Greenville, South Carolina), Jack Charles Bixler
+(CRD #22331, Greenville, South Carolina) and Trevor Lee Gordon (CRD #2195122,
+Greenville, South Carolina)
+September 29, 2017 – The firm, Bixler and Gordon were named respondents in a FINRA
+complaint alleging that they participated in a fraudulent scheme and defrauded investors
+by selling investments in saltwater disposal wells at excessive, undisclosed markups
+through a middleman “development” company owned and controlled by the firm Bixler,
+a firm principal and Gordon, the firm’s CEO. The complaint alleges that the fraudulent
+markups totaled over $8 million. Investors were not informed, in the PPM or otherwise,
+that the fund would pay or had paid excessive markups for its purchases of interests
+in saltwater disposal wells from the development company. As a result, the firm, Bixler
+and Gordon willfully violated Section 10(b) of the Exchange Act and Rule 10b-5(a) - (c)
+thereunder, and FINRA Rules 2010 and 2020. The complaint also alleges that as managers
+of the fund, Bixler and Gordon owed fiduciary duties to the fund. Bixler and Gordon
+violated their fiduciary duties by causing the development company to usurp the fund’s
+investment opportunities and resell those investments to the fund at excessive prices,
+and by failing to take steps to ensure fair pricing to the fund, Bixler and Gordon used the
+development company to extract ill-gotten profits from retail investors who purchased
+interests in individual saltwater disposal wells outside the fund. The development company
+purchased these interests and resold them to retail investors, sometimes through the firm,
+at undisclosed, excessive markups. The complaint further alleges that the development
+company was largely engaged in buying and reselling well interests, which were securities.
+Although this rendered it a dealer of securities, Bixler and Gordon failed to register the
+development company with FINRA or the SEC. By virtue of their ownership and control of
+the development company, Bixler and Gordon had the ability to cause the development
+company to register as a dealer but failed to do so. As a result, Bixler and Gordon willfully
+Disciplinary and Other FINRA Actions 37
+--- PDF PAGE 38 ---
+November 2017
+violated Section 15(a) of the Exchange Act and FINRA Rule 2010. In addition, the complaint
+alleges that despite deriving a substantial portion of its revenue from private offerings by
+affiliates, the firm failed to adopt or implement reasonable procedures to address conflicts
+of interest in transactions involving affiliates. In overseeing all the firm’s sales activities,
+including sales of fund interests and interests in individual saltwater disposal wells, Gordon
+labored under numerous and obvious conflicts of interest. Nonetheless, the firm failed
+to adopt or implement an alternate supervisory structure for offerings where Gordon
+was conflicted. Moreover, because Gordon and the firm were aware of the frauds being
+perpetrated in connection with sales of fund and well interests, and permitted registered
+representatives of the firm to sell the interests, Gordon and the firm failed to reasonably
+supervise the firm’s sales activities. Gordon and the firm did not even acknowledge that
+individual well interests were securities and allowed them to be sold away from the firm for
+compensation without any supervision, other than requiring registered representatives to
+submit “outside business activity” disclosures. Gordon and the firm knowingly permitted,
+and expressly or tacitly approved, the firm’s registered representatives to sell interests in
+direct working interests marketed as “real estate” to retail investors, and to receive selling
+compensation for those transactions. In addition to allowing representatives to engage
+in private securities transactions in violation of the firm’s WSPs, Gordon and the firm
+failed to record the sales on the firm’s books and records, failed to supervise the sales as if
+the transactions were executed on behalf of the firm and failed to otherwise reasonably
+supervise the transactions. (FINRA Case #2014041860801)
+38 Disciplinary and Other FINRA Actions
+--- PDF PAGE 39 ---
+Firm Cancelled for Failure to Pay
+Outstanding Fees Pursuant to FINRA
+Rule 9553
+LPE Securities, LLC (CRD #117851)
+Tampa, Florida
+(September 13, 2017)
+Firms Suspended for Failure to Supply
+Financial Information Pursuant to FINRA
+Rule 9552
+(The date the suspension began is
+listed after the entry. If the suspension
+has been lifted, the date follows the
+suspension date.)
+CDK Financial Services, LLC (CRD #124333)
+New York, New York
+(September 5, 2017)
+CDK Financial Services, LLC (CRD #124333)
+New York, New York
+(September 8, 2017)
+Wilbanks Securities, Inc. (CRD #40673)
+Oklahoma City, Oklahoma
+(September 5, 2017)
+Wilbanks Securities, Inc. (CRD #40673)
+Oklahoma City, Oklahoma
+(September 8, 2017)
+Firm Suspended for Failure to Pay
+Outstanding Fees Pursuant to FINRA
+Rule 9553
+(The date the suspension began is
+listed after the entry. If the suspension
+has been lifted, the date follows the
+suspension date.)
+Nanes, Delorme Capital Management LLC
+(CRD #104135)
+New York, New York
+(September 1, 2017)
+Disciplinary and Other FINRA Actions November 2017
+Individuals Barred for Failure to Provide
+Information or Keep Information Current
+Pursuant to FINRA Rule 9552(h)
+(If the bar has been vacated, the date
+follows the bar date.)
+Christina Albert (CRD #6589844)
+Perrysburg, Ohio
+(September 25, 2017)
+FINRA Case #2017053564401
+Chad Michael Anderson (CRD #4989688)
+Steward, Illinois
+(September 11, 2017)
+FINRA Case #2017053741301
+Woodley Hannon Bagwell (CRD #10084)
+Montgomery, Alabama
+(September 18, 2017)
+FINRA Case #2016050299901
+Damani A. Barham (CRD #6270752)
+Los Angeles, California
+(July 17, 2017 - September 6, 2017)
+FINRA Case #2017053148501
+Thomas Joseph Borruso (CRD #5475175)
+Astoria, New York
+(September 5, 2017)
+FINRA Case #2017053360501
+Sonya Michelle Brown (CRD #3008083)
+Sealy, Texas
+(September 26, 2017)
+FINRA Case #2016048686401
+Theophilus K. Denanyoh (CRD #6006465)
+New Albany, Ohio
+(September 25, 2017)
+FINRA Case #2017053569001
+Daniel Paul Doogs (CRD #1270354)
+Lawrenceburg, Indiana
+(September 15, 2017)
+FINRA Case #2017053751801
+39
+--- PDF PAGE 40 ---
+November 2017
+Daniel A. Dupont (CRD #5919589)
+New Bedford, Massachusetts
+(September 25, 2017)
+FINRA Case #2017053771001
+Mariam Gabashvili (CRD #6545858)
+Los Angeles, California
+(September 18, 2017)
+FINRA Case #2017054027701
+Albert Sidney Gersh (CRD #2505980)
+Woodland Hills, California
+(September 25, 2017)
+FINRA Case #2017053705301
+Robert Norman Greco (CRD #228304)
+Spokane, Washington
+(September 29, 2017)
+FINRA Case #2016051995801
+Bettye Clements Hays (CRD #1307813)
+Foley, Alabama
+(September 11, 2017)
+FINRA Case #2017053749201
+John Kaleihiehie Kai (CRD #2163244)
+Hilo, Hawaii
+(September 12, 2017)
+FINRA Case #2017053680001
+David Russell Kondracke (CRD #849161)
+Naples, Florida
+(September 11, 2017)
+FINRA Case #2016051547401
+Danielle Lamb (CRD #6560373)
+Holyoke, Colorado
+(September 5, 2017)
+FINRA Case #2016052561101
+Chea Anetta Ledbetter (CRD #6492823)
+Hot Springs, Arkansas
+(September 25, 2017)
+FINRA Case #2017053986201
+40 Jacob Richard Luithle (CRD #6317475)
+Rogers, Minnesota
+(September 11, 2017)
+FINRA Case #2017053795201
+Arturo Diego Montenora (CRD #2646366)
+Staten Island, New York
+(September 26, 2017)
+FINRA Case #2017054326201
+Daniel P. Mullan (CRD #2587700)
+Syosset, New York
+(September 18, 2017)
+FINRA Case #2016048799901
+Sampson Pearson Jr. (CRD #4159298)
+Charlotte, North Carolina
+(September 22, 2017)
+FINRA Case #2017054269301
+Douglas A. Rabess (CRD #5676676)
+Montgomery, New York
+(September 5, 2017)
+FINRA Case #2016050595002
+Frank Blaise Anthony Restifo Jr.
+(CRD #1138179)
+Euclid, Ohio
+(September 25, 2017)
+FINRA Case #2017053647201
+Matthew Patrick Seemann (CRD #4956209)
+Carlsbad, California
+(September 11, 2017)
+FINRA Case #2017053018401
+Matthew Carl Shepard (CRD #5626064)
+Louisville, Alabama
+(September 18, 2017)
+FINRA Case #2016051709201
+Elizabeth Eunyoung Skillman
+(CRD #6091502)
+Carlsbad, California
+(September 5, 2017)
+FINRA Case #2016050131801
+Disciplinary and Other FINRA Actions
+--- PDF PAGE 41 ---
+Maria Nancy Tamburro (CRD #5977689)
+Highland Falls, New York
+(September 25, 2017 – October 13, 2017)
+FINRA Case #2016051905301
+Bethany Chanel Thompson (CRD #6633354)
+Mount Sterling, Kentucky
+(July 21, 2017 – September 6, 2017)
+FINRA Case #2017053012401
+Matthew D. Webster (CRD #6120098)
+Syracuse, New York
+(September 11, 2017)
+FINRA Case #2016051007901
+Individual Revoked for Failure to Pay Fines
+and/or Costs Pursuant to FINRA Rule 8320
+(If the revocation has been rescinded,
+the date follows the revocation date.)
+Jeffrey Llyod Scheibner (CRD #2545488)
+Ladera Ranch, California
+(September 7, 2017)
+FINRA Case #2016051534901
+Individuals Suspended for Failure to
+Provide Information or Keep Information
+Current Pursuant to FINRA Rule 9552(d)
+(The date the suspension began is
+listed after the entry. If the suspension
+has been lifted, the date follows the
+suspension date.)
+Donald C. Blackwell (CRD #5682804)
+Oxford, Mississippi
+(September 18, 2017)
+FINRA Case #2016047564701
+Samiul Anam Chowdhury (CRD #5623664)
+Fresh Meadows, New York
+(September 25, 2017)
+FINRA Case #2017053704401
+Disciplinary and Other FINRA Actions November 2017
+Wayne Earl Cooksey (CRD #845368)
+Jacksonville Beach, Florida
+(September 1, 2017)
+FINRA Case #2017054598201
+Argenis T. Cortes (CRD #5787395)
+Valley Stream, New York
+(September 25, 2017)
+FINRA Case #2015047127701
+Vincent Frank D’Accardi (CRD #4548518)
+Lake Hiawatha, New Jersey
+(September 25, 2017)
+FINRA Case #2017053370201
+Matthew Evan Eckstein (CRD #2997245)
+Syosset, New York
+(September 11, 2017)
+FINRA Case #2017054146301
+Christopher Anthony Fernan
+(CRD #5896584)
+Commack, New York
+(June 23, 2017 – September 20, 2017)
+FINRA Case #2017053314901
+Matthew Douglas Garrett (CRD #6485387)
+Olive Branch, Mississippi
+(September 22, 2017)
+FINRA Case #2017053473601
+Suhail Saleem Khan (CRD #3168241)
+Chicago, Illinois
+(September 1, 2017)
+FINRA Case #2017054093201
+Rick Douglas Konecny (CRD #1727785)
+Chicago, Illinois
+(September 11, 2017)
+FINRA Case #2016049543601
+Spencer David Laufer (CRD #6312867)
+Brooklyn, New York
+(September 7, 2017)
+FINRA Case #2017054567801
+41
+--- PDF PAGE 42 ---
+November 2017
+Kevin Allen Mee (CRD #6262993)
+Salinas, California
+(September 22, 2017)
+FINRA Case #2017054463901
+Cornelius Peterson (CRD #5769919)
+Boston, Massachusetts
+(September 25, 2017)
+FINRA Case #2017055058201
+Stanley Calvin Pigue (CRD #5365194)
+Franklinton, North Carolina
+(September 7, 2017)
+FINRA Case #2017054507501
+James S. Polese (CRD #2636427)
+Wenham, Massachusetts
+(September 25, 2017)
+FINRA Case #2017055058101
+Jordan Charles Rodden (CRD #1422173)
+Bryant, Indiana
+(September 8, 2017)
+FINRA Case #2017054221701
+Amus Desmond Stevens (CRD #5957270)
+Bronx, New York
+(September 1, 2017)
+FINRA Case #2017054505401
+Jamie Yuvonne Strickland (CRD #5294385)
+Ormond Beach, Florida
+(September 22, 2017)
+FINRA Case #2017054217301
+42 Individuals Suspended for Failure to
+Comply with an Arbitration Award or
+Settlement Agreement Pursuant to
+FINRA Rule 9554
+(The date the suspension began is
+listed after the entry. If the suspension
+has been lifted, the date follows the
+suspension date.)
+Joseph Orazio Degregorio (CRD #3219963)
+Staten Island, New York
+(September 8, 2017)
+FINRA Arbitration Case #17-00571
+Valery Vitalievich Gurin (CRD #4517689)
+Kirkland, Washington
+(September 21, 2017)
+FINRA Arbitration Case #16-00949
+Levi David Lindemann (CRD #4163876)
+Duluth, Minnesota
+(September 5, 2017)
+FINRA Arbitration Case #15-02532
+John Scott Matthews (CRD #2082907)
+Roslyn, New York
+(September 18, 2017 – October 18, 2017)
+FINRA Arbitration Case #15-01784
+Ataf Nabli (CRD #4542487)
+Jersey City, New Jersey
+(September 21, 2017)
+FINRA Arbitration Case #15-03258
+Carrie Riley (CRD #5199762)
+Goleta, California
+(April 1, 2016 – September 29, 2017)
+FINRA Arbitration Case #13-03119
+Englebert Sarmiento (CRD #4506010)
+Fresh Meadows, New York
+(September 18, 2017)
+FINRA Arbitration Case #15-01784
+Disciplinary and Other FINRA Actions
+--- PDF PAGE 43 ---
+November 2017
+FINRA Hearing Panel Fines C.L. King & Associates $750,000 for Negligent
+Misrepresentations and Omissions in Connection with Death Put
+Investments and AML-Related Violations
+A FINRA extended hearing panel censured Albany, NY-based broker-dealer C.L. King
+& Associates, Inc. and fined the firm $750,000 for negligently making material
+misrepresentations and omissions to issuers in connection with the firm’s redemptions of
+debt securities on behalf of a hedge fund customer. The hearing panel also found that C.L.
+King and its AML Compliance Officer, Respondent Gregg Alan Miller, who was suspended
+in a principal capacity for six months and fined $20,000, failed to establish and implement
+a reasonable AML program and failed to adequately respond to red flags related to the
+liquidation of billions of shares of penny stocks indicative of potentially suspicious activity
+by two customers. The decision resolves charges brought by FINRA’s Department of
+Enforcement in April 2016.
+According to the hearing panel decision, the manager of the hedge fund opened joint
+accounts at C.L. King with terminally ill persons as joint tenants with rights of survivorship.
+The hedge fund’s strategy involved using the accounts to purchase discounted corporate
+bonds that contained a survivor option, or “death put.” The death put feature allowed the
+manager of the hedge fund, as the joint account’s survivor, to redeem the investments
+from issuers – through C.L. King –for the full principal amount before maturity upon the
+death of a joint tenant. The hedge fund paid terminally ill persons $10,000 to agree to open
+a joint account with the manager of the fund. The manager and fund obtained referrals to
+open joint accounts from a hospice in New Jersey. The hearing panel found that C.L. King
+had an obligation to disclose to issuers during the redemption process that terminally ill
+joint tenants were not in fact beneficial owners of the investments because the hedge fund
+required them to sign side agreements in which they agreed to give up their ownership
+rights to the assets in the joint accounts.
+In addition, separate from C.L. King’s debt securities business, from 2009 to 2014, the firm
+sold billions of shares in penny stocks on behalf of two customers. One of the customers, a
+bank based in Liechtenstein, sold 41 million of shares of 40 penny stocks generating more
+than $4.8 million in proceeds and the other customer sold more than 11 billion shares
+in 138 stocks for proceeds of more than $14 million. The hearing panel found that C.L.
+King and Miller failed to tailor its AML program to the risks presented by its penny stock
+business and did not monitor the customers’ trading activity for red flags indicative of
+potential money laundering. Respondents ignored red flags that included, for example, the
+issuers whose stock the customers sold generated little or no revenue and they had little
+history of doing business. The stocks were often the subject of promotional activity on the
+Internet around the time the customers sold their shares. In some cases, promoters were
+paid for touting the stocks. The promotional activity was a red flag suggesting the possible
+existence of a pump-and-dump scheme. The two customers sometimes sold a large
+percentage of an issuer’s outstanding shares.
+Disciplinary and Other FINRA Actions 43
+--- PDF PAGE 44 ---
+November 2017
+The hearing panel also found that the firm and Miller failed to conduct adequate due
+diligence into the trading activities of the Liechtenstein bank, a foreign financial institution
+as defined by the Bank Secrecy Act, which obligates firms to engage in a heightened
+assessment of the money laundering risks presented by such a customer.
+On September 22, 2017, C.L. King and Miller appealed the decision to the National
+Adjudicatory Council. The sanctions are not in effect pending review.
+FINRA Sanctions Morgan Stanley $13 Million in Fines and Restitution for
+Failing to Supervise Sales of UITs
+FINRA has fined Morgan Stanley Smith Barney LLC $3.25 million and required the firm to
+pay approximately $9.78 million in restitution to more than 3,000 affected customers for
+failing to supervise its representatives’ short-term trades of unit investment trusts (UITs).
+A UIT is an investment company that offers units in a portfolio of securities that terminates
+on a specific maturity date, often after 15 or 24 months. UITs impose a variety of charges,
+including a deferred sales charge and a creation and development fee, that can total
+approximately 3.95 percent for a typical 24-month UIT. A registered representative who
+repeatedly recommends that a customer sell his or her UIT position before the maturity
+date and then “rolls over” those funds into a new UIT causes the customer to incur
+increased sale charges over time, raising suitability concerns.
+FINRA found that from January 2012 through June 2015, hundreds of Morgan Stanley
+representatives executed short-term UIT rollovers, including UITs rolled over more than
+100 days before maturity, in thousands of customer accounts. FINRA further found that
+Morgan Stanley failed to adequately supervise representatives’ sales of UITs by providing
+insufficient guidance to supervisors regarding how they should review UIT transactions to
+detect unsuitable short-term trading, failing to implement an adequate system to detect
+short-term UIT rollovers, and failing to provide for supervisory review of rollovers prior
+to execution within the firm’s order entry system. Morgan Stanley also failed to conduct
+training for registered representatives specific to UITs.
+Susan Schroeder, FINRA Executive Vice President and Head of Enforcement, said, “Due
+to the long-term nature of UITs, their structure, and upfront costs, short-term trading of
+UITs may be improper and raises suitability concerns. Firms must adequately supervise
+representatives’ sales of UITs –including providing sufficient training –and have in place a
+system to detect potentially unsuitable short-term UIT rollovers.”
+44 Disciplinary and Other FINRA Actions
+--- PDF PAGE 45 ---
+November 2017
+In assessing sanctions, FINRA has recognized Morgan Stanley’s cooperation in having
+initiated a firmwide investigation that included, among other things, interviewing more
+than 65 firm personnel and the retention of an outside consultant to conduct a statistical
+analysis of UIT rollovers at the firm; identified customers affected and establishing a plan
+to provide remediation to those customers; and provided substantial assistance to FINRA in
+its investigation.
+As a result of this case, FINRA launched a targeted exam in September 2016 focused on
+UIT rollovers. In addition, in its 2017 Exam Priorities Letter, FINRA highlighted that it was
+evaluating firms’ ability to monitor for short-term trading of long-term products.
+In settling this matter, Morgan Stanley nether admitted or denied the charges, but
+consented to the entry of FINRA’s findings.
+Disciplinary and Other FINRA Actions 45

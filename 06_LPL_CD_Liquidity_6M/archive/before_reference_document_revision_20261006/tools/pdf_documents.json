@@ -1,0 +1,97 @@
+{
+  "case_number": "06",
+  "case_name": "存款办理渠道选择：六个月后的付款安排",
+  "scenario_id": "S-LPL-CD-01",
+  "style": "hierarchical_native_pdf_v1",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "06-01",
+      "title": "银行直购无罚金定期存款",
+      "pdf": "06_LPL_CD_Liquidity_6M_Reference_01.pdf",
+      "content_source": "06_LPL_CD_Liquidity_6M_Reference.txt",
+      "start_line": 3,
+      "end_line": 21,
+      "leading_source_heading": "银行直购无罚金定期存款",
+      "headings": {
+        "银行直购无罚金定期存款": {
+          "level": 2
+        },
+        "七个月无罚金定期存款": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "2",
+        "3",
+        "5"
+      ],
+      "content_sha256": "4118ff2115db0349bb62dce69a0a338424b001dc37ebf6e8ac101f909a540795",
+      "pages": 1,
+      "pdf_sha256": "212726611daecc339fea416475bcfb89528919255785704e69ac745d00c5e744",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    },
+    {
+      "document_number": "02",
+      "document_id": "06-02",
+      "title": "经纪存款凭证披露声明",
+      "pdf": "06_LPL_CD_Liquidity_6M_Reference_02.pdf",
+      "content_source": "06_LPL_CD_Liquidity_6M_Reference.txt",
+      "start_line": 21,
+      "end_line": 186,
+      "leading_source_heading": "经纪存款凭证披露声明",
+      "headings": {
+        "经纪存款凭证披露声明": {
+          "level": 2
+        },
+        "CD条款": {
+          "level": 1
+        },
+        "付息CD": {
+          "level": 2
+        },
+        "零息CD": {
+          "level": 2
+        },
+        "提前赎回特征": {
+          "level": 2
+        },
+        "您与本机构及发行人的关系": {
+          "level": 1
+        },
+        "重要投资考虑": {
+          "level": 1
+        },
+        "有关FDIC保障的疑问": {
+          "level": 2
+        },
+        "不利情况下的付款": {
+          "level": 1
+        },
+        "追加或支取": {
+          "level": 1
+        },
+        "二级市场": {
+          "level": 1
+        },
+        "费用": {
+          "level": 1
+        },
+        "联邦所得税后果": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "2",
+        "3",
+        "5"
+      ],
+      "content_sha256": "5844ea2821572ce4a3d9edcd1b06c4cca7aa4cd71c93c6327b2e58d0711a7b1b",
+      "pages": 6,
+      "pdf_sha256": "160676141fd80e6d63197339de94ba62736724bae6392115ba76d702e609106a",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    }
+  ]
+}

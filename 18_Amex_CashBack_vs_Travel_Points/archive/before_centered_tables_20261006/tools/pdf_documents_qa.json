@@ -1,0 +1,42 @@
+{
+  "case": 18,
+  "independent_documents": 3,
+  "documents": [
+    {
+      "document_id": "18-01",
+      "pdf": "18_Amex_CashBack_vs_Travel_Points_Reference_01.pdf",
+      "pages": 7,
+      "text_checks": 105,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "c9cb075b4f7b3555ff88ad61c823cb6376377a66f1f3f48a771a95a80ecd26c9",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "18-02",
+      "pdf": "18_Amex_CashBack_vs_Travel_Points_Reference_02.pdf",
+      "pages": 2,
+      "text_checks": 19,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "6c6aeaabc468c3e58de64daa2e8982758ae5b522c0f8f493c30d99cef87bbbc9",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "18-03",
+      "pdf": "18_Amex_CashBack_vs_Travel_Points_Reference_03.pdf",
+      "pages": 2,
+      "text_checks": 28,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "bdf33179283e5ef8681e702ffea4b3aa791c3589d6e768f8d963901b37d90a47",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked",
+  "checked_date": "2026-10-06",
+  "visual_review": "All 42 document first pages inspected; full first pages and multipage contact sheets inspected for fund prospectuses and representative tables; no overlap or clipping found.",
+  "archive": "archive/before_reference_document_revision_20261006"
+}

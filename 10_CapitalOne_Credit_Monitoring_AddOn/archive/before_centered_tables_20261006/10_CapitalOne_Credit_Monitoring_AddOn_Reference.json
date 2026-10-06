@@ -1,0 +1,1152 @@
+{
+  "case_folder": "10_CapitalOne_Credit_Monitoring_AddOn",
+  "title": "信用监测客户协议及身份盗用保险条款",
+  "status": "source_document_rebuild",
+  "language": "zh-CN",
+  "rendering": "native_xelatex",
+  "reference_file": "10_CapitalOne_Credit_Monitoring_AddOn_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "expanded_adapted_source_documents",
+    "not_a_complete_certified_translation": true,
+    "chapters_in_original_order": true,
+    "account_confirmations": "Material.md — 本次账户及办理确认",
+    "source_localization": "各章来源与删改边界见Notes第3节。机构匿名及本次资格设定未声称出自真实原案。",
+    "documents": [
+      {
+        "document": "高级会员及客户协议",
+        "source_ids": "[2][4]",
+        "adopted_scope": "产品宣传及脚注、客户协议1—18条、评分及监测附件",
+        "omission_or_verification_boundary": "保留原件促销语气，不把营销声明当研究结论；移除导航、商业品牌、联络地址及个人见证。"
+      },
+      {
+        "document": "身份盗用保障及冻结",
+        "source_ids": "[3][4][5][6]",
+        "adopted_scope": "保险事件、条件、责任限制、证明义务、除外、家庭保障；冻结、信用报告和恢复渠道",
+        "omission_or_verification_boundary": "保险来源本身是保障摘要，不是完整保险保单；不承诺Cash Recovery。新订阅短信监测不可开通，按协议保留此限制。"
+      }
+    ],
+    "translation_review": "扩展中文译写；尚未全部逐句校勘；不标为整份原件全文译本"
+  },
+  "removed_content": [
+    "封面及广告导航",
+    "监管结论、涉案人物、销售培训、执法经过",
+    "不适用类别、重复语言版本及注册申报附件；具体范围见Notes",
+    "研究者摘要、推荐答案及跨选项综合比较表"
+  ],
+  "adaptation_policy": "Preserve adopted document and chapter order; no researcher summary or cross-option comparison table; anonymous institution names; experimental account facts in Material only.",
+  "content_sha256": "5ab496e92ffcc437dfaebcef7d754ada14984ed7e046c1af9f1da37a18721a6a",
+  "sections": [
+    {
+      "id": "S001",
+      "heading": "三家征信报告与监测：高级个人会员",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-01",
+      "line": 4,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S002",
+      "heading": "重要信息",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-01",
+      "line": 12,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S003",
+      "heading": "您将获得的服务",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-01",
+      "line": 24,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S004",
+      "heading": "服务支持",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-01",
+      "line": 42,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S005",
+      "heading": "客户协议",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 48,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S006",
+      "heading": "1. 同意使用条款及隐私政策",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 50,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S007",
+      "heading": "2. 授权取得及使用您的数据、信用报告、信用评分及其他信息",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 54,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S008",
+      "heading": "3. 通知及更新的交付",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 68,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S009",
+      "heading": "4. 产品的使用及交付",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 74,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S010",
+      "heading": "4.a. 本机构产品的使用",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 76,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S011",
+      "heading": "4.b. 第三方产品",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 80,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S012",
+      "heading": "4.c. 家庭计划的额外条款及条件",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 84,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S013",
+      "heading": "4.c.1. 家庭计划——主要账户持有人",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 88,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S014",
+      "heading": "4.c.2. 家庭计划——未成年子女",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 94,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S015",
+      "heading": "4.c.3. 家庭计划——次要账户持有人",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 100,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S016",
+      "heading": "5. 付款、取消及暂停",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 108,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S017",
+      "heading": "5.a. 付款",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 110,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S018",
+      "heading": "5.b. 本机构取消",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 114,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S019",
+      "heading": "5.c. 订阅产品及取消",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 118,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S020",
+      "heading": "5.d. 合资格订阅的临时暂停",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 132,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S021",
+      "heading": "5.e. 非订阅产品（一次性购买）",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 146,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S022",
+      "heading": "6. 税费",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 150,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S023",
+      "heading": "7. 不能替代专业意见",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 154,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S024",
+      "heading": "8. 不是信用修复机构",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 158,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S025",
+      "heading": "9. 保密",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 164,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S026",
+      "heading": "10. 不供未成年人使用",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 168,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S027",
+      "heading": "11. 保证及责任免责声明",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 172,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S028",
+      "heading": "12. 适用法律及诉讼时效",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 182,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S029",
+      "heading": "13. 仲裁",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 188,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S030",
+      "heading": "14. 保险",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 214,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S031",
+      "heading": "15. 短信",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 218,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S032",
+      "heading": "16. FICO评分版本",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 236,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S033",
+      "heading": "17. 信用报告监测、更新评分、评分监测及提醒",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 240,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S034",
+      "heading": "18. 完整协议",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 244,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S035",
+      "heading": "额外消费者披露",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 248,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S036",
+      "heading": "附件A——FICO评分版本",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 262,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S037",
+      "heading": "重要信息",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 264,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S038",
+      "heading": "提醒",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 314,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S039",
+      "heading": "附件C——身份盗用保险条款及条件",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 317,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S040",
+      "heading": "保险限额",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 329,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S041",
+      "heading": "损失发生时的义务",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 336,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S042",
+      "heading": "承保范围",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 360,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S043",
+      "heading": "身份欺诈——费用报销",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 362,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S044",
+      "heading": "现金追回",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 376,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S045",
+      "heading": "除外责任",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 392,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S046",
+      "heading": "定义",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 430,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S047",
+      "heading": "条件",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-02",
+      "line": 496,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S048",
+      "heading": "信用冻结及欺诈警示",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-03",
+      "line": 512,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S049",
+      "heading": "有关信用冻结",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-03",
+      "line": 516,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S050",
+      "heading": "信用冻结",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-03",
+      "line": 522,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S051",
+      "heading": "有关欺诈警示",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-03",
+      "line": 538,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S052",
+      "heading": "初始欺诈警示",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-03",
+      "line": 542,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S053",
+      "heading": "延长欺诈警示",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-03",
+      "line": 552,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S054",
+      "heading": "现役军人警示",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-03",
+      "line": 562,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S055",
+      "heading": "现役军人及国民警卫队成员的免费信用监测",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-03",
+      "line": 572,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S056",
+      "heading": "冻结子女信用",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-03",
+      "line": 576,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S057",
+      "heading": "取得免费报告",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-03",
+      "line": 580,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S058",
+      "heading": "信用报告取得渠道",
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "document_id": "10-03",
+      "line": 584,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    }
+  ],
+  "research_settings": {
+    "file": "10_CapitalOne_Credit_Monitoring_AddOn_Material.md",
+    "section": "本次账户及办理确认",
+    "provenance": "既有场景研究设定；非官方原件合同确认",
+    "text_sha256": "1652fa94fb95c8dc1c174f262ebd89e9eede853158641a2f64f314f4702269b0"
+  },
+  "qa_status": "text_and_layout_checked",
+  "pages": 19,
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "10-01",
+      "title": "信用监测会员服务资料",
+      "pdf": "10_CapitalOne_Credit_Monitoring_AddOn_Reference_01.pdf",
+      "content_source": "10_CapitalOne_Credit_Monitoring_AddOn_Reference.txt",
+      "start_line": 3,
+      "end_line": 47,
+      "leading_source_heading": "三家征信报告与监测：高级个人会员",
+      "headings": {
+        "重要信息": {
+          "level": 2
+        },
+        "您将获得的服务": {
+          "level": 1
+        },
+        "服务支持": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "content_sha256": "dd31cca9e1692a0e241bd42766722699c478acc0bd4a3819435c09c278be8c44",
+      "pages": 2,
+      "pdf_sha256": "2191a21936d935649d4d0bf4722347d18515aa3e78e905d931991708721d64c5",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": []
+    },
+    {
+      "document_number": "02",
+      "document_id": "10-02",
+      "title": "信用监测客户协议及附件",
+      "pdf": "10_CapitalOne_Credit_Monitoring_AddOn_Reference_02.pdf",
+      "content_source": "10_CapitalOne_Credit_Monitoring_AddOn_Reference.txt",
+      "start_line": 47,
+      "end_line": 511,
+      "leading_source_heading": "客户协议",
+      "headings": {
+        "重要信息": {
+          "level": 2
+        },
+        "客户协议": {
+          "level": 2
+        },
+        "5.a. 付款": {
+          "level": 2
+        },
+        "5.b. 本机构取消": {
+          "level": 2
+        },
+        "5.c. 订阅产品及取消": {
+          "level": 2
+        },
+        "5.d. 合资格订阅的临时暂停": {
+          "level": 2
+        },
+        "5.e. 非订阅产品（一次性购买）": {
+          "level": 2
+        },
+        "6. 税费": {
+          "level": 1
+        },
+        "7. 不能替代专业意见": {
+          "level": 1
+        },
+        "8. 不是信用修复机构": {
+          "level": 1
+        },
+        "9. 保密": {
+          "level": 1
+        },
+        "10. 不供未成年人使用": {
+          "level": 1
+        },
+        "11. 保证及责任免责声明": {
+          "level": 1
+        },
+        "12. 适用法律及诉讼时效": {
+          "level": 1
+        },
+        "13. 仲裁": {
+          "level": 1
+        },
+        "14. 保险": {
+          "level": 1
+        },
+        "15. 短信": {
+          "level": 1
+        },
+        "16. FICO评分版本": {
+          "level": 1
+        },
+        "18. 完整协议": {
+          "level": 1
+        },
+        "额外消费者披露": {
+          "level": 1
+        },
+        "附件A——FICO评分版本": {
+          "level": 1
+        },
+        "提醒": {
+          "level": 2
+        },
+        "附件C——身份盗用保险条款及条件": {
+          "level": 1
+        },
+        "保险限额": {
+          "level": 2
+        },
+        "损失发生时的义务": {
+          "level": 2
+        },
+        "承保范围": {
+          "level": 2
+        },
+        "身份欺诈——费用报销": {
+          "level": 2
+        },
+        "现金追回": {
+          "level": 2
+        },
+        "除外责任": {
+          "level": 2
+        },
+        "定义": {
+          "level": 2
+        },
+        "条件": {
+          "level": 2
+        },
+        "1. 同意使用条款及隐私政策": {
+          "level": 1
+        },
+        "2. 授权取得及使用您的数据、信用报告、信用评分及其他信息": {
+          "level": 1
+        },
+        "3. 通知及更新的交付": {
+          "level": 1
+        },
+        "4. 产品的使用及交付": {
+          "level": 1
+        },
+        "4.a. 本机构产品的使用": {
+          "level": 2
+        },
+        "4.b. 第三方产品": {
+          "level": 2
+        },
+        "4.c. 家庭计划的额外条款及条件": {
+          "level": 2
+        },
+        "4.c.1. 家庭计划——主要账户持有人": {
+          "level": 3
+        },
+        "4.c.2. 家庭计划——未成年子女": {
+          "level": 3
+        },
+        "4.c.3. 家庭计划——次要账户持有人": {
+          "level": 3
+        },
+        "5. 付款、取消及暂停": {
+          "level": 1
+        },
+        "17. 信用报告监测、更新评分、评分监测及提醒": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "content_sha256": "3211551d6ad25696e8044a69dc3e0026bd2ca192f8bdf97d20402f9fa5a9af4d",
+      "pages": 14,
+      "pdf_sha256": "336c3d3884532b705088c049eac297e92131849aa672f68d3fa148179a59d242",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [
+        {
+          "header": [
+            "用途／版本",
+            "Experian",
+            "Equifax",
+            "TransUnion"
+          ],
+          "weights": [
+            0.15676708496146613,
+            0.28107763834617794,
+            0.28107763834617794,
+            0.28107763834617794
+          ]
+        },
+        {
+          "header": [
+            "保障",
+            "责任限额"
+          ],
+          "weights": [
+            0.41348775927727427,
+            0.5865122407227258
+          ]
+        }
+      ]
+    },
+    {
+      "document_number": "03",
+      "document_id": "10-03",
+      "title": "信用冻结及欺诈警示资料",
+      "pdf": "10_CapitalOne_Credit_Monitoring_AddOn_Reference_03.pdf",
+      "content_source": "10_CapitalOne_Credit_Monitoring_AddOn_Reference.txt",
+      "start_line": 511,
+      "end_line": 590,
+      "leading_source_heading": "信用冻结及欺诈警示",
+      "headings": {
+        "信用冻结及欺诈警示": {
+          "level": 2
+        },
+        "有关信用冻结": {
+          "level": 1
+        },
+        "信用冻结": {
+          "level": 2
+        },
+        "有关欺诈警示": {
+          "level": 1
+        },
+        "初始欺诈警示": {
+          "level": 2
+        },
+        "延长欺诈警示": {
+          "level": 2
+        },
+        "现役军人警示": {
+          "level": 2
+        },
+        "现役军人及国民警卫队成员的免费信用监测": {
+          "level": 2
+        },
+        "冻结子女信用": {
+          "level": 2
+        },
+        "取得免费报告": {
+          "level": 1
+        },
+        "信用报告取得渠道": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "content_sha256": "e52e127adf0c5c3adf8c841513ce5e3a09f7d632e280258efe91b7a5d032b69a",
+      "pages": 3,
+      "pdf_sha256": "f267cf8203a0f83bac42f800afe9aaccff039a89b22c2a52e74b49d3bda4f761",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": []
+    }
+  ],
+  "pdf_files": [
+    "10_CapitalOne_Credit_Monitoring_AddOn_Reference_01.pdf",
+    "10_CapitalOne_Credit_Monitoring_AddOn_Reference_02.pdf",
+    "10_CapitalOne_Credit_Monitoring_AddOn_Reference_03.pdf"
+  ],
+  "pages_definition": "各独立PDF页数之和；不存在现行合并PDF。",
+  "document_manifest": "tools/pdf_documents.json",
+  "heading_levels": 3,
+  "material_sha256": "f7497f7352b9e6413568cae28f38d44c9588c48592053b57e02bd20ffb687783",
+  "scenario_confirmation_location": "10_CapitalOne_Credit_Monitoring_AddOn_Material.md — 场景信息／本次账户及办理条件",
+  "document_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "8591cfcc03ff013554d63bb4134496756619f9bd45930afd95010304f43de891",
+    "current_sha256": "5ab496e92ffcc437dfaebcef7d754ada14984ed7e046c1af9f1da37a18721a6a",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_widths": "content_adaptive",
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。"
+}

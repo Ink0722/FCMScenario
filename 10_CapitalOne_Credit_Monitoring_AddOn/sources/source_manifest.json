@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1",
+    "title": "CFPB，Capital One信用卡附加产品执法说明，2012-07-18",
+    "url": "https://www.consumerfinance.gov/archive/newsroom/cfpb-capital-one-probe/",
+    "resolved_url": "https://www.consumerfinance.gov/archive/newsroom/cfpb-capital-one-probe/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_01.html",
+    "bytes": 152481,
+    "sha256": "9c74ce9d2bcda10b05dfc434368a129034b8743e359adce30a0c292f6f3996f1",
+    "status": "downloaded"
+  },
+  {
+    "id": "2",
+    "title": "myFICO，Advanced个人订阅条款与功能",
+    "url": "https://www.myfico.com/products/ultimate-three-bureau-credit-report",
+    "resolved_url": "https://www.myfico.com/products/ultimate-three-bureau-credit-report",
+    "retrieved_date": "2026-10-06",
+    "file": "source_02.html",
+    "bytes": 130674,
+    "sha256": "5c4f7236231a0db97c1ccde88d462b3ad70c1ddf7914d516a582f17d1e1102f0",
+    "status": "downloaded"
+  },
+  {
+    "id": "3",
+    "title": "myFICO，身份盗用保险保障摘要",
+    "url": "https://www.myfico.com/legal/identity-theft-insurance-summary-of-benefits",
+    "resolved_url": "https://www.myfico.com/legal/identity-theft-insurance-summary-of-benefits",
+    "retrieved_date": "2026-10-06",
+    "file": "source_03.html",
+    "bytes": 175830,
+    "sha256": "52305249d708eb31496a12535e44f458d434fb4df93ce426a51c5a52ebd1f80f",
+    "status": "downloaded"
+  },
+  {
+    "id": "4",
+    "title": "myFICO，Customer Agreement",
+    "url": "https://www.myfico.com/Include/Store/Legal/TermsAndConditions",
+    "resolved_url": "https://www.myfico.com/Include/Store/Legal/TermsAndConditions",
+    "retrieved_date": "2026-10-06",
+    "file": "source_04.html",
+    "bytes": 95393,
+    "sha256": "498ede869b3996d851f253c4aee161eee7a80d7fa54758d990f6c6e0f23ba0ba",
+    "status": "downloaded"
+  },
+  {
+    "id": "5",
+    "title": "FTC，Credit Freezes and Fraud Alerts",
+    "url": "https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts",
+    "resolved_url": "https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts",
+    "retrieved_date": "2026-10-06",
+    "file": "source_05.html",
+    "bytes": 492687,
+    "sha256": "4590b78fc958f409eca2fdd16f37226ed3a64bac31d4e7d976b66ba4e520b81e",
+    "status": "downloaded"
+  },
+  {
+    "id": "6",
+    "title": "FTC，Understanding Your Credit及免费报告渠道",
+    "url": "https://consumer.ftc.gov/articles/understanding-your-credit",
+    "resolved_url": "https://consumer.ftc.gov/articles/understanding-your-credit",
+    "retrieved_date": "2026-10-06",
+    "file": "source_06.html",
+    "bytes": 496949,
+    "sha256": "b0e6f5f9c2d56d9378c91bd1cdb3f52122398750f143a7218d3884153847e491",
+    "status": "downloaded"
+  },
+  {
+    "id": "7",
+    "title": "FTC，Data Breach Response: A Guide for Business，通知字段和后续处理资料",
+    "url": "https://www.ftc.gov/business-guidance/resources/data-breach-response-guide-business",
+    "resolved_url": "https://www.ftc.gov/business-guidance/resources/data-breach-response-guide-business",
+    "retrieved_date": "2026-10-06",
+    "file": "source_07.html",
+    "bytes": 1007478,
+    "sha256": "fa7f31059d3b1a3e9b4ce5772db3d876fc95eff0acda13890fdcdceff1c9b545",
+    "status": "downloaded"
+  }
+]

@@ -1,0 +1,315 @@
+{
+  "case_folder": "03_TIAA_Retirement_Rollover_5Y",
+  "title": "退休账户顾问项目及基金招募说明书",
+  "status": "source_document_rebuild",
+  "language": "zh-CN",
+  "rendering": "native_xelatex",
+  "reference_file": "03_TIAA_Retirement_Rollover_5Y_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "expanded_adapted_source_documents",
+    "not_a_complete_certified_translation": true,
+    "chapters_in_original_order": true,
+    "account_confirmations": "Material.md — 本次账户及办理确认",
+    "source_localization": "各章来源与删改边界见Notes第3节。机构匿名及本次资格设定未声称出自真实原案。",
+    "documents": [
+      {
+        "document": "顾问项目资料",
+        "source_ids": "[2]",
+        "adopted_scope": "模型、份额选择、再平衡、投资限制、已有资产、现金、项目收费及家庭合并",
+        "omission_or_verification_boundary": "官方网页可读取，但本地下载持续超时。服务部分是采用相关章节机制的中文改写，未取得59页完整原件，不能作为其完整逐段译本。"
+      },
+      {
+        "document": "基金招募说明书",
+        "source_ids": "[3][4]",
+        "adopted_scope": "投资目标、所用P/Q类别费用、组合周转、策略和风险、持有人服务、估值、渠道资格、购买赎回、频繁交易、分配和类别选择",
+        "omission_or_verification_boundary": "删除无关类别的销售费与折扣明细、管理团队履历、历史收益和财务摘要长表、SAI和注册附件。采用章节的中文改写仍须逐句校勘。"
+      }
+    ],
+    "translation_review": "扩展中文译写；尚未全部逐句校勘；不标为整份原件全文译本"
+  },
+  "removed_content": [
+    "封面及广告导航",
+    "监管结论、涉案人物、销售培训、执法经过",
+    "不适用类别、重复语言版本及注册申报附件；具体范围见Notes",
+    "研究者摘要、推荐答案及跨选项综合比较表"
+  ],
+  "adaptation_policy": "Preserve adopted document and chapter order; no researcher summary or cross-option comparison table; anonymous institution names; experimental account facts in Material only.",
+  "content_sha256": "6f2909bd11def136d31ed701e4f856d556664784fc7bfbff65c1729b6b0e474d",
+  "sections": [
+    {
+      "id": "S01",
+      "heading": "退休账户顾问项目披露资料",
+      "source_ids": [
+        "2"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S02",
+      "heading": "项目服务与管理权限",
+      "source_ids": [
+        "2"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S03",
+      "heading": "项目成本",
+      "source_ids": [
+        "2"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S04",
+      "heading": "基金F招募说明书",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S05",
+      "heading": "投资目标",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S06",
+      "heading": "基金费用及支出",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S07",
+      "heading": "主要投资策略",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S08",
+      "heading": "主要风险",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S09",
+      "heading": "持有人信息",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S10",
+      "heading": "购买、转换及出售份额",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S11",
+      "heading": "份额估值",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S12",
+      "heading": "收费渠道及退休计划类别购买",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S13",
+      "heading": "份额转换",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S14",
+      "heading": "如何出售份额",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S15",
+      "heading": "电话、传真或网上交易",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S16",
+      "heading": "频繁交易",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S17",
+      "heading": "分配及税务",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S18",
+      "heading": "选择份额类别",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    }
+  ],
+  "research_settings": {
+    "file": "03_TIAA_Retirement_Rollover_5Y_Material.md",
+    "section": "本次账户及办理确认",
+    "provenance": "既有场景研究设定；非官方原件合同确认",
+    "text_sha256": "faee0d3cdbd6827f7b1498a1355a8055aba283561abe123dd3bdbfc19b050e75"
+  },
+  "qa_status": "text_and_layout_checked",
+  "pages": 8,
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "03-01",
+      "title": "退休账户顾问项目披露资料",
+      "pdf": "03_TIAA_Retirement_Rollover_5Y_Reference_01.pdf",
+      "content_source": "03_TIAA_Retirement_Rollover_5Y_Reference.txt",
+      "start_line": 3,
+      "end_line": 53,
+      "leading_source_heading": "退休账户顾问项目披露资料",
+      "headings": {
+        "退休账户顾问项目披露资料": {
+          "level": 2
+        },
+        "项目服务与管理权限": {
+          "level": 1
+        },
+        "项目成本": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "2"
+      ],
+      "content_sha256": "e09cb03bf8886a5dd37ecb90de3409aef4c7f84459ca253dfbd95f27ce687a82",
+      "pages": 2,
+      "pdf_sha256": "ce4c2347c78097201e9cccc6410d4624ad7ec9345d3cfc4f84c5218046562afe",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    },
+    {
+      "document_number": "02",
+      "document_id": "03-02",
+      "title": "基金F招募说明书",
+      "pdf": "03_TIAA_Retirement_Rollover_5Y_Reference_02.pdf",
+      "content_source": "03_TIAA_Retirement_Rollover_5Y_Reference.txt",
+      "start_line": 53,
+      "end_line": 201,
+      "leading_source_heading": "基金F招募说明书",
+      "headings": {
+        "基金F招募说明书": {
+          "level": 2
+        },
+        "投资目标": {
+          "level": 1
+        },
+        "基金费用及支出": {
+          "level": 1
+        },
+        "主要投资策略": {
+          "level": 1
+        },
+        "主要风险": {
+          "level": 2
+        },
+        "持有人信息": {
+          "level": 1
+        },
+        "购买、转换及出售份额": {
+          "level": 2
+        },
+        "份额估值": {
+          "level": 2
+        },
+        "收费渠道及退休计划类别购买": {
+          "level": 2
+        },
+        "份额转换": {
+          "level": 2
+        },
+        "如何出售份额": {
+          "level": 2
+        },
+        "电话、传真或网上交易": {
+          "level": 2
+        },
+        "频繁交易": {
+          "level": 2
+        },
+        "分配及税务": {
+          "level": 1
+        },
+        "选择份额类别": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "4"
+      ],
+      "content_sha256": "038d7be800d735bdf7cd84d3f3767d21406a0b9fba91ca03d79ecc42ba5b1cb6",
+      "pages": 6,
+      "pdf_sha256": "f4c9035a927fa9b62cca05b49c527d5a6a6f4196185c06f8c5a2f54b0b6ecf9a",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    }
+  ],
+  "pdf_files": [
+    "03_TIAA_Retirement_Rollover_5Y_Reference_01.pdf",
+    "03_TIAA_Retirement_Rollover_5Y_Reference_02.pdf"
+  ],
+  "pages_definition": "各独立PDF页数之和；不存在现行合并PDF。",
+  "document_manifest": "tools/pdf_documents.json",
+  "heading_levels": 3,
+  "material_sha256": "586d1f049bc86e74ec3bbaf99ea5ad57b2d60c5a9760d1576953041752d555b0"
+}

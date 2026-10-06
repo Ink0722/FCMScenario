@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "FTC，LendingClub 2021年和解公告",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2021/07/lendingclub-agrees-pay-18-million-settle-ftc-charges",
+    "resolved_url": "https://www.ftc.gov/news-events/news/press-releases/2021/07/lendingclub-agrees-pay-18-million-settle-ftc-charges",
+    "retrieved_date": "2026-10-06",
+    "file": "source_01.html",
+    "bytes": 997989,
+    "sha256": "2b9fe53705a5fcd5ff28afdce84736e20388879288addc93490540f917e0b1db",
+    "status": "downloaded"
+  },
+  {
+    "id": "2",
+    "title": "Happen Bank，原LendingClub入口跳转后的个人贷款代表性示例",
+    "url": "https://www.happen.com/personal-loan?b=lc",
+    "resolved_url": "https://www.happen.com/personal-loan?b=lc",
+    "retrieved_date": "2026-10-06",
+    "file": "source_02.html",
+    "bytes": 346064,
+    "sha256": "6fb2822428fd497edd9d7285fe7a82d8b34376099be076b27915390d0f6938a5",
+    "status": "downloaded"
+  },
+  {
+    "id": "3",
+    "title": "Happen Bank，Personal Loan Rates, Fees and Interest FAQ",
+    "url": "https://www.happen.com/help/personal-loan-faq/what-are-the-rates-fees-and-interest-for-personal-loans",
+    "resolved_url": "https://www.happen.com/help/personal-loan-faq/what-are-the-rates-fees-and-interest-for-personal-loans",
+    "retrieved_date": "2026-10-06",
+    "file": "source_03.html",
+    "bytes": 250829,
+    "sha256": "dfd521412da998e3c87e141bf1fd9b28be7ef61f72bb00e58a91682961561656",
+    "status": "downloaded"
+  },
+  {
+    "id": "4",
+    "title": "Wells Fargo，Active Cash当前APR档位与浮动条款",
+    "url": "https://www.wellsfargo.com/credit-cards/active-cash/terms/",
+    "resolved_url": "https://www.wellsfargo.com/credit-cards/documents/active-cash-terms/?utm_medium=www-redirect&utm_source=credit-cards--active-cash--terms",
+    "retrieved_date": "2026-10-06",
+    "file": "source_04.html",
+    "bytes": 74549,
+    "sha256": "61abf5d5b56a54899c0efda86911ea37a5ed41179dd9d6021616205522b161c8",
+    "status": "downloaded"
+  },
+  {
+    "id": "5",
+    "title": "Wells Fargo，Active Cash账户合同，Making and Processing Payments",
+    "url": "https://www.wellsfargo.com/credit-cards/agreements/active-cash-agreement/",
+    "resolved_url": "https://www.wellsfargo.com/credit-cards/documents/active-cash-agreement/?utm_medium=www-redirect&utm_source=credit-cards--agreements--active-cash-agreement",
+    "retrieved_date": "2026-10-06",
+    "file": "source_05.html",
+    "bytes": 124144,
+    "sha256": "edd44b4c9f115fba949d486e3632b59ba7f869c19b02277835f590cce443311f",
+    "status": "downloaded"
+  }
+]

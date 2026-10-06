@@ -1,0 +1,52 @@
+\documentclass[UTF8,fontset=none,11pt,a4paper]{ctexart}
+\usepackage[left=21mm,right=21mm,top=27mm,bottom=22mm,headheight=26pt,headsep=6mm]{geometry}
+\usepackage{fontspec}
+\setmainfont{texgyretermes-regular.otf}[BoldFont=texgyretermes-bold.otf,ItalicFont=texgyretermes-italic.otf]
+\setCJKmainfont{Songti.ttc}[Path=/System/Library/Fonts/Supplemental/,FontIndex=6,AutoFakeBold=2]
+\setCJKsansfont{Songti.ttc}[Path=/System/Library/Fonts/Supplemental/,FontIndex=6,AutoFakeBold=2]
+\usepackage[table]{xcolor}
+\definecolor{TableHead}{HTML}{EEF0ED}
+\definecolor{Muted}{HTML}{666C68}
+\usepackage{booktabs,longtable,array,fancyhdr,needspace,xurl}
+\usepackage[unicode,hidelinks]{hyperref}
+\urlstyle{same}
+\linespread{1.32}
+\setlength{\parindent}{2em}
+\setlength{\parskip}{3pt}
+\setlength{\LTpre}{8pt}\setlength{\LTpost}{10pt}
+\ctexset{section={format=\fontsize{15}{20}\selectfont\bfseries,beforeskip=18pt,afterskip=8pt},subsection={format=\fontsize{12}{16}\selectfont\bfseries,beforeskip=12pt,afterskip=6pt},subsubsection={format=\normalsize\bfseries,beforeskip=9pt,afterskip=4pt}}
+\pagestyle{fancy}\fancyhf{}
+\renewcommand{\headrulewidth}{.3pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyhead[L]{\parbox[b]{\linewidth}{\fontsize{8}{10}\selectfont\color{Muted}账户收费方式：一年交易安排·经纪账户股票与ETF佣金表}}
+\fancyfoot[C]{\small\color{Muted}\thepage}
+\hypersetup{pdftitle={经纪账户股票与ETF佣金表},pdfsubject={仅供模拟使用·账户收费方式：一年交易安排·05-02},pdfauthor={金融决策模拟材料}}
+\begin{document}
+{\noindent\fontsize{20}{25}\selectfont\bfseries 经纪账户股票与ETF佣金表\par}
+\vspace{7pt}{\noindent\small\color{Muted}仅供模拟使用·账户收费方式：一年交易安排·05-02\par}\vspace{10pt}
+本金为成交份额数乘以成交价格。下面费表适用于股票及相应ETF的买入和卖出。佣金按单笔交易所在档的整笔本金计算。
+
+
+\Needspace{5\baselineskip}
+\begingroup\small\setlength{\tabcolsep}{4pt}\renewcommand{\arraystretch}{1.35}
+\begin{longtable}{>{\centering\arraybackslash}m{0.5\dimexpr\linewidth-4\tabcolsep\relax}>{\centering\arraybackslash}m{0.5\dimexpr\linewidth-4\tabcolsep\relax}}
+\toprule
+\rowcolor{TableHead} \centering\arraybackslash \textbf{单笔交\mbox{易本金}} & \centering\arraybackslash \textbf{佣金} \\
+\midrule\endfirsthead
+\toprule
+\rowcolor{TableHead} \centering\arraybackslash \textbf{单笔交\mbox{易本金}} & \centering\arraybackslash \textbf{佣金} \\
+\midrule\endhead
+\midrule\endfoot
+\bottomrule\endlastfoot
+\centering\arraybackslash 不超过5,999.99美元 & \centering\arraybackslash 本金的2.50\% \\ \addlinespace[3pt]
+\centering\arraybackslash 6,000—9,999.99美元 & \centering\arraybackslash 本金的2.00\%加30美元 \\ \addlinespace[3pt]
+\centering\arraybackslash 10,000—24,999.99美元 & \centering\arraybackslash 本金的1.50\%加80美元 \\ \addlinespace[3pt]
+\centering\arraybackslash 25,000—99,999.99美元 & \centering\arraybackslash 本金的1.00\%加205美元 \\ \addlinespace[3pt]
+\centering\arraybackslash 100,000—249,999.99美元 & \centering\arraybackslash 本金的0.50\%加705美元 \\ \addlinespace[3pt]
+\centering\arraybackslash 250,000—499,999.99美元 & \centering\arraybackslash 本金的0.30\%加1,205美元 \\ \addlinespace[3pt]
+\centering\arraybackslash 500,000—999,999.99美元 & \centering\arraybackslash 本金的0.20\%加1,705美元 \\ \addlinespace[3pt]
+\centering\arraybackslash 1,000,000美元\mbox{及以上} & \centering\arraybackslash 本金的0.10\%加2,705美元 \\
+\end{longtable}\endgroup
+除第一档外，每笔交易另收4.95美元交易费。跨多个交易日成交的订单，其总佣金可能不同。请就特定证券及交易方式向机构确认适用收费。
+
+\end{document}

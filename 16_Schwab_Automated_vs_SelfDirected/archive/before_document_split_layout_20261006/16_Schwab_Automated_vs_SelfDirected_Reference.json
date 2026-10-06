@@ -1,0 +1,82 @@
+{
+  "case_folder": "16_Schwab_Automated_vs_SelfDirected",
+  "title": "自动投资项目披露及账户服务资料",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "16_Schwab_Automated_vs_SelfDirected_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "第一部分　自动投资项目披露",
+        "source_ids": [
+          "9"
+        ],
+        "locator": "Schwab披露PDF第7—16页业务正文；删除Disciplinary Information监管历史，保留其他业务栏目"
+      },
+      {
+        "heading": "第二部分　账户办理问答",
+        "source_ids": [
+          "3"
+        ],
+        "locator": "官方FAQ：开户、入金、提现、投资档案和结算栏目"
+      },
+      {
+        "heading": "本次账户资料及办理记录",
+        "source_ids": [],
+        "locator": "tools/account_record.txt；具体参数来源及研究设定见Notes"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": [
+    "保留所采用栏目内的金融关系、例外及程序",
+    "账户状态、个别报价及实验控制置于PDF账户记录，来源区别见Notes",
+    "未补造收益、事故概率、服务优势或资格"
+  ],
+  "content_sha256": "65bcd87310d910f5719a2b6a67bbf1f5787d74abd80415405c7f93620d17fba7",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "第一部分　自动投资项目披露",
+      "source_ids": [
+        "9"
+      ],
+      "source_locator": "Schwab披露PDF第7—16页业务正文；删除Disciplinary Information监管历史，保留其他业务栏目",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 2,
+      "heading": "第二部分　账户办理问答",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "官方FAQ：开户、入金、提现、投资档案和结算栏目",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 3,
+      "heading": "本次账户资料及办理记录",
+      "source_ids": [],
+      "source_locator": "tools/account_record.txt；具体参数来源及研究设定见Notes",
+      "text_status": "research account record"
+    }
+  ],
+  "research_settings": {
+    "file": "tools/account_record.txt",
+    "section": "本次账户资料及办理记录",
+    "provenance": "案例参数、补充产品机制及研究控制的区别见Notes",
+    "sha256": "b6218f20596993baba96dc19581403d614165e0dc985a34d7a85951093bd8273"
+  },
+  "rendering": "native_xelatex",
+  "pages": 9,
+  "qa_status": "pdf_rendered_text_check_passed",
+  "material_sha256": "7b815841dbb8d8969995b676503bf176409c647e62689f12b28e28621fd110a5"
+}

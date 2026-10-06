@@ -1,0 +1,69 @@
+{
+  "case_folder": "15_Toyota_Auto_Loan_GAP",
+  "title": "车辆余额差额保障协议及汽车保险资料",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "15_Toyota_Auto_Loan_GAP_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "第一部分　保障余额差额计划协议及披露",
+        "source_ids": [
+          "2"
+        ],
+        "locator": "NFCU 23A(8-26) PDF第1—2页全部业务条款；机构称谓匿名化"
+      },
+      {
+        "heading": "第二部分　加州汽车保险指南",
+        "source_ids": [
+          "4"
+        ],
+        "locator": "CDI Automobile Insurance PDF第2—9页，按原栏目顺序"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": [
+    "保留所采用栏目内的金融关系、例外及程序",
+    "账户状态、个别报价及实验控制保留在Material",
+    "未补造收益、事故概率、服务优势或资格"
+  ],
+  "content_sha256": "1326ce76b7df51839d5062599ecefef893fda316f1eaffb2a0faf0d53dc09ab0",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "第一部分　保障余额差额计划协议及披露",
+      "source_ids": [
+        "2"
+      ],
+      "source_locator": "NFCU 23A(8-26) PDF第1—2页全部业务条款；机构称谓匿名化",
+      "text_status": "Chinese source-based adaptation"
+    },
+    {
+      "id": 2,
+      "heading": "第二部分　加州汽车保险指南",
+      "source_ids": [
+        "4"
+      ],
+      "source_locator": "CDI Automobile Insurance PDF第2—9页，按原栏目顺序",
+      "text_status": "Chinese source-based adaptation"
+    }
+  ],
+  "research_settings": {
+    "file": "15_Toyota_Auto_Loan_GAP_Material.md",
+    "section": "本次账户及办理确认",
+    "provenance": "原有已注明来源的报价与研究控制，未改变决策目标",
+    "sha256": "70c039434a853e84a4d4af4b829aed4c5c0310c660776219eb04bb144605e1f0"
+  },
+  "rendering": "native_xelatex",
+  "pages": 8,
+  "qa_status": "pdf_rendered_text_check_passed"
+}

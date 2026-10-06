@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1",
+    "title": "SEC，Schwab Robo-Advisers披露案件，2022-104",
+    "url": "https://www.sec.gov/newsroom/press-releases/2022-104",
+    "retrieved_date": "2026-10-06",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2",
+    "title": "Schwab，Intelligent Portfolios产品、费用与示例配置",
+    "url": "https://www.schwab.com/intelligent-portfolios",
+    "resolved_url": "https://www.schwab.com/intelligent-portfolios",
+    "retrieved_date": "2026-10-06",
+    "file": "source_02.html",
+    "bytes": 583370,
+    "sha256": "e8f4c579787461cc96afceb62c52b964d6d7a7a5e53c33c4cdb99f086883706f",
+    "status": "downloaded"
+  },
+  {
+    "id": "3",
+    "title": "Schwab，Automated Investing FAQs",
+    "url": "https://www.schwab.com/automated-investing/faqs",
+    "resolved_url": "https://www.schwab.com/automated-investing/faqs",
+    "retrieved_date": "2026-10-06",
+    "file": "source_03.html",
+    "bytes": 476145,
+    "sha256": "1cafb246489c163b903df3f802c6735fc9046bf149cbe695b36cd36ff28a874f",
+    "status": "downloaded"
+  },
+  {
+    "id": "4",
+    "title": "Schwab，账户及线上ETF交易定价",
+    "url": "https://www.schwab.com/pricing",
+    "resolved_url": "https://www.schwab.com/pricing",
+    "retrieved_date": "2026-10-06",
+    "file": "source_04.html",
+    "bytes": 610758,
+    "sha256": "bfd377c8662774a228a61e2dfc979f60cb3cd3e44c38444d45c454da0a56bcac",
+    "status": "downloaded"
+  },
+  {
+    "id": "5",
+    "title": "Schwab，Intelligent Portfolios Sweep Current Interest Rates，2026-10-01起3.47% APY",
+    "url": "https://www.schwab.com/legal/sip-sweep-current-interest-rates",
+    "resolved_url": "https://www.schwab.com/legal/sip-sweep-current-interest-rates",
+    "retrieved_date": "2026-10-06",
+    "file": "source_05.html",
+    "bytes": 346474,
+    "sha256": "9c6d72be7079711b8fe775c991ec6a04e82b1a9237f5b7e6e51cc1590d23e915",
+    "status": "downloaded"
+  },
+  {
+    "id": "6",
+    "title": "Schwab，Cash Investments，经纪账户未投资现金0.01% APY",
+    "url": "https://www.schwab.com/cash-investments",
+    "resolved_url": "https://www.schwab.com/cash-investments",
+    "retrieved_date": "2026-10-06",
+    "file": "source_06.html",
+    "bytes": 376750,
+    "sha256": "a64016293492a702785abea20f7e1be3bfc9fc7166d72f0999c2d237f18b3a6c",
+    "status": "downloaded"
+  },
+  {
+    "id": "7",
+    "title": "Schwab，2024 Modern Wealth Survey，调查方法及投资策略使用比例",
+    "url": "https://pressroom.aboutschwab.com/press-releases/press-release/2024/2024-Schwab-Modern-Wealth-Survey-Shows-Increasing-Financial-Confidence-From-Generation-to-Generation-and-Younger-Americans-Investing-at-an-Earlier-Age/default.aspx",
+    "retrieved_date": "2026-10-06",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "8",
+    "title": "Schwab Intelligent Portfolios Disclosure resource",
+    "url": "https://www.schwab.com/resource/schwab-intelligent-portfolios-solutions-disclosure-brochure",
+    "resolved_url": "https://www.schwab.com/resource/schwab-intelligent-portfolios-solutions-disclosure-brochure",
+    "retrieved_date": "2026-10-06",
+    "file": "source_08.html",
+    "bytes": 674621,
+    "sha256": "fda9442ca451c6dc93bc43b5b04b448f39af33e30972abf8021a3deffe106cc5",
+    "status": "downloaded"
+  },
+  {
+    "id": "9",
+    "title": "Schwab Intelligent Portfolios Form ADV Part 2A",
+    "url": "https://disclosures.schwab.com/SchwabDashboard/63969/REG83246.pdf",
+    "resolved_url": "https://disclosures.schwab.com/SchwabDashboard/63969/REG83246.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_09.pdf",
+    "bytes": 339929,
+    "sha256": "d492ff48dc6f3351becd3794692c51aad3b0377f61c95a3d8f7b459d83c5c1f1",
+    "status": "downloaded"
+  },
+  {
+    "id": "10",
+    "title": "Schwab Modern Wealth Survey 2024 full findings",
+    "url": "https://content.schwab.com/web/retail/public/about-schwab/schwab_modern_wealth_survey_2024_findings.pdf",
+    "resolved_url": "https://content.schwab.com/web/retail/public/about-schwab/schwab_modern_wealth_survey_2024_findings.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_10.pdf",
+    "bytes": 415916,
+    "sha256": "eec4b1f158f11003afd4eda5da5fe44340ad74ace5f81623ec169c1e64f144c9",
+    "status": "downloaded"
+  }
+]

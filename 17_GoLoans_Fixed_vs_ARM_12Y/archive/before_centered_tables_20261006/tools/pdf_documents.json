@@ -1,0 +1,124 @@
+{
+  "case_number": "17",
+  "case_name": "住房贷款：固定月供还是先固定后浮动",
+  "scenario_id": "S-GLO-ARM-01",
+  "style": "content_sized_tables_financial_typography_v2",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "17-01",
+      "title": "固定利率借据A",
+      "pdf": "17_GoLoans_Fixed_vs_ARM_12Y_Reference_02.pdf",
+      "content_source": "17_GoLoans_Fixed_vs_ARM_12Y_Reference.txt",
+      "start_line": 3,
+      "end_line": 46,
+      "leading_source_heading": "固定利率借据——A",
+      "headings": {
+        "固定利率借据——A": {
+          "level": 2
+        },
+        "1. 借款人的付款承诺": {
+          "level": 2
+        },
+        "2. 利息": {
+          "level": 2
+        },
+        "3. 付款": {
+          "level": 2
+        },
+        "4. 借款人的提前还款权利": {
+          "level": 2
+        },
+        "5. 贷款费用": {
+          "level": 2
+        },
+        "6. 借款人未按要求付款": {
+          "level": 2
+        },
+        "7. 通知": {
+          "level": 2
+        },
+        "8. 本票据下各人的义务": {
+          "level": 2
+        },
+        "9. 权利放弃": {
+          "level": 2
+        },
+        "10. 统一担保票据": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "5",
+        "6"
+      ],
+      "content_sha256": "bb95995f3e4cfecdbb2e2b3a3fbfd80be9e541890e9aa1c5eb4764d7c8b61e17",
+      "pages": 3,
+      "pdf_sha256": "5528f875665aa005af6747a1e510f678dea345d9d3ea40d7a41c3dbeec988f9f",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": []
+    },
+    {
+      "document_number": "02",
+      "document_id": "17-02",
+      "title": "浮动利率借据B",
+      "pdf": "17_GoLoans_Fixed_vs_ARM_12Y_Reference_03.pdf",
+      "content_source": "17_GoLoans_Fixed_vs_ARM_12Y_Reference.txt",
+      "start_line": 46,
+      "end_line": 108,
+      "leading_source_heading": "固定／浮动利率借据——B",
+      "headings": {
+        "1. 借款人的付款承诺": {
+          "level": 2
+        },
+        "2. 利息": {
+          "level": 2
+        },
+        "3. 付款": {
+          "level": 2
+        },
+        "4. 浮动利率及每月付款额变动": {
+          "level": 2
+        },
+        "5. 借款人的提前还款权利": {
+          "level": 2
+        },
+        "6. 贷款费用": {
+          "level": 2
+        },
+        "7. 借款人未按要求付款": {
+          "level": 2
+        },
+        "8. 通知": {
+          "level": 2
+        },
+        "9. 本票据下各人的义务": {
+          "level": 2
+        },
+        "10. 权利放弃": {
+          "level": 2
+        },
+        "11. 统一担保票据": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "7"
+      ],
+      "content_sha256": "0dbc204cc5f91454e524a2122b8a1374e551ac6ed4b2e354231a4e8c23b440e1",
+      "pages": 4,
+      "pdf_sha256": "7624a2ede89e60a7577d4e806e9059c99ce45164761b211ef1083553667083db",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": []
+    }
+  ],
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",
+  "content_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "3eb3d920e88a25a3e7fe1d7ad13668319ccc35135ed02a833cd3323a175a7dc1",
+    "current_sha256": "2c7ba453942b7c178cefea7e74436a6ef8bec6695a9ebe12469eb3ea45991340",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  }
+}

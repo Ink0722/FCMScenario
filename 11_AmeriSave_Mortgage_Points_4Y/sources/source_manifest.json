@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1",
+    "title": "CFPB，AmeriSave房贷营销与收费案件，2014-08-12",
+    "url": "https://www.consumerfinance.gov/archive/newsroom/cfpb-orders-amerisave-to-pay-19-3-million-for-bait-and-switch-mortgage-scheme/",
+    "resolved_url": "https://www.consumerfinance.gov/archive/newsroom/cfpb-orders-amerisave-to-pay-19-3-million-for-bait-and-switch-mortgage-scheme/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_01.html",
+    "bytes": 152068,
+    "sha256": "196376a12a9c5215afca8a67dd72690304bbba7d925da8dee7dedefbc6d85c2c",
+    "status": "downloaded"
+  },
+  {
+    "id": "2",
+    "title": "CFPB，How should I use lender credits and points?，报价示例表",
+    "url": "https://www.consumerfinance.gov/ask-cfpb/how-should-i-use-lender-credits-and-points-also-called-discount-points-en-136/",
+    "resolved_url": "https://www.consumerfinance.gov/ask-cfpb/how-should-i-use-lender-credits-and-points-also-called-discount-points-en-136/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_02.html",
+    "bytes": 156350,
+    "sha256": "f06662b9666c266314d0b2f537931b2d43eed45ab94c1b894a66a8b059a22898",
+    "status": "downloaded"
+  },
+  {
+    "id": "3",
+    "title": "CFPB Your home loan toolkit",
+    "url": "https://www.consumerfinance.gov/documents/5992/cfpb_your-home-loan-toolkit.pdf",
+    "resolved_url": "https://files.consumerfinance.gov/f/documents/cfpb_your-home-loan-toolkit.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_03.pdf",
+    "bytes": 2013558,
+    "sha256": "7f9c2663177950356fd2960f0ca55466530d7eacf1ec96750ee2930840625229",
+    "status": "downloaded"
+  },
+  {
+    "id": "4",
+    "title": "Fannie Mae Multistate Fixed Rate Note 3200 English",
+    "url": "https://singlefamily.fanniemae.com/media/document/pdf/legal-documents/form-3200",
+    "retrieved_date": "2026-10-06",
+    "status": "web_full_text_extracted",
+    "error": "HTTP Error 403: Forbidden",
+    "pdf_download_status": "unavailable",
+    "file": "fannie_web_extracted.txt",
+    "sha256": "d9ec210c40f42f295cce67c9e528d6d32a483e5e81f8a4b3c2b2633e34a6220b",
+    "method": "web tool extracted full source text"
+  },
+  {
+    "id": "5",
+    "title": "Fannie Mae Multistate Fixed Rate Note 3200 Chinese",
+    "url": "https://singlefamily.fanniemae.com/media/document/pdf/multistate-fixed-rate-note-3200-chinese",
+    "retrieved_date": "2026-10-06",
+    "status": "web_full_text_extracted",
+    "error": "HTTP Error 403: Forbidden",
+    "pdf_download_status": "unavailable",
+    "file": "fannie_web_extracted.txt",
+    "sha256": "d9ec210c40f42f295cce67c9e528d6d32a483e5e81f8a4b3c2b2633e34a6220b",
+    "method": "web tool extracted full source text"
+  }
+]

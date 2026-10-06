@@ -1,0 +1,873 @@
+{
+  "case_folder": "02_MetLife_Annuity_Replacement_4Y",
+  "title": "递延可变年金招募说明书",
+  "status": "source_document_rebuild",
+  "language": "zh-CN",
+  "rendering": "native_xelatex",
+  "reference_file": "02_MetLife_Annuity_Replacement_4Y_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "expanded_adapted_source_documents",
+    "not_a_complete_certified_translation": true,
+    "chapters_in_original_order": true,
+    "account_confirmations": "Material.md — 本次账户及办理确认",
+    "source_localization": "各章来源与删改边界见Notes第3节。机构匿名及本次资格设定未声称出自真实原案。",
+    "documents": [
+      {
+        "document": "年金说明书",
+        "source_ids": "[2]",
+        "adopted_scope": "术语、公司及独立账户、可变年金、B及L类别、交换、购买及转入、频繁交易、账户使用与贷款、收费、标准及年度调升身故保障及原数值例子、一般行政及其他事项",
+        "omission_or_verification_boundary": "未采用C/e/eBonus类别、未选择的生存保障和年金给付选项、独立注册附件及完整税务章节；不称整份申报文件全文译本。"
+      }
+    ],
+    "translation_review": "扩展中文译写；尚未全部逐句校勘；不标为整份原件全文译本"
+  },
+  "removed_content": [
+    "封面及广告导航",
+    "监管结论、涉案人物、销售培训、执法经过",
+    "不适用类别、重复语言版本及注册申报附件；具体范围见Notes",
+    "研究者摘要、推荐答案及跨选项综合比较表"
+  ],
+  "adaptation_policy": "Preserve adopted document and chapter order; no researcher summary or cross-option comparison table; anonymous institution names; experimental account facts in Material only.",
+  "content_sha256": "919387b627a603aa77409bb2a5c74a49ada4a378b069d77a025e9d00eaa45516",
+  "sections": [
+    {
+      "id": "S001",
+      "heading": "递延可变年金招募说明书",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 4,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S002",
+      "heading": "B类及L类合同",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 6,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S003",
+      "heading": "重要术语",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 16,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S004",
+      "heading": "保险公司及独立账户",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 56,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S005",
+      "heading": "可变年金",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 68,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S006",
+      "heading": "年金合同替换",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 74,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S007",
+      "heading": "递延年金及退休计划",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 82,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S008",
+      "heading": "递延年金类别",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 100,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S009",
+      "heading": "B类",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 102,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S010",
+      "heading": "L类",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 106,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S011",
+      "heading": "B类及L类的合资格滚存及直接转入信用额",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 110,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S012",
+      "heading": "底层基金",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 118,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S013",
+      "heading": "付款",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 126,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S014",
+      "heading": "403(b)计划付款",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 132,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S015",
+      "heading": "付款配置",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 138,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S016",
+      "heading": "付款限制",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 144,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S017",
+      "heading": "投资价值",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 148,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S018",
+      "heading": "转账权利",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 160,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S019",
+      "heading": "转账限制",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 166,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S020",
+      "heading": "取得您的资金",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 182,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S021",
+      "heading": "账户减少型贷款",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 192,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S022",
+      "heading": "系统提款计划",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 196,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S023",
+      "heading": "最低分配",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 208,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S024",
+      "heading": "费用",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 212,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S025",
+      "heading": "账户减少型贷款费用",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 214,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S026",
+      "heading": "资金处于分部期间的费用",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 218,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S027",
+      "heading": "独立账户费",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 222,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S028",
+      "heading": "底层基金费用",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 233,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S029",
+      "heading": "转账费",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 237,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S030",
+      "heading": "年度合同费",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 241,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S031",
+      "heading": "可选收入保障费",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 247,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S032",
+      "heading": "保费及其他税款",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 253,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S033",
+      "heading": "提款费用",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 261,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S034",
+      "heading": "不收提款费的情形",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 287,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S035",
+      "heading": "冷静期",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 323,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S036",
+      "heading": "身故保障——一般规定",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 329,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S037",
+      "heading": "标准身故保障",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 335,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S038",
+      "heading": "可选身故保障",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 354,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S039",
+      "heading": "年度调升身故保障",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 358,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S040",
+      "heading": "一般信息",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 384,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S041",
+      "heading": "管理",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 386,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S042",
+      "heading": "付款办理",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 390,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S043",
+      "heading": "交易确认",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 402,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S044",
+      "heading": "交易处理",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 406,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S045",
+      "heading": "电话或互联网",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 412,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S046",
+      "heading": "死亡后",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 424,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S047",
+      "heading": "无人认领财产",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 428,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S048",
+      "heading": "年龄误报",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 432,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S049",
+      "heading": "第三方请求",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 436,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S050",
+      "heading": "估值及暂停支付",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 440,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S051",
+      "heading": "其他事项",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 448,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S052",
+      "heading": "递延年金变更",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 450,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S053",
+      "heading": "投票权",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 456,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S054",
+      "heading": "年金销售",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 462,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S055",
+      "heading": "提款",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 474,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S056",
+      "heading": "财务报表",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 480,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S057",
+      "heading": "公司可取消合同的情形",
+      "source_ids": [
+        "2"
+      ],
+      "document_id": "02-01",
+      "line": 484,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    }
+  ],
+  "research_settings": {
+    "file": "02_MetLife_Annuity_Replacement_4Y_Material.md",
+    "section": "本次账户及办理确认",
+    "provenance": "既有场景研究设定；非官方原件合同确认",
+    "text_sha256": "5546274d2b5a1a5cd3dc52dcd406018b459e83d0da1ea3de58bbc2887929ee14"
+  },
+  "qa_status": "text_and_layout_checked",
+  "pages": 16,
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "02-01",
+      "title": "递延可变年金招募说明书",
+      "pdf": "02_MetLife_Annuity_Replacement_4Y_Reference.pdf",
+      "content_source": "02_MetLife_Annuity_Replacement_4Y_Reference.txt",
+      "start_line": 3,
+      "end_line": 490,
+      "leading_source_heading": null,
+      "headings": {
+        "递延可变年金招募说明书": {
+          "level": 2
+        },
+        "B类及L类合同": {
+          "level": 2
+        },
+        "重要术语": {
+          "level": 1
+        },
+        "保险公司及独立账户": {
+          "level": 1
+        },
+        "可变年金": {
+          "level": 1
+        },
+        "年金合同替换": {
+          "level": 1
+        },
+        "递延年金及退休计划": {
+          "level": 1
+        },
+        "递延年金类别": {
+          "level": 1
+        },
+        "B类": {
+          "level": 2
+        },
+        "L类": {
+          "level": 2
+        },
+        "B类及L类的合资格滚存及直接转入信用额": {
+          "level": 2
+        },
+        "底层基金": {
+          "level": 1
+        },
+        "付款": {
+          "level": 1
+        },
+        "403(b)计划付款": {
+          "level": 2
+        },
+        "付款配置": {
+          "level": 2
+        },
+        "付款限制": {
+          "level": 2
+        },
+        "投资价值": {
+          "level": 1
+        },
+        "转账权利": {
+          "level": 1
+        },
+        "转账限制": {
+          "level": 2
+        },
+        "取得您的资金": {
+          "level": 1
+        },
+        "账户减少型贷款": {
+          "level": 2
+        },
+        "系统提款计划": {
+          "level": 2
+        },
+        "最低分配": {
+          "level": 2
+        },
+        "费用": {
+          "level": 1
+        },
+        "账户减少型贷款费用": {
+          "level": 2
+        },
+        "资金处于分部期间的费用": {
+          "level": 2
+        },
+        "独立账户费": {
+          "level": 2
+        },
+        "底层基金费用": {
+          "level": 2
+        },
+        "转账费": {
+          "level": 2
+        },
+        "年度合同费": {
+          "level": 2
+        },
+        "可选收入保障费": {
+          "level": 2
+        },
+        "保费及其他税款": {
+          "level": 2
+        },
+        "提款费用": {
+          "level": 2
+        },
+        "不收提款费的情形": {
+          "level": 2
+        },
+        "冷静期": {
+          "level": 2
+        },
+        "身故保障——一般规定": {
+          "level": 1
+        },
+        "标准身故保障": {
+          "level": 2
+        },
+        "可选身故保障": {
+          "level": 2
+        },
+        "年度调升身故保障": {
+          "level": 2
+        },
+        "一般信息": {
+          "level": 1
+        },
+        "管理": {
+          "level": 2
+        },
+        "付款办理": {
+          "level": 2
+        },
+        "交易确认": {
+          "level": 2
+        },
+        "交易处理": {
+          "level": 2
+        },
+        "电话或互联网": {
+          "level": 2
+        },
+        "死亡后": {
+          "level": 2
+        },
+        "无人认领财产": {
+          "level": 2
+        },
+        "年龄误报": {
+          "level": 2
+        },
+        "第三方请求": {
+          "level": 2
+        },
+        "估值及暂停支付": {
+          "level": 2
+        },
+        "其他事项": {
+          "level": 2
+        },
+        "递延年金变更": {
+          "level": 2
+        },
+        "投票权": {
+          "level": 2
+        },
+        "年金销售": {
+          "level": 2
+        },
+        "提款": {
+          "level": 2
+        },
+        "财务报表": {
+          "level": 1
+        },
+        "公司可取消合同的情形": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "2"
+      ],
+      "content_sha256": "d519ebdf9044a9fca17831040dda655f036834bee5dc34322c3a72e34a106c2d",
+      "pages": 16,
+      "pdf_sha256": "8613bdd2bfcd0e3f5879bbecbb566fcd3751a50a65fda0f28c44aeddd1ed7986",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [
+        {
+          "header": [
+            "独立账户收费",
+            "B类",
+            "L类"
+          ],
+          "weights": [
+            0.5156760479608218,
+            0.24216197601958908,
+            0.24216197601958908
+          ]
+        },
+        {
+          "header": [
+            "提款发生的合同年度",
+            "B类",
+            "L类"
+          ],
+          "weights": [
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333
+          ]
+        },
+        {
+          "header": [
+            "标记／事项",
+            "日期",
+            "金额或比例"
+          ],
+          "weights": [
+            0.45999616831921597,
+            0.26074133447352643,
+            0.2792624972072575
+          ]
+        },
+        {
+          "header": [
+            "标记／事项",
+            "日期",
+            "金额或比例"
+          ],
+          "weights": [
+            0.5065052081374299,
+            0.23828440288187785,
+            0.25521038898069215
+          ]
+        }
+      ]
+    }
+  ],
+  "pdf_files": [
+    "02_MetLife_Annuity_Replacement_4Y_Reference.pdf"
+  ],
+  "pages_definition": "独立PDF页数。",
+  "document_manifest": "tools/pdf_documents.json",
+  "heading_levels": 3,
+  "material_sha256": "9aa6d6bc9a2b1723f6c58208ffde05a0123e71f98f901b30039c67f938e0d4ec",
+  "scenario_confirmation_location": "02_MetLife_Annuity_Replacement_4Y_Material.md — 场景信息／本次账户及办理条件",
+  "document_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "3dfbb5299a578365303c9fcecc1f7b96c2c9e95bc81a3005435931da5d8b0efe",
+    "current_sha256": "919387b627a603aa77409bb2a5c74a49ada4a378b069d77a025e9d00eaa45516",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_widths": "content_adaptive",
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

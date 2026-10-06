@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "title": "FINRA，Morgan Stanley AWC，2017-09-25",
+    "url": "https://www.finra.org/sites/default/files/MSSB_AWC_092517.pdf",
+    "resolved_url": "https://www.finra.org/sites/default/files/MSSB_AWC_092517.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_01.pdf",
+    "bytes": 356744,
+    "sha256": "dd1bf6814371e4cf0154e189a72e811620551ecb73ae6093f909cdd77592db41",
+    "status": "downloaded"
+  },
+  {
+    "id": "2",
+    "title": "FINRA，November 2017 Disciplinary and Other Actions",
+    "url": "https://www.finra.org/sites/default/files/publication_file/November_2017_Disciplinary_Actions.pdf",
+    "resolved_url": "https://www.finra.org/sites/default/files/publication_file/November_2017_Disciplinary_Actions.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_02.pdf",
+    "bytes": 253752,
+    "sha256": "a7953c7f0d26729c82c1a778e2cfefb527b6f6cf937f81a503b201630cee0281",
+    "status": "downloaded"
+  },
+  {
+    "id": "3",
+    "title": "Nuveen Unit Investment Trust Series 161，2016-11-10招募说明书",
+    "url": "https://www.sec.gov/Archives/edgar/data/1677808/000152862116007934/s6andpro.htm",
+    "resolved_url": "https://www.sec.gov/Archives/edgar/data/1677808/000152862116007934/s6andpro.htm",
+    "retrieved_date": "2026-10-06",
+    "file": "source_03.html",
+    "bytes": 555972,
+    "sha256": "7fcc51b2d82dded9fa7977206d04ca905c37086166cac73645a95721b48b6148",
+    "status": "downloaded"
+  },
+  {
+    "id": "4",
+    "title": "Morgan Stanley，Important New Account Information，2016年10月披露",
+    "url": "https://www.morganstanley.com/content/dam/msdotcom/en/wealth/relationshipwithms/pdfs/important_new_account_information_1016.pdf",
+    "resolved_url": "https://www.morganstanley.com/content/dam/msdotcom/en/wealth/relationshipwithms/pdfs/important_new_account_information_1016.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_04.pdf",
+    "bytes": 3365246,
+    "sha256": "f0908fbae161126fa89fedbe87fd9e1c7916c4a94a3d362f0225fa7a1362ffca",
+    "status": "downloaded"
+  }
+]

@@ -1,0 +1,146 @@
+{
+  "case_number": "11",
+  "case_name": "房贷报价选择：四年后结清的费用安排",
+  "scenario_id": "S-AMERI-MP-01",
+  "style": "hierarchical_native_pdf_v1",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "11-01",
+      "title": "本次账户资料及办理记录",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_01.pdf",
+      "content_source": "11_AmeriSave_Mortgage_Points_4Y_Reference.txt",
+      "start_line": 3,
+      "end_line": 69,
+      "leading_source_heading": "本次账户资料及办理记录",
+      "headings": {
+        "本次账户资料及办理记录": {
+          "level": 2
+        },
+        "A：支付折扣费的报价": {
+          "level": 2
+        },
+        "B：不支付折扣费的报价": {
+          "level": 2
+        },
+        "办理确认事项": {
+          "level": 2
+        }
+      },
+      "source_ids": [],
+      "content_sha256": "40c0bf98f8531c5062b9e7d74d0b764beaa3434e42656dfe93f49f5084899f03",
+      "pages": 2,
+      "pdf_sha256": "1e6166804adbc9ace877229fc6742bb2786370cf1008cd6373113aa24db68549",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    },
+    {
+      "document_number": "02",
+      "document_id": "11-02",
+      "title": "固定利率借据A",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_02.pdf",
+      "content_source": "11_AmeriSave_Mortgage_Points_4Y_Reference.txt",
+      "start_line": 69,
+      "end_line": 112,
+      "leading_source_heading": "固定利率借据——报价A",
+      "headings": {
+        "固定利率借据——报价A": {
+          "level": 2
+        },
+        "1. 借款人的付款承诺": {
+          "level": 2
+        },
+        "2. 利息": {
+          "level": 2
+        },
+        "3. 付款": {
+          "level": 2
+        },
+        "4. 借款人的提前还款权利": {
+          "level": 2
+        },
+        "5. 贷款费用": {
+          "level": 2
+        },
+        "6. 借款人未按要求付款": {
+          "level": 2
+        },
+        "7. 通知": {
+          "level": 2
+        },
+        "8. 本票据下各人的义务": {
+          "level": 2
+        },
+        "9. 权利放弃": {
+          "level": 2
+        },
+        "10. 统一担保票据": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "content_sha256": "061ab08833913b98c18a7e37d0b399a56eaa249f114baf3713d4023907630f79",
+      "pages": 3,
+      "pdf_sha256": "72dd4a71833fb1a6413703974b46398411322323ef00f484a7f5e029b1ce1144",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    },
+    {
+      "document_number": "03",
+      "document_id": "11-03",
+      "title": "固定利率借据B",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_03.pdf",
+      "content_source": "11_AmeriSave_Mortgage_Points_4Y_Reference.txt",
+      "start_line": 112,
+      "end_line": 154,
+      "leading_source_heading": "固定利率借据——报价B",
+      "headings": {
+        "固定利率借据——报价B": {
+          "level": 2
+        },
+        "1. 借款人的付款承诺": {
+          "level": 2
+        },
+        "2. 利息": {
+          "level": 2
+        },
+        "3. 付款": {
+          "level": 2
+        },
+        "4. 借款人的提前还款权利": {
+          "level": 2
+        },
+        "5. 贷款费用": {
+          "level": 2
+        },
+        "6. 借款人未按要求付款": {
+          "level": 2
+        },
+        "7. 通知": {
+          "level": 2
+        },
+        "8. 本票据下各人的义务": {
+          "level": 2
+        },
+        "9. 权利放弃": {
+          "level": 2
+        },
+        "10. 统一担保票据": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "content_sha256": "8af135b4f578ece58f086c49777fd71920d60932190608fdf45b54928230f868",
+      "pages": 3,
+      "pdf_sha256": "2ac8c8245c18ec2e1470f22983a4c4169878f99aeea767a0a5340460fee7b4e6",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    }
+  ]
+}

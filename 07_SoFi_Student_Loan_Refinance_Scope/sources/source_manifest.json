@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "title": "FTC，SoFi案件库，162-3197",
+    "url": "https://www.ftc.gov/legal-library/browse/cases-proceedings/162-3197-social-finance-inc-sofi-lending-corp-matter",
+    "resolved_url": "https://www.ftc.gov/legal-library/browse/cases-proceedings/162-3197-social-finance-inc-sofi-lending-corp-matter",
+    "retrieved_date": "2026-10-06",
+    "file": "source_01.html",
+    "bytes": 997730,
+    "sha256": "e454d211b7d789517c3806bee20a63ec2bc3a6ca4425703df8e71d0adb23ec70",
+    "status": "downloaded"
+  },
+  {
+    "id": "2",
+    "title": "FTC，SoFi正式起诉书，2019-02",
+    "url": "https://www.ftc.gov/system/files/documents/cases/162_3197_sofi_complaint_02-22-19.pdf",
+    "resolved_url": "https://www.ftc.gov/system/files/documents/cases/162_3197_sofi_complaint_02-22-19.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_02.pdf",
+    "bytes": 419464,
+    "sha256": "b56595331b73bcfdb22cddaa0d5703962f87d633eff20854b847e65b3b2929af",
+    "status": "downloaded"
+  },
+  {
+    "id": "3",
+    "title": "SoFi，Student Loan Refinancing及联邦权益披露",
+    "url": "https://www.sofi.com/refinance-student-loan/",
+    "resolved_url": "https://www.sofi.com/refinance-student-loan/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_03.html",
+    "bytes": 259836,
+    "sha256": "70ddccc7c3cd92360b8f5697af938895fce98f47aa96922b5e558c393633d126",
+    "status": "downloaded"
+  },
+  {
+    "id": "4",
+    "title": "CFPB，Should I consolidate or refinance my student loans?",
+    "url": "https://www.consumerfinance.gov/ask-cfpb/should-i-consolidate-refinance-student-loans-en-561/",
+    "resolved_url": "https://www.consumerfinance.gov/ask-cfpb/should-i-consolidate-refinance-student-loans-en-561/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_04.html",
+    "bytes": 157875,
+    "sha256": "e0e26620c13da7d75ff2ec1f7bf078242b85a0765df5631c7e5e08346f419205",
+    "status": "downloaded"
+  },
+  {
+    "id": "5",
+    "title": "Federal Student Aid，管理PSLF进度与已确认还款记录",
+    "url": "https://studentaid.gov/articles/manage-your-pslf-progress/",
+    "resolved_url": "https://studentaid.gov/articles/manage-your-pslf-progress/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_05.html",
+    "bytes": 69492,
+    "sha256": "ef58ff634de62c4cbceca7bf5db7712d01fe88f32e34af1ae667f25e2f9950df",
+    "status": "downloaded"
+  },
+  {
+    "id": "6",
+    "title": "Federal Student Aid，学生贷款减免及适用条件",
+    "url": "https://studentaid.gov/articles/student-loan-forgiveness/",
+    "resolved_url": "https://studentaid.gov/articles/student-loan-forgiveness/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_06.html",
+    "bytes": 61044,
+    "sha256": "d16648cf4bbcecc69f57753addbcbc895a6ba6be64baa1357db0a6fc37d777ce",
+    "status": "downloaded"
+  },
+  {
+    "id": "7",
+    "title": "SoFi，SmartStart官方问答：期限、九个月还款、资格及后续处理",
+    "url": "https://support.sofi.com/hc/en-us/articles/everything-you-need-to-know-about-smartstart-student-loan-refinance-with-sofi",
+    "resolved_url": "https://support.sofi.com/hc/en-us/articles/everything-you-need-to-know-about-smartstart-student-loan-refinance-with-sofi",
+    "retrieved_date": "2026-10-06",
+    "file": "source_07.html",
+    "bytes": 96994,
+    "sha256": "e445afc3b2602e3369cca302b0d0fef158e26a406b3a032a8c2fc2711aaf0ae2",
+    "status": "downloaded"
+  },
+  {
+    "id": "8",
+    "title": "CFPB，联邦学生贷款还款选择",
+    "url": "https://www.consumerfinance.gov/paying-for-college/repay-student-debt/federal-student-loans/",
+    "resolved_url": "https://www.consumerfinance.gov/paying-for-college/repay-student-debt/federal-student-loans/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_08.html",
+    "bytes": 165505,
+    "sha256": "6dad42353dba2d4438e6bf8b8681d31532bbb5120771ac8f32c0322bb79d6249",
+    "status": "downloaded"
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "case": 18,
+  "independent_documents": 3,
+  "documents": [
+    {
+      "document_id": "18-01",
+      "pdf": "18_Amex_CashBack_vs_Travel_Points_Reference_01.pdf",
+      "pages": 7,
+      "text_checks": 105,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "f3804aaea8e4676e513d2ef20637da95e8f1fa3899500ecf7b88c0c59b53cdb6",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "18-02",
+      "pdf": "18_Amex_CashBack_vs_Travel_Points_Reference_02.pdf",
+      "pages": 2,
+      "text_checks": 19,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "9be146d0ba7a415f59437d301f2a13eba770495e367715a76cb7aa4c4742169c",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "18-03",
+      "pdf": "18_Amex_CashBack_vs_Travel_Points_Reference_03.pdf",
+      "pages": 2,
+      "text_checks": 28,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "6730b1dd6d1790b4da487f221fa36771b08ea6f531d554993c40694abaefdd50",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "visual_review": "Centered table headers, short entries and numeric cells; paragraph cells left aligned; table endings bound and short HTML header line breaks removed; representative table pages inspected."
+}

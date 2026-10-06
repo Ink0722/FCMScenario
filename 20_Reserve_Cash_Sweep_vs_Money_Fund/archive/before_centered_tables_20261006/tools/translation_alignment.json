@@ -1,0 +1,34 @@
+{
+  "case": 20,
+  "method": "栏目与条款范围映射；未声称整本原件或逐句翻译验收",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "第一部分　银行存款归集项目披露",
+      "source_ids": [
+        "8"
+      ],
+      "source_locator": "CMA Legal Booklet PDF第41—51页",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 2,
+      "heading": "第二部分　政府货币市场基金招募说明书",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "2026-06-29 SPAXX基金栏目及共用交易章节；删除SPRXX/FDLXX专属内容",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 3,
+      "heading": "本次账户资料及办理记录",
+      "source_ids": [],
+      "source_locator": "tools/account_record.txt；具体参数来源及研究设定见Notes",
+      "text_status": "research account record"
+    }
+  ],
+  "limitations": [
+    "同页收益指标仅核对到搜索摘录，报价日期未完整验证"
+  ]
+}

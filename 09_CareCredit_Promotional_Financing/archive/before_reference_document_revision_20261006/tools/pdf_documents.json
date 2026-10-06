@@ -1,0 +1,214 @@
+{
+  "case_number": "09",
+  "case_name": "消费融资选择：较长优惠期与不同计息规则",
+  "scenario_id": "S-CC-PROMO-01",
+  "style": "hierarchical_native_pdf_v1",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "09-01",
+      "title": "商户合作融资卡账户协议",
+      "pdf": "09_CareCredit_Promotional_Financing_Reference_01.pdf",
+      "content_source": "09_CareCredit_Promotional_Financing_Reference.txt",
+      "start_line": 3,
+      "end_line": 203,
+      "leading_source_heading": "商户合作融资卡账户协议",
+      "headings": {
+        "商户合作融资卡账户协议": {
+          "level": 2
+        },
+        "第一部分：利率及费用表": {
+          "level": 1
+        },
+        "第二部分：利率、费用及付款信息": {
+          "level": 1
+        },
+        "利息的计算": {
+          "level": 2
+        },
+        "费用的适用": {
+          "level": 2
+        },
+        "最低付款的计算": {
+          "level": 2
+        },
+        "特别促销融资信息": {
+          "level": 2
+        },
+        "第三部分：标准条款": {
+          "level": 1
+        },
+        "信用卡账户协议": {
+          "level": 2
+        },
+        "账户与卡的使用": {
+          "level": 2
+        },
+        "付款时间与方法": {
+          "level": 2
+        },
+        "客户信息": {
+          "level": 2
+        },
+        "账户其他重要信息": {
+          "level": 2
+        },
+        "协议其他重要信息": {
+          "level": 2
+        },
+        "通过仲裁解决争议": {
+          "level": 2
+        },
+        "第四部分：其他重要信息": {
+          "level": 1
+        },
+        "现役军人及其家属通知": {
+          "level": 2
+        },
+        "各州通知": {
+          "level": 2
+        },
+        "账单权利": {
+          "level": 2
+        },
+        "对购买商品或服务不满意的权利": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "895dfd225d30eb057658e0c1d3dc795131634333a447f65aa69db89d53d222a2",
+      "pages": 7,
+      "pdf_sha256": "4b64f93ef14966273765b9b35fc2e9fb187c101d6bacffdbcb84571cbfe5d3ac",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    },
+    {
+      "document_number": "02",
+      "document_id": "09-02",
+      "title": "个人信息隐私通知",
+      "pdf": "09_CareCredit_Promotional_Financing_Reference_02.pdf",
+      "content_source": "09_CareCredit_Promotional_Financing_Reference.txt",
+      "start_line": 203,
+      "end_line": 235,
+      "leading_source_heading": "隐私政策",
+      "headings": {
+        "隐私政策": {
+          "level": 2
+        },
+        "银行如何处理个人信息": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "041f7ca6b65fecb778311758cd6de61c8eb56695bef9d9aced98569bffad2316",
+      "pages": 2,
+      "pdf_sha256": "d08b3c2e28fea985c1c6a126ccd02021cfedea022a5043cf4926a1b72a025017",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    },
+    {
+      "document_number": "03",
+      "document_id": "09-03",
+      "title": "通用购买优惠卡定价条款",
+      "pdf": "09_CareCredit_Promotional_Financing_Reference_03.pdf",
+      "content_source": "09_CareCredit_Promotional_Financing_Reference.txt",
+      "start_line": 235,
+      "end_line": 283,
+      "leading_source_heading": "通用购买优惠卡：定价信息",
+      "headings": {
+        "利率及利息收费": {
+          "level": 2
+        },
+        "费用": {
+          "level": 2
+        },
+        "军人贷款法通知": {
+          "level": 2
+        },
+        "条款与条件": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "156435186943428a343f4631b402b88a5ef07c801ad0cd8c3d611efb767a950b",
+      "pages": 2,
+      "pdf_sha256": "ca2a1ce1f001e8249ab238cb1b9a0db5e77535f85ea4b7d4b90b6e37f74d6495",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    },
+    {
+      "document_number": "04",
+      "document_id": "09-04",
+      "title": "通用购买优惠卡奖励计划协议",
+      "pdf": "09_CareCredit_Promotional_Financing_Reference_04.pdf",
+      "content_source": "09_CareCredit_Promotional_Financing_Reference.txt",
+      "start_line": 283,
+      "end_line": 396,
+      "leading_source_heading": "通用购买优惠卡：奖励计划协议",
+      "headings": {
+        "关于本计划及协议的重要信息": {
+          "level": 2
+        },
+        "变更通知": {
+          "level": 2
+        },
+        "如何取得点数": {
+          "level": 2
+        },
+        "额外点数方式": {
+          "level": 2
+        },
+        "点数取得及可用性的其他信息": {
+          "level": 2
+        },
+        "如何使用点数": {
+          "level": 2
+        },
+        "现金": {
+          "level": 2
+        },
+        "礼品卡": {
+          "level": 2
+        },
+        "旅行": {
+          "level": 2
+        },
+        "以点数支付商品及服务": {
+          "level": 2
+        },
+        "与其他奖励卡合并点数": {
+          "level": 2
+        },
+        "何时可能不能取得或使用点数": {
+          "level": 2
+        },
+        "何时会失去点数": {
+          "level": 2
+        },
+        "其他重要信息": {
+          "level": 2
+        },
+        "通讯": {
+          "level": 2
+        },
+        "电话监听": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "3156a0730ba61fe2b6a12c16ef4286c8ce01328bc6cfcc9c4c227b9b3f1d4d8e",
+      "pages": 4,
+      "pdf_sha256": "7739df56c4b82fd5045bedad14cade27e1738400aaa7407ca3b3e1c904acd182",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    }
+  ]
+}

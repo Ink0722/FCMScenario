@@ -1,0 +1,655 @@
+
+--- PDF PAGE 1 ---
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10954 / July 13, 2021
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 92376 / July 13, 2021
+INVESTMENT ADVISERS ACT OF 1940
+Release No. 5772 / July 13, 2021
+ADMINISTRATIVE PROCEEDING
+File No. 3-20392
+In the Matter of
+TIAA-CREF INDIVIDUAL &
+INSTITUTIONAL SERVICES,
+LLC
+Respondent.
+ORDER INSTITUTING
+ADMINISTRATIVE AND CEASE-AND-
+DESIST PROCEEDINGS, PURSUANT TO
+SECTION 8A OF THE SECURITIES ACT
+OF 1933, SECTION 15(b) OF THE
+SECURITIES EXCHANGE ACT OF 1934,
+AND SECTIONS 203(e) AND 203(k) OF
+THE INVESTMENT ADVISERS ACT OF
+1940, MAKING FINDINGS AND
+IMPOSING REMEDIAL SANCTIONS
+AND A CEASE-AND-DESIST ORDER
+I.
+The Securities and Exchange Commission (“Commission”) deems it appropriate and in the
+public interest that public administrative and cease-and-desist proceedings be, and hereby are,
+instituted pursuant to Section 8A of the Securities Act of 1933 (“Securities Act”), Section 15(b) of
+the Securities Exchange Act of 1934 (“Exchange Act”), and Sections 203(e) and 203(k) of the
+Investment Advisers Act of 1940 (“Advisers Act”) against TIAA-CREF Individual & Institutional
+Services, LLC (“TC Services” or “Respondent”).
+II.
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting
+--- PDF PAGE 2 ---
+Administrative and Cease-and-Desist Proceedings, Pursuant to Section 8A of the Securities Act,
+Section 15(b) of the Exchange Act, and Sections 203(e) and 203(k) of the Advisers Act, Making
+Findings, and Imposing Remedial Sanctions and a Cease-and-Desist Order (“Order”), as set forth
+below.
+III.
+On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+SUMMARY
+1. This matter concerns Respondent’s failure adequately to disclose conflicts of interest
+and dissemination of inaccurate and misleading statements in connection with recommendations
+that clients invested in Teachers Insurance and Annuity Association of America (“TIAA”) record-
+kept employer-sponsored retirement plans (“ESPs”) roll over retirement assets into a managed
+account program called “Portfolio Advisor.
+” Respondent had a conflict of interest because
+Portfolio Advisor generated greater revenue than other available alternatives.
+2. From January 1, 2013 through March 30, 2018 (the “Relevant Period”), Respondent
+created positive incentives and negative pressures for its Wealth Management Advisors (“WMAs”)
+to prioritize the rollover of ESP assets into Portfolio Advisor over lower cost alternatives for
+rollover-eligible ESP participants who were receiving advisory services as part of the financial
+planning process Respondent offered. Those incentives and pressures included: (i) an incentive
+compensation plan that paid WMAs more in variable compensation when they signed clients up
+for the Portfolio Advisor program than for some alternatives; and (ii) negative consequences for
+failure to meet related targets, including the placement of some WMAs on performance
+improvement plans (“PIPs”) and the threat of termination of employment. Respondent also trained
+WMAs to use the rollover process to discover areas of vulnerability for these clients, called “pain
+points,” to “create pain” by helping clients “self-realize” the financial vulnerability, and then to
+recommend Portfolio Advisor as the solution to their problem.
+3. Respondent and WMAs made misleading statements to clients regarding the nature
+of the services provided by Respondent and the WMAs’ role with respect to the client in the
+rollover recommendation process. Respondent and the WMAs represented to some clients that the
+firm and WMAs were “fiduciaries” and that they provided “objective” and “non-commissioned”
+investment advice when recommending rollovers to Portfolio Advisor. These statements were
+misleading because Respondent compensated WMAs more for rolling over assets into Portfolio
+Advisor than some alternatives; WMAs commonly presented managed accounts as the only option
+for a rollover and frequently did not present alternative options as required by Respondent’s
+policies and procedures; WMAs were sometimes trained to avoid discussing fees associated with
+1 The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding
+on any other person or entity in this or any other proceeding.2
+--- PDF PAGE 3 ---
+the rollover recommendation; and Respondent did not treat or review rollover recommendations to
+Portfolio Advisor under a fiduciary standard.
+4. Respondent also failed adequately to disclose related conflicts of interest. While
+Respondent made some disclosures concerning conflicts resulting from its incentive compensation
+plan, it did not adequately disclose those conflicts in a number of regards. First, while the
+disclosures stated that the compensation differential for selling Portfolio Advisor was based on the
+“degree of effort” required to sell managed products and the “complexity” of those products, until
+2017 Respondent did not have an adequate basis to support that statement. Second, starting in
+March 2017, the disclosures included “complex” products together with certain other TIAA
+products (defined as “core” products) when describing the incentive compensation, suggesting that
+complex and core products were similarly compensated when, in fact, WMAs continued to be
+compensated more for complex products, including managed account sales. Third, the disclosures
+were misleading regarding the role WMAs played; although WMAs were acting as fiduciaries
+when assisting clients with financial planning, the disclosures suggested that obligation attached to
+the entirety of the rollover recommendation process when the firm did not treat or review rollover
+recommendations under a fiduciary standard. Fourth, until March 2018, Respondent did not
+disclose that the incentive compensation plan incentivized WMAs to recommend Portfolio Advisor
+for reasons other than a client’s particular investment needs.
+5. Respondent also failed to adopt and implement written policies and procedures
+reasonably designed to prevent violations of the Advisers Act in connection with rollover
+recommendations. While Respondent had a written policy requiring WMAs to discuss fees with
+clients in connection with rollover recommendations, Respondent did not take sufficient steps to
+ensure that WMAs conducted and memorialized those fee discussions. In fact, some Respondent
+training materials directed WMAs to avoid discussing fees in connection with rollover
+recommendations.
+6. Based on the foregoing and as detailed below, Respondent violated Sections
+17(a)(2) and (3) of the Securities Act and Sections 206(2) and 206(4) of the Advisers Act and Rule
+206(4)-7 thereunder.
+RESPONDENT
+7. TIAA-CREF Individual & Institutional Services, LLC (“TC Services”) is a
+dually registered investment adviser (No. 801-63550) and broker dealer with its principal place of
+business in New York, New York. TC Services has been registered with the Commission as an
+investment adviser since September 2004 and reported, in its March 30, 2021 Form ADV filing,
+having nearly $36.4 billion in regulatory assets under management. TC Services supports
+retirement plan participants and TIAA’s institutional (employer plan) relationships. TC Services
+also provides brokerage, advisory and retirement planning services, primarily to individuals who
+have a pre-existing relationship with TIAA, as defined below (i.e., participation in a TIAA ESP).
+3
+--- PDF PAGE 4 ---
+OTHER RELEVANT ENTITIES
+8. Advice & Planning Services (“APS”) is a division of TC Services and serves as
+the sponsor, manager and administrator of TIAA’s Portfolio Advisor program, a discretionary
+wrap fee advisory program that offers customized model-based portfolios of investments in
+registered funds, including mutual funds and exchange traded funds.
+BACKGROUND
+9. Teachers Insurance and Annuity Association of America (“TIAA”) is the parent
+company of TC Services and APS and is one of the country’s largest providers of ESPs, catering
+principally to non-profit institutions in the academic, research, medical, educational, cultural and
+governmental fields. As of March 2020, TIAA provided recordkeeping services to over 15,000
+institutions and served approximately 5 million participants in institutional retirement plans.
+10. In the 2000s, TIAA was experiencing an increased outflow of its record-kept assets
+that were being transitioned to other financial firms by ESP participants when they left their
+employers, retired, or otherwise became eligible to roll over those assets into new investment
+solutions. In 2004, TIAA created Advice & Planning Services (“APS”) – a division of its
+registered investment advisory firm, TC Services – to begin offering managed account and other
+products. Part of the impetus for the offerings was an effort to retain record-kept assets after ESP
+participants became eligible to roll those assets to other providers. For clients who rolled ESP
+assets into Respondent’s managed accounts, Respondent also sought to have clients bring over
+external assets (i.e., assets in accounts at third-party firms) to their TIAA account.
+11. Respondent’s managed account program, Portfolio Advisor, is a wrap-fee advisory
+program consisting of diversified, customized models utilizing mutual funds and exchange-traded
+funds. Portfolio Advisor’s model portfolios are selected based on the client’s risk tolerance,
+investment time horizon, preferences for certain investment strategies, investment options available
+through the program, and other information provided by the client. In recommending that clients
+roll assets over to the Portfolio Advisor program, Respondent offers specific securities based on
+the model portfolio. Clients are assessed a quarterly advisory fee, based on assets under
+management in the account.
+12. Respondent employs WMAs who are both registered as broker-dealer
+representatives and licensed as investment adviser representatives of Respondent. During the
+Relevant Period, the WMAs purportedly engaged in “hat switching” between these dual roles
+during the course of interacting with ESP participants and depending on the activity. As discussed
+further below, WMAs were frequently confused about their various roles, including whether they
+were acting as an investment adviser representative or registered representative when
+recommending rollovers into Portfolio Advisor.
+13. During the Relevant Period, Respondent’s practice was to contact participants in
+TIAA’s record-kept ESPs as they became eligible to roll assets out of their ESPs, due to retirement
+4
+--- PDF PAGE 5 ---
+or employment changes. Respondent provided WMAs with lists of ESP participants to contact to
+offer asset allocation advice and free, holistic financial planning as an advisory service.
+14. Respondent’s written policies required WMAs to present clients with four options
+for rollovers of ESP assets: (i) leaving the client’s assets in the ESP; (ii) rolling over the assets into
+a self-directed individual retirement account (“IRA”) or managed IRA such as a Portfolio Advisor
+account; (iii) rolling over the assets to a new employer’s plan; and (iv) cashing out the account
+value/taking a lump sum distribution. Respondent also required WMAs to present an
+“Implementation Plan” to rollover clients as part of its financial planning, which included free asset
+allocation and rebalancing advice in the existing ESP and other accounts.
+15. Portfolio Advisor’s lucrative management fees made Portfolio Advisor, in
+aggregate, a more expensive option for clients. Portfolio Advisor charged asset-based advisory
+fees ranging from .75% to 1.15% annually for the majority of the Relevant Period and from .40%
+to 1.15% for new accounts opened after July 3, 2017, whereas clients paid no wrap fees for assets
+in their ESPs or self-directed accounts (though they did bear the cost of fund advisory fees).
+16. In June 2017, Respondent adopted enhanced procedures in response to the
+Department of Labor’s Fiduciary Rule. These procedures included enhanced supervisory review
+for rollover recommendations. Respondent continued to apply those procedures after the Rule was
+invalidated by the United States Court of Appeals for the Fifth Circuit in March 2018. In June
+2020, Respondent adopted a fiduciary standard for all recommendations of managed accounts and
+decided to eliminate differential compensation for enrollments or sales of managed account and
+other retirement product sales in the WMA incentive compensation plan, starting in its 2021
+incentive compensation plan.
+RESPONDENT’S “CONSULTATIVE SALES PROCESS” AND INCENTIVE
+COMPENSATION PLAN
+17. During the Relevant Period, as Respondent provided financial planning advisory
+services to rollover-eligible clients, it employed a methodology called the “Consultative Sales
+Process” (“CSP”). WMAs were trained to identify a client’s critical decision points, sometimes
+referred to in TIAA’s training materials as “pain points,” diagnose a client’s financial
+vulnerabilities as part of the financial planning process, and prescribe a managed account as the
+solution. Respondent’s training encouraged WMAs to “create pain” for clients by exposing the
+client’s financial vulnerabilities and to use those vulnerabilities to help the client to “self-realize” to
+find a solution, and that a managed solution was the right option.
+18. Respondent’s incentive compensation plan incented WMAs to recommend
+Portfolio Advisor through three components of the discretionary annual variable bonus. For the
+typical WMA, this bonus constituted 60% of their base salary, significant portions of which could
+derive from their success in recommending Portfolio Advisor. Further, for top-performing WMAs,
+the annual variable bonus could constitute from two times to nearly seven times their base salary.
+First, a “cumulative growth award” rewarded WMAs who had at least $100 million in cumulative
+5
+--- PDF PAGE 6 ---
+sales as much as 16 times more (4 basis points) for putting clients into some products, including
+managed accounts, versus certain other products (.25 basis points). Second, an “annual growth
+award” rewarded WMAs who produced more than $8 million in annual sales up to 4 times more
+for external asset sales (25-40 basis points) than internal asset sales (10 basis points). Finally, one
+component of a “discretionary award” allocated 10% of the award based on “relationship
+complexity” – i.e., the proportion of the WMAs assets that were “complex,” e.g., managed
+accounts.
+19. WMAs also faced negative pressure to maintain and increase managed account
+assets. Supervisors set aggressive and ever-increasing growth goals, and WMAs perceived that the
+incentive compensation plan compensated staff less when they failed to move client assets into
+Portfolio Advisor. WMAs were required, at least twice per month, to participate in internal
+strategy calls at which some supervisors discouraged WMAs from recommending rollover options
+other than managed accounts. Managers provided negative feedback during these widely-attended
+calls when a WMA deviated from the process. WMAs were praised in weekly emails for
+recommending and closing rollovers into managed accounts, creating competition among WMAs
+to move clients to managed account solutions. Some WMAs who were not successful at meeting
+goals were placed on PIPs and faced the threat of termination if their performance did not improve.
+20. The incentive compensation plan and negative pressures also influenced behavior
+within Respondent’s WMA supervisory structure. For instance, some managers began to direct
+WMAs to promote managed accounts as the appropriate solution for the client’s needs to 100% of
+clients and to avoid presenting alternatives such as leaving assets in the ESP, self-directed
+investments, or rolling over to a new employer’s plan. Some managers also trained WMAs to not
+present clients with Implementation Plans, which would have provided asset allocation advice
+within the existing ESP, because it was viewed as inconsistent with the goal of selling a managed
+account solution. Training materials from multiple regions directed WMAs not to mention
+“compensation” or “fees,
+” and some WMAs followed that directive.
+21. In 2014, an internal compliance report raised concerns that the incentive
+compensation structure was significantly affecting WMAs’ behavior, causing them to focus on
+recommending managed solutions because they paid the most compensation. The report noted
+that as a result, “it is not possible to claim that the agents are ‘product neutral.’” Respondent did
+not take any steps to address the findings in this compliance report at the time.
+22. Respondent’s sales strategy, incentive compensation plan and negative pressures
+resulted in steadily increasing growth of its Portfolio Advisor assets under management. During
+the Relevant Period, Respondent opened in excess of 18,000 new Portfolio Advisor accounts from
+rollovers, and annual revenues generated from assets rolled over to Portfolio Advisor increased
+from $2.6 million to $54 million.
+RESPONDENT’S MATERIALLY MISLEADING STATEMENTS
+23. During the Relevant Period, Respondent and WMAs made materially misleading
+statements to rollover clients concerning the nature of the services Respondent provided and the
+6
+--- PDF PAGE 7 ---
+role its WMAs played. These statements assured clients that WMAs were providing disinterested
+advice that was in the clients’ best interest, and ultimately encouraged clients to roll over assets to
+Portfolio Advisor. However, clients did not receive adequate disclosure concerning the conflicts
+resulting from the incentive compensation program, and were not told that WMAs were
+incentivized to roll over assets to Portfolio Advisor regardless of whether a managed account was
+the best option to meet a client’s particularized financial need.
+24. First, Respondent trained its WMAs to say as part of their pitch to clients that they
+offered “objective” and “non-commissioned” advice to clients. This was misleading because
+Respondent’s financial incentives for WMAs rendered their advice non-objective. Some WMAs
+did not view their advice as objective. Further, WMAs received differential levels of
+compensation directly tied to specific categories of investment programs and services. In 2013,
+Respondent recognized that, because of this compensation structure, calling WMAs “non-
+commissioned” was misleading, and attempted to train WMAs not to use the term. However,
+some of Respondent’s training materials continued to use the description in marketing materials
+used regionally and in WMAs’ communications with clients during the Relevant Period.
+25. Second, many WMAs represented to clients that they “put the client first” and acted
+in the client’s best interest. WMAs also held themselves out to clients as fiduciaries. These
+representations were misleading because Respondent did not ensure that WMAs’
+recommendations were in the best interest of the client, and did not review their recommendations
+under a fiduciary standard. While Respondent attempted to train WMAs in 2014 not to present
+themselves as fiduciaries in connection with product recommendations, WMAs remained confused
+as to their role and many continued to represent to clients that they were acting as fiduciaries. The
+financial incentives and negative pressures favoring the recommendation of managed accounts, as
+well as supervisors’ directives emphasizing the sale of those products, applied pressure on WMAs
+to engage in conduct, described above, that was inconsistent with their representations to the
+clients.
+26. Third, Respondent emphasized TIAA’s non-profit heritage in marketing materials,
+including training WMAs to include this fact in promoting its free financial planning services to
+ESP participants approaching rollover eligibility. This statement misled clients into believing that
+the Respondent and WMAs operated without motivation, financial or otherwise, to promote
+particular products. Some current and former clients of Respondent have complained about the
+misimpression created by the citation of TIAA’s nonprofit heritage.
+RESPONDENT’S INADEQUATE AND MISLEADING DISCLOSURES
+27. TC Services failed adequately to disclose conflicts of interest resulting from its
+incentive compensation program. Its disclosures did not apprise clients of the full nature and
+extent of those conflicts, or that advisors were incentivized to recommend products for reasons
+other than a client’s particular investment needs. The disclosures also included misleading
+statements concerning WMAs’ duties to clients in making rollover recommendations.
+7
+--- PDF PAGE 8 ---
+28. During the Relevant Period, TC Services provided clients with two sets of
+disclosures: (i) a Form ADV Part 2 Brochure for the Portfolio Advisor fee-based managed account
+services (the “PA Brochures”), and (ii) its brochures for its free investment advisory financial
+planning services (the “Free Advice Brochures”).
+29. From March 2013 through March 2017, the PA Brochures addressed the conflict of
+interest resulting from the incentive compensation plan by disclosing that “[t]he annual variable
+bonus gives [WMAs] an incentive to enroll and retain client assets in Advice and Planning
+Services’ advisory programs such as Portfolio Advisor and compensates [WMAs] for doing so…”
+However, the PA Brochure minimized that conflict by stating that the incentive compensation was
+proportionally related to the degree of effort required to make a “complex needs” (i.e., managed
+account) product recommendation. The March 2016 PA Brochure stated:
+TIAA’s compensation philosophy aims to reward associates
+commensurate with the degree of effort generally required of the associate
+in gathering and retaining client assets in appropriate TIAA-CREF
+accounts, products and services. As a result, an associate has the potential
+to receive more compensation via the annual variable bonus for enrolling
+and retaining clients in TIAA-CREF solutions designed to meet more
+complex needs such as Portfolio Advisor, other TIAA-CREF managed
+account programs offered by TC Services’ affiliates, and after tax annuity
+and life insurance products offered through TC Life than the associate
+receives for enrolling and retaining client assets in other TIAA-CREF
+accounts, services and products. (Emphasis added.)
+“Complex needs” products were defined in the document to include Portfolio Advisor,
+“core needs” products were defined to include ESP accounts, and “other solutions” was
+defined to include brokerage accounts.
+30. The language in the March 2016 brochure was misleading for two reasons. First,
+until 2017, TC Services did not have a reasonable, documented basis to represent that the incentive
+compensation associated with recommending Portfolio Advisor was commensurate with the
+degree of effort required to make that recommendation. Respondent undertook efforts for the first
+time in 2016 and 2017 to measure the time and effort associated with the sale and servicing of
+various account types. In 2017, in connection with its implementation of the Department of Labor
+Fiduciary Rule, Respondent reduced the incentive compensation differential between managed
+account and core products to 3:1 from a ratio that had ranged, for managed account assets sold by
+cumulative growth award-eligible WMAs, from 8:1 up to 16:1.
+31. Second, the incentive compensation program incentivized WMAs to sell managed
+accounts whether or not a client had “complex needs.” During the Relevant Period, while TC
+Services disclosed that WMAs had “the potential to receive more compensation” for enrolling and
+retaining clients in Portfolio Advisor than for other services and products, it did not disclose that
+the incentive compensation plan created conflicts of interest by incentivizing WMAs to
+recommend more expensive managed accounts for reasons other than a client’s particular8
+--- PDF PAGE 9 ---
+investment needs. This fact was disclosed for the first time in Respondent’s March 2018 PA
+Brochure.
+32. Subsequent PA Brochures after the 2016 brochure also failed adequately to disclose
+the compensation differential between managed account and other products. The March 2017
+brochure stated:
+TIAA’s compensation philosophy aims to reward Advisors with appropriate
+compensation, recognizing the degree of effort generally required of the
+Advisor in gathering and retaining client assets in appropriate TIAA
+accounts, products and services…. Advisors earn more credit toward the
+annual variable bonus, and thus more potential compensation, for enrolling
+clients in TIAA’s complex needs and core needs solutions than they do for
+enrolling clients in or referring clients to other solutions. In addition,
+Advisors can earn compensation when clients transfer funds into complex
+needs solutions from core needs solutions and other solutions at TIAA.
+(Emphasis added.)
+33. This language created a misleading impression that WMAs were rewarded
+comparably for transferring assets into either the “complex” or “core” category of product, at a
+time when Respondent’s incentive compensation was still three times as much, in some
+circumstances, for recommending complex products, including managed accounts. The extent of
+this disparity in compensation between products was never disclosed to clients, and the description
+of complex and core products was both confusing and misleading.
+34. While Respondent disclosed during the Relevant Period that its financial planning
+services were “provided to clients on a one time or episodic basis,
+” its disclosures implied that
+WMAs were acting as fiduciaries when making rollover recommendations to Portfolio Advisor.
+The March 31, 2017 Free Advice Brochure stated:
+Advisors act as investment adviser representatives of APS in providing the
+Planning Services to clients…. Advisors also are broker-dealer registered
+representatives of TC Services…. In their capacity as registered
+representatives…, Advisors may suggest or recommend other accounts,
+services and products offered by TIAA to meet client investing and
+planning needs.
+(Emphasis added.) The March 31, 2017 PA Brochure similarly stated:
+In their capacity as registered representatives…, Advisors may suggest or
+recommend other accounts, services and products offered by TIAA to meet client
+investing and planning needs, which are offered separate and apart from the
+[Portfolio Advisor] Program.
+(Emphasis added.)
+9
+--- PDF PAGE 10 ---
+35. These statements were misleading. It would have been reasonable for an investor
+to understand that a recommendation to invest in Portfolio Advisor was part of the financial
+planning process and, thus, that a WMA was acting as their fiduciary at the time of a
+recommendation and that WMAs were registered representatives with regard to recommending
+products other than Portfolio Advisor. Respondent, however, did not treat or review rollover
+recommendations under a fiduciary standard. Moreover, some WMAs engaged in conduct that
+was inconsistent with a fiduciary standard, such as avoiding discussing fees or compensation and
+not presenting clients with alternatives to a managed account rollover.
+RESPONDENT’S FAILURE TO IMPLEMENT ITS POLICIES AND PROCEDURES
+36. During the Relevant Period, Respondent’s written policies required WMAs to
+discuss fees and expenses clients would incur in connection with rollover recommendations. In
+2015, Respondent adopted a single set of internal written policies and procedures for its dually-
+registered WMAs to implement components of FINRA Regulatory Notice 13-45 (“RN 13-45”), a
+notice outlining considerations to incorporate into discussions with clients considering a rollover of
+assets from an employer-sponsored plan to an IRA.
+37. To implement the considerations of RN 13-45, Respondent adopted a written policy
+that required its WMAs to discuss and document the four investment options available to clients
+considering – or being solicited to consider – an ESP rollover, and “other factors” including the
+“fees and or expenses” associated with these rollover options. In particular, the policy provided
+that WMAs were to be trained to document that all RN 13-45 considerations were reviewed with
+clients.
+38. Respondent failed to take sufficient steps to implement and enforce this policy. In
+some cases, WMAs’ supervisors directed them not to follow those policies, and some of
+Respondent’s training materials encouraged WMAs to avoid discussing fees and expenses with
+clients. In addition, Respondent’s Centralized Principal Review (“CPR”) group, which provided
+oversight and supervision of all product recommendations, including recommendations of rollovers
+to the Portfolio Advisor program, did not have written procedures to ensure or confirm that WMAs
+engaged in the required fee and expense discussion with clients prior to 2015. This was
+particularly problematic because some of Respondent’s regional training materials directed WMAs
+to not mention fees in discussions with clients, notwithstanding written policies to the contrary.
+39. Rollover recommendations regularly lacked any documentation confirming
+discussions of specific fees and expense relating to Portfolio Advisor, or how they compared to
+expenses in the employer sponsored plan.
+10
+--- PDF PAGE 11 ---
+VIOLATIONS
+40. As a result of the conduct described above, Respondent willfully2 violated Section
+206(2) of the Advisers Act, which prohibits an investment adviser from, directly or indirectly,
+engaging in any transaction, practice, or course of business which operates as a fraud or deceit
+upon any client or prospective client.
+41. As a result of the conduct described above, Respondent willfully violated Sections
+17(a)(2) and 17(a)(3) of the Securities Act, which prohibit any person in the offer or sale of
+securities from obtaining money or property by means of any untrue statement of a material fact or
+any omission to state a material fact necessary in order to make statements made not misleading,
+and from engaging in any practice or course of business which operates or would operate as a fraud
+or deceit in the offer or sale of securities, respectively.
+42. A violation of Section 206(2) of the Advisers Act and Sections 17(a)(2) and
+17(a)(3) of the Securities Act may rest on a finding of simple negligence; scienter is not required.
+SEC v. Steadman, 967 F.2d 636, 643 n. 5 (D.C. Cir. 1992) (citing SEC v. Capital Gains Research
+Bureau, Inc., 373 U.S. 180, 195 (1963)); SEC v. Hughes Capital Corp., 124 F.3d 449, 453-54 (3d
+Cir. 1997).
+43. As a result of the conduct described above, Respondent willfully violated Section
+206(4) of the Advisers Act and Rule 206(4)-7 thereunder, which require investment advisers to
+adopt and implement written policies and procedures reasonably designed to prevent violation of
+the Advisers Act and its rules by the adviser and its supervised persons.
+Respondent’s Remedial Efforts
+44. In determining to accept the Offer, the Commission considered remedial acts
+undertaken by Respondent before and since the commencement of the Commission’s
+investigation, including changes to its compensation structure, WMA training, policies and
+procedures, and disclosures.
+2 “Willfully,” for purposes of imposing relief under Section 203(e) and (k) of the Advisers
+Act, Section 15(b) of the Exchange Act and Section 8A of the Securities Act, “‘means no more
+than that the person charged with the duty knows what he is doing.’” Wonsover v. SEC, 205 F.3d
+408, 414 (D.C. Cir. 2000) (quoting Hughes v. SEC, 174 F.2d 969, 977 (D.C. Cir. 1949)). There is
+no requirement that the actor “also be aware that he is violating one of the Rules or Acts.” Tager v.
+SEC, 344 F.2d 5, 8 (2d Cir. 1965). The decision in The Robare Group, Ltd. v. SEC, which
+construed the term “willfully” for purposes of a differently structured statutory provision, does not
+alter that standard. 922 F.3d 468, 478-79 (D.C. Cir. 2019) (setting forth the showing required to
+establish that a person has “willfully omit[ted]” material information from a required disclosure in
+violation of Section 207 of the Advisers Act).
+11
+--- PDF PAGE 12 ---
+Disgorgement and Civil Penalties
+45. The disgorgement and prejudgment interest ordered in Section IV. D. is consistent
+with equitable principles and does not exceed Respondent’s net profits from its violations, and
+will be distributed to harmed investors to the extent feasible. Upon approval of the distribution
+final accounting by the Commission, any amounts remaining that are infeasible to return to
+investors may be transferred to the general fund of the U.S. Treasury, subject to Section
+21F(g)(3) of the Exchange Act.
+Undertakings
+Respondent has undertaken to:
+46. Notice to Advisory Clients. Within 30 days of the entry of this Order, Respondent
+shall notify affected clients (i.e., those former and current clients who were financially affected by
+the practices detailed above (hereinafter, “affected clients”)) of the settlement terms of this Order
+by sending a copy of this Order to each affected client via mail, email, or such other method not
+unacceptable to the Commission staff, together with a cover letter in a form not unacceptable to the
+Commission staff.
+47. Disclosure Review. Within 90 days of the entry of this Order, Respondent shall
+review all disclosures relating to its recommendations of managed account solutions, identify areas
+for improvement, and ensure that they are written in plain English.
+48. Training. Within 90 days of the entry of this Order, Respondent shall make and
+identify to the Commission staff any appropriate improvements to its training programs relating to
+its representations to clients and prospective clients regarding: (i) fiduciary duty; (ii) discussions of
+fees and expenses and documentation thereof; (iii) the existence and feasibility of other alternative
+investment options beyond managed accounts.
+49. Certification of Compliance by Respondent. Respondent shall certify, in writing,
+compliance with the undertakings set forth above. The certification shall identify each undertaking,
+provide written evidence of compliance in the form of a narrative, and be supported by exhibits
+sufficient to demonstrate compliance. The Commission staff may make reasonable requests for
+further evidence of compliance, and Respondent agrees to provide such evidence. The certification
+and supporting material shall be submitted to David A. Becker, Asset Management Unit, Securities
+and Exchange Commission, 100 F Street, Washington, DC 20549, or such other address as the
+Commission staff may provide, with a copy to the Office of Chief Counsel of the Enforcement
+Division, 100 F Street, NE Washington, DC 20549, no later than 60 days from the date of the
+completion of the undertaking.
+In determining whether to accept the Offer, the Commission has considered these
+undertakings.
+12
+--- PDF PAGE 13 ---
+IV.
+In view of the foregoing, the Commission deems it appropriate and in the public interest to
+impose the sanctions agreed to in Respondent’s Offer. Accordingly, pursuant to Section 8A of the
+Securities Act, Section 15(b) of the Exchange Act and Sections 203(e) and 203(k) of the Advisers
+Act, it is hereby ORDERED that:
+A. Respondent cease and desist from committing or causing any violations and any
+future violations of Sections 206(2) and 206(4) of the Advisers Act and Rule 206(4)-7 promulgated
+thereunder.
+B. Respondent cease and desist from committing or causing any violations and any
+future violations of Sections 17(a)(2) and 17(a)(3) of the Securities Act.
+C. Respondent is censured.
+D. Respondent shall, within 10 days of the entry of this Order, pay disgorgement,
+prejudgment interest, and a civil monetary penalty totaling $97 million, as follows:
+1. Respondent shall pay disgorgement of $73,985,572, and prejudgment
+interest of $14,014,428 consistent with the provisions of this Subsection D.
+2. Respondent shall pay a civil monetary penalty in the amount of $9,000,000,
+consistent with the provisions of this Subsection D.
+3. Pursuant to Section 308(a) of the Sarbanes-Oxley Act of 2002, as amended,
+a Fair Fund is created for the penalties, disgorgement, and prejudgment
+interest described above for distribution to affected client accounts.
+Amounts ordered to be paid as civil money penalties pursuant to this Order
+shall be treated as penalties paid to the government for all purposes,
+including all tax purposes. To preserve the deterrent effect of the civil
+penalty, Respondent agrees that in any Related Investor Action, it shall not
+argue that it is entitled to, nor shall it benefit by, offset or reduction of any
+award of compensatory damages by the amount of any part of Respondent’s
+payment of a civil penalty in this action (“Penalty Offset”). If the court in
+any Related Investor Action grants such a Penalty Offset, Respondent
+agrees that it shall, within 30 days after entry of a final order granting the
+Penalty Offset, notify the Commission’s counsel in this action and pay the
+amount of the Penalty Offset to the Securities and Exchange Commission.
+Such a payment shall not be deemed an additional civil penalty and shall not
+be deemed to change the amount of the civil penalty imposed in this
+proceeding. For purposes of this paragraph, a “Related Investor Action”
+means a private damages action brought against Respondent by or on behalf
+13
+--- PDF PAGE 14 ---
+of one or more investors based on substantially the same facts as alleged in
+the Order instituted by the Commission in this proceeding.
+4. Within ten (10) days of the issuance of this Order, Respondent shall deposit
+the full amount of the disgorgement, prejudgment interest, and civil penalty
+(the “Fair Fund”) into an escrow account at a financial institution not
+unacceptable to the Commission staff and Respondent shall provide the
+Commission staff with evidence of such deposit in a form acceptable to the
+Commission staff. The account holding the assets of the Fair Fund shall
+bear the name and taxpayer identification number of the Fair Fund. If
+timely payment into the escrow account is not made, additional interest
+shall accrue pursuant to SEC Rule of Practice 600 -17 C.F.R. § 201.600
+and/or 31 U.S.C. § 3717.
+5. Respondent shall be responsible for administering the Fair Fund and may
+hire a professional at its own cost to assist in the administration of the
+distribution. The costs and expenses of administering the Fair Fund,
+including any such professional services, shall be borne by Respondent and
+shall not be paid out of the Fair Fund.
+6. Respondent shall distribute from the Fair Fund to each current or former
+affected client an amount representing the affected client’s pro rata share of
+the Fair Fund for the management fees she or he paid for PA accounts
+opened with rollover assets from TIAA-record kept employer-sponsored
+programs to Portfolio Advisor during the time period January 1, 2012
+through March 30, 2018 (including harm to current and former affected
+clients identified in the Office of the Attorney General of the State of New
+York’s Assurance of Discontinuance, In the Matter of TIAA-CREF
+Individual and Institutional Services, Assurance No. 21-035). No portion of
+the Fair Fund shall be paid to any affected client account in which
+Respondent, or any of its officers or directors, has a financial interest.
+7. Respondent shall, within ninety (90) days from the date of this Order,
+submit a proposed disbursement calculation (the “Calculation”) to the
+Commission staff for review and approval. At or around the time of
+submission of the proposed Distribution Calculation to the staff,
+Respondent shall make itself available, and shall require any third-parties or
+professionals retained by Respondent to assist in formulating the
+methodology for its Calculation and/or administration of the distribution to
+be available, for a conference call with the Commission staff to explain the
+methodology used in preparing the proposed Calculation and its
+implementation, and to provide the staff with an opportunity to ask
+questions. Respondent also shall provide the Commission staff such
+additional information and supporting documentation as the Commission
+14
+--- PDF PAGE 15 ---
+staff may request for the purpose of its review. In the event of one or more
+objections by the Commission staff to Respondent’s proposed Calculation
+or any of its information or supporting documentation, Respondent shall
+submit a revised Calculation for the review and approval of the Commission
+staff or additional information or supporting documentation within ten (10)
+days of the date that the Commission staff notifies Respondent of the
+objection. The Calculation shall be subject to a de minimis threshold. The
+revised Calculation shall be subject to all of the provisions of this
+Subsection D.
+8. Respondent shall, within thirty (30) days of written approval of the
+Calculation by the Commission staff, submit a payment file (the “Payment
+File”) for review and acceptance by the Commission staff demonstrating the
+application of the methodology to each affected client. The Payment File
+should identify, at a minimum, (i) the name of each affected client; and (ii)
+the net amount of the payment to be made, less any tax withholding; (iii)
+the amount of any de minimis threshold to be applied; and (iv) the amount
+of reasonable interest paid, if applicable.
+9. Respondent shall disburse all amounts payable to affected client accounts
+within ninety (90) days of the date that the Commission staff accepts the
+Payment File, unless such time period is extended as provided in Paragraph
+13 of this Subsection D. Respondent shall notify the Commission staff of
+the date(s) and the amount paid in the initial distribution.
+10. If funds remain in the Fair Fund after the distribution is complete, the
+Respondent, if feasible and in consultation with the Commission staff, will
+make one redistribution to each current or former affected client who
+received a distribution payment electronically or negotiated a check
+(provided that the client would receive a minimum distribution of $10). If
+Respondent is unable to distribute or return any further portions of the Fair
+Fund for any reason, including an inability to locate an affected client or a
+beneficial owner of an affected client or any factors beyond Respondent’s
+control, Respondent shall transfer any such undistributed funds to the
+Commission for transmittal to the United States Treasury in accordance
+with Section 21F(g)(3) of the Securities Exchange Act of 1934 when the
+distribution of funds is complete and before the final accounting provided
+for in Paragraph 12 of this Subsection D is submitted to the Commission
+staff. Payment must be made in one of the following ways:
+a. Respondent may transmit payment electronically to the Commission,
+which will provide detailed ACH transfer/Fedwire instructions upon
+request;
+15
+--- PDF PAGE 16 ---
+b. Respondent may make direct payment from a bank account via Pay.gov
+through the SEC website at http://www.sec.gov/about/offices/ofm.htm;
+or
+c. Respondent may pay by certified check, bank cashier’s check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+Enterprise Services Center
+Accounts Receivable Branch
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+Payments by check or money order must be accompanied by a cover letter
+identifying TIAA-CREF Individual & Institutional Services, LLC as
+Respondent in these proceedings, and the file number of these proceedings;
+a copy of the cover letter and check or money order must be sent to David
+A. Becker, Assistant Director, Division of Enforcement, Securities and
+Exchange Commission, 100 F St., NE, Washington, DC 20549, or such
+other address as the Commission staff may provide.
+11. A Fair Fund is a Qualified Settlement Fund (“QSF”) under Section 468B(g)
+of the Internal Revenue Code (“IRC”), 26 U.S.C. §§ 1468B.1-1468B.5.
+Respondent shall be responsible for all tax compliance responsibilities
+associated with the Fair Fund, including but not limited to tax obligations
+resulting from the Fair Fund’s status as a QSF and the Foreign Account Tax
+Compliance Act (FATCA). Respondent may retain any professional
+services necessary. The costs and expenses of such professional services
+shall be borne by Respondent and shall not be paid out of the Fair Fund.
+12. Within one hundred fifty (150) days after Respondent completes the
+disbursement of all amounts payable to affected clients, Respondent shall
+return all undisbursed funds to the Commission pursuant to the instructions
+set forth in this Subsection D. The Respondent shall then submit to the
+Commission staff a final accounting and certification of the disposition of
+the Fair Fund for Commission approval, which final accounting and
+certification shall include, but not be limited to: (i) the amount paid to each
+payee, with the reasonable interest amount, if any, reported separately; (ii)
+the date of each payment; (iii) the check number or other identifier of the
+money transferred; (iv) the amount of any returned payment and the date
+received; (v) a description of the efforts to locate a prospective payee whose
+payment was returned or to whom payment was not made for any reason;
+(vi) the total amount, if any, to be forwarded to the Commission for transfer
+to the United States Treasury; and (vii) an affirmation that Respondent has16
+--- PDF PAGE 17 ---
+made payments from the Fair Fund to affected clients in accordance with
+the Calculation approved by the Commission staff. The final accounting
+and certification shall be submitted under a cover letter that identifies
+Respondent and the file number of these proceedings to David A. Becker,
+Assistant Director, Division of Enforcement, Securities and Exchange
+Commission, 100 F St., NE, Washington, DC 20549, or such other address
+as the Commission staff may provide. Respondent shall provide any and all
+supporting documentation for the accounting and certification to the
+Commission staff upon its request and shall cooperate with any additional
+requests by the Commission staff in connection with the accounting and
+certification.
+13. The Commission staff may extend any of the procedural dates set forth in
+this Subsection D for good cause shown. Deadlines for dates relating to the
+Distribution Fund shall be counted in calendar days, except that if the last
+day falls on a weekend or federal holiday, the next business day shall be
+considered to be the last day.
+E. Respondent shall comply with the undertakings enumerated in Section III,
+Paragraphs 46-49 above.
+By the Commission.
+Vanessa A. Countryman
+Secretary
+17

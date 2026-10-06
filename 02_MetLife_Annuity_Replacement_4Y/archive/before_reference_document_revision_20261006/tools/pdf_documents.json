@@ -1,0 +1,199 @@
+{
+  "case_number": "02",
+  "case_name": "年金合同替换：四年持有",
+  "scenario_id": "S-MET-01",
+  "style": "hierarchical_native_pdf_v1",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "02-01",
+      "title": "递延可变年金招募说明书",
+      "pdf": "02_MetLife_Annuity_Replacement_4Y_Reference.pdf",
+      "content_source": "02_MetLife_Annuity_Replacement_4Y_Reference.txt",
+      "start_line": 3,
+      "end_line": 490,
+      "leading_source_heading": null,
+      "headings": {
+        "递延可变年金招募说明书": {
+          "level": 2
+        },
+        "B类及L类合同": {
+          "level": 2
+        },
+        "重要术语": {
+          "level": 1
+        },
+        "保险公司及独立账户": {
+          "level": 1
+        },
+        "可变年金": {
+          "level": 1
+        },
+        "年金合同替换": {
+          "level": 1
+        },
+        "递延年金及退休计划": {
+          "level": 1
+        },
+        "递延年金类别": {
+          "level": 1
+        },
+        "B类": {
+          "level": 2
+        },
+        "L类": {
+          "level": 2
+        },
+        "B类及L类的合资格滚存及直接转入信用额": {
+          "level": 2
+        },
+        "底层基金": {
+          "level": 1
+        },
+        "付款": {
+          "level": 1
+        },
+        "403(b)计划付款": {
+          "level": 2
+        },
+        "付款配置": {
+          "level": 2
+        },
+        "付款限制": {
+          "level": 2
+        },
+        "投资价值": {
+          "level": 1
+        },
+        "转账权利": {
+          "level": 1
+        },
+        "转账限制": {
+          "level": 2
+        },
+        "取得您的资金": {
+          "level": 1
+        },
+        "账户减少型贷款": {
+          "level": 2
+        },
+        "系统提款计划": {
+          "level": 2
+        },
+        "最低分配": {
+          "level": 2
+        },
+        "费用": {
+          "level": 1
+        },
+        "账户减少型贷款费用": {
+          "level": 2
+        },
+        "资金处于分部期间的费用": {
+          "level": 2
+        },
+        "独立账户费": {
+          "level": 2
+        },
+        "底层基金费用": {
+          "level": 2
+        },
+        "转账费": {
+          "level": 2
+        },
+        "年度合同费": {
+          "level": 2
+        },
+        "可选收入保障费": {
+          "level": 2
+        },
+        "保费及其他税款": {
+          "level": 2
+        },
+        "提款费用": {
+          "level": 2
+        },
+        "不收提款费的情形": {
+          "level": 2
+        },
+        "冷静期": {
+          "level": 2
+        },
+        "身故保障——一般规定": {
+          "level": 1
+        },
+        "标准身故保障": {
+          "level": 2
+        },
+        "可选身故保障": {
+          "level": 2
+        },
+        "年度调升身故保障": {
+          "level": 2
+        },
+        "一般信息": {
+          "level": 1
+        },
+        "管理": {
+          "level": 2
+        },
+        "付款办理": {
+          "level": 2
+        },
+        "交易确认": {
+          "level": 2
+        },
+        "交易处理": {
+          "level": 2
+        },
+        "电话或互联网": {
+          "level": 2
+        },
+        "死亡后": {
+          "level": 2
+        },
+        "无人认领财产": {
+          "level": 2
+        },
+        "年龄误报": {
+          "level": 2
+        },
+        "第三方请求": {
+          "level": 2
+        },
+        "估值及暂停支付": {
+          "level": 2
+        },
+        "其他事项": {
+          "level": 2
+        },
+        "递延年金变更": {
+          "level": 2
+        },
+        "投票权": {
+          "level": 2
+        },
+        "年金销售": {
+          "level": 2
+        },
+        "提款": {
+          "level": 2
+        },
+        "财务报表": {
+          "level": 1
+        },
+        "公司可取消合同的情形": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "2"
+      ],
+      "content_sha256": "0d41a4556d43c4d2597f06eb909ac77cd71a64ed17e97c4ad23b0a167930fe48",
+      "pages": 16,
+      "pdf_sha256": "9055a7cb172d67d8ec2cbeae10cdf6355ad6ec913393ca1335e77d6f9a501044",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "case": 12,
+  "independent_documents": 3,
+  "documents": [
+    {
+      "document_id": "12-01",
+      "pdf": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference_01.pdf",
+      "pages": 1,
+      "text_checks": 12,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "a4c58a9e89a78e916b001cc59658ccfff0071889173ae2ba79862e33f0edaeb1",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "12-02",
+      "pdf": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference_02.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "dcf71feb46ca315738115086ca7ea62e78d9bb858bdaecded7dc6fbccd053569",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "12-03",
+      "pdf": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference_03.pdf",
+      "pages": 2,
+      "text_checks": 31,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "98664cbb78d982f7f395b9e33a7214efb0248c7910d8c2926db6d40fc26d6c08",
+      "latex_overflow": false
+    }
+  ],
+  "source_content_preserved": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked",
+  "visual_review": "All document first pages inspected; selected multipage documents inspected through contact sheets; no clipping or overlapping text detected.",
+  "checked_date": "2026-10-06"
+}

@@ -1,0 +1,126 @@
+{
+  "case_number": "11",
+  "case_name": "房贷报价选择：四年后结清的费用安排",
+  "scenario_id": "S-AMERI-MP-01",
+  "style": "content_sized_centered_tables_financial_typography_v3",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "11-01",
+      "title": "固定利率借据A",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_02.pdf",
+      "content_source": "11_AmeriSave_Mortgage_Points_4Y_Reference.txt",
+      "start_line": 3,
+      "end_line": 46,
+      "leading_source_heading": "固定利率借据——报价A",
+      "headings": {
+        "固定利率借据——报价A": {
+          "level": 2
+        },
+        "1. 借款人的付款承诺": {
+          "level": 2
+        },
+        "2. 利息": {
+          "level": 2
+        },
+        "3. 付款": {
+          "level": 2
+        },
+        "4. 借款人的提前还款权利": {
+          "level": 2
+        },
+        "5. 贷款费用": {
+          "level": 2
+        },
+        "6. 借款人未按要求付款": {
+          "level": 2
+        },
+        "7. 通知": {
+          "level": 2
+        },
+        "8. 本票据下各人的义务": {
+          "level": 2
+        },
+        "9. 权利放弃": {
+          "level": 2
+        },
+        "10. 统一担保票据": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "content_sha256": "061ab08833913b98c18a7e37d0b399a56eaa249f114baf3713d4023907630f79",
+      "pages": 3,
+      "pdf_sha256": "c405c8cd947adb261c9fdfd6f71ac7555c849a93c8179f1837089e0ea633638b",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": []
+    },
+    {
+      "document_number": "02",
+      "document_id": "11-02",
+      "title": "固定利率借据B",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_03.pdf",
+      "content_source": "11_AmeriSave_Mortgage_Points_4Y_Reference.txt",
+      "start_line": 46,
+      "end_line": 88,
+      "leading_source_heading": "固定利率借据——报价B",
+      "headings": {
+        "固定利率借据——报价B": {
+          "level": 2
+        },
+        "1. 借款人的付款承诺": {
+          "level": 2
+        },
+        "2. 利息": {
+          "level": 2
+        },
+        "3. 付款": {
+          "level": 2
+        },
+        "4. 借款人的提前还款权利": {
+          "level": 2
+        },
+        "5. 贷款费用": {
+          "level": 2
+        },
+        "6. 借款人未按要求付款": {
+          "level": 2
+        },
+        "7. 通知": {
+          "level": 2
+        },
+        "8. 本票据下各人的义务": {
+          "level": 2
+        },
+        "9. 权利放弃": {
+          "level": 2
+        },
+        "10. 统一担保票据": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "content_sha256": "8af135b4f578ece58f086c49777fd71920d60932190608fdf45b54928230f868",
+      "pages": 3,
+      "pdf_sha256": "65f799fcdf3aff11bf1a6a485fdfd70336443a0bed767d54dcb0907ddd2ed27d",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": []
+    }
+  ],
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",
+  "content_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "3b11509b33446961aeff0ab4780ef80c0aee9e4e0664d06e411c03a0cb9b51ed",
+    "current_sha256": "d890cfeb0a40fbbe868cb0de0ce792cb7aa3a7fb6dc13da337c32460f97ba092",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

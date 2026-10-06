@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "title": "FINRA, Should You Exchange Your Variable Annuity?, 2016年5月",
+    "url": "https://syndication.finra.org/content/should-you-exchange-your-variable-annuity",
+    "resolved_url": "https://syndication.finra.org/content/should-you-exchange-your-variable-annuity",
+    "retrieved_date": "2026-10-06",
+    "file": "source_01.html",
+    "bytes": 15539,
+    "sha256": "14a812cfc553b39aa9084eb850182e8a1f09d02139bd5db6cc543542bd7ee093",
+    "status": "downloaded"
+  },
+  {
+    "id": "2",
+    "title": "Metropolitan Life Separate Account E, Form 485BPOS, MetLife Financial Freedom Select, 2023-05-01说明书",
+    "url": "https://www.sec.gov/Archives/edgar/data/744043/000119312523107924/d435087d485bpos.htm",
+    "resolved_url": "https://www.sec.gov/Archives/edgar/data/744043/000119312523107924/d435087d485bpos.htm",
+    "retrieved_date": "2026-10-06",
+    "file": "source_02.html",
+    "bytes": 3269773,
+    "sha256": "be274520b61e811d4ffd5fc30abd4b5c14b75e22bd85997afeda2ab79391c05b",
+    "status": "downloaded"
+  },
+  {
+    "id": "3",
+    "title": "FINRA BrokerCheck, MSI Financial Services, Inc., CRD 14251",
+    "url": "https://files.brokercheck.finra.org/firm/firm_14251.pdf",
+    "resolved_url": "https://files.brokercheck.finra.org/firm/firm_14251.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_03.pdf",
+    "bytes": 471885,
+    "sha256": "8dfc6d64f82d62b9f786ae3fe23643afb4e4e30e4bec9c67ea8632bc3f11ad81",
+    "status": "downloaded"
+  }
+]

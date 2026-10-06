@@ -1,0 +1,42 @@
+{
+  "case": 7,
+  "independent_documents": 3,
+  "documents": [
+    {
+      "document_id": "07-01",
+      "pdf": "07_SoFi_Student_Loan_Refinance_Scope_Reference_01.pdf",
+      "pages": 1,
+      "text_checks": 10,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "7d19d671a76973745433ae33d0685e6a7781e6b0cd60ae949fc51fce4f8dc242",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "07-02",
+      "pdf": "07_SoFi_Student_Loan_Refinance_Scope_Reference_02.pdf",
+      "pages": 2,
+      "text_checks": 34,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "f82e39fa8ae4dfcd3c5dca7a5710008c5d6d307b5435d76f11c65b35cdac01a6",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "07-03",
+      "pdf": "07_SoFi_Student_Loan_Refinance_Scope_Reference_03.pdf",
+      "pages": 4,
+      "text_checks": 82,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "2673870c6dca3b92d39323c30ca013832491b3013326f2fde679986aca74448b",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked",
+  "checked_date": "2026-10-06",
+  "visual_review": "All 42 document first pages inspected; full first pages and multipage contact sheets inspected for fund prospectuses and representative tables; no overlap or clipping found.",
+  "archive": "archive/before_reference_document_revision_20261006"
+}

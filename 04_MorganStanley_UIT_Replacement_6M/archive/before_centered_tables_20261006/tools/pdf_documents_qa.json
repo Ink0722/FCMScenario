@@ -1,0 +1,22 @@
+{
+  "case": 4,
+  "independent_documents": 1,
+  "documents": [
+    {
+      "document_id": "04-01",
+      "pdf": "04_MorganStanley_UIT_Replacement_6M_Reference.pdf",
+      "pages": 13,
+      "text_checks": 249,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "d70710974ee752a83824211b389d68090baf927008669581fd8f4d20326fbf04",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked",
+  "checked_date": "2026-10-06",
+  "visual_review": "All 42 document first pages inspected; full first pages and multipage contact sheets inspected for fund prospectuses and representative tables; no overlap or clipping found.",
+  "archive": "archive/before_reference_document_revision_20261006"
+}

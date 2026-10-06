@@ -1,0 +1,108 @@
+{
+  "case_number": "12",
+  "case_name": "房贷还款渠道：双周扣款与本金入账",
+  "scenario_id": "S-PAY-MP-01",
+  "style": "content_sized_centered_tables_financial_typography_v3",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "12-01",
+      "title": "第三方付款服务登记及授权条款",
+      "pdf": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference_01.pdf",
+      "content_source": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference.txt",
+      "start_line": 3,
+      "end_line": 18,
+      "leading_source_heading": "第一部分　第三方付款服务登记及授权条款",
+      "headings": {
+        "第一部分　第三方付款服务登记及授权条款": {
+          "level": 2
+        },
+        "1. 扣款指示": {
+          "level": 2
+        },
+        "2. 服务登记费用": {
+          "level": 2
+        },
+        "3. 资金保管及月供转付": {
+          "level": 2
+        },
+        "4. 三次扣款月份": {
+          "level": 2
+        },
+        "5. 贷款账户与服务账户": {
+          "level": 2
+        },
+        "6. 本次授权记录": {
+          "level": 2
+        }
+      },
+      "source_ids": [],
+      "content_sha256": "f3f2763dc0f7022defafb21f98224e0a70c090c91bc7750ef85701a2a3001bd5",
+      "pages": 1,
+      "pdf_sha256": "ad9e12d3935417bc062a97621243d326ee2dee3295d36258c1b21030627965e0",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": []
+    },
+    {
+      "document_number": "02",
+      "document_id": "12-02",
+      "title": "贷款机构付款资料",
+      "pdf": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference_02.pdf",
+      "content_source": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference.txt",
+      "start_line": 18,
+      "end_line": 62,
+      "leading_source_heading": "第二部分　贷款机构付款资料",
+      "headings": {
+        "第二部分　贷款机构付款资料": {
+          "level": 2
+        },
+        "一般付款常见问题": {
+          "level": 2
+        },
+        "房贷利息和付款如何运作？": {
+          "level": 2
+        },
+        "付款日期是否影响当期应付利息？": {
+          "level": 2
+        },
+        "付款日期是否重要？": {
+          "level": 2
+        },
+        "灵活付款常见问题": {
+          "level": 2
+        },
+        "如何处理每月两次和每两周付款？": {
+          "level": 2
+        },
+        "如果已经用其他方式付款，仍会自动扣款吗？": {
+          "level": 2
+        },
+        "灵活付款产品页面": {
+          "level": 2
+        },
+        "房贷付款示例": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "3",
+        "4"
+      ],
+      "content_sha256": "54561d147dd107b2d85b78888b3354e7ca6ff8e8c2b731af355fab11217a48a7",
+      "pages": 3,
+      "pdf_sha256": "7abf78bb29191a402e25070df9f513b32fde286ae6e5be28c105ffe36b1f5f79",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": []
+    }
+  ],
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",
+  "content_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "60a0ba72689c27b0cddccfdcfeb6a0430a5f508e906415bccea37ab9af474309",
+    "current_sha256": "71a547ebedb06aeea8e17152dc2e34af8dda77f3dea156b82150003d8bfa36e4",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

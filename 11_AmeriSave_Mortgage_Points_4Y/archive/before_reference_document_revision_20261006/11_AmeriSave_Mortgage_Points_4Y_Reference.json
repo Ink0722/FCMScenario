@@ -1,0 +1,234 @@
+{
+  "case_folder": "11_AmeriSave_Mortgage_Points_4Y",
+  "title": "住房贷款报价及固定利率借据",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "11_AmeriSave_Mortgage_Points_4Y_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "本次账户资料及办理记录",
+        "source_ids": [],
+        "locator": "研究状态；来源区别见Notes"
+      },
+      {
+        "heading": "固定利率借据——报价A",
+        "source_ids": [
+          "4",
+          "5"
+        ],
+        "locator": "Fannie Mae 3200第1—10条"
+      },
+      {
+        "heading": "固定利率借据——报价B",
+        "source_ids": [
+          "4",
+          "5"
+        ],
+        "locator": "Fannie Mae 3200第1—10条"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": [
+    "保留所采用栏目内的金融关系、例外及程序",
+    "账户状态、个别报价及实验控制置于PDF账户记录，来源区别见Notes",
+    "未补造收益、事故概率、服务优势或资格"
+  ],
+  "content_sha256": "3b11509b33446961aeff0ab4780ef80c0aee9e4e0664d06e411c03a0cb9b51ed",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "本次账户资料及办理记录",
+      "source_ids": [],
+      "source_locator": "研究状态；来源区别见Notes",
+      "text_status": "research account record"
+    },
+    {
+      "id": 2,
+      "heading": "固定利率借据——报价A",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "source_locator": "Fannie Mae 3200第1—10条",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 3,
+      "heading": "固定利率借据——报价B",
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "source_locator": "Fannie Mae 3200第1—10条",
+      "text_status": "Chinese source-based clause adaptation"
+    }
+  ],
+  "research_settings": {
+    "file": "tools/account_record.txt",
+    "section": "本次账户资料及办理记录",
+    "provenance": "案例参数、补充产品机制及研究控制的区别见Notes",
+    "sha256": "40c0bf98f8531c5062b9e7d74d0b764beaa3434e42656dfe93f49f5084899f03"
+  },
+  "rendering": "native_xelatex",
+  "pages": 8,
+  "qa_status": "text_and_layout_checked",
+  "material_sha256": "3884be54d8be386bc7803061ed48375f1f595f592c7719b9b9d0f36495ce42af",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "11-01",
+      "title": "本次账户资料及办理记录",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_01.pdf",
+      "content_source": "11_AmeriSave_Mortgage_Points_4Y_Reference.txt",
+      "start_line": 3,
+      "end_line": 69,
+      "leading_source_heading": "本次账户资料及办理记录",
+      "headings": {
+        "本次账户资料及办理记录": {
+          "level": 2
+        },
+        "A：支付折扣费的报价": {
+          "level": 2
+        },
+        "B：不支付折扣费的报价": {
+          "level": 2
+        },
+        "办理确认事项": {
+          "level": 2
+        }
+      },
+      "source_ids": [],
+      "content_sha256": "40c0bf98f8531c5062b9e7d74d0b764beaa3434e42656dfe93f49f5084899f03",
+      "pages": 2,
+      "pdf_sha256": "1e6166804adbc9ace877229fc6742bb2786370cf1008cd6373113aa24db68549",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    },
+    {
+      "document_number": "02",
+      "document_id": "11-02",
+      "title": "固定利率借据A",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_02.pdf",
+      "content_source": "11_AmeriSave_Mortgage_Points_4Y_Reference.txt",
+      "start_line": 69,
+      "end_line": 112,
+      "leading_source_heading": "固定利率借据——报价A",
+      "headings": {
+        "固定利率借据——报价A": {
+          "level": 2
+        },
+        "1. 借款人的付款承诺": {
+          "level": 2
+        },
+        "2. 利息": {
+          "level": 2
+        },
+        "3. 付款": {
+          "level": 2
+        },
+        "4. 借款人的提前还款权利": {
+          "level": 2
+        },
+        "5. 贷款费用": {
+          "level": 2
+        },
+        "6. 借款人未按要求付款": {
+          "level": 2
+        },
+        "7. 通知": {
+          "level": 2
+        },
+        "8. 本票据下各人的义务": {
+          "level": 2
+        },
+        "9. 权利放弃": {
+          "level": 2
+        },
+        "10. 统一担保票据": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "content_sha256": "061ab08833913b98c18a7e37d0b399a56eaa249f114baf3713d4023907630f79",
+      "pages": 3,
+      "pdf_sha256": "72dd4a71833fb1a6413703974b46398411322323ef00f484a7f5e029b1ce1144",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    },
+    {
+      "document_number": "03",
+      "document_id": "11-03",
+      "title": "固定利率借据B",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_03.pdf",
+      "content_source": "11_AmeriSave_Mortgage_Points_4Y_Reference.txt",
+      "start_line": 112,
+      "end_line": 154,
+      "leading_source_heading": "固定利率借据——报价B",
+      "headings": {
+        "固定利率借据——报价B": {
+          "level": 2
+        },
+        "1. 借款人的付款承诺": {
+          "level": 2
+        },
+        "2. 利息": {
+          "level": 2
+        },
+        "3. 付款": {
+          "level": 2
+        },
+        "4. 借款人的提前还款权利": {
+          "level": 2
+        },
+        "5. 贷款费用": {
+          "level": 2
+        },
+        "6. 借款人未按要求付款": {
+          "level": 2
+        },
+        "7. 通知": {
+          "level": 2
+        },
+        "8. 本票据下各人的义务": {
+          "level": 2
+        },
+        "9. 权利放弃": {
+          "level": 2
+        },
+        "10. 统一担保票据": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "4",
+        "5"
+      ],
+      "content_sha256": "8af135b4f578ece58f086c49777fd71920d60932190608fdf45b54928230f868",
+      "pages": 3,
+      "pdf_sha256": "2ac8c8245c18ec2e1470f22983a4c4169878f99aeea767a0a5340460fee7b4e6",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    }
+  ],
+  "pdf_files": [
+    "11_AmeriSave_Mortgage_Points_4Y_Reference_01.pdf",
+    "11_AmeriSave_Mortgage_Points_4Y_Reference_02.pdf",
+    "11_AmeriSave_Mortgage_Points_4Y_Reference_03.pdf"
+  ],
+  "pages_definition": "各独立PDF页数之和；不存在现行合并PDF。",
+  "document_manifest": "tools/pdf_documents.json",
+  "heading_levels": 3
+}

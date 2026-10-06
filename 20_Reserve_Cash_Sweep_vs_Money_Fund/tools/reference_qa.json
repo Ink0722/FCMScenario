@@ -1,0 +1,44 @@
+{
+  "case": 20,
+  "pages": 16,
+  "paragraphs_checked": 373,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_layout_review": "passed",
+  "checked_date": "2026-10-06",
+  "participant_links_checked": true,
+  "source_manifest_hashes_checked": true,
+  "decision_criteria_preserved": true,
+  "material_sha256": "8b8a2077b7f5e75a7e0b372a7d2ba68715d6ada2969114735c0a53d7a7647c15",
+  "notes_sha256": "56feb011eb4e155ef5d789c17593599e8746f900dac255793292dd57b8493d3f",
+  "documents": [
+    {
+      "document_id": "20-01",
+      "pdf": "20_Reserve_Cash_Sweep_vs_Money_Fund_Reference_01.pdf",
+      "pages": 6,
+      "text_checks": 101,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "e3ece939069dd7e7bd1372835f583d2610a380ddb119efcf660afb7c66dde044",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "20-02",
+      "pdf": "20_Reserve_Cash_Sweep_vs_Money_Fund_Reference_02.pdf",
+      "pages": 10,
+      "text_checks": 272,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "3d2061b0d2067902596e0fc12039b3b0b883e9c4044ad9fafff20962216173b3",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 2,
+  "qa_status": "text_and_layout_checked",
+  "visual_review": "Centered table headers, short entries and numeric cells; paragraph cells left aligned; table endings bound and short HTML header line breaks removed; representative table pages inspected.",
+  "current_report": "tools/pdf_documents_qa.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

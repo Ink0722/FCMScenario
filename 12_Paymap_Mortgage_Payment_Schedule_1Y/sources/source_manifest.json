@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "CFPB，Paymap行政命令，2015-07-28，第10—12、32—37段",
+    "url": "https://files.consumerfinance.gov/f/201507_cfpb_consent-order_paymap.pdf",
+    "resolved_url": "https://files.consumerfinance.gov/f/201507_cfpb_consent-order_paymap.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_01.pdf",
+    "bytes": 4986811,
+    "sha256": "bc4dbbbe32aaa6862251b75b6bbb88a7b969fbbf5eb654fb3fe65ce8ecbb5da0",
+    "status": "downloaded"
+  },
+  {
+    "id": "2",
+    "title": "CFPB，LoanCare行政命令，2015-07-28，第10—13段",
+    "url": "https://files.consumerfinance.gov/f/201507_cfpb_consent-order_loan-care.pdf",
+    "resolved_url": "https://files.consumerfinance.gov/f/201507_cfpb_consent-order_loan-care.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_02.pdf",
+    "bytes": 3893137,
+    "sha256": "960b46118fbb035a3907580eb6d194222dc9ed70bd642cddd14fca251929f671",
+    "status": "downloaded"
+  },
+  {
+    "id": "3",
+    "title": "Chase，General Payment与Flexible Payments FAQ",
+    "url": "https://www.chase.com/personal/mortgage/paying-your-mortgage/general-payment-faqs",
+    "resolved_url": "https://www.chase.com/personal/mortgage/paying-your-mortgage/general-payment-faqs",
+    "retrieved_date": "2026-10-06",
+    "file": "source_03.html",
+    "bytes": 322481,
+    "sha256": "0cf50fe137ec995feafc8c623bfe1ba615186e0cde8a7c7f53d4b1c2d67cb4bf",
+    "status": "downloaded"
+  },
+  {
+    "id": "4",
+    "title": "Chase Flexible Payments",
+    "url": "https://www.chase.com/personal/mortgage/paying-your-mortgage/flexible-payments",
+    "resolved_url": "https://www.chase.com/personal/mortgage/paying-your-mortgage/flexible-payments",
+    "retrieved_date": "2026-10-06",
+    "file": "source_04.html",
+    "bytes": 360170,
+    "sha256": "47da55b68c1f0e68f75b039d37d4d13b92c786785e23a59c007417c5bfd12c5c",
+    "status": "downloaded"
+  },
+  {
+    "id": "5",
+    "title": "CFPB Your home loan toolkit",
+    "url": "https://www.consumerfinance.gov/documents/5992/cfpb_your-home-loan-toolkit.pdf",
+    "resolved_url": "https://files.consumerfinance.gov/f/documents/cfpb_your-home-loan-toolkit.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_05.pdf",
+    "bytes": 2013558,
+    "sha256": "7f9c2663177950356fd2960f0ca55466530d7eacf1ec96750ee2930840625229",
+    "status": "downloaded"
+  }
+]

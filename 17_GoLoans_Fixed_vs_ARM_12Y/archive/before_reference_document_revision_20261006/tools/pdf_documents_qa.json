@@ -1,0 +1,41 @@
+{
+  "case": 17,
+  "independent_documents": 3,
+  "documents": [
+    {
+      "document_id": "17-01",
+      "pdf": "17_GoLoans_Fixed_vs_ARM_12Y_Reference_01.pdf",
+      "pages": 2,
+      "text_checks": 27,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "6ec637442e6fd399bdb6ef9824a863ab538221aeb1d6c35ee5b15f0c0e97143f",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "17-02",
+      "pdf": "17_GoLoans_Fixed_vs_ARM_12Y_Reference_02.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "f9ee9a0b86aaab664070b943c8a89c45d42f1ef8eb2736fc2c6cbfeaebd5e7f5",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "17-03",
+      "pdf": "17_GoLoans_Fixed_vs_ARM_12Y_Reference_03.pdf",
+      "pages": 4,
+      "text_checks": 60,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "8f0b1aa7f00445d99a20413765c3d1369abaa1c31c3c3286ea4a8a4d9d1e7c4c",
+      "latex_overflow": false
+    }
+  ],
+  "source_content_preserved": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked",
+  "visual_review": "All document first pages inspected; selected multipage documents inspected through contact sheets; no clipping or overlapping text detected.",
+  "checked_date": "2026-10-06"
+}

@@ -1,0 +1,41 @@
+{
+  "case": 11,
+  "independent_documents": 3,
+  "documents": [
+    {
+      "document_id": "11-01",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_01.pdf",
+      "pages": 2,
+      "text_checks": 32,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "1e6166804adbc9ace877229fc6742bb2786370cf1008cd6373113aa24db68549",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "11-02",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_02.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "72dd4a71833fb1a6413703974b46398411322323ef00f484a7f5e029b1ce1144",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "11-03",
+      "pdf": "11_AmeriSave_Mortgage_Points_4Y_Reference_03.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "2ac8c8245c18ec2e1470f22983a4c4169878f99aeea767a0a5340460fee7b4e6",
+      "latex_overflow": false
+    }
+  ],
+  "source_content_preserved": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked",
+  "visual_review": "All document first pages inspected; selected multipage documents inspected through contact sheets; no clipping or overlapping text detected.",
+  "checked_date": "2026-10-06"
+}

@@ -1,0 +1,39 @@
+{
+  "case": 8,
+  "pages": 7,
+  "paragraphs_checked": 110,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_review": "Centered table headers, short entries and numeric cells; paragraph cells left aligned; table endings bound and short HTML header line breaks removed; representative table pages inspected.",
+  "text_extraction_method": "PDFKit line selections sorted by page coordinates; headers/footers excluded",
+  "documents": [
+    {
+      "document_id": "08-01",
+      "pdf": "08_TDBank_Overdraft_OptIn_Reference_01.pdf",
+      "pages": 2,
+      "text_checks": 34,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "511c410445fc34f8f98a860693e0451726477b2e51a357b58fc15e3a025bf93d",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "08-02",
+      "pdf": "08_TDBank_Overdraft_OptIn_Reference_02.pdf",
+      "pages": 5,
+      "text_checks": 76,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "fc3c7302588f62464cb6fcc6352c6b62a270be2c3c474e64e2207b8420e2aa45",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 2,
+  "qa_status": "text_and_layout_checked",
+  "checked_date": "2026-10-06",
+  "current_report": "tools/pdf_documents_qa.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

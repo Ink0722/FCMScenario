@@ -1,0 +1,43 @@
+{
+  "case": 17,
+  "pages": 7,
+  "paragraphs_checked": 100,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_layout_review": "passed",
+  "checked_date": "2026-10-06",
+  "participant_links_checked": true,
+  "source_manifest_hashes_checked": true,
+  "decision_criteria_preserved": true,
+  "material_sha256": "3fa3da98fa814bd7c512a1c8853c7a7b6bf3ed8ecd0eb9661d3e5bb549bb798c",
+  "notes_sha256": "fc027b43c34b920d37fb4ee309d28a6bdd7261f8a15ed21f8ff68e4436c8a3ad",
+  "documents": [
+    {
+      "document_id": "17-01",
+      "pdf": "17_GoLoans_Fixed_vs_ARM_12Y_Reference_02.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "5528f875665aa005af6747a1e510f678dea345d9d3ea40d7a41c3dbeec988f9f",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "17-02",
+      "pdf": "17_GoLoans_Fixed_vs_ARM_12Y_Reference_03.pdf",
+      "pages": 4,
+      "text_checks": 60,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "7624a2ede89e60a7577d4e806e9059c99ce45164761b211ef1083553667083db",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 2,
+  "qa_status": "text_and_layout_checked",
+  "visual_review": "All 42 document first pages inspected; full first pages and multipage contact sheets inspected for fund prospectuses and representative tables; no overlap or clipping found.",
+  "current_report": "tools/pdf_documents_qa.json"
+}

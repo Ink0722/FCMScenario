@@ -1,0 +1,18 @@
+{
+  "pages": 32,
+  "source_units": 976,
+  "rendered_units": 920,
+  "removed_repeated_footer_units": 56,
+  "missing_text_units": [],
+  "native_latex_overflow": false,
+  "original_translation_array_unchanged": true,
+  "body_paragraphs_preserved": true,
+  "tables": 15,
+  "pdf_sha256": "41b16af8657dee22f212b3904a10ff845f5fe86ac615e9a20148c62d37048ae9",
+  "archive": "archive/before_reference_document_revision_20261006",
+  "visual_review": "All 42 document first pages inspected; full first pages and multipage contact sheets inspected for fund prospectuses and representative tables; no overlap or clipping found.",
+  "checked_date": "2026-10-06",
+  "document_id": "01-01",
+  "current_report": "tools/pdf_documents_qa.json",
+  "pagination_updated": true
+}

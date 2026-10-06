@@ -1,0 +1,181 @@
+{
+  "case_number": "04",
+  "case_name": "UIT持仓安排：保留旧一期或合并购买新一期",
+  "scenario_id": "S-MS-UIT-01",
+  "style": "hierarchical_native_pdf_v1",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "04-01",
+      "title": "单位投资信托招募说明书",
+      "pdf": "04_MorganStanley_UIT_Replacement_6M_Reference.pdf",
+      "content_source": "04_MorganStanley_UIT_Replacement_6M_Reference.txt",
+      "start_line": 3,
+      "end_line": 381,
+      "leading_source_heading": null,
+      "headings": {
+        "基本信息": {
+          "level": 1
+        },
+        "费用表": {
+          "level": 1
+        },
+        "分配": {
+          "level": 1
+        },
+        "单位购买及赎回": {
+          "level": 1
+        },
+        "组织": {
+          "level": 1
+        },
+        "单位": {
+          "level": 1
+        },
+        "购买单位": {
+          "level": 1
+        },
+        "公开发行价格": {
+          "level": 2
+        },
+        "组织费用": {
+          "level": 2
+        },
+        "交易销售费": {
+          "level": 2
+        },
+        "初次销售费": {
+          "level": 2
+        },
+        "递延销售费": {
+          "level": 2
+        },
+        "销售费用减免": {
+          "level": 2
+        },
+        "大额购买": {
+          "level": 2
+        },
+        "顾问及按资产收费账户": {
+          "level": 2
+        },
+        "替换或滚存选项": {
+          "level": 2
+        },
+        "员工": {
+          "level": 2
+        },
+        "股息再投资计划": {
+          "level": 2
+        },
+        "单位分销": {
+          "level": 2
+        },
+        "其他报酬及福利": {
+          "level": 2
+        },
+        "销售商利润": {
+          "level": 2
+        },
+        "发起人利润": {
+          "level": 2
+        },
+        "单位市场": {
+          "level": 2
+        },
+        "出售单位": {
+          "level": 2
+        },
+        "赎回": {
+          "level": 2
+        },
+        "发行及赎回价格计算": {
+          "level": 2
+        },
+        "发起人购买提交赎回的单位": {
+          "level": 2
+        },
+        "替换选项": {
+          "level": 2
+        },
+        "单位所有权": {
+          "level": 2
+        },
+        "投资风险": {
+          "level": 1
+        },
+        "稀释风险": {
+          "level": 2
+        },
+        "固定组合风险": {
+          "level": 2
+        },
+        "立法及诉讼风险": {
+          "level": 2
+        },
+        "流动性风险": {
+          "level": 2
+        },
+        "市场风险": {
+          "level": 2
+        },
+        "信托管理": {
+          "level": 1
+        },
+        "向持有人分配": {
+          "level": 2
+        },
+        "信托": {
+          "level": 2
+        },
+        "组合变更": {
+          "level": 2
+        },
+        "替代证券": {
+          "level": 2
+        },
+        "信托协议修改": {
+          "level": 2
+        },
+        "终止": {
+          "level": 2
+        },
+        "发起人": {
+          "level": 2
+        },
+        "监督人及估值人": {
+          "level": 2
+        },
+        "受托人": {
+          "level": 2
+        },
+        "组合顾问": {
+          "level": 2
+        },
+        "责任限制": {
+          "level": 2
+        },
+        "信托费用": {
+          "level": 1
+        },
+        "组合交易及经纪分配": {
+          "level": 2
+        },
+        "税务身份": {
+          "level": 1
+        },
+        "专家": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "1577bfb6860e49ad1456bae6b7cccc26f021d7adc6eb18bfd92f4c597a885d02",
+      "pages": 13,
+      "pdf_sha256": "999ef3cd5d93b95117ad8a254db44fd88683eec8a79f6cccdf664aef7bcc5b0c",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    }
+  ]
+}

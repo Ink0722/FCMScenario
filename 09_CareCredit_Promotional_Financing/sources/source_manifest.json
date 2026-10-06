@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "title": "CFPB，CareCredit案件目录及命令后续状态",
+    "url": "https://www.consumerfinance.gov/administrative-adjudication-proceedings/administrative-adjudication-docket/ge-capital-retail-bank-carecredit/",
+    "resolved_url": "https://www.consumerfinance.gov/administrative-adjudication-proceedings/administrative-adjudication-docket/ge-capital-retail-bank-carecredit/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_01.html",
+    "bytes": 144134,
+    "sha256": "ec4d820939ea4cef461d0df8c5708dbf9b9796d2af5a65bd5df78d93b92ada38",
+    "status": "downloaded"
+  },
+  {
+    "id": "2",
+    "title": "CFPB，CareCredit行政命令，2013-12-10",
+    "url": "https://files.consumerfinance.gov/f/documents/201312_cfpb_consent-order_0009.pdf",
+    "resolved_url": "https://files.consumerfinance.gov/f/documents/201312_cfpb_consent-order_0009.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_02.pdf",
+    "bytes": 7589510,
+    "sha256": "b74f3522dfc622acdab90de3a8ad134e251dfd1725a5ef83dbfe615c8e86a232",
+    "status": "downloaded"
+  },
+  {
+    "id": "3",
+    "title": "CareCredit，账户协议与促销条款，REV 3/2026",
+    "url": "https://www.carecredit.com/YourTerms/",
+    "resolved_url": "https://www.carecredit.com/YourTerms/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_03.pdf",
+    "bytes": 563798,
+    "sha256": "66bc5e157b3a328cf0e8c87d70ede26dc5bfebd39c1c2a40ce13a378683e6a66",
+    "status": "downloaded"
+  },
+  {
+    "id": "4",
+    "title": "CareCredit，FAQ及促销适用范围",
+    "url": "https://www.carecredit.com/faqs/",
+    "resolved_url": "https://www.carecredit.com/faqs/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_04.html",
+    "bytes": 157753,
+    "sha256": "29f94cdd954481814f1ccaa7aec2ed82c111bad7a96c413d5276a51e3cbe769e",
+    "status": "downloaded"
+  },
+  {
+    "id": "5",
+    "title": "CareCredit，申请与无年费说明",
+    "url": "https://www.carecredit.com/apply/",
+    "resolved_url": "https://www.carecredit.com/apply/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_05.html",
+    "bytes": 75227,
+    "sha256": "20e650111091a2f99d7070ea991ed3c33240e6f47b7bf7eb3d1cfe7b3e9517f4",
+    "status": "downloaded"
+  },
+  {
+    "id": "6",
+    "title": "Chase，Pricing and Terms，2025-12-16版本",
+    "url": "https://sites.chase.com/services/creatives/pricingandterms.html/content/dam/pricingandterms/LGC61498.html",
+    "resolved_url": "https://sites.chase.com/services/creatives/pricingandterms.html/content/dam/pricingandterms/LGC61498.html",
+    "retrieved_date": "2026-10-06",
+    "file": "source_06.html",
+    "bytes": 27068,
+    "sha256": "1ed3c636a2f1fb7b4e926f2888022be333e0f27329af88b888e8fa8def1f2abe",
+    "status": "downloaded"
+  },
+  {
+    "id": "7",
+    "title": "Chase，Freedom Unlimited产品及新客奖励条件",
+    "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited",
+    "resolved_url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited",
+    "retrieved_date": "2026-10-06",
+    "file": "source_07.html",
+    "bytes": 182317,
+    "sha256": "f7ed8e7394d5016db20f3d08636809d3a3974ee431965ce1a10c1af4e5eed485",
+    "status": "downloaded"
+  },
+  {
+    "id": "8",
+    "title": "Chase，Freedom Unlimited奖励协议",
+    "url": "https://asset.chase.com/content/dam/card/rulesregulations/en/RPA0509_Web.pdf",
+    "resolved_url": "https://asset.chase.com/content/dam/card/rulesregulations/en/RPA0509_Web.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_08.pdf",
+    "bytes": 364574,
+    "sha256": "045267e6f29b9bc77cbdbc85e1521725d4c826e99e7579b4808452b8b79aea64",
+    "status": "downloaded"
+  },
+  {
+    "id": "9",
+    "title": "CFPB，理解两种信用卡促销融资",
+    "url": "https://www.consumerfinance.gov/archive/blog/how-understand-special-promotional-financing-offers-credit-cards/",
+    "resolved_url": "https://www.consumerfinance.gov/archive/blog/how-understand-special-promotional-financing-offers-credit-cards/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_09.html",
+    "bytes": 159113,
+    "sha256": "5b359995f8b1c8ed457e9dc85e1fa7227dc39e532468c4a4dc1900d6e441c64d",
+    "status": "downloaded"
+  }
+]

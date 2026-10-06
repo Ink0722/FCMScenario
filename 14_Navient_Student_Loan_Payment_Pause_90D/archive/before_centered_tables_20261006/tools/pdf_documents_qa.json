@@ -1,0 +1,32 @@
+{
+  "case": 14,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "14-01",
+      "pdf": "14_Navient_Student_Loan_Payment_Pause_90D_Reference_01.pdf",
+      "pages": 4,
+      "text_checks": 74,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "b1143c1eb620031c8730ba87bf6752ce315313940b4571f009f774281eb7699a",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "14-02",
+      "pdf": "14_Navient_Student_Loan_Payment_Pause_90D_Reference_02.pdf",
+      "pages": 4,
+      "text_checks": 80,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "1d316c5c6094b9fd1b355b6f4511d18c1316b9370e17f0c7fe6958cd36e8b867",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked",
+  "checked_date": "2026-10-06",
+  "visual_review": "All 42 document first pages inspected; full first pages and multipage contact sheets inspected for fund prospectuses and representative tables; no overlap or clipping found.",
+  "archive": "archive/before_reference_document_revision_20261006"
+}

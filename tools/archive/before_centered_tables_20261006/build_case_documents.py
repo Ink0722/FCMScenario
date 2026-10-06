@@ -1,0 +1,36 @@
+from pathlib import Path
+import json,re,sys,hashlib
+from pdf_document_layout import document_start,heading,paragraph,table,column_weights,compile_pdf
+root=Path(__file__).resolve().parent.parent
+
+def build_case(number):
+ d=next(root.glob(f'{number:02d}_*'));mp=d/'tools/pdf_documents.json';config=json.loads(mp.read_text())
+ for doc in config['documents']:
+  if doc.get('format')=='aligned_source_units':continue
+  lines=(d/doc['content_source']).read_text().splitlines()[doc['start_line']:doc['end_line']];body=[];i=0;tables=[]
+  while i<len(lines):
+   line=lines[i].strip()
+   if not line:i+=1;continue
+   if i==0 and doc.get('leading_source_heading')==line:i+=1;continue
+   if line.startswith('|'):
+    block=[]
+    while i<len(lines) and lines[i].strip().startswith('|'):block.append(lines[i]);i+=1
+    rows=[[c.strip() for c in x.strip().strip('|').split('|')] for x in block if not re.fullmatch(r'[\s|:\-]+',x)]
+    tables.append({'header':rows[0],'weights':column_weights(rows)})
+    body.append(table(block));continue
+   key=re.sub(r'^#{1,6}\s+','',line)
+   if key in doc['headings']:
+    level=doc['headings'][key]['level']
+    if re.match(r'^\d+\. ',key) and len(key)<70:level=1
+    body.append(heading(key,level));i+=1;continue
+   if line.startswith('### '):body.append(heading(key,2));i+=1;continue
+   if line.startswith('#### '):body.append(heading(key,3));i+=1;continue
+   body.append(paragraph(line)+'\n\n');i+=1
+  tex=document_start(config['case_name'],doc['title'],doc['document_id'])+'\n'.join(body)+r'\end{document}'
+  tf=d/'tools'/Path(doc['pdf']).with_suffix('.tex').name;tf.write_text(tex)
+  pages=compile_pdf(tf,d/doc['pdf']);doc.update(pages=pages,pdf_sha256=hashlib.sha256((d/doc['pdf']).read_bytes()).hexdigest(),rendering='native_xelatex',tables=tables,content_sha256=hashlib.sha256('\n'.join(lines).encode()).hexdigest(),qa_status='compiled_no_overflow')
+  print(doc['document_id'],pages,doc['title'],flush=True)
+ mp.write_text(json.dumps(config,ensure_ascii=False,indent=2)+'\n')
+
+if __name__=='__main__':
+ for n in [int(x) for x in sys.argv[1:]] or list(range(2,21)):build_case(n)

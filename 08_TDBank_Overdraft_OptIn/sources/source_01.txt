@@ -1,0 +1,1194 @@
+
+--- PDF PAGE 1 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 1 of 53
+UNITED STATES OF AMERICA
+BUREAU OF CONSUMER FINANCIAL PROTECTION
+ADMINISTRATIVE PROCEEDING File
+No. 2020-BCFP- 0007
+In the Matter of:
+CONSENT ORDER
+TD BANK, N.A.
+The Bureau of Consumer Financial Protection (Bureau) has reviewed the
+overdraft and furnishing activities of TD Bank, N.A. (Respondent, as defined
+below) and has identified the following law violations: failing to obtain consumers’
+affirmative consent to enroll in Respondent’s Debit Card Advance (DCA)
+overdraft-protection service and subsequently charging those consumers overdraft
+fees pursuant to that service, in violation of the Electronic Fund Transfer Act
+(EFTA), 15 U.S.C. § 1693 et seq., and its implementing Regulation E, 12 C.F.R.
+§ 1005.17(b)(1)(iii); abusive acts or practices while offering DCA to consumers in
+person, in violation of the Consumer Financial Protection Act of 2010 (CFPA), 12
+U.S.C. §§ 5531(d)(1), 5536(a)(1)(B); deceptive acts or practices while offering
+DCA to consumers in person, over the phone, and through mailed solicitations, in
+1
+--- PDF PAGE 2 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 2 of 53
+violation of the CFPA, 12 U.S.C. §§ 5531(a), 5536(a)(1)(B); failing to establish
+and implement reasonable written policies and procedures concerning the accuracy
+and integrity of information Respondent furnished to nationwide specialty
+consumer reporting agencies (NSCRAs), in violation of the Fair Credit Reporting
+Act (FCRA), 15 U.S.C. § 1681 et seq., and its implementing Regulation V, 12
+C.F.R. § 1022.42(a) & (b); and failing to conduct timely investigations of indirect
+disputes concerning NSCRA furnishing, in violation of FCRA, 15 U.S.C. § 1681s-
+2(b)(2). Under §§ 1053 and 1055 of the CFPA, 12 U.S.C. §§ 5563, 5565, the
+Bureau issues this Consent Order (Consent Order).
+I.
+Jurisdiction
+1. The Bureau has jurisdiction over this matter under §§ 1053 and 1055 of the
+CFPA, 12 U.S.C. §§ 5563 and 5565; § 918(a)(5) of EFTA, 15 U.S.C.
+§ 1693o(a)(5); and § 621(b)(1)(H) of FCRA, 15 U.S.C. § 1681s(b)(1)(H).
+II.
+Stipulation
+2. Respondent has executed a “Stipulation and Consent to the Issuance of a
+Consent Order,” dated August 14, 2020 (Stipulation), which is incorporated
+by reference and is accepted by the Bureau. By this Stipulation, Respondent
+has consented to the issuance of this Consent Order by the Bureau under
+2
+--- PDF PAGE 3 ---
+3. 2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 3 of 53
+§§ 1053 and 1055 of the CFPA, 12 U.S.C. §§ 5563, 5565, without admitting
+or denying any of the findings of fact or conclusions of law, except that
+Respondent admits the facts necessary to establish the Bureau’s jurisdiction
+over Respondent and the subject matter of this action.
+III.
+Definitions
+The following definitions apply to this Consent Order:
+a. “Affected Consumers” includes current and former customers of
+Respondent who:
+i. opened a consumer-checking account in person, at one of
+Respondent’s stores or offsite account-opening events, between
+January 1, 2014, through December 31, 2018;
+ii. enrolled in DCA at account-opening; and
+iii. were charged non-refunded or non-waived Covered Overdraft
+Fees through their enrollment in DCA at account-opening.
+b. “Board” means Respondent’s duly-elected and acting Board of Directors.
+c. “Consumer Reporting Agency” means any person that, for monetary
+fees, dues, or on a cooperative nonprofit basis, regularly engages in
+whole or in part in the practice of assembling or evaluating consumer
+credit information or other information on consumers for the purpose of
+3
+--- PDF PAGE 4 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 4 of 53
+d. e. f. g. h. i. furnishing consumer reports to third parties, and that uses any means or
+facility of interstate commerce for the purpose of preparing or furnishing
+consumer reports. 15 U.S.C. § 1681a(f).
+“Covered Overdraft Fees” means fees assessed for paying Covered
+Transactions.
+“Covered Transactions” means ATM and one-time debit card
+transactions that are subject to the requirements in 12 C.F.R.
+§ 1005.17(b).
+“DCA” means Debit Card Advance, Respondent’s discretionary
+overdraft-protection service for Covered Transactions.
+“Direct Dispute” means a dispute submitted directly to a Furnisher by a
+consumer concerning the accuracy of any information contained in a
+consumer report and pertaining to an account or other relationship that
+the Furnisher has or has had with the consumer. 12 C.F.R. § 1022.41(b).
+“Effective Date” means the date on which the Consent Order is issued.
+“Enforcement Director” means the Assistant Director of the Office of
+Enforcement for the Bureau of Consumer Financial Protection, or his or
+her delegate.
+4
+--- PDF PAGE 5 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 5 of 53
+j. k. l. “Furnisher” means an entity that furnishes information relating to
+consumers to one or more Consumer Reporting Agencies for inclusion in
+a consumer report. 12 C.F.R. § 1022.41(c).
+“NSCRA” means, coterminous with the meaning of “nationwide
+specialty consumer reporting agency” defined in FCRA, 15 U.S.C.
+§ 1681a(x), a Consumer Reporting Agency that compiles and maintains
+files on consumers on a nationwide basis relating to (1) medical records
+or payments; (2) residential or tenant history; (3) check writing history;
+(4) employment history; or (5) insurance claims.
+“Overdraft Fee Period” means the time period beginning when an
+Affected Consumer incurred a Covered Overdraft Fee and ending at the
+earlier of (1) the Affected Consumer restoring his or her consumer-
+checking account to a zero or positive balance or (2) the closure of the
+Affected Consumer’s account.
+m. “Regional Director” means the Regional Director for the Northeast
+Region for the Office of Supervision for the Bureau of Consumer
+Financial Protection, or his or her delegate.
+n. “Related Consumer Action” means a private action by or on behalf of
+one or more consumers or an enforcement action by another
+5
+--- PDF PAGE 6 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 6 of 53
+governmental agency brought against Respondent based on substantially
+the same facts as described in Section IV of this Consent Order.
+o. “Relevant Period” includes from January 1, 2014 to the Effective Date.
+p. “Respondent” means TD Bank, N.A., and its successors and assigns.
+q. “Redress Fees” means all Covered Overdraft Fees Respondent charged
+Affected Consumers until the earlier of the Affected Consumer’s first
+unenrollment (if applicable) from DCA or the end of the Affected
+Consumer’s Redress Period, excluding Covered Overdraft Fees
+Respondent waived or refunded for the Affected Consumer prior to the
+Effective Date.
+r. “Redress Period” means:
+i. for Affected Consumers (1) who unenrolled from DCA at any
+time, or who stopped using DCA after their first Overdraft Fee
+Period, and (2) who incurred their first Covered Overdraft Fee
+between January 1, 2014 and April 1, 2016, the longer of the
+Affected Consumer’s first Overdraft Fee Period or 30 days from
+the Affected Consumer’s first Covered Overdraft Fee;
+ii. for Affected Consumers (1) who unenrolled from DCA at any
+time, or who stopped using DCA after their first Overdraft Fee
+Period, and (2) who incurred their first Covered Overdraft Fee
+6
+--- PDF PAGE 7 ---
+4. 5. 6. 2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 7 of 53
+after April 1, 2016, the longer of the Affected Consumer’s first
+Overdraft Fee Period or seven days from the Affected Consumer’s
+first Covered Overdraft Fee;
+iii. for Affected Consumers who experienced multiple Overdraft Fee
+Periods and who never unenrolled from DCA, the longer of the
+Affected Consumer’s first Overdraft Fee Period or one day from
+the Affected Consumer’s first Covered Overdraft Fee.
+IV.
+Bureau Findings and Conclusions
+The Bureau finds the following:
+Respondent is a national bank headquartered in Cherry Hill, New Jersey. As
+of March 31, 2020, Respondent had about $355 billion in total assets.
+Respondent is an insured depository institution with assets greater than $10
+billion within the meaning of 12 U.S.C. § 5515(a).
+Respondent is a “covered person” under 12 U.S.C. § 5481(6) because it
+“engages in offering or providing a consumer financial product or service,”
+including by: (1) engaging in deposit-taking activities for use by consumers
+primarily for personal, family, or household purposes; (2) offering an
+overdraft service for Covered Transactions; and (3) furnishing in connection
+7
+--- PDF PAGE 8 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 8 of 53
+7. 8. 9. 10. with that deposit-taking activity. 12 U.S.C. § 5481(6)(A), (15)(A)(iv), &
+(15)(A)(ix).
+Respondent is also a “financial institution” under EFTA and Regulation E
+because it is a national bank holding consumer-deposit accounts. 15 U.S.C.
+§ 1693a(9).
+Respondent is also a Furnisher under FCRA and Regulation V because it
+“furnishes information relating to consumers to one or more consumer
+reporting agencies for inclusion in a consumer report.” 12 C.F.R.
+§ 1022.41(c).
+Throughout the Relevant Period, Respondent has offered consumers three
+overdraft options in connection with their consumer-checking accounts: (1) a
+“standard” overdraft service, which covers transactions not subject to 12
+C.F.R. § 1005.17(b), including checks, automated clearing house (ACH),
+and recurring debit-card transactions; (2) DCA, which covers Covered
+Transactions; and (3) a “decline all” option, which opts the customer out of
+overdraft services for all transaction types.
+New customers may enroll in DCA when opening a consumer-checking
+account online or at one of Respondent’s branches (stores). Existing
+checking-account customers may enroll a new or existing checking account
+in DCA at one of Respondent’s stores, online, or over the phone.
+8
+--- PDF PAGE 9 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 9 of 53
+11. 12. 13. 14. Respondent charges consumers who have enrolled in DCA a $35 overdraft
+fee to pay, up to five times per day and at Respondent’s discretion, each
+Covered Transaction that exceeds a consumer’s checking account available
+balance (which accounts for pending debit transactions) by more than $5.
+Respondent’s consumer-checking accounts come with its “standard”
+overdraft service, through which Respondent charges consumers a $35
+overdraft fee to pay, at Respondent’s discretion, all other transactions (e.g.,
+checks, ACH, and recurring debits) that exceed a consumer’s checking
+account available balance by more than $5.
+Consumers who have enrolled in DCA receive overdraft coverage on
+transactions not subject to 12 C.F.R. § 1005.17(b) through Respondent’s
+“standard” overdraft service, not through their enrollment in DCA.
+Findings and Conclusions as to Respondent’s DCA Enrollment
+Process in Respondent’s Stores in Violation of EFTA and Regulation E
+Under Respondent’s store enrollment procedures, Respondent’s store
+employees orally present DCA to new customers who are opening
+consumer-checking accounts and request those new customers to orally
+indicate whether they want to enroll following that presentation.
+Respondent’s store employees then document the new customer’s oral
+enrollment preference in Respondent’s account-opening computer system.
+9
+--- PDF PAGE 10 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 10 of 53
+15. 16. 17. 18. 19. Under Respondent’s store enrollment procedures, Respondent’s store
+employees do not print and present new customers with a written overdraft
+notice (DCA Form) until the end of the account-opening process.
+The printed DCA Form that Respondent’s store employees present to new
+customers is pre-marked with a checked box to reflect the customer’s oral
+enrollment preference from earlier in the account-opening process.
+Respondent’s employees print the Form with the “Enrolled in TD Debit
+Card Advance” option selected for consumers who stated they want DCA.
+Respondent prints the Form with the “Not Enrolled in TD Debit Card
+Advance” option selected for consumers who stated they did not want DCA.
+Under Respondent’s store procedures, through December 31, 2018, new
+customers did not receive written disclosures about Respondent’s overdraft
+services before receiving the DCA Form at the end of the account-opening
+process.
+Respondent’s store employees present this DCA Form together with
+Respondent’s account-opening authorization form. New customers must
+sign both forms to complete the account-opening process.
+The DCA Form and account-opening authorization form are pre-filled by
+Respondent’s computer system with all relevant customer and account
+information.
+10
+--- PDF PAGE 11 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 11 of 53
+20. 21. 22. 23. 24. Since January 27, 2014, it has been Respondent’s policy that a new customer
+must sign both a DCA Form indicating whether the customer is enrolling
+and an account-opening authorization form in order to open a consumer-
+checking account regardless of whether the customer enrolls in DCA.
+Under Regulation E, a financial institution may not charge Covered
+Overdraft Fees unless it first “[o]btains the consumer’s affirmative consent,
+or opt-in, to the institution’s payment of ATM or one-time debit card
+transactions.” 12 C.F.R. § 1005.17(b)(1)(iii).
+A financial institution must provide a consumer with the written (or, if the
+consumer agrees, electronic) notice required by 12 C.F.R. § 1005.17(b)(1)(i)
+before it can obtain that consumer’s affirmative consent as required by 12
+C.F.R. § 1005.17(b)(1)(iii).
+As described in paragraphs 14-18 above, through December 31, 2018,
+Respondent requested that new customers orally provide their DCA
+enrollment preference before providing them with written notice describing
+the DCA service.
+Respondent does not obtain a new customer’s affirmative consent to enroll
+in DCA through the customer’s oral enrollment preference when Respondent
+obtains that oral decision before providing the customer the written notice
+required by 12 C.F.R. § 1005.17(b)(1)(i).
+11
+--- PDF PAGE 12 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 12 of 53
+25. 26. 27. 28. 29. 30. Under Respondent’s store procedures, Respondent prints the DCA Form
+with a pre-checked box indicating the new customer’s DCA enrollment
+decision and presents that Form to the new customer at the end of the
+account-opening process.
+By the time Respondent provides new customers with a single DCA Form
+for their signature in Respondent’s stores, the DCA Form is already marked
+with their enrollment preference.
+If new customers who previously indicated that they wished to enroll want
+to amend their enrollment preference after receiving the printed DCA Form,
+they must affirmatively seek a different version of the DCA Form without
+their previous enrollment preference pre-marked.
+Respondent does not obtain a new customer’s affirmative consent to enroll
+in DCA through the customer’s signature on a DCA Form that is already
+marked with the customer’s enrollment preference and that all new
+customers are required to sign to open a consumer-checking account.
+During the Relevant Period, Respondent charged approximately 1.42 million
+Affected Consumers Covered Overdraft Fees.
+As a result, Respondent charged Covered Overdraft Fees without obtaining
+consumers’ affirmative consent to enroll in DCA, in violation of EFTA, 15
+U.S.C. § 1693 et seq., and Regulation E, 12 C.F.R. § 1005.17(b)(1)(iii).
+12
+--- PDF PAGE 13 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 13 of 53
+31. 32. 33. 34. 35. 36. 37. Findings and Conclusions as to Respondent’s DCA Enrollment Process at
+Offsite Account-Opening Events in Violation of EFTA and Regulation E
+Respondent’s employees also open consumer-checking accounts at events
+held outside of Respondent’s stores, including at local colleges or
+businesses.
+For these offsite account-opening events, Respondent uses a different
+account-opening authorization form that consumers must sign to open a new
+checking account.
+Respondent’s offsite account-opening authorization form features a box to
+check to enroll in DCA, along with additional customer-information fields
+and certain terms and conditions for Respondent’s checking accounts. This
+form does not disclose any information regarding DCA.
+For offsite account-opening events, Respondent’s employees are also
+required to bring DCA Forms for all new customers to sign.
+But before early 2015, Respondent’s employees often did not bring the DCA
+Form to offsite account-opening events.
+Even after early 2015, Respondent’s employees in some cases still failed to
+bring the DCA Form to offsite account-opening events.
+When Respondent’s employees failed to bring the DCA Form to offsite
+account-opening events, Respondent still opened consumer-checking
+accounts and enrolled new customers in DCA following those events.
+13
+--- PDF PAGE 14 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 14 of 53
+38. 39. 40. 41. When Respondent’s employees failed to bring the DCA Form to offsite
+account-opening events, Respondent obtained consumers’ DCA enrollment
+decisions without providing customers with the DCA Form for their
+signature and before providing them with any written disclosure describing
+DCA.
+In early 2015, Respondent instructed employees at offsite account-opening
+events to elicit an oral enrollment preference from a new customer and then
+to fill out the DCA Form on behalf of the new customer—including marking
+the new customer’s DCA enrollment preference—before later providing the
+customer the DCA Form for their signature.
+Following offsite account-opening events, Respondent’s employees use the
+consumer information captured in the offsite account-opening form and
+DCA Form to open new checking accounts for the new customers who
+attended those events.
+Under Regulation E, a financial institution may not charge Covered
+Overdraft Fees unless it first “[o]btains the consumer’s affirmative consent,
+or opt-in, to the institution’s payment of ATM or one-time debit card
+transactions.” 12 C.F.R. § 1005.17(b)(1)(iii).
+14
+--- PDF PAGE 15 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 15 of 53
+42. 43. 44. 45. 46. A financial institution must provide a consumer with the notice required by
+12 C.F.R. § 1005.17(b)(1)(i) before it can obtain that consumer’s affirmative
+consent as required by 12 C.F.R. § 1005.17(b)(1)(iii).
+Respondent instructed its employees to fill out DCA Forms on behalf of new
+customers at offsite account-opening events—including marking a new
+customer’s oral DCA enrollment preference—before presenting the DCA
+Form to new customers for their signature.
+Respondent does not obtain a new customer’s affirmative consent to enroll
+in DCA through the customer’s oral enrollment preference, because
+Respondent does not provide the customer the written notice required by 12
+C.F.R. § 1005.17(b)(1)(i) before obtaining that oral decision.
+Respondent directed its employees to complete the DCA Form with the
+customer’s information and selected enrollment option. This meant that by
+the time Respondent’s employees presented new customers with a DCA
+Form for their signature at offsite account-opening events, that DCA Form
+had been marked with their enrollment preference.
+Respondent does not obtain a new customer’s affirmative consent to enroll
+in DCA through the customer’s signature on a DCA Form that is already
+marked with the customer’s enrollment preference and that all new
+customers are required to sign to open a consumer-checking account.
+15
+--- PDF PAGE 16 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 16 of 53
+47. 48. 49. 50. 51. Respondent’s employees also failed to bring DCA Forms to offsite account-
+opening events to present to new customers for their signature, but still
+enrolled customers in DCA at these events.
+When Respondent’s employees failed to bring DCA Forms to offsite
+account-opening events, they obtained new customers’ DCA enrollment
+decisions without providing them with Respondent’s DCA Form for their
+signature and before providing them with any other written disclosure
+describing DCA.
+Respondent charged new customers who enrolled in DCA at offsite account-
+opening events Covered Overdraft Fees.
+As a result, Respondent charged Covered Overdraft Fees without obtaining
+these consumers’ affirmative consent to enroll in DCA, in violation of
+EFTA, 15 U.S.C. 1693 et seq., and Regulation E, 12 C.F.R. §
+1005.17(b)(1)(iii).
+Findings and Conclusions as to Respondent’s Abusive Acts or Practices
+During the DCA Enrollment Process in Respondent’s Stores and at Offsite
+Account-Opening Events
+Under Respondent’s account-opening procedures, Respondent’s employees
+request that new customers orally indicate whether they want to enroll in
+DCA, based upon the employee’s oral presentation of the service, before
+providing customers with the DCA Form.
+16
+--- PDF PAGE 17 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 17 of 53
+52. 53. 54. 55. 56. Respondent did not create a script for store employees to use to present DCA
+to new customers before requesting their oral enrollment decision.
+Respondent’s managers created their own talking points and scripts for
+Respondent’s employees to use to explain DCA to new checking-account
+customers in the stores they supervised.
+Respondent’s managers instructed employees, for their oral presentation of
+DCA to new customers, to: (1) present DCA as a “free” service or benefit,
+while downplaying the fees and disclosures associated with the service; and
+(2) frame DCA as a “feature” or “package” that “comes with” all new
+consumer-checking accounts, rather than as an option that new customers
+must opt in to.
+In fact, (1) DCA is not a “free” service or benefit; and (2) DCA is not a
+“feature” of Respondent’s checking accounts and does not “come with” all
+new consumer-checking accounts.
+In some cases during the store and offsite account-opening process,
+Respondent also represented, expressly or by implication, that: (1) enrolling
+in DCA would allow Respondent to pay transactions—including a mortgage
+or light bill—likely already covered by Respondent’s standard overdraft
+service; and (2) enrollment in DCA is a default setting required to open a
+new consumer-checking account.
+17
+--- PDF PAGE 18 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 18 of 53
+57. 58. 59. 60. 61. 62. In fact, (1) DCA pays Covered Transactions only, while remaining
+transactions are covered by Respondent’s standard overdraft service; and (2)
+Respondent does not offer a consumer-checking account for which
+enrollment in DCA is required.
+Under Respondent’s procedures, Respondent’s employees do not provide
+new customers with a DCA Form for their signature until the end of the
+account-opening process.
+The DCA Form that Respondent’s employees present to new customers in
+Respondent’s stores and at offsite account-opening events features a pre-
+checked box reflecting the customer’s oral enrollment preference from
+earlier in the account-opening process.
+Respondent’s employees do not print and present new customers with a
+DCA Form for their signature until the end of the account-opening process.
+The DCA Form that Respondent’s employees present to new customers in
+stores and at offsite account-opening events features a pre-checked box
+reflecting the customer’s oral DCA enrollment preference from earlier in the
+account-opening process.
+Respondent’s employees have also failed to bring DCA Forms to offsite
+account-opening events to present to new customers for their signature.
+18
+--- PDF PAGE 19 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 19 of 53
+63. 64. 65. 66. Through a misleading or incomplete oral presentation of the DCA service
+for the purpose of eliciting an oral-enrollment decision, and then by not
+providing new customers with the pre-marked DCA Form until the end of
+the account-opening process, or not providing the DCA Form at all,
+Respondent materially interfered with consumers’ ability to understand the
+terms and conditions of DCA.
+In certain instances, Respondent’s employees further materially interfered
+with consumers’ ability to understand the terms and conditions of DCA by:
+requiring new customers to sign DCA Forms with the “enrolled” option pre-
+checked without mentioning the DCA service at all; enrolling new
+customers in DCA without requesting the customer’s oral enrollment
+decision; and deliberately obscuring, or attempting to obscure, the DCA
+Form to prevent a new customer’s review of their pre-marked “enrolled”
+status.
+Section 1036(a)(1)(B) of the CFPA prohibits abusive acts or practices. 12
+U.S.C. § 5536(a)(1)(B).
+An act or practice is abusive under the CFPA if it, among other things,
+“materially interferes with the ability of a consumer to understand a term or
+condition of a consumer financial product or service.” 12 U.S.C.
+§ 5531(d)(1).
+19
+--- PDF PAGE 20 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 20 of 53
+67. 68. 69. 70. 71. Respondent’s conduct constitutes abusive acts or practices in violation of the
+CFPA, 12 U.S.C. §§ 5531(d)(1), 5536(a)(1)(B).
+Findings and Conclusions as to Respondent’s Deceptive Acts or Practices
+During the DCA Enrollment Process in Respondent’s Stores and at Offsite
+Account-Opening Process
+Section 1036(a)(1)(B) of the CFPA prohibits deceptive acts or practices. 12
+U.S.C. § 5536(a)(1)(B).
+As described in Paragraph 54, in connection with the marketing, promoting,
+offering for sale, or sale of DCA, in numerous instances, Respondent
+represented, expressly or impliedly, that: (1) DCA is a “free” service or
+benefit; and (2) DCA is a “feature” or “package” that “comes with” all new
+consumer-checking accounts.
+In fact, (1) DCA is not a “free” service or benefit; and (2) DCA is not a
+“feature” of Respondent’s checking accounts and does not “come with” all
+new consumer-checking accounts.
+Further, as described in Paragraph 56, in connection with the marketing,
+promoting, offering for sale, or sale of DCA, Respondent represented,
+expressly or impliedly, that: (1) enrolling in DCA would allow Respondent
+to pay transactions—including a mortgage or light bill—likely already
+covered by Respondent’s standard overdraft service; and (2) enrollment in
+DCA is a default setting required to open a new consumer-checking account.
+20
+--- PDF PAGE 21 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 21 of 53
+72. 73. 74. 75. 76. In fact, (1) DCA pays Covered Transactions only, while remaining
+transactions are covered by Respondent’s standard overdraft service; and (2)
+Respondent does not offer a consumer-checking account for which
+enrollment in DCA is required. A consumer-checking account does not
+include DCA unless a consumer chooses to enroll in DCA.
+Thus, Respondent’s representations, as described in Paragraphs 69 and 71
+constitute deceptive acts or practices in violation of sections 1031(a) and
+1036(a)(1)(B) of the CFPA, 12 U.S.C. §§ 5531(a), 5536(a)(1)(B).
+Findings and Conclusions as to Respondent’s Deceptive Acts or Practices
+When Presenting DCA to Existing Customers by Phone
+Respondent permits consumers who have a checking account with
+Respondent to enroll a new or existing checking account in DCA over the
+phone.
+For existing checking-account customers enrolling in DCA over the phone,
+Respondent requires its employees to read (or play an automated version of)
+a scripted disclosure regarding overdraft fees and the transactions covered
+by DCA when obtaining a consumer’s enrollment decision.
+During phone enrollments, in certain instances, Respondent’s employees
+represented that DCA covers check transactions, mortgage payments, car
+payments, utility bills, and other recurring-bill payments, rather than only
+Covered Transactions.
+21
+--- PDF PAGE 22 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 22 of 53
+77. 78. 79. 80. 81. But enrollment in DCA is not required to cover check transactions, utility
+bills, or other recurring bill payments. Respondent’s standard overdraft
+service covers those transactions.
+On other calls, Respondent’s phone employees stated that DCA takes effect
+on the date of enrollment, including to a consumer who wished to use the
+service immediately, and implied that enrolling in DCA would allow
+customers to exceed Respondent’s daily ATM withdrawal limit of $750
+while incurring only one Covered Overdraft Fee.
+But DCA takes effect the next business day following enrollment. And
+enrollment does not allow a consumer to exceed Respondent’s daily $750
+ATM withdrawal limit. Consumers enrolled in DCA are still subject to
+Respondent’s $750 ATM withdrawal limit, and would incur multiple
+Covered Overdraft Fees if withdrawing more than that amount.
+Section 1036(a)(1)(B) of the CFPA prohibits deceptive acts or practices. 12
+U.S.C. § 5536(a)(1)(B).
+As described in Paragraph 76, in connection with the marketing, promoting,
+offering for sale, or sale of DCA, in certain instances, Respondent has
+represented, expressly or impliedly, that DCA covers check transactions,
+mortgage payments, car payments, utility bills, and other recurring-bill
+payments.
+22
+--- PDF PAGE 23 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 23 of 53
+82. 83. 84. 85. 86. In fact, Respondent’s standard overdraft service covers those transactions.
+DCA enrollment is only required for Respondent to pay Covered
+Transactions.
+As described in Paragraph 78, in connection with the marketing, promoting,
+offering for sale, or sale of DCA, in certain instances, Respondent has
+represented, expressly or impliedly, that: (1) DCA takes effect the date of
+enrollment, and (2) enrolling in DCA would allow customers to exceed
+Respondent’s daily ATM withdrawal limit of $750 while incurring only one
+Covered Overdraft Fee.
+In fact, (1) DCA takes effect the next business day following enrollment,
+and (2) consumers would incur multiple Covered Overdraft Fees if
+withdrawing more than Respondent’s $750 ATM withdrawal limit.
+Thus, Respondent’s representations, as described in Paragraphs 81 and 83,
+constitute deceptive acts or practices in violation of §§ 1031(a) and
+1036(a)(1)(B) of the CFPA, 12 U.S.C. §§ 5531(a), 5536(a)(1)(B).
+Findings and Conclusions as to Respondent’s Deceptive Acts or Practices
+When Marketing DCA to Existing Customers by Mail
+Until April 2016, Respondent used targeted mail marketing to solicit
+existing customers who had previously declined to enroll in DCA and who
+recently had a check returned for insufficient funds or a debit card that was
+declined.
+23
+--- PDF PAGE 24 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 24 of 53
+87. 88. 89. 90. 91. In those marketing mailers, Respondent advertised DCA as “allow[ing]”
+Respondent “to cover all types of transactions, including ATM, one-time
+debit card transactions, checks, automatic bill payments, online banking
+transfers, and payments through bill pay, at our discretion.”
+Consumers who enroll in DCA receive coverage on checks, automatic bill
+payments, online banking transfers, or payments through bill pay through
+Respondent’s standard overdraft service, not through their enrollment in
+DCA.
+In the same marketing mailer, Respondent described its standard overdraft
+service as covering “[c]hecks and recurring items only” and as covering
+“checks and recurring payments, such as mortgage payments or monthly
+utility bills[.]”
+Transactions such as “online banking transfers” and “payments through bill
+pay,” which Respondent presented as being “cover[ed]” by DCA but not
+Respondent’s standard overdraft service, are in fact covered by
+Respondent’s standard overdraft service.
+Respondent’s description of its standard overdraft service in its marketing
+mailer did not list transactions such as “online banking transfers” and
+“payments through bill pay.”
+24
+--- PDF PAGE 25 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 25 of 53
+92. Section 1036(a)(1)(B) of the CFPA prohibits deceptive acts or practices. 12
+U.S.C. § 5536(a)(1)(B).
+93. As described in Paragraph 87, in connection with the advertising, marketing,
+promoting, offering for sale, or sale of DCA, in numerous instances
+Respondent has represented, expressly or impliedly, that DCA covers
+checks, automatic bill payments, online banking transfers, and payments
+through bill pay.
+94. In fact, enrollment in DCA is required to cover Covered Transactions only.
+95. Thus, Respondent’s representations, as described in Paragraph 93, constitute
+deceptive acts or practices in violation of §§ 1031(a) and 1036(a)(1)(B) of
+the CFPA, 12 U.S.C. §§ 5531(a), 5536(a)(1)(B).
+Findings and Conclusions as to Respondent’s NSCRA Furnishing Practices in
+Violation of Regulation V and FCRA
+96. Throughout the Relevant Period Respondent has furnished consumer-
+deposit-account information to two NSCRAs.
+97. Respondent did not establish and implement policies or procedures
+concerning the accuracy and integrity of the information it furnished to those
+two NSCRAs until it implemented a furnishing policy relating to one of the
+NSCRAs in July 2016.
+25
+--- PDF PAGE 26 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 26 of 53
+98. 99. 100. 101. 102. Respondent also failed to implement policies or procedures for handling
+NSCRA furnishing disputes until it implemented a policy relating to one of
+the NSCRAs in August 2016.
+Respondent did not implement a policy or procedure for investigating
+disputes relating to furnishing information to the second NSCRA until April
+2017.
+Before at least June 2016, Respondent instructed consumers who called to
+dispute information Respondent had furnished to at least one NSCRA to
+contact the NSCRA, rather than to submit a Direct Dispute to Respondent.
+Section 1022.42(a) of Regulation V, the implementing regulation of FCRA,
+15 U.S.C. § 1681, et seq., requires a Furnisher to establish and implement
+reasonable written policies and procedures regarding the accuracy and
+integrity of the consumer information that it furnishes to a Consumer
+Reporting Agency, and further provides that the policies and procedures
+must be appropriate to the nature, size, complexity, and scope of each
+Furnisher’s activities. 12 C.F.R. § 1022.42(a).
+Through at least mid-2016, given the size, complexity, and scope of
+Respondent’s furnishing activities, Respondent failed to establish or
+implement reasonable written policies and procedures regarding the
+26
+--- PDF PAGE 27 ---
+103. 104. 105. 2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 27 of 53
+accuracy and integrity of the consumer information that it furnished to
+NSCRAs, in violation of Regulation V. 12 C.F.R. § 1022.42(a).
+Section 1022.42(b) of Regulation V requires that Furnishers consider
+guidelines in Appendix E of the Furnisher Rule in developing appropriate
+policies and procedures, and incorporate them where appropriate. 12 C.F.R.
+§ 1022.42(b).
+Appendix E of the Furnisher Rule includes guidelines for furnishing policies
+and procedures that are reasonably designed to promote, among other things:
+accurate furnishing through appropriate internal controls, such as by
+verifying random samples of information provided to consumer-reporting
+agencies; conducting a periodic evaluation of a Furnisher’s own practices,
+investigations of disputed information, and corrections of inaccurate
+information; and maintaining records for a reasonable period in order to
+substantiate the accuracy of any information about consumers it furnishes
+that is subject to a Direct Dispute. Appendix E to 12 C.F.R. Part 1022.
+Through at least mid-2016, Respondent also failed to incorporate certain
+elements in Appendix E, as appropriate, in its policies and procedures
+governing NSCRA furnishing, in violation of Regulation V. 12 C.F.R.
+§ 1022.42(b).
+27
+--- PDF PAGE 28 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 28 of 53
+106. 107. 108. 109. 110. During the Relevant Period, in certain cases, Respondent also failed to
+complete its investigations, reviews, and reports, including reporting the
+results of its investigation to an NSCRA, stemming from indirect disputes
+concerning consumer information Respondent had furnished to one NSCRA
+within 30 days or 45 days.
+Respondent is unable to provide evidence of timely investigations of the vast
+majority of indirect disputes concerning NSCRA furnishing that it received
+prior to mid-2016.
+After mid-2016, Respondent failed to investigate some indirect disputes
+concerning information Respondent had furnished to one NSCRA within 30
+days.
+Section 623(b)(2) of FCRA requires a Furnisher to complete all
+investigations, reviews, and reports, including reporting the results of its
+investigations to Consumer Reporting Agencies, stemming from an indirect
+dispute concerning the completeness or accuracy of information furnished to
+a Consumer Reporting Agency within 30 days. 15 U.S.C. § 1681s-2(b)(2).
+The 30-day period may be extended for up to 15 additional days if the
+Consumer Reporting Agency receives information from the consumer
+during that 30-day period that is relevant to the reinvestigation. 15 U.S.C.
+§ 1681s-2(b)(2); see also id. § 1681i(a)(1)(B).
+28
+--- PDF PAGE 29 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 29 of 53
+111. 112. Because Respondent failed to complete its investigations of indirect disputes
+concerning information Respondent had furnished to an NSCRA within 30,
+or when applicable, 45 days, Respondent violated § 623(b)(2) of the FCRA,
+15 U.S.C. § 1681s-2(b)(2).
+CONDUCT PROVISIONS
+V.
+IT IS ORDERED, under §§ 1053 and 1055 of the CFPA, that:
+Respondent and its officers, agents, servants, employees, and attorneys who
+have actual notice of this Consent Order, whether acting directly or
+indirectly, may not violate Regulation E, 12 C.F.R. § 1005.17(b)(1), and the
+CFPA, 12 U.S.C. §§ 5531(a) & (d)(1), 5536(a)(1)(B), as follows, and must
+take the following affirmative actions:
+a. In order to charge Covered Overdraft Fees at any time beginning
+12 months from the Effective Date to any consumer who has
+remained enrolled in DCA since opening their consumer-checking
+account in person, at one of Respondent’s stores or offsite account-
+opening events, between January 1, 2014 through December 31,
+2018, but has not yet incurred a Covered Overdraft Fee,
+Respondent must first obtain a new enrollment decision from those
+consumers in a manner that is consistent with the following:
+29
+--- PDF PAGE 30 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 30 of 53
+b. i. ii. without using a notice with a pre-marked “Enrolled in TD
+Debit Card Advance” option, and in a manner that is
+otherwise consistent with 12 C.F.R. § 1005.17(b)(1)(ii) and
+(iii); and
+when requesting a new enrollment decision from these
+Affected Consumers, Respondent must disclose, at a
+minimum, that: DCA covers Covered Transactions only;
+Respondent’s standard overdraft service covers, at
+Respondent’s discretion, remaining transactions such as
+checks, ACH, bill-pay, and recurring-debits; Respondent’s
+overdraft services charge consumers $35 for each
+transaction that overdraws a consumer’s available balance
+(which includes pending transactions) by more than $5, up
+to five times a day; and consumers have the option of
+enrolling in DCA, keeping Respondent’s standard overdraft
+service only, or declining all overdraft services.
+Within the timeframe set forth in the Compliance Plan (defined in
+Section VI below), Respondent must send a letter, by United States
+Postal Service first-class mail, address-correction service
+requested, to Affected Consumers who have maintained a checking
+30
+--- PDF PAGE 31 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 31 of 53
+c. d. account with Respondent and who have remained enrolled in DCA
+since opening their consumer-checking account at one of
+Respondent’s stores or offsite account-opening events between
+January 1, 2014 and December 31, 2018, that includes the
+following information: (1) the consumer’s DCA enrollment status;
+(2) the transactions and fees associated with DCA coverage; and
+(3) detailed instructions on how to unenroll from DCA (Opt-In
+Status Letter). In the case of consumers who have elected to
+receive electronic communications from Respondent and for whom
+Respondent has current contact information, Respondent may send
+an electronic version of the Opt-In Status Letter. Respondent must
+submit the Opt-In Status Letter for review as part of the
+Compliance Plan.
+Within the timeframe set forth in the Compliance Plan, Respondent
+must ensure that its practices do not include pre-marking the
+“Enrolled” option on Respondent’s written overdraft notice before
+requesting the customer’s signature on that notice.
+Respondent must ensure that its practices do not include any of the
+following:
+31
+--- PDF PAGE 32 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 32 of 53
+e. i. requesting that new customers provide their DCA
+enrollment decision before receiving Respondent’s written
+overdraft notice; and
+ii. charging Covered Overdraft Fees, at any time beginning 12
+months from the Effective Date, to consumers who have
+remained enrolled in DCA since opening their consumer-
+checking account between January 1, 2014 through
+December 31, 2018 but have not been charged a Covered
+Overdraft Fee, without first obtaining a new enrollment
+decision from the consumer (e.g., in person, online, or
+through a mailing or phone call) in a manner consistent with
+the requirements in Paragraph 112(a)(i)–(ii) above.
+Respondent, and its officers, agents, servants, employees, and
+attorneys who have actual notice of this Consent Order, whether
+acting directly or indirectly, in connection with offering or
+advertising DCA, may not misrepresent, or assist others in
+misrepresenting, expressly or impliedly:
+i. that DCA is free, a free benefit, or without cost;
+ii. that DCA comes with Respondent’s consumer-checking
+accounts, rather than an option that consumers must opt into;
+32
+--- PDF PAGE 33 ---
+113. 2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 33 of 53
+iii. which transactions DCA covers; or
+iv. any other fact material to consumers concerning DCA, such
+as total costs or any material restrictions, limitations, or
+conditions.
+Respondent, and its officers, agents, servants, employees, and attorneys who
+have actual notice of this Consent Order, whether acting directly or
+indirectly, may not violate Regulation V, 12 C.F.R. § 1022.42, and FCRA,
+15 U.S.C. § 1681s-2(b), and in connection with its NSCRA furnishing
+activities, must take the following affirmative actions:
+a. Respondent must establish and implement reasonable written
+policies and procedures regarding the accuracy and integrity of the
+information relating to consumer deposit accounts that it furnishes
+to NSCRAs appropriate to the nature, size, complexity, and scope
+of its furnishing activities; in doing so, Respondent must consider
+the guidelines in Appendix E to 12 C.F.R. Part 1022 and
+incorporate them where appropriate, and review and periodically
+update the policies and procedures as necessary to ensure their
+continued effectiveness; and
+b. Respondent must timely report to consumers the results of its
+investigations of Direct Disputes and indirect disputes filed by
+33
+--- PDF PAGE 34 ---
+114. 115. 2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 34 of 53
+consumers concerning the consumer-deposit-account information
+Respondent has furnished to NSCRAs.
+VI.
+Compliance Plan
+IT IS FURTHER ORDERED that:
+Within 60 days of the Effective Date, Respondent must submit to the
+Regional Director for review and determination of non-objection a
+comprehensive compliance plan designed to ensure that Respondent’s
+offering and marketing of its overdraft protection services and Respondent’s
+NSCRA furnishing practices comply with all applicable Federal consumer
+financial laws and the terms of this Consent Order (Compliance Plan). The
+Compliance Plan must include, at a minimum:
+a. detailed steps for addressing each action required by this Consent Order;
+b. and
+specific timeframes and deadlines for implementation of the steps
+described above.
+The Regional Director will have the discretion to make a determination of
+non-objection to the Compliance Plan or direct Respondent to revise it. If the
+Regional Director directs Respondent to revise the Compliance Plan,
+34
+--- PDF PAGE 35 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 35 of 53
+116. 117. 118. Respondent must make the revisions and resubmit the Compliance Plan to
+the Regional Director within 30 days.
+After receiving notification that the Regional Director has made a
+determination of non-objection to the Compliance Plan, Respondent must
+implement and adhere to the steps, recommendations, deadlines, and
+timeframes outlined in the Compliance Plan.
+VII.
+Role of the Board
+IT IS FURTHER ORDERED that:
+The Board or a relevant committee thereof must review all submissions
+(including plans, reports, programs, policies, and procedures) required by
+this Consent Order prior to submission to the Bureau.
+Although this Consent Order requires Respondent to submit certain
+documents for the review or non-objection by the Regional Director, the
+Board will have the ultimate responsibility for proper and sound
+management of Respondent and for ensuring that Respondent complies with
+the laws that the Bureau enforces, including Federal consumer financial laws
+and this Consent Order.
+35
+--- PDF PAGE 36 ---
+119. 120. 121. 2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 36 of 53
+In each instance that this Consent Order requires the Board to ensure
+adherence to, or perform certain obligations of Respondent, the Board or a
+relevant committee thereof must:
+a. b. c. Authorize whatever actions are necessary for Respondent to fully comply
+with the Consent Order;
+Require timely reporting by management to the Board on the status of
+compliance obligations; and
+Require timely and appropriate corrective action to remedy any material
+non-compliance with any failures to comply with Board directives related
+to this Section.
+MONETARY PROVISIONS
+VIII.
+Order to Pay Redress
+IT IS FURTHER ORDERED that:
+Within 10 days of the Effective Date, Respondent must reserve or deposit
+into a segregated deposit account $97 million, as restitution, for the purpose
+of providing redress to Affected Consumers as required by this Section.
+Within 60 days of the Effective Date, Respondent must submit to the
+Regional Director for review and non-objection a comprehensive written
+plan for providing redress consistent with this Consent Order (Redress Plan).
+36
+--- PDF PAGE 37 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 37 of 53
+The Regional Director will have the discretion to make a determination of
+non-objection to the Redress Plan or direct Respondent to revise it. If the
+Regional Director directs Respondent to revise the Redress Plan,
+Respondent must make the revisions and resubmit the Redress Plan to the
+Regional Director within 30 days. After receiving notification that the
+Regional Director has made a determination of non-objection to the Redress
+Plan, Respondent must implement and adhere to the steps,
+recommendations, deadlines, and timeframes outlined in the Redress Plan.
+122. The Redress Plan must:
+a. Provide a mechanism to pay $97 million to Affected Consumers in total,
+reflecting all Redress Fees, and to ensure that each Affected Consumer
+receives the amount of Redress Fees that they paid;
+b. Specify how Respondent will identify Affected Consumers and
+determine the amount of Redress Fees incurred and paid by each
+Affected Consumer;
+c. Include the form letter or (in the case of a consumer who has elected to
+receive electronic communications from Respondent and for whom
+Respondent has current contact information) electronic communication to
+be sent notifying Affected Consumers of their redress (Redress
+Notification), which must include language explaining how the amount
+37
+--- PDF PAGE 38 ---
+123. 124. 2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 38 of 53
+of redress was calculated and a statement that redress is being provided in
+accordance with the terms of the Consent Order; and
+d. Include the form of the envelope that will contain the Redress
+Notification.
+Respondent must not include in any envelope containing a Redress
+Notification any materials other than the approved Redress Notification and
+redress checks, unless Respondent has obtained written confirmation from
+the Regional Director that the Bureau does not object to the inclusion of
+such additional materials.
+The Redress Plan must describe the process for providing redress for all
+Affected Consumers under the terms of this Order, and must include the
+following:
+a. For Affected Consumers who maintain a checking account with
+Respondent and whose account has been affected by the practices
+described in this Order, Respondent must send a Redress Notification and
+either (1) mail a bank check or (2) issue an account credit;
+b. Respondent must mail a Redress Notification and mail a bank check to
+each Affected Consumer who no longer maintains a checking account
+with Respondent affected by the practices described in this Order, except
+that, if an Affected Consumer’s checking account was closed with an
+38
+--- PDF PAGE 39 ---
+c. d. 2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 39 of 53
+outstanding negative balance, Respondent must reduce the amount of that
+negative balance by the amount of redress due, and must mail a bank
+check only to the extent that the redress due exceeds the Affected
+Consumer’s outstanding negative balance;
+Respondent must send the bank check and any mailed Redress
+Notification by United States Postal Service first-class mail, address-
+correction service requested, to each Affected Consumer’s last known
+address as maintained by Respondent’s records. For Affected Consumers
+who no longer maintain a checking account with Respondent affected by
+the practices described in this Order, Respondent must first make
+reasonable attempts to obtain a current address through the National
+Change Address System before sending the bank check and Redress
+Notification to those Affected Consumers’ last known address;
+For any Affected Consumer who maintains with Respondent a checking
+account affected by the practices described in this Order and whose
+Redress Notification and/or redress check is returned for any reason,
+Respondent must make reasonable attempts to obtain their current
+address using the National Change of Address System, and must
+promptly re-mail all returned Redress Notifications and redress checks to
+current addresses, if any; and
+39
+--- PDF PAGE 40 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 40 of 53
+e. Processes for handling any funds that remain unclaimed for a reasonable
+125. 126. 127. period.
+After completing the Redress Plan, if the amount of restitution provided to
+Affected Consumers is less than $97 million, within 30 days of the
+completion of the Redress Plan, Respondent must pay to the Bureau, by wire
+transfer to the Bureau or to the Bureau’s agent, and according to the
+Bureau’s wiring instructions, the difference between the amount of
+restitution provided to Affected Consumers and $97 million.
+The Bureau may use these remaining funds to pay additional restitution to
+Affected Consumers. If the Bureau determines, in its sole discretion, that
+additional restitution is wholly or partially impracticable or otherwise
+inappropriate, or if funds remain after the additional restitution is completed,
+the Bureau will deposit any remaining funds in the U.S. Treasury as
+disgorgement. Respondent will have no right to challenge any actions that
+the Bureau or its representatives may take under this Section.
+Respondent may not condition the payment of any redress to any Affected
+Consumer under this Consent Order on that Affected Consumer waiving any
+right.
+IX.
+40
+--- PDF PAGE 41 ---
+128. 129. 130. 131. 2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 41 of 53
+Order to Pay Civil Money Penalty
+IT IS FURTHER ORDERED that:
+Under § 1055(c) of the CFPA, 12 U.S.C. § 5565(c), by reason of the
+violations of law described in Section IV of this Consent Order, and taking
+into account the factors in 12 U.S.C. § 5565(c)(3), Respondent must pay a
+civil money penalty of $25 million to the Bureau.
+Within ten days of the Effective Date, Respondent must pay the civil money
+penalty by wire transfer to the Bureau or to the Bureau’s agent in
+compliance with the Bureau’s wiring instructions.
+The civil money penalty paid under this Consent Order will be deposited in
+the Civil Penalty Fund of the Bureau as required by § 1017(d) of the CFPA,
+12 U.S.C. § 5497(d).
+Respondent, for all purposes, must treat the civil money penalty paid under
+this Consent Order as a penalty paid to the government. Regardless of how
+the Bureau ultimately uses those funds, Respondent may not:
+a. Claim, assert, or apply for a tax deduction, tax credit, or any other tax
+benefit for any civil money penalty paid under this Consent Order; or
+b. Seek or accept, directly or indirectly, reimbursement or indemnification
+from any source, including but not limited to payment made under any
+41
+--- PDF PAGE 42 ---
+132. 2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 42 of 53
+insurance policy, with regard to any civil money penalty paid under this
+Consent Order.
+To preserve the deterrent effect of the civil money penalty in any Related
+Consumer Action, Respondent may not argue that Respondent is entitled to,
+nor may Respondent benefit by, any offset or reduction of any compensatory
+monetary remedies imposed in the Related Consumer Action because of the
+civil money penalty paid in this action or because of any payment that the
+Bureau makes from the Civil Penalty Fund. If the court in any Related
+Consumer Action offsets or otherwise reduces the amount of compensatory
+monetary remedies imposed against Respondent based on the civil money
+penalty paid in this action or based on any payment that the Bureau makes
+from the Civil Penalty Fund, Respondent must, within 30 days after entry of
+a final order granting such offset or reduction, notify the Bureau, and pay the
+amount of the offset or reduction to the U.S. Treasury. Such a payment will
+not be considered an additional civil money penalty and will not change the
+amount of the civil money penalty imposed in this action.
+X.
+Additional Monetary Provisions
+IT IS FURTHER ORDERED that:
+42
+--- PDF PAGE 43 ---
+133. 134. 135. 136. 2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 43 of 53
+In the event of any default on Respondent’s obligations to make payment
+under this Consent Order, interest, computed under 28 U.S.C. § 1961, as
+amended, will accrue on any outstanding amounts not paid from the date of
+default to the date of payment, and will immediately become due and
+payable.
+Respondent must relinquish all dominion, control, and title to the funds paid
+to the fullest extent permitted by law and no part of the funds may be
+returned to Respondent.
+Under 31 U.S.C. § 7701, Respondent, unless it already has done so, must
+furnish to the Bureau its taxpayer-identifying numbers, which may be used
+for purposes of collecting and reporting on any delinquent amount arising
+out of this Consent Order.
+Within 30 days of the entry of a final judgment, consent order, or settlement
+in a Related Consumer Action, Respondent must notify the Regional
+Director of the final judgment, consent order, or settlement in writing. That
+notification must indicate the amount of redress, if any, that Respondent paid
+or is required to pay to consumers and describe the consumers or classes of
+consumers to whom that redress has been or will be paid.
+COMPLIANCE PROVISIONS
+XI.
+43
+--- PDF PAGE 44 ---
+137. 138. 139. 2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 44 of 53
+Reporting Requirements
+IT IS FURTHER ORDERED that:
+Respondent must notify the Bureau of any development that may affect
+compliance obligations arising under this Consent Order, including but not
+limited to a dissolution, assignment, sale, merger, or other action that would
+result in the emergence of a successor company; the creation or dissolution
+of a subsidiary, parent, or affiliate that engages in any acts or practices
+subject to this Consent Order; the filing of any bankruptcy or insolvency
+proceeding by or against Respondent; or a change in Respondent’s name or
+address. Respondent must provide this notice, if practicable, at least 30 days
+before the development, but in any case no later than 14 days after the
+development.
+Within seven days of the Effective Date, Respondent must designate at least
+one telephone number and email, physical, and postal addresses as points of
+contact, that the Bureau may use to communicate with Respondent.
+Respondent must report any change in the information required to be
+submitted under Paragraph 138 above at least 30 days before the change or
+as soon as practicable after the learning about the change, whichever is
+sooner.
+44
+--- PDF PAGE 45 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 45 of 53
+140. 141. 142. Within 90 days of the Effective Date, and again one year after the Effective
+Date, Respondent must submit to the Regional Director an accurate written
+compliance progress report (Compliance Report) that has been approved by
+the Board, sworn to under penalty of perjury, which, at a minimum:
+a. lists each applicable paragraph and subparagraph of the Order and
+describes in detail the manner and form in which Respondent has
+complied with each such paragraph and subparagraph of the Consent
+Order;
+b. describes in detail the manner and form in which Respondent has
+complied with the Redress Plan and Compliance Plan; and
+c. attaches a copy of each Order Acknowledgment obtained under Section
+XII, unless previously submitted to the Bureau.
+XII.
+Order Distribution and Acknowledgment
+IT IS FURTHER ORDERED that:
+Within seven days of the Effective Date, Respondent must submit to the
+Regional Director an acknowledgment of receipt of this Consent Order,
+sworn under penalty of perjury.
+Within 30 days of the Effective Date, Respondent must deliver a copy of this
+Consent Order to each of its board members and executive officers, as well
+45
+--- PDF PAGE 46 ---
+143. 144. 145. 2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 46 of 53
+as to any managers, employees, Service Providers, or other agents and
+representatives who have responsibilities related to the subject matter of the
+Consent Order.
+For five years from the Effective Date, Respondent must deliver a copy of
+this Consent Order to any business entity resulting from any change in
+structure referred to in Section XI, any future board members and executive
+officers, as well as to any managers, employees, Service Providers, or other
+agents and representatives who will have responsibilities related to the
+subject matter of the Consent Order before they assume their
+responsibilities.
+Respondent must secure a signed and dated statement acknowledging receipt
+of a copy of this Consent Order, ensuring that any electronic signatures
+comply with the requirements of the E-Sign Act, 15 U.S.C. § 7001 et seq.,
+within 30 days of delivery, from all persons receiving a copy of this Consent
+Order under this Section.
+XIII.
+Recordkeeping
+IT IS FURTHER ORDERED that:
+Respondent must create and retain the following business records:
+a. all documents and records necessary to demonstrate full compliance with
+46
+--- PDF PAGE 47 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 47 of 53
+b. c. d. each provision of this Consent Order, including all submissions to the
+Bureau.
+all documents and records pertaining to the Redress Plan, described in
+Section VIII above.
+copies of all training materials; advertisements; consumer-facing
+disclosures; and other marketing materials relating to the subject of this
+Consent Order, and all materials used to implement the Compliance Plan
+and measure or evaluate Respondent’s fulfilment of the Compliance Plan,
+described in Section VI above.
+for each individual Affected Consumer, and each additional consumer
+who has remained enrolled in DCA since opening their consumer-
+checking account in person, at one of Respondent’s stores or offsite
+account-opening events, between January 1, 2014 through December 31,
+2018:
+i. the consumer’s name, address, phone number, email address;
+ii. the amount of Covered Overdraft Fees paid;
+iii. the date the consumer enrolled in DCA;
+iv. the date the Affected Consumer first unenrolled from DCA (if
+applicable);
+v. for consumers who did not unenroll from DCA before the
+47
+--- PDF PAGE 48 ---
+146. 147. 2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 48 of 53
+Effective Date and from whom Respondent has been required to
+obtain a new enrollment decision pursuant to Paragraph 112, the
+date and manner in which Respondent obtained the consumer’s
+new enrollment decision; and
+vi. the amount of redress paid by Respondent to the Affected
+Consumer.
+e. all consumer complaints and refund requests (whether received directly
+or indirectly, such as through a third party) relating to Covered Overdraft
+Fees, and any responses to those complaints or requests.
+Respondent must make the documents identified in Paragraph 145 available
+to the Bureau upon the Bureau’s request.
+XIV.
+Notices
+IT IS FURTHER ORDERED that:
+Unless otherwise directed in writing by the Bureau, Respondent must
+provide all submissions, requests, communications, or other documents
+relating to this Consent Order in writing, with the subject line, “In re TD
+Bank, N.A., File No. 2020-BCFP-0007,” and send them by overnight
+courier or first-class mail to the below address and contemporaneously by
+email to Enforcement_Compliance@cfpb.gov:
+48
+--- PDF PAGE 49 ---
+148. 149. 2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 49 of 53
+Regional Director, Bureau Northeast Region
+140 East 45th Street, 4th Floor
+New York, NY 10017
+XV.
+Compliance Monitoring
+IT IS FURTHER ORDERED that:
+Within 14 days of receipt of a written request from the Bureau, Respondent
+must submit additional Compliance Reports or other requested non-
+privileged information, related to requirements of this Consent Order, which
+must be made under penalty of perjury; provide sworn testimony related to
+requirements of this Consent Order and Respondents’ compliance with those
+requirements; or produce non-privileged documents related to requirements
+of this Consent Order and Respondents’ compliance with those
+requirements.
+Respondent must permit Bureau representatives to interview about the
+requirements of this Consent Order and Respondents compliance with those
+requirements any employee or other person affiliated with Respondent who
+has agreed to such an interview. The person interviewed may have counsel
+present.
+49
+--- PDF PAGE 50 ---
+150. 151. 152. 153. 2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 50 of 53
+Nothing in this Consent Order will limit the Bureau’s lawful use of civil
+investigative demands under 12 C.F.R. § 1080.6 or other compulsory
+process.
+XVI.
+Modifications to Non-Material Requirements
+IT IS FURTHER ORDERED that:
+Respondent may seek a modification to non-material requirements of this
+Consent Order (e.g., reasonable extensions of time and changes to reporting
+requirements) by submitting a written request to the Regional Director.
+The Regional Director may, in his or her discretion, modify any non-
+material requirements of this Consent Order (e.g., reasonable extensions of
+time and changes to reporting requirements) if he or she determines good
+cause justifies the modification. Any such modification by the Regional
+Director must be in writing.
+ADMINISTRATIVE PROVISIONS
+XVII.
+IT IS FURTHER ORDERED that:
+The provisions of this Consent Order do not bar, estop, or otherwise prevent
+the Bureau from taking any other action against Respondent, except as
+described in Paragraph 154. Further, for the avoidance of doubt, the
+50
+--- PDF PAGE 51 ---
+154. 155. 2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 51 of 53
+provisions of this Consent Order do not bar, estop, or otherwise prevent any
+other person or governmental agency from taking any action against
+Respondent.
+Upon full payment of redress under the Redress Plan, as provided in Section
+VIII, and full payment of the civil money penalty, as provided in Section IX,
+the Bureau releases and discharges Respondent from all potential liability
+for law violations that the Bureau has or might have asserted based on the
+practices described in Section IV of this Consent Order, to the extent such
+practices occurred before the Effective Date and the Bureau knows about
+them as of the Effective Date. The Bureau may use the practices described in
+this Consent Order in future enforcement actions against Respondent and its
+affiliates, including, without limitation, to establish a pattern or practice of
+violations or the continuation of a pattern or practice of violations or to
+calculate the amount of any penalty. This release does not preclude or affect
+any right of the Bureau to determine and ensure compliance with the
+Consent Order, or to seek penalties for any violations of the Consent Order.
+This Consent Order is intended to be, and will be construed as, a final
+Consent Order issued under § 1053 of the CFPA, 12 U.S.C. § 5563, and
+expressly does not form, and may not be construed to form, a contract
+binding the Bureau or the United States.
+51
+--- PDF PAGE 52 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 52 of 53
+156. 157. 158. 159. 160. This Consent Order will terminate five years from the Effective Date. The
+Consent Order will remain effective and enforceable until such time, except
+to the extent that any provisions of this Consent Order have been amended,
+suspended, waived, or terminated in writing by the Bureau or its designated
+agent.
+Calculation of time limitations will run from the Effective Date and be based
+on calendar days, unless otherwise noted.
+Should Respondent seek to transfer or assign all or part of its operations that
+are subject to this Consent Order, Respondent must, as a condition of sale,
+obtain the written agreement of the transferee or assignee to comply with all
+applicable provisions of this Consent Order.
+The provisions of this Consent Order will be enforceable by the Bureau. For
+any violation of this Consent Order, the Bureau may impose the maximum
+amount of civil money penalties allowed under §1055(c) of the CFPA, 12
+U.S.C. § 5565(c). In connection with any attempt by the Bureau to enforce
+this Consent Order in federal district court, the Bureau may serve
+Respondent wherever Respondent may be found and Respondent may not
+contest that court’s personal jurisdiction over Respondent.
+This Consent Order and the accompanying Stipulation contain the complete
+agreement between the parties. The parties have made no promises,
+52
+--- PDF PAGE 53 ---
+2020-BCFP-0007 Document 1 Filed 08/20/2020 Page 53 of 53
+representations, or warranties other than what is contained in this Consent
+Order and the accompanying Stipulation. This Consent Order and the
+accompanying Stipulation supersede any prior oral or written
+communications, discussions, or understandings.
+161. Nothing in this Consent Order or the accompanying Stipulation may be
+construed as allowing Respondent, its Board, officers, or employees to
+violate any law, rule, or regulation.
+IT IS SO ORDERED, this ,,tra;, of August, 2020:
+Ka hleen L. Kraninger
+Director
+Bureau of Consumer Financial Protection
+53

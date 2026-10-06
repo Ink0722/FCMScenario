@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "title": "SEC，TIAA-CREF Individual & Institutional Services，2021-07-13行政命令",
+    "url": "https://www.sec.gov/litigation/admin/2021/33-10954.pdf",
+    "resolved_url": "https://www.sec.gov/files/litigation/admin/2021/33-10954.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_01.pdf",
+    "bytes": 395374,
+    "sha256": "984b111c8e1f90ea083e9f9275fc9fca6ffff35d39c6719985611e3fb4053709",
+    "status": "downloaded"
+  },
+  {
+    "id": "2",
+    "title": "TIAA，Portfolio Advisor Wrap Fee Program Disclosure Brochure，2026-03-31",
+    "url": "https://www.tiaa.org/public/pdf/portfolio_advisor_wrap_fee_program_disclosure_form_adv.pdf",
+    "retrieved_date": "2026-10-06",
+    "status": "unavailable",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "3",
+    "title": "American Balanced Fund，2026-03-01摘要说明书",
+    "url": "https://www.sec.gov/Archives/edgar/data/4568/000005193126000252/ambal497k.htm",
+    "resolved_url": "https://www.sec.gov/Archives/edgar/data/4568/000005193126000252/ambal497k.htm",
+    "retrieved_date": "2026-10-06",
+    "file": "source_03.html",
+    "bytes": 178122,
+    "sha256": "7e106b66e657e0ae294eedb1f61a1efd993d3984e4c1524898036681005ff19b",
+    "status": "downloaded"
+  },
+  {
+    "id": "4",
+    "title": "American Balanced Fund，2026-03-01完整招募说明书及SAI",
+    "url": "https://www.sec.gov/Archives/edgar/data/4568/000005193126000248/ck0000004568-20260227.htm",
+    "resolved_url": "https://www.sec.gov/Archives/edgar/data/4568/000005193126000248/ck0000004568-20260227.htm",
+    "retrieved_date": "2026-10-06",
+    "file": "source_04.html",
+    "bytes": 11737570,
+    "sha256": "bdad63acb6df3ef79027419660fe50d9082d578314d24ac12fbe2779d5e34af1",
+    "status": "downloaded"
+  }
+]

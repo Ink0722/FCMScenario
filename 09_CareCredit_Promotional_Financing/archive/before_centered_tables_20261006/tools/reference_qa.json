@@ -1,0 +1,58 @@
+{
+  "case": 9,
+  "pages": 15,
+  "paragraphs_checked": 226,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_review": "All 42 document first pages inspected; full first pages and multipage contact sheets inspected for fund prospectuses and representative tables; no overlap or clipping found.",
+  "text_extraction_method": "PDFKit line selections sorted by page coordinates; headers/footers excluded",
+  "documents": [
+    {
+      "document_id": "09-01",
+      "pdf": "09_CareCredit_Promotional_Financing_Reference_01.pdf",
+      "pages": 7,
+      "text_checks": 113,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "8620aaa9fa3298772ef29c06181f58b2697bb4e2717ef2b1e501b9e3b4ac2e24",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "09-02",
+      "pdf": "09_CareCredit_Promotional_Financing_Reference_02.pdf",
+      "pages": 2,
+      "text_checks": 34,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "7384de7d6c3c274dcb024d96b1108db40cbcb55a77a660d7ed46f1c9172c0596",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "09-03",
+      "pdf": "09_CareCredit_Promotional_Financing_Reference_03.pdf",
+      "pages": 2,
+      "text_checks": 23,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "104027a40a05b83550e1caa044939723d52777a718e56c9c30f580f9212e0273",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "09-04",
+      "pdf": "09_CareCredit_Promotional_Financing_Reference_04.pdf",
+      "pages": 4,
+      "text_checks": 56,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "0ae195628c0cb503d2fa66abad2e28a940df04507c11a65f94ea8a30493a8ecf",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 4,
+  "qa_status": "text_and_layout_checked",
+  "checked_date": "2026-10-06",
+  "current_report": "tools/pdf_documents_qa.json"
+}

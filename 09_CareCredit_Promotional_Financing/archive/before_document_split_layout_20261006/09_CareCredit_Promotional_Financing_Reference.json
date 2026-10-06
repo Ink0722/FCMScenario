@@ -1,0 +1,433 @@
+{
+  "case_folder": "09_CareCredit_Promotional_Financing",
+  "title": "消费融资卡账户协议及定价条款",
+  "status": "source_document_rebuild",
+  "language": "zh-CN",
+  "rendering": "native_xelatex",
+  "reference_file": "09_CareCredit_Promotional_Financing_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "expanded_adapted_source_documents",
+    "not_a_complete_certified_translation": true,
+    "chapters_in_original_order": true,
+    "account_confirmations": "Material.md — 本次账户及办理确认",
+    "source_localization": "各章来源与删改边界见Notes第3节。机构匿名及本次资格设定未声称出自真实原案。",
+    "documents": [
+      {
+        "document": "商户卡账户协议",
+        "source_ids": "[3]",
+        "adopted_scope": "英文第1—8页对应利率、计息、费用、促销、标准、15款仲裁、军人及州通知、账单权利和隐私",
+        "omission_or_verification_boundary": "删除重复西班牙语版本及机构地址、电话、负责人签名；中文依条目顺序改写，非认证法律译本。"
+      },
+      {
+        "document": "通用卡定价",
+        "source_ids": "[6]",
+        "adopted_scope": "2026-09-22定价披露的全部主要项目、注释、申请与转账条件",
+        "omission_or_verification_boundary": "保留其他交易及分期收费；本次不启用这些功能，不将其代入普通购买。"
+      },
+      {
+        "document": "奖励协议及活动",
+        "source_ids": "[7][8]",
+        "adopted_scope": "奖励协议各标题、取得、类别、兑换、失效、通讯；新客活动单独按来源7采用",
+        "omission_or_verification_boundary": "source_08.pdf为扫描型5页原件，已用系统OCR提取并核对核心兑换条件；不以OCR自动识别视作逐句译文校核。"
+      }
+    ],
+    "translation_review": "扩展中文译写；尚未全部逐句校勘；不标为整份原件全文译本"
+  },
+  "removed_content": [
+    "封面及广告导航",
+    "监管结论、涉案人物、销售培训、执法经过",
+    "不适用类别、重复语言版本及注册申报附件；具体范围见Notes",
+    "研究者摘要、推荐答案及跨选项综合比较表"
+  ],
+  "adaptation_policy": "Preserve adopted document and chapter order; no researcher summary or cross-option comparison table; anonymous institution names; experimental account facts in Material only.",
+  "content_sha256": "ccaf4066b92d0d323ce983bcda5ab9031fd0b1f42947859bb4b82ad913c1d125",
+  "sections": [
+    {
+      "id": "S01",
+      "heading": "商户合作融资卡账户协议",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S02",
+      "heading": "第一部分：利率及费用表",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S03",
+      "heading": "第二部分：利率、费用及付款信息",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S04",
+      "heading": "利息的计算",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S05",
+      "heading": "费用的适用",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S06",
+      "heading": "最低付款的计算",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S07",
+      "heading": "特别促销融资信息",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S08",
+      "heading": "第三部分：标准条款",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S09",
+      "heading": "信用卡账户协议",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S10",
+      "heading": "账户与卡的使用",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S11",
+      "heading": "付款时间与方法",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S12",
+      "heading": "客户信息",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S13",
+      "heading": "账户其他重要信息",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S14",
+      "heading": "协议其他重要信息",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S15",
+      "heading": "通过仲裁解决争议",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S16",
+      "heading": "第四部分：其他重要信息",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S17",
+      "heading": "现役军人及其家属通知",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S18",
+      "heading": "各州通知",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S19",
+      "heading": "账单权利",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S20",
+      "heading": "对购买商品或服务不满意的权利",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S21",
+      "heading": "隐私政策",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S22",
+      "heading": "银行如何处理个人信息",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S23",
+      "heading": "利率及利息收费",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S24",
+      "heading": "费用",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S25",
+      "heading": "军人贷款法通知",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S26",
+      "heading": "条款与条件",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S27",
+      "heading": "关于本计划及协议的重要信息",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S28",
+      "heading": "变更通知",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S29",
+      "heading": "如何取得点数",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S30",
+      "heading": "额外点数方式",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S31",
+      "heading": "点数取得及可用性的其他信息",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S32",
+      "heading": "如何使用点数",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S33",
+      "heading": "现金",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S34",
+      "heading": "礼品卡",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S35",
+      "heading": "旅行",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S36",
+      "heading": "以点数支付商品及服务",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S37",
+      "heading": "与其他奖励卡合并点数",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S38",
+      "heading": "何时可能不能取得或使用点数",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S39",
+      "heading": "何时会失去点数",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S40",
+      "heading": "其他重要信息",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S41",
+      "heading": "通讯",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    },
+    {
+      "id": "S42",
+      "heading": "电话监听",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "见coverage.documents采用范围",
+      "text_status": "source_based_adaptation"
+    }
+  ],
+  "research_settings": {
+    "file": "09_CareCredit_Promotional_Financing_Material.md",
+    "section": "本次账户及办理确认",
+    "provenance": "既有场景研究设定；非官方原件合同确认",
+    "text_sha256": "88e2ebccbc60a278145669be2f2adadaf6a87c589b1b7da130fad683faf2f93d"
+  },
+  "qa_status": "rendered_text_verified_and_visually_checked",
+  "pages": 13
+}

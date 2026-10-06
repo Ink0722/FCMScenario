@@ -1,0 +1,58 @@
+{
+  "case": 9,
+  "pages": 15,
+  "paragraphs_checked": 226,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_review": "All document first pages inspected; selected multipage documents inspected through contact sheets; no clipping or overlapping text detected.",
+  "text_extraction_method": "PDFKit line selections sorted by page coordinates; headers/footers excluded",
+  "documents": [
+    {
+      "document_id": "09-01",
+      "pdf": "09_CareCredit_Promotional_Financing_Reference_01.pdf",
+      "pages": 7,
+      "text_checks": 113,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "4b64f93ef14966273765b9b35fc2e9fb187c101d6bacffdbcb84571cbfe5d3ac",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "09-02",
+      "pdf": "09_CareCredit_Promotional_Financing_Reference_02.pdf",
+      "pages": 2,
+      "text_checks": 34,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "d08b3c2e28fea985c1c6a126ccd02021cfedea022a5043cf4926a1b72a025017",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "09-03",
+      "pdf": "09_CareCredit_Promotional_Financing_Reference_03.pdf",
+      "pages": 2,
+      "text_checks": 23,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "ca2a1ce1f001e8249ab238cb1b9a0db5e77535f85ea4b7d4b90b6e37f74d6495",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "09-04",
+      "pdf": "09_CareCredit_Promotional_Financing_Reference_04.pdf",
+      "pages": 4,
+      "text_checks": 56,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "7739df56c4b82fd5045bedad14cade27e1738400aaa7407ca3b3e1c904acd182",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 4,
+  "qa_status": "text_and_layout_checked",
+  "checked_date": "2026-10-06",
+  "current_report": "tools/pdf_documents_qa.json"
+}

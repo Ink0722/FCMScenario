@@ -1,0 +1,106 @@
+{
+  "case_folder": "12_Paymap_Mortgage_Payment_Schedule_1Y",
+  "title": "住房贷款付款服务及账户办理资料",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "第一部分　第三方付款服务条款",
+        "source_ids": [
+          "1",
+          "2"
+        ],
+        "locator": "Paymap命令第10—12、32—37段：合同机制衍生条款，非原合同译本"
+      },
+      {
+        "heading": "第二部分　贷款机构付款资料",
+        "source_ids": [
+          "3",
+          "4"
+        ],
+        "locator": "General Payment FAQ全部业务问答；Flexible Payments产品正文"
+      },
+      {
+        "heading": "第三部分　贷款交割及账户文件",
+        "source_ids": [
+          "5"
+        ],
+        "locator": "CFPB Toolkit PDF第17—25页的说明正文"
+      },
+      {
+        "heading": "第四部分　房贷持有与付款事项",
+        "source_ids": [
+          "5"
+        ],
+        "locator": "CFPB Toolkit PDF第26—27页"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": [
+    "保留所采用栏目内的金融关系、例外及程序",
+    "账户状态、个别报价及实验控制保留在Material",
+    "第三方支付服务为案件机制衍生模拟条款，非原合同复原",
+    "未补造收益、事故概率、服务优势或资格"
+  ],
+  "content_sha256": "6a6dffaa86c002875a9b2b5003b176d7bf535d5ad6fcefa445596a15bcf4b3a6",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "第一部分　第三方付款服务条款",
+      "source_ids": [
+        "1",
+        "2"
+      ],
+      "source_locator": "Paymap命令第10—12、32—37段：合同机制衍生条款，非原合同译本",
+      "text_status": "Chinese source-based adaptation"
+    },
+    {
+      "id": 2,
+      "heading": "第二部分　贷款机构付款资料",
+      "source_ids": [
+        "3",
+        "4"
+      ],
+      "source_locator": "General Payment FAQ全部业务问答；Flexible Payments产品正文",
+      "text_status": "Chinese source-based adaptation"
+    },
+    {
+      "id": 3,
+      "heading": "第三部分　贷款交割及账户文件",
+      "source_ids": [
+        "5"
+      ],
+      "source_locator": "CFPB Toolkit PDF第17—25页的说明正文",
+      "text_status": "Chinese source-based adaptation"
+    },
+    {
+      "id": 4,
+      "heading": "第四部分　房贷持有与付款事项",
+      "source_ids": [
+        "5"
+      ],
+      "source_locator": "CFPB Toolkit PDF第26—27页",
+      "text_status": "Chinese source-based adaptation"
+    }
+  ],
+  "research_settings": {
+    "file": "12_Paymap_Mortgage_Payment_Schedule_1Y_Material.md",
+    "section": "本次账户及办理确认",
+    "provenance": "原有已注明来源的报价与研究控制，未改变决策目标",
+    "sha256": "35a84a503ee774f1270f262c471b24ba67936da605830109b9c0087949c89f56"
+  },
+  "rendering": "native_xelatex",
+  "pages": 6,
+  "qa_status": "pdf_rendered_text_check_passed"
+}

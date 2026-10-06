@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "SEC，Waddell & Reed行政命令，2022-09-19",
+    "url": "https://www.sec.gov/files/litigation/admin/2022/34-95828.pdf",
+    "resolved_url": "https://www.sec.gov/files/litigation/admin/2022/34-95828.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_01.pdf",
+    "bytes": 178716,
+    "sha256": "0b92e90a21f4541c44185a344944a0600660d4c75634319358fda2f6e0108ff1",
+    "status": "downloaded"
+  },
+  {
+    "id": "2",
+    "title": "Edward Jones，Equity Commission Schedule，2024-03-08生效",
+    "url": "https://www.edwardjones.com/sites/default/files/acquiadam/2022-07/ETY-1714I-A-MA.pdf",
+    "resolved_url": "https://www.edwardjones.com/sites/default/files/acquiadam/2022-07/ETY-1714I-A-MA.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_02.pdf",
+    "bytes": 40636,
+    "sha256": "df040f95caf0b3d8e4ac7d5188f0f2839c02e71d850efc7c382e48e40d18fa46",
+    "status": "downloaded"
+  },
+  {
+    "id": "3",
+    "title": "Edward Jones，官方ETF费用说明",
+    "url": "https://www.edwardjones.com/us-en/disclosures/account-fees/fees-compensation/etf-fees",
+    "resolved_url": "https://www.edwardjones.com/us-en/disclosures/account-fees/fees-compensation/etf-fees",
+    "retrieved_date": "2026-10-06",
+    "file": "source_03.html",
+    "bytes": 58069,
+    "sha256": "4c4a68f58fa2042088814b61b8d75e9ee1889f0336f7015e5266e657e1c8bbac",
+    "status": "downloaded"
+  },
+  {
+    "id": "4",
+    "title": "Edward Jones，Guided Solutions Fund Account Schedule of Fees，2026年3月修订",
+    "url": "https://www.edwardjones.com/sites/default/files/dam/thxnee9ysm/ias-10458-a-e-fs.pdf",
+    "resolved_url": "https://www.edwardjones.com/sites/default/files/dam/thxnee9ysm/ias-10458-a-e-fs.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_04.pdf",
+    "bytes": 261472,
+    "sha256": "c262ee8413fd6ab523638db21cd8905d12748e24893a7f1d9ac3b78f11dca25d",
+    "status": "downloaded"
+  },
+  {
+    "id": "5",
+    "title": "Edward Jones，Guided Solutions Fund Account Brochure，2025年5月修订",
+    "url": "https://www.edwardjones.com/sites/default/files/acquiadam/2023-03/IAS-10458R-A-PB_Final.pdf",
+    "resolved_url": "https://www.edwardjones.com/sites/default/files/acquiadam/2023-03/IAS-10458R-A-PB_Final.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_05.pdf",
+    "bytes": 293018,
+    "sha256": "58be280f8ce50dcd76700358a0c6204c6944c69a30924061c1ed4f92a6e423c7",
+    "status": "downloaded"
+  }
+]

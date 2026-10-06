@@ -1,0 +1,82 @@
+{
+  "case_folder": "20_Reserve_Cash_Sweep_vs_Money_Fund",
+  "title": "现金管理存款归集披露及政府货币基金说明书",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "20_Reserve_Cash_Sweep_vs_Money_Fund_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "第一部分　银行存款归集项目披露",
+        "source_ids": [
+          "8"
+        ],
+        "locator": "CMA Legal Booklet PDF第41—51页"
+      },
+      {
+        "heading": "第二部分　政府货币市场基金招募说明书",
+        "source_ids": [
+          "3"
+        ],
+        "locator": "2026-06-29 SPAXX基金栏目及共用交易章节；删除SPRXX/FDLXX专属内容"
+      },
+      {
+        "heading": "本次账户资料及办理记录",
+        "source_ids": [],
+        "locator": "tools/account_record.txt；具体参数来源及研究设定见Notes"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": [
+    "保留所采用栏目内的金融关系、例外及程序",
+    "账户状态、个别报价及实验控制置于PDF账户记录，来源区别见Notes",
+    "未补造收益、事故概率、服务优势或资格"
+  ],
+  "content_sha256": "98710e989b594156c6d4bcee23113385bc362174017c65e3bcd48ec342bdf09e",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "第一部分　银行存款归集项目披露",
+      "source_ids": [
+        "8"
+      ],
+      "source_locator": "CMA Legal Booklet PDF第41—51页",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 2,
+      "heading": "第二部分　政府货币市场基金招募说明书",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "2026-06-29 SPAXX基金栏目及共用交易章节；删除SPRXX/FDLXX专属内容",
+      "text_status": "Chinese source-based clause adaptation"
+    },
+    {
+      "id": 3,
+      "heading": "本次账户资料及办理记录",
+      "source_ids": [],
+      "source_locator": "tools/account_record.txt；具体参数来源及研究设定见Notes",
+      "text_status": "research account record"
+    }
+  ],
+  "research_settings": {
+    "file": "tools/account_record.txt",
+    "section": "本次账户资料及办理记录",
+    "provenance": "案例参数、补充产品机制及研究控制的区别见Notes",
+    "sha256": "be6871cd1a254b3f482387b2eaa44bc39824b81f4f30a2eacc85b8b5a03abdb8"
+  },
+  "rendering": "native_xelatex",
+  "pages": 13,
+  "qa_status": "pdf_rendered_text_check_passed",
+  "material_sha256": "8b8a2077b7f5e75a7e0b372a7d2ba68715d6ada2969114735c0a53d7a7647c15"
+}

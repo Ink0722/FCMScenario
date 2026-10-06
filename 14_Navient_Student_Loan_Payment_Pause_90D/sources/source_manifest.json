@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "CFPB，Navient案件与2024年约定判决记录",
+    "url": "https://www.consumerfinance.gov/enforcement/actions/navient-corporation-navient-solutions-inc-and-pioneer-credit-recovery-inc/",
+    "resolved_url": "https://www.consumerfinance.gov/enforcement/actions/navient-corporation-navient-solutions-inc-and-pioneer-credit-recovery-inc/",
+    "retrieved_date": "2026-10-06",
+    "file": "source_01.html",
+    "bytes": 147207,
+    "sha256": "99dbe30758279ab05178c20cbfc0f1fd5960e686f9c724eb73ba09d878d556e3",
+    "status": "downloaded"
+  },
+  {
+    "id": "2",
+    "title": "Federal Student Aid，Unemployment Deferment Request，资格及Definitions部分",
+    "url": "https://studentaid.gov/sites/default/files/UnemploymentDeferment-en-us.pdf",
+    "resolved_url": "https://studentaid.gov/sites/default/files/UnemploymentDeferment-en-us.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_02.pdf",
+    "bytes": 602007,
+    "sha256": "bc410237632bb700f6ca4aec8828e5814884754457d634cbddffccf2944fbcf1",
+    "status": "downloaded"
+  },
+  {
+    "id": "3",
+    "title": "Edfinancial，Deferment and Forbearance",
+    "url": "https://edfinancial.studentaid.gov/Deferment-and-Forbearance",
+    "retrieved_date": "2026-10-06",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "4",
+    "title": "Edfinancial／Federal Student Aid，General Forbearance Request，批准裁量及困难申请条件",
+    "url": "https://edfinancial.studentaid.gov/Media/pdfs/forb/GFB-DL.pdf",
+    "retrieved_date": "2026-10-06",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "5",
+    "title": "美国教育部Federal Student Aid，2019—2020学年Direct Loan固定利率公告，2019-05-23",
+    "url": "https://fsapartners.ed.gov/knowledge-center/library/electronic-announcements/2019-05-23/interest-rates-direct-loans-first-disbursed-between-july-1-2019-and-june-30-2020",
+    "resolved_url": "https://fsapartners.ed.gov/knowledge-center/library/electronic-announcements/2019-05-23/interest-rates-direct-loans-first-disbursed-between-july-1-2019-and-june-30-2020",
+    "retrieved_date": "2026-10-06",
+    "file": "source_05.html",
+    "bytes": 20974,
+    "sha256": "81b2f6b4c961ba899e0d2ec4206793299d4016364e6d8c9839ec54ad33ea41b3",
+    "status": "downloaded"
+  },
+  {
+    "id": "6",
+    "title": "Federal Student Aid General Forbearance Request",
+    "url": "https://studentaid.gov/sites/default/files/GeneralForbearance-en-us.pdf",
+    "resolved_url": "https://studentaid.gov/sites/default/files/GeneralForbearance-en-us.pdf",
+    "retrieved_date": "2026-10-06",
+    "file": "source_06.pdf",
+    "bytes": 657626,
+    "sha256": "a7aa7b4c8f04c3f50b964a973a8807c37a28f824c28d145294a9f05af4cae4fa",
+    "status": "downloaded"
+  }
+]

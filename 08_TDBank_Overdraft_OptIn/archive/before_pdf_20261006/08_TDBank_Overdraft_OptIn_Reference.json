@@ -1,0 +1,190 @@
+{
+  "case_folder": "08_TDBank_Overdraft_OptIn",
+  "title": "账户透支服务通知及授权条款",
+  "status": "scoped_adapted_content_draft",
+  "language": "zh-CN",
+  "rendering": "deferred",
+  "reference_file": "08_TDBank_Overdraft_OptIn_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": "selected_task_related_provisions; not a complete paragraph-by-paragraph translation of the original documents",
+  "preserved_confirmation": true,
+  "content_sha256": "edadac5154936c20d2ba21d076d4cf222228668762f756f183743c248aa1e63d",
+  "sections": [
+    {
+      "id": "08-R01",
+      "heading": "账户通知／透支与标准服务",
+      "source_ids": [
+        "2",
+        "3"
+      ],
+      "source_locator": "What you need to know about overdrafts; Standard Overdraft Service",
+      "content_origin": "adapted_disclosure",
+      "paragraphs": [
+        "可用余额不足以覆盖交易而银行仍予支付时，账户发生透支。可用余额包括已影响余额的未入账交易，并受资金可用性政策限制，不等同于只扣除已经入账交易后的账面金额。",
+        "标准透支服务随本次日常付款账户提供。银行可自行决定是否批准并支付支票、按账户号码发起的扣款、自动账单付款及重复借记卡付款等标准范围内的交易。",
+        "未经另外请求，银行通常不批准余额不足的ATM及一次性借记卡交易。此类交易如未获批准则拒绝，不收取该笔已支付透支的费用。",
+        "银行对是否批准支付保留裁量，不承诺所有交易均被支付。账户状态不良、未持续入金或反复透支等情况可能影响是否批准。"
+      ],
+      "paragraph_provenance": [
+        {
+          "paragraph": 1,
+          "origin": "adapted_disclosure",
+          "source_ids": [
+            "2",
+            "3"
+          ],
+          "research_setting_sentences": []
+        },
+        {
+          "paragraph": 2,
+          "origin": "mixed_disclosure_and_research_setting",
+          "source_ids": [
+            "2",
+            "3"
+          ],
+          "research_setting_sentences": [
+            "标准透支服务随本次日常付款账户提供。"
+          ]
+        },
+        {
+          "paragraph": 3,
+          "origin": "adapted_disclosure",
+          "source_ids": [
+            "2",
+            "3"
+          ],
+          "research_setting_sentences": []
+        },
+        {
+          "paragraph": 4,
+          "origin": "adapted_disclosure",
+          "source_ids": [
+            "2",
+            "3"
+          ],
+          "research_setting_sentences": []
+        }
+      ]
+    },
+    {
+      "id": "08-R02",
+      "heading": "账户通知／可选借记卡透支授权",
+      "source_ids": [
+        "2",
+        "3"
+      ],
+      "source_locator": "Debit Card Advance; Enrollment and changes",
+      "content_origin": "adapted_disclosure",
+      "paragraphs": [
+        "可选透支功能适用于ATM及一次性借记卡交易。客户可以请求开通，并可之后改变授权状态。开通后银行可以在余额不足时批准这两类交易，已支付透支形成待归还的负余额。",
+        "可以通过银行服务渠道提交选择或修改，包括网上办理、联系客户服务或网点办理。本次开通若被选择，会在任务卡所列交易之前生效。",
+        "开通不改变标准透支服务已有的交易范围，不增加ATM日取款上限，不自动建立储蓄关联补款，也不构成银行承诺提供固定信贷额度。"
+      ],
+      "paragraph_provenance": [
+        {
+          "paragraph": 1,
+          "origin": "adapted_disclosure",
+          "source_ids": [
+            "2",
+            "3"
+          ],
+          "research_setting_sentences": []
+        },
+        {
+          "paragraph": 2,
+          "origin": "mixed_disclosure_and_research_setting",
+          "source_ids": [
+            "2",
+            "3"
+          ],
+          "research_setting_sentences": [
+            "本次开通若被选择，会在任务卡所列交易之前生效。"
+          ]
+        },
+        {
+          "paragraph": 3,
+          "origin": "adapted_disclosure",
+          "source_ids": [
+            "2",
+            "3"
+          ],
+          "research_setting_sentences": []
+        }
+      ]
+    },
+    {
+      "id": "08-R03",
+      "heading": "账户通知／已支付透支的费用",
+      "source_ids": [
+        "3",
+        "4"
+      ],
+      "source_locator": "Overdraft Fees; Overdraft Grace; Processing order",
+      "content_origin": "adapted_disclosure",
+      "paragraphs": [
+        "获准支付的交易使可用余额透支超过50美元时，每笔收取35美元；一个账户一天最多收取三笔。透支50美元及以下不收该项透支费。",
+        "若在导致透支项目入账日的下一营业日美国东部时间晚上11点之前，存入足够资金，使可用余额恢复至0美元或以上，银行按宽限安排退还该项目已经收取的透支费。补足时应计入其他新增及待处理扣款。",
+        "书面通知列示交易处理顺序：先加上按资金可用政策在该营业日可用的存款，再依据所收到的日期及时间处理取款，之后处理利息入账及其他费用。对未收到完整交易时间的项目，银行按账户协议分配时间。",
+        "营业日不包括周六、周日或联邦假日。所指宽限时间与入账日、资金实际可用日分别记录，存款请求发出不等于资金已经可用。",
+        "标准服务支付的透支和可选功能支付的透支适用上述共同收费规则。具体账户可能另有特定费用返还权益，本次账户未加入年度额外自动返费安排。"
+      ],
+      "paragraph_provenance": [
+        {
+          "paragraph": 1,
+          "origin": "adapted_disclosure",
+          "source_ids": [
+            "3",
+            "4"
+          ],
+          "research_setting_sentences": []
+        },
+        {
+          "paragraph": 2,
+          "origin": "adapted_disclosure",
+          "source_ids": [
+            "3",
+            "4"
+          ],
+          "research_setting_sentences": []
+        },
+        {
+          "paragraph": 3,
+          "origin": "adapted_disclosure",
+          "source_ids": [
+            "3",
+            "4"
+          ],
+          "research_setting_sentences": []
+        },
+        {
+          "paragraph": 4,
+          "origin": "adapted_disclosure",
+          "source_ids": [
+            "3",
+            "4"
+          ],
+          "research_setting_sentences": []
+        },
+        {
+          "paragraph": 5,
+          "origin": "mixed_disclosure_and_research_setting",
+          "source_ids": [
+            "3",
+            "4"
+          ],
+          "research_setting_sentences": [
+            "具体账户可能另有特定费用返还权益，本次账户未加入年度额外自动返费安排。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08-CONFIRMATION",
+      "heading": "本次办理报价及适用条件确认单",
+      "source_ids": [],
+      "source_locator": "archive/before_reference_content_20261006/08_TDBank_Overdraft_OptIn_Material.md — 场景信息/选项与条件、适用条件",
+      "content_origin": "inherited_scenario_confirmation",
+      "text": "### 选项与条件\n\n| 比较项目 | A：开通可选透支功能 | B：保持现有设置，不开通 |\n|---|---|---|\n| 标准透支服务 | 保留 | 保留 |\n| ACH自动扣款、支票、重复借记卡扣款 | 由标准服务按规则处理 | 由相同标准服务按规则处理 |\n| 余额不足的一次性借记卡付款 | 银行可以决定批准并支付 | 通常在授权时拒绝；未批准的交易不产生该笔透支费 |\n| 余额不足的ATM取款 | 银行可以决定批准并支付 | 通常在授权时拒绝；未批准的交易不产生该笔透支费 |\n| 对付款的承诺 | 每种交易是否支付由银行决定 | 标准服务内的交易是否支付同样由银行决定 |\n| 服务资金来源 | 银行支付获准的透支，形成账户负余额 | 标准服务获准的透支也形成账户负余额 |\n| 储蓄账户自动补款 | 本次未设置 | 本次未设置 |\n| 已支付透支的费用规则 | 超过规定阈值时每笔35美元，每日最多3笔；符合补款规则可退还 | 标准服务已支付的透支适用相同规则 |\n| 账户查看与通知 | 网上查余额、设置余额及透支通知 | 支持相同功能 |\n| 后续修改 | 可以申请取消可选功能 | 可以申请开通可选功能 |\n\n### 适用条件\n\n**收费与补款。** 获准支付的交易使可用余额透支超过50美元时，适用每笔35美元透支费；每个账户每日最多收取3笔。透支50美元及以下不收该透支费。若在该笔透支入账后的下一营业日美国东部时间晚上11点前补足资金，使可用余额达到0美元或以上，银行按规则退还该笔已收透支费。补款时也计入新增或待处理的扣款。\n\n**资金使用。** 透支需及时归还。开通功能不会提高ATM日取款限额，也不设关联账户自动转入资金。银行不会因为开通就承诺支付每笔交易。\n\n**授权与入账。** 可用余额包含已经影响余额的待处理交易。本次可选功能如开通，会在上述交易之前生效。已经获准的一次性刷卡交易，其后入账时也可能改变余额；未开通并不阻止所有情况下出现负余额。\n\n**其他账户条件。** 两种设置不改变账户的月费、原有标准服务及通知功能。当前账户没有另外的年度透支费自动返还权益。本次选择仅涉及可选功能，不切换到“拒绝全部透支”设置。"
+    }
+  ]
+}

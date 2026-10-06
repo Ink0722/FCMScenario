@@ -1,0 +1,87 @@
+{
+  "case_folder": "18_Amex_CashBack_vs_Travel_Points",
+  "title": "消费信用卡客户协议及奖励附录",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "18_Amex_CashBack_vs_Travel_Points_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "第一部分　消费者信用卡客户协议",
+        "source_ids": [
+          "6",
+          "7"
+        ],
+        "locator": "客户协议Part1—6；仲裁、账单权利、军事借贷及口译栏目；报价附录按本次确认适配"
+      },
+      {
+        "heading": "第二部分　日常返现卡奖励附录",
+        "source_ids": [
+          "2"
+        ],
+        "locator": "产品条款Part2各栏目；不采用新户优惠"
+      },
+      {
+        "heading": "第三部分　分类积分卡奖励附录",
+        "source_ids": [
+          "3"
+        ],
+        "locator": "产品条款Part2各栏目；不采用新户优惠"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": [
+    "保留所采用栏目内的金融关系、例外及程序",
+    "账户状态、个别报价及实验控制保留在Material",
+    "未补造收益、事故概率、服务优势或资格"
+  ],
+  "content_sha256": "c95e56b8acf7da7adee1038d2c3f7133b2a5e9356476191c389b6cead4c09fab",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "第一部分　消费者信用卡客户协议",
+      "source_ids": [
+        "6",
+        "7"
+      ],
+      "source_locator": "客户协议Part1—6；仲裁、账单权利、军事借贷及口译栏目；报价附录按本次确认适配",
+      "text_status": "Chinese source-based adaptation"
+    },
+    {
+      "id": 2,
+      "heading": "第二部分　日常返现卡奖励附录",
+      "source_ids": [
+        "2"
+      ],
+      "source_locator": "产品条款Part2各栏目；不采用新户优惠",
+      "text_status": "Chinese source-based adaptation"
+    },
+    {
+      "id": 3,
+      "heading": "第三部分　分类积分卡奖励附录",
+      "source_ids": [
+        "3"
+      ],
+      "source_locator": "产品条款Part2各栏目；不采用新户优惠",
+      "text_status": "Chinese source-based adaptation"
+    }
+  ],
+  "research_settings": {
+    "file": "18_Amex_CashBack_vs_Travel_Points_Material.md",
+    "section": "本次账户及办理确认",
+    "provenance": "原有已注明来源的报价与研究控制，未改变决策目标",
+    "sha256": "f23bdb0d2e2aa4abe879093f64cd531d1a785c8ecd1c22044be21bea7f92b12c"
+  },
+  "rendering": "native_xelatex",
+  "pages": 9,
+  "qa_status": "pdf_rendered_text_check_passed"
+}

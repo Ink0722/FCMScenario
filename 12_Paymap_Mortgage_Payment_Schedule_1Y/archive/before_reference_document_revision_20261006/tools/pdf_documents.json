@@ -1,0 +1,128 @@
+{
+  "case_number": "12",
+  "case_name": "房贷还款渠道：双周扣款与本金入账",
+  "scenario_id": "S-PAY-MP-01",
+  "style": "hierarchical_native_pdf_v1",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "12-01",
+      "title": "第三方付款服务登记及授权条款",
+      "pdf": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference_01.pdf",
+      "content_source": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference.txt",
+      "start_line": 3,
+      "end_line": 18,
+      "leading_source_heading": "第一部分　第三方付款服务登记及授权条款",
+      "headings": {
+        "第一部分　第三方付款服务登记及授权条款": {
+          "level": 2
+        },
+        "1. 扣款指示": {
+          "level": 2
+        },
+        "2. 服务登记费用": {
+          "level": 2
+        },
+        "3. 资金保管及月供转付": {
+          "level": 2
+        },
+        "4. 三次扣款月份": {
+          "level": 2
+        },
+        "5. 贷款账户与服务账户": {
+          "level": 2
+        },
+        "6. 本次授权记录": {
+          "level": 2
+        }
+      },
+      "source_ids": [],
+      "content_sha256": "f6c90076179af92de348fee0c768a943815bd39c580b86d65879bba2ba4cd31d",
+      "pages": 1,
+      "pdf_sha256": "a4c58a9e89a78e916b001cc59658ccfff0071889173ae2ba79862e33f0edaeb1",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    },
+    {
+      "document_number": "02",
+      "document_id": "12-02",
+      "title": "贷款机构付款资料",
+      "pdf": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference_02.pdf",
+      "content_source": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference.txt",
+      "start_line": 18,
+      "end_line": 62,
+      "leading_source_heading": "第二部分　贷款机构付款资料",
+      "headings": {
+        "第二部分　贷款机构付款资料": {
+          "level": 2
+        },
+        "一般付款常见问题": {
+          "level": 2
+        },
+        "房贷利息和付款如何运作？": {
+          "level": 2
+        },
+        "付款日期是否影响当期应付利息？": {
+          "level": 2
+        },
+        "付款日期是否重要？": {
+          "level": 2
+        },
+        "灵活付款常见问题": {
+          "level": 2
+        },
+        "如何处理每月两次和每两周付款？": {
+          "level": 2
+        },
+        "如果已经用其他方式付款，仍会自动扣款吗？": {
+          "level": 2
+        },
+        "灵活付款产品页面": {
+          "level": 2
+        },
+        "房贷付款示例": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "3",
+        "4"
+      ],
+      "content_sha256": "5a8a831f0280a0483624ab89c180aa29686652e1c73becca0f5ad0b67e22b294",
+      "pages": 3,
+      "pdf_sha256": "dcf71feb46ca315738115086ca7ea62e78d9bb858bdaecded7dc6fbccd053569",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    },
+    {
+      "document_number": "03",
+      "document_id": "12-03",
+      "title": "本次账户资料及办理记录",
+      "pdf": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference_03.pdf",
+      "content_source": "12_Paymap_Mortgage_Payment_Schedule_1Y_Reference.txt",
+      "start_line": 62,
+      "end_line": 125,
+      "leading_source_heading": "本次账户资料及办理记录",
+      "headings": {
+        "本次账户资料及办理记录": {
+          "level": 2
+        },
+        "A：第三方还款服务": {
+          "level": 2
+        },
+        "B：贷款机构直接扣款": {
+          "level": 2
+        },
+        "办理确认事项": {
+          "level": 2
+        }
+      },
+      "source_ids": [],
+      "content_sha256": "a964b21d0e342e20e0646a61e8ffeb6e6f6e3efaaebbcdd8481c5a4544cf6e0b",
+      "pages": 2,
+      "pdf_sha256": "98664cbb78d982f7f395b9e33a7214efb0248c7910d8c2926db6d40fc26d6c08",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "case_folder": "08_TDBank_Overdraft_OptIn",
+  "title": "透支服务披露、重要条款及账户通知",
+  "status": "source_document_rebuild",
+  "language": "zh-CN",
+  "rendering": "native_xelatex",
+  "reference_file": "08_TDBank_Overdraft_OptIn_Reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "expanded_adapted_source_documents",
+    "not_a_complete_certified_translation": true,
+    "chapters_in_original_order": true,
+    "account_confirmations": "Material.md — 本次账户及办理确认",
+    "source_localization": "各章来源与删改边界见Notes第3节。机构匿名及本次资格设定未声称出自真实原案。",
+    "documents": [
+      {
+        "document": "透支披露与产品资料",
+        "source_ids": "[2][3][4]",
+        "adopted_scope": "一页透支通知、重要条件、服务正文、FAQ、相关脚注和宽限期资料",
+        "omission_or_verification_boundary": "删除导航、其他账户营销及非本次产品脚注；保留原披露重复。"
+      }
+    ],
+    "translation_review": "扩展中文译写；尚未全部逐句校勘；不标为整份原件全文译本"
+  },
+  "removed_content": [
+    "封面及广告导航",
+    "监管结论、涉案人物、销售培训、执法经过",
+    "不适用类别、重复语言版本及注册申报附件；具体范围见Notes",
+    "研究者摘要、推荐答案及跨选项综合比较表"
+  ],
+  "adaptation_policy": "Preserve adopted document and chapter order; no researcher summary or cross-option comparison table; anonymous institution names; experimental account facts in Material only.",
+  "content_sha256": "d086faa3062dea6fa4dd0c0820584b8551a0373678b5ef74bf11b805eec84c62",
+  "sections": [
+    {
+      "id": "S01",
+      "heading": "关于您的支票账户的重要消费者信息",
+      "source_ids": [
+        "2",
+        "3",
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S02",
+      "heading": "概述（透支服务不适用于基本银行账户）",
+      "source_ids": [
+        "2",
+        "3",
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S03",
+      "heading": "标准透支服务",
+      "source_ids": [
+        "2",
+        "3",
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S04",
+      "heading": "借记卡垫付服务",
+      "source_ids": [
+        "2",
+        "3",
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S05",
+      "heading": "透支费用（适用于上述所有透支产品）",
+      "source_ids": [
+        "2",
+        "3",
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S06",
+      "heading": "借记卡垫付服务的重要细节",
+      "source_ids": [
+        "2",
+        "3",
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S07",
+      "heading": "透支减负服务",
+      "source_ids": [
+        "2",
+        "3",
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S08",
+      "heading": "标准透支服务的自动覆盖[5]",
+      "source_ids": [
+        "2",
+        "3",
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S09",
+      "heading": "其他透支选项",
+      "source_ids": [
+        "2",
+        "3",
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S10",
+      "heading": "借记卡垫付服务*",
+      "source_ids": [
+        "2",
+        "3",
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S11",
+      "heading": "储蓄账户透支保护",
+      "source_ids": [
+        "2",
+        "3",
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S12",
+      "heading": "拒绝全部[6]",
+      "source_ids": [
+        "2",
+        "3",
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S13",
+      "heading": "账户管理工具与资源",
+      "source_ids": [
+        "2",
+        "3",
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S14",
+      "heading": "透支减负服务常见问题",
+      "source_ids": [
+        "2",
+        "3",
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S15",
+      "heading": "重要披露",
+      "source_ids": [
+        "2",
+        "3",
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    },
+    {
+      "id": "S16",
+      "heading": "宽限期说明视频文字稿",
+      "source_ids": [
+        "2",
+        "3",
+        "4"
+      ],
+      "source_locator": "采用文书章节标题；精确范围见Notes第3节",
+      "text_status": "source_based_adaptation; see document boundary in coverage"
+    }
+  ],
+  "research_settings": {
+    "file": "08_TDBank_Overdraft_OptIn_Material.md",
+    "section": "本次账户及办理确认",
+    "provenance": "既有场景研究设定；非官方原件合同确认",
+    "text_sha256": "2617832e99d76f45fa7c3fc870f7d69a088f0578752fd349745a7f583fb8d510"
+  },
+  "qa_status": "rendered_text_verified_and_visually_checked",
+  "pages": 6
+}

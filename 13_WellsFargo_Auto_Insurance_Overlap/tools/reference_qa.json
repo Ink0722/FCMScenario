@@ -1,0 +1,44 @@
+{
+  "case": 13,
+  "pages": 7,
+  "paragraphs_checked": 92,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_layout_review": "passed",
+  "checked_date": "2026-10-06",
+  "participant_links_checked": true,
+  "source_manifest_hashes_checked": true,
+  "decision_criteria_preserved": true,
+  "material_sha256": "78cbaf3aef3077da1b62e33b1864ac78aa15e78e9b553f55c9d55db4a85ba29e",
+  "notes_sha256": "0ba4cfe2ff8c793522aad4ce90b6f0b23bb9040c8aed9f357e4718881230cac0",
+  "documents": [
+    {
+      "document_id": "13-01",
+      "pdf": "13_WellsFargo_Auto_Insurance_Overlap_Reference_01.pdf",
+      "pages": 1,
+      "text_checks": 12,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "d76eeed0a1322ca8a25b33c1d27171575a8b505e748b7b457b401098c17e776b",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "13-02",
+      "pdf": "13_WellsFargo_Auto_Insurance_Overlap_Reference_02.pdf",
+      "pages": 6,
+      "text_checks": 80,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "a0593487b1ab73279a999c06394eb1f98277aae96edd28bac27748c58f0b4493",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 2,
+  "qa_status": "text_and_layout_checked",
+  "visual_review": "Centered table headers, short entries and numeric cells; paragraph cells left aligned; table endings bound and short HTML header line breaks removed; representative table pages inspected.",
+  "current_report": "tools/pdf_documents_qa.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

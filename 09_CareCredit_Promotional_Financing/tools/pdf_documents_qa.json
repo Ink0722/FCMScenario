@@ -1,0 +1,51 @@
+{
+  "case": 9,
+  "independent_documents": 4,
+  "documents": [
+    {
+      "document_id": "09-01",
+      "pdf": "09_CareCredit_Promotional_Financing_Reference_01.pdf",
+      "pages": 7,
+      "text_checks": 113,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "5418ef917e5102496e42ff8ab65dce8fdcda55667a68584b46e0e3a02fff0687",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "09-02",
+      "pdf": "09_CareCredit_Promotional_Financing_Reference_02.pdf",
+      "pages": 2,
+      "text_checks": 34,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "8158750f0d3fb768c93ee768928b18c17ff885e5643def043858b8996e099196",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "09-03",
+      "pdf": "09_CareCredit_Promotional_Financing_Reference_03.pdf",
+      "pages": 2,
+      "text_checks": 23,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "4677940fbdc0760e2b10ad82449e2f4431c5d771e46fee95ccc47cd603a0b994",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "09-04",
+      "pdf": "09_CareCredit_Promotional_Financing_Reference_04.pdf",
+      "pages": 4,
+      "text_checks": 56,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "0e708b7e35f002e13f9096f0972b16bb37b802a8b569d63599776839d4373a53",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "visual_review": "Centered table headers, short entries and numeric cells; paragraph cells left aligned; table endings bound and short HTML header line breaks removed; representative table pages inspected."
+}
