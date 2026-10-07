@@ -1,0 +1,49 @@
+{
+  "case": 9,
+  "independent_documents": 4,
+  "documents": [
+    {
+      "document_id": "09-01",
+      "pdf": "09-01_商户合作融资卡账户协议.pdf",
+      "pages": 7,
+      "text_checks": 113,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "36fed753f881c3e1ef48a5e3f225c2be227d31f761a248292cc3f3a7821a69b5",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "09-02",
+      "pdf": "09-02_个人信息隐私通知.pdf",
+      "pages": 2,
+      "text_checks": 34,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "43fa138f023547a3a053947ffb2024e458444d1b1c20239f1ebc4e3de1034100",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "09-03",
+      "pdf": "09-03_通用购买优惠卡定价条款.pdf",
+      "pages": 2,
+      "text_checks": 23,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "6f5ec222fb26fdc53ccafdfa3af27c5129a5aa25f538eeea96417a95c36e9094",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "09-04",
+      "pdf": "09-04_通用购买优惠卡奖励计划协议.pdf",
+      "pages": 5,
+      "text_checks": 56,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "c23d0c6355f715c42c0258f5289722f475b8f91198df4dd171b908881da210b6",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked"
+}

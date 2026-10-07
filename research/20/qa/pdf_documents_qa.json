@@ -1,0 +1,29 @@
+{
+  "case": 20,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "20-01",
+      "pdf": "20-01_银行存款归集项目披露.pdf",
+      "pages": 7,
+      "text_checks": 101,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "f95bbd6b58b476f00dbfa7649f2927f19dae66b644dff4091e1677a58b751810",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "20-02",
+      "pdf": "20-02_政府货币市场基金招募说明书.pdf",
+      "pages": 10,
+      "text_checks": 272,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "fc26d02fbcd6df9ec8ff518d7c6d30be0162b7280b51aa77bce0ed79b953a1f9",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked"
+}

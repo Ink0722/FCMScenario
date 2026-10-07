@@ -1,0 +1,39 @@
+{
+  "case": 6,
+  "pages": 7,
+  "paragraphs_checked": 90,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
+  "text_extraction_method": "PDFKit line selections sorted by page coordinates; headers/footers excluded",
+  "documents": [
+    {
+      "document_id": "06-01",
+      "pdf": "06-01_银行直购无罚金定期存款.pdf",
+      "pages": 1,
+      "text_checks": 8,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "6e1574f2b670105807de7dc5fe31ba580c1bdf88918ccaf7b1a755560fe882ab",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "06-02",
+      "pdf": "06-02_经纪存款凭证披露声明.pdf",
+      "pages": 6,
+      "text_checks": 82,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "ad9e2afa92785803ad0547c764d67f8276dbdc23bd37abba9c749448ba8fb8c0",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 2,
+  "qa_status": "text_and_layout_checked",
+  "checked_date": "2026-10-06",
+  "current_report": "qa/pdf_documents_qa.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

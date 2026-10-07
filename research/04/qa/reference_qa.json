@@ -1,0 +1,29 @@
+{
+  "case": 4,
+  "pages": 13,
+  "paragraphs_checked": 249,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
+  "text_extraction_method": "PDFKit line selections sorted by page coordinates; headers/footers excluded",
+  "documents": [
+    {
+      "document_id": "04-01",
+      "pdf": "04-01_单位投资信托招募说明书.pdf",
+      "pages": 13,
+      "text_checks": 249,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "ec77efb834fd2697ef2465c3a460aeca05c2767beb4c22f806ba9526fdc3c8c3",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 1,
+  "qa_status": "text_and_layout_checked",
+  "checked_date": "2026-10-06",
+  "current_report": "qa/pdf_documents_qa.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

@@ -1,0 +1,39 @@
+{
+  "case": 3,
+  "pages": 17,
+  "paragraphs_checked": 545,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
+  "text_extraction_method": "PDFKit line selections sorted by page coordinates; headers/footers excluded",
+  "documents": [
+    {
+      "document_id": "03-01",
+      "pdf": "03-01_退休账户顾问项目披露资料.pdf",
+      "pages": 2,
+      "text_checks": 38,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "752e61b0ca6fe3ffb775f7fe1644dc0f52c3363d2e01a585281ffbbebe08883b",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "03-02",
+      "pdf": "03-02_基金F招募说明书.pdf",
+      "pages": 15,
+      "text_checks": 507,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "e0182b3f0bbff470ce629a85757b38bbf74ea34c8966436ef4fbe7f9370bda02",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 2,
+  "qa_status": "text_and_layout_checked",
+  "checked_date": "2026-10-06",
+  "current_report": "qa/pdf_documents_qa.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

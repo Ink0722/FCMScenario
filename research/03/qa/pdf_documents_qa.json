@@ -1,0 +1,29 @@
+{
+  "case": 3,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "03-01",
+      "pdf": "03-01_退休账户顾问项目披露资料.pdf",
+      "pages": 2,
+      "text_checks": 38,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "752e61b0ca6fe3ffb775f7fe1644dc0f52c3363d2e01a585281ffbbebe08883b",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "03-02",
+      "pdf": "03-02_基金F招募说明书.pdf",
+      "pages": 15,
+      "text_checks": 507,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "e0182b3f0bbff470ce629a85757b38bbf74ea34c8966436ef4fbe7f9370bda02",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked"
+}

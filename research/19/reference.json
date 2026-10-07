@@ -1,0 +1,407 @@
+{
+  "case_folder": "cases/19_Debt_Consolidation",
+  "title": "个人贷款产品资料及信用卡还款协议",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "第一部分　个人贷款办理及费用资料",
+        "source_ids": [
+          "2",
+          "3"
+        ],
+        "locator": "官方个人贷款产品正文及rates fees interest问答；个别报价在Material"
+      },
+      {
+        "heading": "第二部分　现有信用卡账户协议",
+        "source_ids": [
+          "5"
+        ],
+        "locator": "客户协议Part1—6；仲裁、账单权利、军事借贷及口译栏目；报价附录按本次确认适配"
+      },
+      {
+        "heading": "本次账户资料及办理记录",
+        "source_ids": [],
+        "locator": "tools/account_record.txt；具体参数来源及研究设定见Notes"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": "参考PDF只排产品协议、公开披露和指南；任务、账户条件、实验控制及历史事件对照置于Material。所有判定依据保留在Notes。",
+  "content_sha256": "57172f1773b658dd8e6080b6e136f7088f117514d571d4e46779890142fbfb68",
+  "sections": [
+    {
+      "id": "S001",
+      "heading": "第一部分　个人贷款办理及费用资料",
+      "source_ids": [
+        "2",
+        "3"
+      ],
+      "document_id": "19-01",
+      "line": 4,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S002",
+      "heading": "个人贷款",
+      "source_ids": [
+        "2",
+        "3"
+      ],
+      "document_id": "19-01",
+      "line": 6,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S003",
+      "heading": "办理步骤",
+      "source_ids": [
+        "2",
+        "3"
+      ],
+      "document_id": "19-01",
+      "line": 8,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S004",
+      "heading": "APR是什么",
+      "source_ids": [
+        "2",
+        "3"
+      ],
+      "document_id": "19-01",
+      "line": 10,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S005",
+      "heading": "费用",
+      "source_ids": [
+        "2",
+        "3"
+      ],
+      "document_id": "19-01",
+      "line": 12,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S006",
+      "heading": "放款费用与到手金额",
+      "source_ids": [
+        "2",
+        "3"
+      ],
+      "document_id": "19-01",
+      "line": 15,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S007",
+      "heading": "信用查询及资格",
+      "source_ids": [
+        "2",
+        "3"
+      ],
+      "document_id": "19-01",
+      "line": 18,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S008",
+      "heading": "提前付款",
+      "source_ids": [
+        "2",
+        "3"
+      ],
+      "document_id": "19-01",
+      "line": 20,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S009",
+      "heading": "在线账户",
+      "source_ids": [
+        "2",
+        "3"
+      ],
+      "document_id": "19-01",
+      "line": 22,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S010",
+      "heading": "第二部分　现有信用卡账户协议",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "19-02",
+      "line": 25,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S011",
+      "heading": "第一部分　使用账户",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "19-02",
+      "line": 28,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S012",
+      "heading": "第二部分　交易及其他账户活动",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "19-02",
+      "line": 50,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S013",
+      "heading": "第三部分　费用与利息",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "19-02",
+      "line": 60,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S014",
+      "heading": "第四部分　付款与处理",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "19-02",
+      "line": 75,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S015",
+      "heading": "第五部分　联系方式与资料",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "19-02",
+      "line": 87,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S016",
+      "heading": "第六部分　协议一般法律条款",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "19-02",
+      "line": 95,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S017",
+      "heading": "第六部分续　争议解决计划——仲裁协议",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "19-02",
+      "line": 102,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S018",
+      "heading": "账单权利",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "19-02",
+      "line": 116,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S019",
+      "heading": "对信用卡购买不满意的权利",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "19-02",
+      "line": 124,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S020",
+      "heading": "现役军人及家属",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "19-02",
+      "line": 128,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S021",
+      "heading": "口译员认证",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "19-02",
+      "line": 131,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    }
+  ],
+  "research_settings": {
+    "file": "account_record.txt",
+    "section": "本次账户资料及办理记录",
+    "provenance": "案例参数、补充产品机制及研究控制的区别见Notes",
+    "sha256": "b04d6f9e6ae6780bab6397809c0de6071ec17f8662acbf562f6713d2992eafc5"
+  },
+  "rendering": "native_xelatex",
+  "pages": 9,
+  "qa_status": "text_and_layout_checked",
+  "material_sha256": "4753b54eda248347fdce50638fa47432731868ff9f5d425425cb976d17972e5f",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "19-01",
+      "title": "个人贷款办理及费用资料",
+      "pdf": "19-01_个人贷款办理及费用资料.pdf",
+      "content_source": "reference.txt",
+      "start_line": 3,
+      "end_line": 24,
+      "leading_source_heading": "第一部分　个人贷款办理及费用资料",
+      "headings": {
+        "个人贷款": {
+          "level": 1
+        },
+        "办理步骤": {
+          "level": 1
+        },
+        "APR是什么": {
+          "level": 1
+        },
+        "费用": {
+          "level": 1
+        },
+        "放款费用与到手金额": {
+          "level": 1
+        },
+        "信用查询及资格": {
+          "level": 1
+        },
+        "提前付款": {
+          "level": 1
+        },
+        "在线账户": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "2",
+        "3"
+      ],
+      "content_sha256": "42fe3f2ad88d7fdc702768c33f19ab620a6b4ebfcf66be467100d61b02be1d3d",
+      "pages": 2,
+      "pdf_sha256": "316214482fb752cb19014c7c402acddb87b31e57cae40d6550af1a2dcd7cacee",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/19-01_个人贷款办理及费用资料.tex",
+      "latex_sha256": "e61ed206021767027fc2b133d61384665aec050c64f8d85c57f0e8328bb94049"
+    },
+    {
+      "document_number": "02",
+      "document_id": "19-02",
+      "title": "现有信用卡账户协议",
+      "pdf": "19-02_现有信用卡账户协议.pdf",
+      "content_source": "reference.txt",
+      "start_line": 24,
+      "end_line": 135,
+      "leading_source_heading": "第二部分　现有信用卡账户协议",
+      "headings": {
+        "第一部分　使用账户": {
+          "level": 1
+        },
+        "第二部分　交易及其他账户活动": {
+          "level": 1
+        },
+        "第三部分　费用与利息": {
+          "level": 1
+        },
+        "第四部分　付款与处理": {
+          "level": 1
+        },
+        "第五部分　联系方式与资料": {
+          "level": 1
+        },
+        "第六部分　协议一般法律条款": {
+          "level": 1
+        },
+        "第六部分续　争议解决计划——仲裁协议": {
+          "level": 1
+        },
+        "账单权利": {
+          "level": 2
+        },
+        "对信用卡购买不满意的权利": {
+          "level": 2
+        },
+        "现役军人及家属": {
+          "level": 2
+        },
+        "口译员认证": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "5"
+      ],
+      "content_sha256": "2fe2fbca1548913de899374bd289f914aa24cc7af299709438b762c1a174f245",
+      "pages": 7,
+      "pdf_sha256": "f04a70c9c873b3658ed2f6e8468f4ce2b00d1db0bb1650a8ee8ccb669d05bd1a",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "24": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/19-02_现有信用卡账户协议.tex",
+      "latex_sha256": "fdd62b5400245bb36000ce2c4722418c9d7ad4a9e2cfa9d9a1871b5096325dcb"
+    }
+  ],
+  "pdf_files": [
+    "19-01_个人贷款办理及费用资料.pdf",
+    "19-02_现有信用卡账户协议.pdf"
+  ],
+  "pages_definition": "各独立PDF页数之和；不存在现行合并PDF。",
+  "document_manifest": "pdf_documents.json",
+  "heading_levels": 3,
+  "scenario_confirmation_location": "19_LendingClub_Debt_Consolidation_Material.md — 场景信息／本次账户及办理条件",
+  "document_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "d5761c2eaa300e2dddb5eecc587ae843032076f75518c00da1f950dc3724cb4a",
+    "current_sha256": "57172f1773b658dd8e6080b6e136f7088f117514d571d4e46779890142fbfb68",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_widths": "content_adaptive",
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "participant_document_cleanup": "仅保留页面顶部文件主标题；不呈现不适用于匿名模拟资料的监管审批、刑事法律与行政表格声明；原始来源及译文底稿保留。",
+  "heading_hierarchy_policy": "文件名称为主标题；独立文书的主要章节为一级标题，章节内主题为二级标题，主题下的小节为三级标题；编号问题及其回答按正文问题排版，不能仅因数字前缀提升为章节标题。",
+  "pdf_directory": "../../cases/19_Debt_Consolidation"
+}

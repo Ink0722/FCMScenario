@@ -1,0 +1,39 @@
+{
+  "case": 18,
+  "independent_documents": 3,
+  "documents": [
+    {
+      "document_id": "18-01",
+      "pdf": "18-01_消费者信用卡客户协议.pdf",
+      "pages": 7,
+      "text_checks": 105,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "e3d3021506c4055004e420ba4c1086fcab2659b56d4e14a3f1501d0a44cb029e",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "18-02",
+      "pdf": "18-02_日常返现卡奖励附录.pdf",
+      "pages": 2,
+      "text_checks": 18,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "b61b3dbddfbb22826e7b8f77da358d1b968a124a98f7b72adbe9dd650fe2ced3",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "18-03",
+      "pdf": "18-03_分类积分卡奖励附录.pdf",
+      "pages": 2,
+      "text_checks": 27,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "62b1e005e2c51d8606268c1a5af4e1478573e31cf405fa83af50d4c4b9c71dcf",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked"
+}

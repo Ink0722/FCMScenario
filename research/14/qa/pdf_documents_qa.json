@@ -1,0 +1,29 @@
+{
+  "case": 14,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "14-01",
+      "pdf": "14-01_一般暂缓还款申请.pdf",
+      "pages": 4,
+      "text_checks": 72,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "fb24cb3286d5986d3ad754031217630d09ba8c3f5689ae8b5eac60d6e44175ec",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "14-02",
+      "pdf": "14-02_失业延期还款申请.pdf",
+      "pages": 4,
+      "text_checks": 78,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "d234262fc3b481a947b585f7cab0582f52916e1c6c3270aea589c5b7f69f3003",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked"
+}

@@ -1,0 +1,44 @@
+{
+  "case": 11,
+  "pages": 6,
+  "paragraphs_checked": 80,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_layout_review": "passed",
+  "checked_date": "2026-10-06",
+  "participant_links_checked": true,
+  "source_manifest_hashes_checked": true,
+  "decision_criteria_preserved": true,
+  "material_sha256": "64e121af80dd8a60875f7aad0d43ace150cf7c15b1c3d9550cfb55d371936cd0",
+  "notes_sha256": "e13b0985fb32a1956aa89a8361383927146d757048ce969c645b38425e5f0aba",
+  "documents": [
+    {
+      "document_id": "11-01",
+      "pdf": "11-01_固定利率借据A.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "355859d99438a59ccee48b54c35963617513c0654a7ffb2cff9ee2ef0a39b299",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "11-02",
+      "pdf": "11-02_固定利率借据B.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "fcef294852fb829696f9be965d9a5201dcb68d2f24142d125f7c1533aad8177a",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 2,
+  "qa_status": "text_and_layout_checked",
+  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
+  "current_report": "qa/pdf_documents_qa.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

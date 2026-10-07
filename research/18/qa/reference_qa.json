@@ -1,0 +1,54 @@
+{
+  "case": 18,
+  "pages": 11,
+  "paragraphs_checked": 150,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_layout_review": "passed",
+  "checked_date": "2026-10-06",
+  "participant_links_checked": true,
+  "source_manifest_hashes_checked": true,
+  "decision_criteria_preserved": true,
+  "material_sha256": "c700b645ec86d9a876abbe8a51b95fa0f70e4ed8eddccb31f35519a0c8ec606d",
+  "notes_sha256": "40dfcd1a183958a2a6708c2845010b0bef601b8b3d1182a5bba813af92f7d131",
+  "documents": [
+    {
+      "document_id": "18-01",
+      "pdf": "18-01_消费者信用卡客户协议.pdf",
+      "pages": 7,
+      "text_checks": 105,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "e3d3021506c4055004e420ba4c1086fcab2659b56d4e14a3f1501d0a44cb029e",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "18-02",
+      "pdf": "18-02_日常返现卡奖励附录.pdf",
+      "pages": 2,
+      "text_checks": 18,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "b61b3dbddfbb22826e7b8f77da358d1b968a124a98f7b72adbe9dd650fe2ced3",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "18-03",
+      "pdf": "18-03_分类积分卡奖励附录.pdf",
+      "pages": 2,
+      "text_checks": 27,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "62b1e005e2c51d8606268c1a5af4e1478573e31cf405fa83af50d4c4b9c71dcf",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 3,
+  "qa_status": "text_and_layout_checked",
+  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
+  "current_report": "qa/pdf_documents_qa.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

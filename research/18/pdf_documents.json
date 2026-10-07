@@ -1,0 +1,173 @@
+{
+  "case_number": "18",
+  "case_name": "信用卡奖励：统一返现还是分类积分",
+  "scenario_id": "S-AMX-RWD-01",
+  "style": "content_sized_centered_tables_financial_typography_v3",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "18-01",
+      "title": "消费者信用卡客户协议",
+      "pdf": "18-01_消费者信用卡客户协议.pdf",
+      "content_source": "reference.txt",
+      "start_line": 3,
+      "end_line": 113,
+      "leading_source_heading": "第一部分　消费者信用卡客户协议",
+      "headings": {
+        "第一部分　使用账户": {
+          "level": 1
+        },
+        "第二部分　交易及其他账户活动": {
+          "level": 1
+        },
+        "第三部分　费用与利息": {
+          "level": 1
+        },
+        "第四部分　付款与处理": {
+          "level": 1
+        },
+        "第五部分　联系方式与资料": {
+          "level": 1
+        },
+        "第六部分　协议一般法律条款": {
+          "level": 1
+        },
+        "第六部分续　争议解决计划——仲裁协议": {
+          "level": 1
+        },
+        "账单权利": {
+          "level": 2
+        },
+        "对信用卡购买不满意的权利": {
+          "level": 2
+        },
+        "现役军人及家属": {
+          "level": 2
+        },
+        "口译员认证": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "6",
+        "7"
+      ],
+      "content_sha256": "429bb714a48d43338c1ed269584d38b1fbd802467f791e14ce623296683a6614",
+      "pages": 7,
+      "pdf_sha256": "e3d3021506c4055004e420ba4c1086fcab2659b56d4e14a3f1501d0a44cb029e",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/18-01_消费者信用卡客户协议.tex",
+      "latex_sha256": "fc2780849e8eac0a2d6456da470e44c7779738d77693ab6cbe8bc48bc90a939a"
+    },
+    {
+      "document_number": "02",
+      "document_id": "18-02",
+      "title": "日常返现卡奖励附录",
+      "pdf": "18-02_日常返现卡奖励附录.pdf",
+      "content_source": "reference.txt",
+      "start_line": 113,
+      "end_line": 135,
+      "leading_source_heading": "第二部分　日常返现卡奖励附录",
+      "headings": {
+        "参加、奖励记录与限制": {
+          "level": 1
+        },
+        "不取得奖励的交易": {
+          "level": 1
+        },
+        "退货与负余额": {
+          "level": 1
+        },
+        "有效期与兑换": {
+          "level": 1
+        },
+        "修改、暂停或取消": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "2"
+      ],
+      "content_sha256": "d73b84a53689402059a83ce868f7614b11eefb4fb5f9f015304108f700012370",
+      "pages": 2,
+      "pdf_sha256": "b61b3dbddfbb22826e7b8f77da358d1b968a124a98f7b72adbe9dd650fe2ced3",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "113": "正文开头重复文书标题，文件主标题已列于页面顶部",
+        "115": "重复文件名称或其缩写标题"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/18-02_日常返现卡奖励附录.tex",
+      "latex_sha256": "e8b91e9a6e591d984b8b03f77ec2a3ff23dd728b3986064540490529df8d6e94"
+    },
+    {
+      "document_number": "03",
+      "document_id": "18-03",
+      "title": "分类积分卡奖励附录",
+      "pdf": "18-03_分类积分卡奖励附录.pdf",
+      "content_source": "reference.txt",
+      "start_line": 135,
+      "end_line": 167,
+      "leading_source_heading": "第三部分　分类积分卡奖励附录",
+      "headings": {
+        "积分伙伴转移": {
+          "level": 1
+        },
+        "参加、奖励记录与限制": {
+          "level": 1
+        },
+        "不取得奖励的交易": {
+          "level": 1
+        },
+        "退货与负余额": {
+          "level": 1
+        },
+        "有效期与兑换": {
+          "level": 1
+        },
+        "修改、暂停或取消": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "1862ea83ae93d7a1bda129c28a10710936e7c855a9d99bd852fb7a58cfb07864",
+      "pages": 2,
+      "pdf_sha256": "62b1e005e2c51d8606268c1a5af4e1478573e31cf405fa83af50d4c4b9c71dcf",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "135": "正文开头重复文书标题，文件主标题已列于页面顶部",
+        "137": "重复文件名称或其缩写标题"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/18-03_分类积分卡奖励附录.tex",
+      "latex_sha256": "d7467aa0b4f170079551989bb986a93321f90aedfd7c2d6ec5c1445fa8327450"
+    }
+  ],
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",
+  "content_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "bc45ceb08679b7f9e4fae88de7dd14b86f6974cfda5a4f01c4d27db97bfedf52",
+    "current_sha256": "5091983ba5d4a1bb64c9f54e8d01cddc453cce133338dde6c7ea6d09db2d0282",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "participant_document_cleanup": "仅保留页面顶部文件主标题；不呈现不适用于匿名模拟资料的监管审批、刑事法律与行政表格声明；原始来源及译文底稿保留。",
+  "qa_status": "text_and_layout_checked",
+  "heading_hierarchy_policy": "文件名称为主标题；独立文书的主要章节为一级标题，章节内主题为二级标题，主题下的小节为三级标题；编号问题及其回答按正文问题排版，不能仅因数字前缀提升为章节标题。",
+  "case_folder": "cases/18_Card_Rewards",
+  "research_folder": "research/18",
+  "editing_policy": "Formal LaTeX source is authoritative; draft generators never overwrite cases/latex.",
+  "document_manifest": "research/18/pdf_documents.json"
+}

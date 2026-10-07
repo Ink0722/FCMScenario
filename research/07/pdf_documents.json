@@ -1,0 +1,186 @@
+{
+  "case_number": "07",
+  "case_name": "学生贷款再融资：选择合并范围",
+  "scenario_id": "S-SOFI-SL-01",
+  "style": "content_sized_centered_tables_financial_typography_v3",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "07-01",
+      "title": "学生贷款再融资申请与还款披露",
+      "pdf": "07-01_学生贷款再融资申请与还款披露.pdf",
+      "content_source": "reference.txt",
+      "start_line": 3,
+      "end_line": 25,
+      "leading_source_heading": "学生贷款再融资：申请披露",
+      "headings": {
+        "学生贷款再融资还款披露": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "3",
+        "4",
+        "7",
+        "8"
+      ],
+      "content_sha256": "5f35d55bc23b097a28a7586dacf22143a34f3bdb582973de11da01ee161a0e7a",
+      "pages": 1,
+      "pdf_sha256": "80144a578c5e0014686961ca7266d22d43ce35997a02f9c499f0b4754109c0ae",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/07-01_学生贷款再融资申请与还款披露.tex",
+      "latex_sha256": "50b989944be73a1b82db2736e7bf167c77e2fb0c358f8a96061bc18919cb6f93"
+    },
+    {
+      "document_number": "02",
+      "document_id": "07-02",
+      "title": "九个月只付利息再融资产品问答",
+      "pdf": "07-02_九个月只付利息再融资产品问答.pdf",
+      "content_source": "reference.txt",
+      "start_line": 25,
+      "end_line": 95,
+      "leading_source_heading": "九个月只付利息再融资：产品问答",
+      "headings": {
+        "什么是九个月只付利息学生贷款再融资？": {
+          "level": 1
+        },
+        "如果刚毕业，还能享有六个月宽限期吗？": {
+          "level": 1
+        },
+        "能否与共同签署人一起申请？": {
+          "level": 1
+        },
+        "为什么选择这项再融资？": {
+          "level": 1
+        },
+        "选择此安排会支付更多利息吗？": {
+          "level": 1
+        },
+        "前九个月是否预付整个贷款存续期的全部利息？": {
+          "level": 1
+        },
+        "可以选择超过或少于九个月的只付利息期吗？": {
+          "level": 1
+        },
+        "标准还款与此选项看起来差别不大，有什么隐含条件？": {
+          "level": 1
+        },
+        "能否再次再融资？": {
+          "level": 1
+        },
+        "可以多付款，让本金更早减少吗？": {
+          "level": 1
+        },
+        "为什么我的产品报价中没有显示此选项？": {
+          "level": 1
+        },
+        "报价页面的贷款利率是否已经扣除会员折扣？": {
+          "level": 1
+        },
+        "此贷款是否收费？": {
+          "level": 1
+        },
+        "是否适用于所有学生贷款再融资类型？": {
+          "level": 1
+        },
+        "如何知道月付款将要增加？": {
+          "level": 1
+        },
+        "如果只付利息期结束后，无法支付更高的付款额怎么办？": {
+          "level": 1
+        }
+      },
+      "source_ids": [],
+      "content_sha256": "ed270ecbd6aa473382bc08a8bf6e73bc9562e12d9c80aff1524acba171c6c374",
+      "pages": 3,
+      "pdf_sha256": "1d4b131f35f76e935498aa211f85de1f84b4dc02dbac14e4e339fb35a22fa28f",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "25": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/07-02_九个月只付利息再融资产品问答.tex",
+      "latex_sha256": "5c498b9bd5db0773fad7c878e1294c9de12262739a0b991bc1df1d121977c00b"
+    },
+    {
+      "document_number": "03",
+      "document_id": "07-03",
+      "title": "学生贷款合并与还款资料",
+      "pdf": "07-03_学生贷款合并与还款资料.pdf",
+      "content_source": "reference.txt",
+      "start_line": 95,
+      "end_line": 260,
+      "leading_source_heading": "我应合并还是再融资学生贷款？",
+      "headings": {
+        "联邦学生贷款合并": {
+          "level": 1
+        },
+        "私人学生贷款合并或再融资": {
+          "level": 1
+        },
+        "将联邦学生贷款合并为私人合并贷款": {
+          "level": 1
+        },
+        "将联邦学生贷款合并为住房净值贷款或住房净值信用额度": {
+          "level": 1
+        },
+        "联邦学生贷款还款选项": {
+          "level": 1
+        },
+        "如果错过付款或付款过高": {
+          "level": 1
+        },
+        "如何使违约的联邦学生贷款恢复正常": {
+          "level": 1
+        },
+        "开始偿还联邦学生贷款的策略": {
+          "level": 1
+        },
+        "完成联邦学生贷款还款的策略": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "3",
+        "4",
+        "7",
+        "8"
+      ],
+      "content_sha256": "b8507e54b30462e01baac445b3dce33497ffce293cbf057c37cefe4d1d83644c",
+      "pages": 4,
+      "pdf_sha256": "9d6c61b28cf9e193897198208ddcf7f974c15ec5e89a42025ef4bce7a9938969",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "95": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/07-03_学生贷款合并与还款资料.tex",
+      "latex_sha256": "7bcd1ca117f526cf2bfe99e8a6779f0acb09a76f8a8addd6fcc66caefc27d1c3"
+    }
+  ],
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",
+  "content_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "b2ef325e5bce980934938aa9f67dd0425055e57a55a8580b15683dcf942c2a54",
+    "current_sha256": "b2ef325e5bce980934938aa9f67dd0425055e57a55a8580b15683dcf942c2a54",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "participant_document_cleanup": "仅保留页面顶部文件主标题；不呈现不适用于匿名模拟资料的监管审批、刑事法律与行政表格声明；原始来源及译文底稿保留。",
+  "qa_status": "text_and_layout_checked",
+  "heading_hierarchy_policy": "文件名称为主标题；独立文书的主要章节为一级标题，章节内主题为二级标题，主题下的小节为三级标题；编号问题及其回答按正文问题排版，不能仅因数字前缀提升为章节标题。",
+  "case_folder": "cases/07_Student_Refinance",
+  "research_folder": "research/07",
+  "editing_policy": "Formal LaTeX source is authoritative; draft generators never overwrite cases/latex.",
+  "document_manifest": "research/07/pdf_documents.json"
+}

@@ -1,0 +1,29 @@
+{
+  "case": 17,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "17-01",
+      "pdf": "17-01_固定利率借据A.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "704b5b36d14b304e188efa0b16d08dc745de4e7c4a6a0802cd11a0abf9ac87f6",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "17-02",
+      "pdf": "17-02_浮动利率借据B.pdf",
+      "pages": 4,
+      "text_checks": 60,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "1f6186359078c9ae69450bbbea9ae27015c48050cf9971cda67c01ce1042ea4a",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked"
+}

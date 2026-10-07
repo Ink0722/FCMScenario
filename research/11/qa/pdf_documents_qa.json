@@ -1,0 +1,29 @@
+{
+  "case": 11,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "11-01",
+      "pdf": "11-01_固定利率借据A.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "355859d99438a59ccee48b54c35963617513c0654a7ffb2cff9ee2ef0a39b299",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "11-02",
+      "pdf": "11-02_固定利率借据B.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "fcef294852fb829696f9be965d9a5201dcb68d2f24142d125f7c1533aad8177a",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked"
+}

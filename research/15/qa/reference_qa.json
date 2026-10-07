@@ -1,0 +1,44 @@
+{
+  "case": 15,
+  "pages": 9,
+  "paragraphs_checked": 130,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_layout_review": "passed",
+  "checked_date": "2026-10-06",
+  "participant_links_checked": true,
+  "source_manifest_hashes_checked": true,
+  "decision_criteria_preserved": true,
+  "material_sha256": "9f1e9949ca608adf750dac402d7c91ddc282c6a46419cf38017881f9d30caf31",
+  "notes_sha256": "7edc4f5fd21d297f70ec41f5ec0f703cc8996126851bd1d676ec5adf721da4a1",
+  "documents": [
+    {
+      "document_id": "15-01",
+      "pdf": "15-01_余额差额保障计划协议及披露.pdf",
+      "pages": 3,
+      "text_checks": 50,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "9e347ca2ae12a269b6d03b40b7b104d6a8cc70e8e69a241f757a3af8bb023283",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "15-02",
+      "pdf": "15-02_加州汽车保险指南.pdf",
+      "pages": 6,
+      "text_checks": 80,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "6c2c42c9fe17f27aeab28cbbaaa1249aff907faa8a0157fb132fe26824131491",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 2,
+  "qa_status": "text_and_layout_checked",
+  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
+  "current_report": "qa/pdf_documents_qa.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

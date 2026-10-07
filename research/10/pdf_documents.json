@@ -1,0 +1,307 @@
+{
+  "case_number": "10",
+  "case_name": "信用资料保护：是否增加付费监测",
+  "scenario_id": "S-CO-CM-01",
+  "style": "content_sized_centered_tables_financial_typography_v3",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "10-01",
+      "title": "信用监测会员服务资料",
+      "pdf": "10-01_信用监测会员服务资料.pdf",
+      "content_source": "reference.txt",
+      "start_line": 3,
+      "end_line": 47,
+      "leading_source_heading": "三家征信报告与监测：高级个人会员",
+      "headings": {
+        "重要信息": {
+          "level": 1
+        },
+        "您将获得的服务": {
+          "level": 1
+        },
+        "服务支持": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "content_sha256": "dd31cca9e1692a0e241bd42766722699c478acc0bd4a3819435c09c278be8c44",
+      "pages": 2,
+      "pdf_sha256": "c31bdbdbede6d954ebff87cf8c17a9a67246259a8502d8ee2098b51e2dd2557d",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/10-01_信用监测会员服务资料.tex",
+      "latex_sha256": "3bdcaec24913e18af7252bf42b7d4322b96e138dd505199baa2cdcfa22b3c9be"
+    },
+    {
+      "document_number": "02",
+      "document_id": "10-02",
+      "title": "信用监测客户协议及附件",
+      "pdf": "10-02_信用监测客户协议及附件.pdf",
+      "content_source": "reference.txt",
+      "start_line": 47,
+      "end_line": 511,
+      "leading_source_heading": "客户协议",
+      "headings": {
+        "重要信息": {
+          "level": 2
+        },
+        "5.a. 付款": {
+          "level": 2
+        },
+        "5.b. 本机构取消": {
+          "level": 2
+        },
+        "5.c. 订阅产品及取消": {
+          "level": 2
+        },
+        "5.d. 合资格订阅的临时暂停": {
+          "level": 2
+        },
+        "5.e. 非订阅产品（一次性购买）": {
+          "level": 2
+        },
+        "6. 税费": {
+          "level": 1
+        },
+        "7. 不能替代专业意见": {
+          "level": 1
+        },
+        "8. 不是信用修复机构": {
+          "level": 1
+        },
+        "9. 保密": {
+          "level": 1
+        },
+        "10. 不供未成年人使用": {
+          "level": 1
+        },
+        "11. 保证及责任免责声明": {
+          "level": 1
+        },
+        "12. 适用法律及诉讼时效": {
+          "level": 1
+        },
+        "13. 仲裁": {
+          "level": 1
+        },
+        "14. 保险": {
+          "level": 1
+        },
+        "15. 短信": {
+          "level": 1
+        },
+        "16. FICO评分版本": {
+          "level": 1
+        },
+        "18. 完整协议": {
+          "level": 1
+        },
+        "额外消费者披露": {
+          "level": 1
+        },
+        "附件A——FICO评分版本": {
+          "level": 1
+        },
+        "提醒": {
+          "level": 2
+        },
+        "附件C——身份盗用保险条款及条件": {
+          "level": 1
+        },
+        "保险限额": {
+          "level": 2
+        },
+        "损失发生时的义务": {
+          "level": 2
+        },
+        "承保范围": {
+          "level": 2
+        },
+        "身份欺诈——费用报销": {
+          "level": 2
+        },
+        "现金追回": {
+          "level": 2
+        },
+        "除外责任": {
+          "level": 2
+        },
+        "定义": {
+          "level": 2
+        },
+        "条件": {
+          "level": 2
+        },
+        "1. 同意使用条款及隐私政策": {
+          "level": 1
+        },
+        "2. 授权取得及使用您的数据、信用报告、信用评分及其他信息": {
+          "level": 1
+        },
+        "3. 通知及更新的交付": {
+          "level": 1
+        },
+        "4. 产品的使用及交付": {
+          "level": 1
+        },
+        "4.a. 本机构产品的使用": {
+          "level": 2
+        },
+        "4.b. 第三方产品": {
+          "level": 2
+        },
+        "4.c. 家庭计划的额外条款及条件": {
+          "level": 2
+        },
+        "4.c.1. 家庭计划——主要账户持有人": {
+          "level": 3
+        },
+        "4.c.2. 家庭计划——未成年子女": {
+          "level": 3
+        },
+        "4.c.3. 家庭计划——次要账户持有人": {
+          "level": 3
+        },
+        "5. 付款、取消及暂停": {
+          "level": 1
+        },
+        "17. 信用报告监测、更新评分、评分监测及提醒": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "content_sha256": "3211551d6ad25696e8044a69dc3e0026bd2ca192f8bdf97d20402f9fa5a9af4d",
+      "pages": 14,
+      "pdf_sha256": "33404c4d3bc536ec7bc928546b80fc7e2268ec4df16e466006bffdd74cf00ae9",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [
+        {
+          "header": [
+            "用途／版本",
+            "Experian",
+            "Equifax",
+            "TransUnion"
+          ],
+          "weights": [
+            0.15676708496146613,
+            0.28107763834617794,
+            0.28107763834617794,
+            0.28107763834617794
+          ]
+        },
+        {
+          "header": [
+            "保障",
+            "责任限额"
+          ],
+          "weights": [
+            0.41348775927727427,
+            0.5865122407227258
+          ]
+        }
+      ],
+      "omitted_source_lines": {
+        "47": "正文开头重复文书标题，文件主标题已列于页面顶部",
+        "63": "不适用于匿名模拟文件的监管审批或刑事法律提示"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/10-02_信用监测客户协议及附件.tex",
+      "latex_sha256": "5bae56136e6b9d30b6129090595bccacb1f6ab0094123739d6199b5afedee6af"
+    },
+    {
+      "document_number": "03",
+      "document_id": "10-03",
+      "title": "信用冻结及欺诈警示资料",
+      "pdf": "10-03_信用冻结及欺诈警示资料.pdf",
+      "content_source": "reference.txt",
+      "start_line": 511,
+      "end_line": 590,
+      "leading_source_heading": "信用冻结及欺诈警示",
+      "headings": {
+        "有关信用冻结": {
+          "level": 1
+        },
+        "信用冻结": {
+          "level": 2
+        },
+        "有关欺诈警示": {
+          "level": 1
+        },
+        "初始欺诈警示": {
+          "level": 2
+        },
+        "延长欺诈警示": {
+          "level": 2
+        },
+        "现役军人警示": {
+          "level": 2
+        },
+        "现役军人及国民警卫队成员的免费信用监测": {
+          "level": 2
+        },
+        "冻结子女信用": {
+          "level": 2
+        },
+        "取得免费报告": {
+          "level": 1
+        },
+        "信用报告取得渠道": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "content_sha256": "e52e127adf0c5c3adf8c841513ce5e3a09f7d632e280258efe91b7a5d032b69a",
+      "pages": 3,
+      "pdf_sha256": "18ce9710831b7e69d9c9d8156c5937b0e4d4fcdbfecea362fa87e2765dd3bec2",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "511": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/10-03_信用冻结及欺诈警示资料.tex",
+      "latex_sha256": "ae1e7c65015aceddc9a12961775b4aafc73b6d25effab11e7cd17314c79821c1"
+    }
+  ],
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",
+  "content_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "8591cfcc03ff013554d63bb4134496756619f9bd45930afd95010304f43de891",
+    "current_sha256": "5ab496e92ffcc437dfaebcef7d754ada14984ed7e046c1af9f1da37a18721a6a",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "participant_document_cleanup": "仅保留页面顶部文件主标题；不呈现不适用于匿名模拟资料的监管审批、刑事法律与行政表格声明；原始来源及译文底稿保留。",
+  "qa_status": "text_and_layout_checked",
+  "heading_hierarchy_policy": "文件名称为主标题；独立文书的主要章节为一级标题，章节内主题为二级标题，主题下的小节为三级标题；编号问题及其回答按正文问题排版，不能仅因数字前缀提升为章节标题。",
+  "case_folder": "cases/10_Credit_Monitoring",
+  "research_folder": "research/10",
+  "editing_policy": "Formal LaTeX source is authoritative; draft generators never overwrite cases/latex.",
+  "document_manifest": "research/10/pdf_documents.json"
+}

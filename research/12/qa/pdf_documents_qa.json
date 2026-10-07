@@ -1,0 +1,29 @@
+{
+  "case": 12,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "12-01",
+      "pdf": "12-01_第三方付款服务登记及授权条款.pdf",
+      "pages": 1,
+      "text_checks": 12,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "b92bcb6be180127166c9f461603bdf764e57dcbd7dd9f72b1325d5934e635afe",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "12-02",
+      "pdf": "12-02_贷款机构付款资料.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "c749a7a501603ff5b66f1e41ea14a19a1cb4bc8efa9312a6ca436b86006f323d",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked"
+}

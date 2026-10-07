@@ -1,0 +1,275 @@
+{
+  "case_number": "09",
+  "case_name": "消费融资选择：较长优惠期与不同计息规则",
+  "scenario_id": "S-CC-PROMO-01",
+  "style": "content_sized_centered_tables_financial_typography_v3",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "09-01",
+      "title": "商户合作融资卡账户协议",
+      "pdf": "09-01_商户合作融资卡账户协议.pdf",
+      "content_source": "reference.txt",
+      "start_line": 3,
+      "end_line": 203,
+      "leading_source_heading": "商户合作融资卡账户协议",
+      "headings": {
+        "第一部分：利率及费用表": {
+          "level": 1
+        },
+        "第二部分：利率、费用及付款信息": {
+          "level": 1
+        },
+        "利息的计算": {
+          "level": 2
+        },
+        "费用的适用": {
+          "level": 2
+        },
+        "最低付款的计算": {
+          "level": 2
+        },
+        "特别促销融资信息": {
+          "level": 2
+        },
+        "第三部分：标准条款": {
+          "level": 1
+        },
+        "信用卡账户协议": {
+          "level": 2
+        },
+        "账户与卡的使用": {
+          "level": 2
+        },
+        "付款时间与方法": {
+          "level": 2
+        },
+        "客户信息": {
+          "level": 2
+        },
+        "账户其他重要信息": {
+          "level": 2
+        },
+        "协议其他重要信息": {
+          "level": 2
+        },
+        "通过仲裁解决争议": {
+          "level": 2
+        },
+        "第四部分：其他重要信息": {
+          "level": 1
+        },
+        "现役军人及其家属通知": {
+          "level": 2
+        },
+        "各州通知": {
+          "level": 2
+        },
+        "账单权利": {
+          "level": 2
+        },
+        "对购买商品或服务不满意的权利": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "895dfd225d30eb057658e0c1d3dc795131634333a447f65aa69db89d53d222a2",
+      "pages": 7,
+      "pdf_sha256": "36fed753f881c3e1ef48a5e3f225c2be227d31f761a248292cc3f3a7821a69b5",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [
+        {
+          "header": [
+            "利率及利息费用项目",
+            "条款"
+          ],
+          "weights": [
+            0.2300719049821885,
+            0.7699280950178116
+          ]
+        }
+      ],
+      "omitted_source_lines": {
+        "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/09-01_商户合作融资卡账户协议.tex",
+      "latex_sha256": "a4b757451b48984a9bb74c724ccca721968d8184f6611cbe11a04d7b0af8e7bc"
+    },
+    {
+      "document_number": "02",
+      "document_id": "09-02",
+      "title": "个人信息隐私通知",
+      "pdf": "09-02_个人信息隐私通知.pdf",
+      "content_source": "reference.txt",
+      "start_line": 203,
+      "end_line": 235,
+      "leading_source_heading": "隐私政策",
+      "headings": {
+        "银行如何处理个人信息": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "041f7ca6b65fecb778311758cd6de61c8eb56695bef9d9aced98569bffad2316",
+      "pages": 2,
+      "pdf_sha256": "43fa138f023547a3a053947ffb2024e458444d1b1c20239f1ebc4e3de1034100",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [
+        {
+          "header": [
+            "共享理由",
+            "是否共享",
+            "是否可限制"
+          ],
+          "weights": [
+            0.6326406161196306,
+            0.18367969194018466,
+            0.18367969194018466
+          ]
+        }
+      ],
+      "omitted_source_lines": {
+        "203": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/09-02_个人信息隐私通知.tex",
+      "latex_sha256": "6422b67c36f91b43dafedb08be61fbcc1304cd2b840ca18da5a73aa308cf8872"
+    },
+    {
+      "document_number": "03",
+      "document_id": "09-03",
+      "title": "通用购买优惠卡定价条款",
+      "pdf": "09-03_通用购买优惠卡定价条款.pdf",
+      "content_source": "reference.txt",
+      "start_line": 235,
+      "end_line": 283,
+      "leading_source_heading": "通用购买优惠卡：定价信息",
+      "headings": {
+        "利率及利息收费": {
+          "level": 1
+        },
+        "费用": {
+          "level": 1
+        },
+        "军人贷款法通知": {
+          "level": 1
+        },
+        "条款与条件": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "156435186943428a343f4631b402b88a5ef07c801ad0cd8c3d611efb767a950b",
+      "pages": 2,
+      "pdf_sha256": "6f5ec222fb26fdc53ccafdfa3af27c5129a5aa25f538eeea96417a95c36e9094",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "235": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/09-03_通用购买优惠卡定价条款.tex",
+      "latex_sha256": "07551a8d1271de332abb9470698fee299cdcd85252a743e7cc36471c12238b1e"
+    },
+    {
+      "document_number": "04",
+      "document_id": "09-04",
+      "title": "通用购买优惠卡奖励计划协议",
+      "pdf": "09-04_通用购买优惠卡奖励计划协议.pdf",
+      "content_source": "reference.txt",
+      "start_line": 283,
+      "end_line": 396,
+      "leading_source_heading": "通用购买优惠卡：奖励计划协议",
+      "headings": {
+        "关于本计划及协议的重要信息": {
+          "level": 1
+        },
+        "变更通知": {
+          "level": 1
+        },
+        "如何取得点数": {
+          "level": 1
+        },
+        "额外点数方式": {
+          "level": 1
+        },
+        "点数取得及可用性的其他信息": {
+          "level": 1
+        },
+        "如何使用点数": {
+          "level": 1
+        },
+        "现金": {
+          "level": 2
+        },
+        "礼品卡": {
+          "level": 2
+        },
+        "旅行": {
+          "level": 2
+        },
+        "以点数支付商品及服务": {
+          "level": 2
+        },
+        "与其他奖励卡合并点数": {
+          "level": 2
+        },
+        "何时可能不能取得或使用点数": {
+          "level": 1
+        },
+        "何时会失去点数": {
+          "level": 1
+        },
+        "其他重要信息": {
+          "level": 1
+        },
+        "通讯": {
+          "level": 2
+        },
+        "电话监听": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "3156a0730ba61fe2b6a12c16ef4286c8ce01328bc6cfcc9c4c227b9b3f1d4d8e",
+      "pages": 5,
+      "pdf_sha256": "c23d0c6355f715c42c0258f5289722f475b8f91198df4dd171b908881da210b6",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "283": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/09-04_通用购买优惠卡奖励计划协议.tex",
+      "latex_sha256": "e7c56f8d1304c9b6265337b0fd8e91c4c8244c9ccde0cb939df2266a1a1092e4"
+    }
+  ],
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",
+  "content_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "ccaf4066b92d0d323ce983bcda5ab9031fd0b1f42947859bb4b82ad913c1d125",
+    "current_sha256": "ccaf4066b92d0d323ce983bcda5ab9031fd0b1f42947859bb4b82ad913c1d125",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "participant_document_cleanup": "仅保留页面顶部文件主标题；不呈现不适用于匿名模拟资料的监管审批、刑事法律与行政表格声明；原始来源及译文底稿保留。",
+  "qa_status": "text_and_layout_checked",
+  "heading_hierarchy_policy": "文件名称为主标题；独立文书的主要章节为一级标题，章节内主题为二级标题，主题下的小节为三级标题；编号问题及其回答按正文问题排版，不能仅因数字前缀提升为章节标题。",
+  "case_folder": "cases/09_Promo_Financing",
+  "research_folder": "research/09",
+  "editing_policy": "Formal LaTeX source is authoritative; draft generators never overwrite cases/latex.",
+  "document_manifest": "research/09/pdf_documents.json"
+}

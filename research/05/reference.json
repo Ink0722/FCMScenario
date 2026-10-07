@@ -1,0 +1,496 @@
+{
+  "case_folder": "cases/05_Account_Fees",
+  "title": "顾问基金账户披露手册及经纪收费表",
+  "status": "source_document_rebuild",
+  "language": "zh-CN",
+  "rendering": "native_xelatex",
+  "reference_file": "reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "expanded_adapted_source_documents",
+    "not_a_complete_certified_translation": true,
+    "chapters_in_original_order": true,
+    "account_confirmations": "Material.md — 本次账户及办理确认",
+    "source_localization": "各章来源与删改边界见Notes第3节。机构匿名及本次资格设定未声称出自真实原案。",
+    "documents": [
+      {
+        "document": "顾问项目披露手册",
+        "source_ids": "[5]",
+        "adopted_scope": "第4项服务及费用、第5项资格、第6项选择及风险、第7项客户信息、第8项联系、第9项账户审查、附录A关联基金",
+        "omission_or_verification_boundary": "删除封面、版本变更说明和纪律处分；第9项未采用机构法人清单、伦理和转介全文。采用章节有中文译写，未完成21页逐句校勘。"
+      },
+      {
+        "document": "收费表",
+        "source_ids": "[2][3][4]",
+        "adopted_scope": "股票及ETF各佣金档、项目与平台费用档、处理费及计费方法",
+        "omission_or_verification_boundary": "本次免其他费及排除合并、折扣等条件属于Material中的研究设定。"
+      }
+    ],
+    "translation_review": "扩展中文译写；尚未全部逐句校勘；不标为整份原件全文译本"
+  },
+  "removed_content": [
+    "封面及广告导航",
+    "监管结论、涉案人物、销售培训、执法经过",
+    "不适用类别、重复语言版本及注册申报附件；具体范围见Notes",
+    "研究者摘要、推荐答案及跨选项综合比较表"
+  ],
+  "adaptation_policy": "Preserve adopted document and chapter order; no researcher summary or cross-option comparison table; anonymous institution names; experimental account facts in Material only.",
+  "content_sha256": "28afdfa415258ba444f6e4d6ab2514db73016eb36922378d1f7966dda3fc8279",
+  "sections": [
+    {
+      "id": "S001",
+      "heading": "顾问基金账户项目披露手册",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 4,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S002",
+      "heading": "第4项：服务、费用及报酬",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 6,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S003",
+      "heading": "顾问基金账户项目概述",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 20,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S004",
+      "heading": "合资格投资与账户入资",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 30,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S005",
+      "heading": "投资重新分类与目标调整",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 42,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S006",
+      "heading": "再平衡",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 48,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S007",
+      "heading": "经纪服务与交易合并",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 56,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S008",
+      "heading": "交易分配与交易错误",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 66,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S009",
+      "heading": "证券抵押信用额度",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 74,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S010",
+      "heading": "退出顾问基金账户",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 82,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S011",
+      "heading": "费用及支出的计算与支付",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 90,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S012",
+      "heading": "计费组与折扣",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 108,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S013",
+      "heading": "费用的扣收",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 118,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S014",
+      "heading": "不包含在项目费用中的其他费用",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 122,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S015",
+      "heading": "财务顾问报酬",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 128,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S016",
+      "heading": "成本、支出及服务的比较",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 142,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S017",
+      "heading": "第5项：账户要求及客户类型",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 148,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S018",
+      "heading": "第6项：顾问基金账户投资选择及评估",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 158,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S019",
+      "heading": "按表现收费及并行管理",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 162,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S020",
+      "heading": "分析方法、投资策略及损失风险",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 166,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S021",
+      "heading": "损失风险",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 178,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S022",
+      "heading": "代理投票",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 223,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S023",
+      "heading": "法律通知",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 227,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S024",
+      "heading": "第7项：客户向机构提供的信息",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 231,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S025",
+      "heading": "第8项：客户与机构联系",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 235,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S026",
+      "heading": "第9项：其他信息——账户审查",
+      "source_ids": [
+        "5"
+      ],
+      "document_id": "05-01",
+      "line": 239,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S027",
+      "heading": "经纪账户股票与ETF佣金表",
+      "source_ids": [
+        "2",
+        "3"
+      ],
+      "document_id": "05-02",
+      "line": 259,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    }
+  ],
+  "research_settings": {
+    "file": "material.md",
+    "section": "本次账户及办理确认",
+    "provenance": "既有场景研究设定；非官方原件合同确认",
+    "text_sha256": "11c3e1722628159772ae15f1c5369ead0503b60ad6ff9189db6d9e5b6f7f1912"
+  },
+  "qa_status": "text_and_layout_checked",
+  "pages": 11,
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "05-01",
+      "title": "顾问基金账户项目披露手册",
+      "pdf": "05-01_顾问基金账户项目披露手册.pdf",
+      "content_source": "reference.txt",
+      "start_line": 3,
+      "end_line": 258,
+      "leading_source_heading": "顾问基金账户项目披露手册",
+      "headings": {
+        "第4项：服务、费用及报酬": {
+          "level": 1
+        },
+        "顾问基金账户项目概述": {
+          "level": 2
+        },
+        "合资格投资与账户入资": {
+          "level": 2
+        },
+        "投资重新分类与目标调整": {
+          "level": 2
+        },
+        "再平衡": {
+          "level": 2
+        },
+        "经纪服务与交易合并": {
+          "level": 2
+        },
+        "交易分配与交易错误": {
+          "level": 2
+        },
+        "证券抵押信用额度": {
+          "level": 2
+        },
+        "退出顾问基金账户": {
+          "level": 2
+        },
+        "费用及支出的计算与支付": {
+          "level": 2
+        },
+        "计费组与折扣": {
+          "level": 2
+        },
+        "费用的扣收": {
+          "level": 2
+        },
+        "不包含在项目费用中的其他费用": {
+          "level": 2
+        },
+        "财务顾问报酬": {
+          "level": 2
+        },
+        "成本、支出及服务的比较": {
+          "level": 2
+        },
+        "第5项：账户要求及客户类型": {
+          "level": 1
+        },
+        "第6项：顾问基金账户投资选择及评估": {
+          "level": 1
+        },
+        "按表现收费及并行管理": {
+          "level": 2
+        },
+        "分析方法、投资策略及损失风险": {
+          "level": 2
+        },
+        "损失风险": {
+          "level": 2
+        },
+        "代理投票": {
+          "level": 2
+        },
+        "法律通知": {
+          "level": 2
+        },
+        "第7项：客户向机构提供的信息": {
+          "level": 1
+        },
+        "第8项：客户与机构联系": {
+          "level": 1
+        },
+        "第9项：其他信息——账户审查": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "5"
+      ],
+      "content_sha256": "02e8cf0b0f3135246b180a5b018e8ad9da2a8f42ea4cbc912b2b26cb4012c5ba",
+      "pages": 10,
+      "pdf_sha256": "eacc1631265445d53de2cfdd83e38f865791d9753c200c5b4fcc93b4cffc575e",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [
+        {
+          "header": [
+            "资产中的部分",
+            "年项目服务费率",
+            "年平台费率"
+          ],
+          "weights": [
+            0.530741032144596,
+            0.23462948392770194,
+            0.23462948392770194
+          ]
+        }
+      ],
+      "omitted_source_lines": {
+        "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/05-01_顾问基金账户项目披露手册.tex",
+      "latex_sha256": "6e34cf4ccdbebf77cffec45fad3255a333e28d3a2c2facc156594fa04565f068"
+    },
+    {
+      "document_number": "02",
+      "document_id": "05-02",
+      "title": "经纪账户股票与ETF佣金表",
+      "pdf": "05-02_经纪账户股票与ETF佣金表.pdf",
+      "content_source": "reference.txt",
+      "start_line": 258,
+      "end_line": 274,
+      "leading_source_heading": "经纪账户股票与ETF佣金表",
+      "headings": {},
+      "source_ids": [
+        "2",
+        "3"
+      ],
+      "content_sha256": "e57ee95db438166b0c9868cbf2cbf5f7b421769fb679f3617ed5becd1e340796",
+      "pages": 1,
+      "pdf_sha256": "6c217547c9c4b29001dc06cff4932b6fc2846574275164b77ddae17a2f99ebe8",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [
+        {
+          "header": [
+            "单笔交易本金",
+            "佣金"
+          ],
+          "weights": [
+            0.5,
+            0.5
+          ]
+        }
+      ],
+      "omitted_source_lines": {
+        "258": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/05-02_经纪账户股票与ETF佣金表.tex",
+      "latex_sha256": "0d20f4334f667126ff4370cb3089976ab0901549f939b2d24fe03e698a1c0b3f"
+    }
+  ],
+  "pdf_files": [
+    "05-01_顾问基金账户项目披露手册.pdf",
+    "05-02_经纪账户股票与ETF佣金表.pdf"
+  ],
+  "pages_definition": "各独立PDF页数之和；不存在现行合并PDF。",
+  "document_manifest": "pdf_documents.json",
+  "heading_levels": 3,
+  "material_sha256": "9602a074f235fd62185273eb3aaf123c1c09d0a3254f7fbb9011c09e13770fca",
+  "scenario_confirmation_location": "05_WaddellReed_Account_Pricing_1Y_Material.md — 场景信息／本次账户及办理条件",
+  "document_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "28afdfa415258ba444f6e4d6ab2514db73016eb36922378d1f7966dda3fc8279",
+    "current_sha256": "28afdfa415258ba444f6e4d6ab2514db73016eb36922378d1f7966dda3fc8279",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_widths": "content_adaptive",
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "participant_document_cleanup": "仅保留页面顶部文件主标题；不呈现不适用于匿名模拟资料的监管审批、刑事法律与行政表格声明；原始来源及译文底稿保留。",
+  "heading_hierarchy_policy": "文件名称为主标题；独立文书的主要章节为一级标题，章节内主题为二级标题，主题下的小节为三级标题；编号问题及其回答按正文问题排版，不能仅因数字前缀提升为章节标题。",
+  "pdf_directory": "../../cases/05_Account_Fees"
+}

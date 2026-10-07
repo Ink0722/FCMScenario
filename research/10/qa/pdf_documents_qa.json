@@ -1,0 +1,39 @@
+{
+  "case": 10,
+  "independent_documents": 3,
+  "documents": [
+    {
+      "document_id": "10-01",
+      "pdf": "10-01_信用监测会员服务资料.pdf",
+      "pages": 2,
+      "text_checks": 21,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "c31bdbdbede6d954ebff87cf8c17a9a67246259a8502d8ee2098b51e2dd2557d",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "10-02",
+      "pdf": "10-02_信用监测客户协议及附件.pdf",
+      "pages": 14,
+      "text_checks": 254,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "33404c4d3bc536ec7bc928546b80fc7e2268ec4df16e466006bffdd74cf00ae9",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "10-03",
+      "pdf": "10-03_信用冻结及欺诈警示资料.pdf",
+      "pages": 3,
+      "text_checks": 39,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "18ce9710831b7e69d9c9d8156c5937b0e4d4fcdbfecea362fa87e2765dd3bec2",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked"
+}

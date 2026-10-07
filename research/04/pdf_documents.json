@@ -1,0 +1,266 @@
+{
+  "case_number": "04",
+  "case_name": "UIT持仓安排：保留旧一期或合并购买新一期",
+  "scenario_id": "S-MS-UIT-01",
+  "style": "content_sized_centered_tables_financial_typography_v3",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "04-01",
+      "title": "单位投资信托招募说明书",
+      "pdf": "04-01_单位投资信托招募说明书.pdf",
+      "content_source": "reference.txt",
+      "start_line": 3,
+      "end_line": 381,
+      "leading_source_heading": null,
+      "headings": {
+        "基本信息": {
+          "level": 2
+        },
+        "费用表": {
+          "level": 2
+        },
+        "分配": {
+          "level": 2
+        },
+        "单位购买及赎回": {
+          "level": 2
+        },
+        "组织": {
+          "level": 2
+        },
+        "单位": {
+          "level": 2
+        },
+        "购买单位": {
+          "level": 2
+        },
+        "公开发行价格": {
+          "level": 3
+        },
+        "组织费用": {
+          "level": 3
+        },
+        "交易销售费": {
+          "level": 3
+        },
+        "初次销售费": {
+          "level": 3
+        },
+        "递延销售费": {
+          "level": 3
+        },
+        "销售费用减免": {
+          "level": 3
+        },
+        "大额购买": {
+          "level": 3
+        },
+        "顾问及按资产收费账户": {
+          "level": 3
+        },
+        "替换或滚存选项": {
+          "level": 3
+        },
+        "员工": {
+          "level": 3
+        },
+        "股息再投资计划": {
+          "level": 3
+        },
+        "单位分销": {
+          "level": 3
+        },
+        "其他报酬及福利": {
+          "level": 3
+        },
+        "销售商利润": {
+          "level": 3
+        },
+        "发起人利润": {
+          "level": 3
+        },
+        "单位市场": {
+          "level": 3
+        },
+        "出售单位": {
+          "level": 3
+        },
+        "赎回": {
+          "level": 3
+        },
+        "发行及赎回价格计算": {
+          "level": 3
+        },
+        "发起人购买提交赎回的单位": {
+          "level": 3
+        },
+        "替换选项": {
+          "level": 3
+        },
+        "单位所有权": {
+          "level": 3
+        },
+        "投资风险": {
+          "level": 2
+        },
+        "稀释风险": {
+          "level": 3
+        },
+        "固定组合风险": {
+          "level": 3
+        },
+        "立法及诉讼风险": {
+          "level": 3
+        },
+        "流动性风险": {
+          "level": 3
+        },
+        "市场风险": {
+          "level": 3
+        },
+        "信托管理": {
+          "level": 2
+        },
+        "向持有人分配": {
+          "level": 3
+        },
+        "信托": {
+          "level": 3
+        },
+        "组合变更": {
+          "level": 3
+        },
+        "替代证券": {
+          "level": 3
+        },
+        "信托协议修改": {
+          "level": 3
+        },
+        "终止": {
+          "level": 3
+        },
+        "发起人": {
+          "level": 3
+        },
+        "监督人及估值人": {
+          "level": 3
+        },
+        "受托人": {
+          "level": 3
+        },
+        "组合顾问": {
+          "level": 3
+        },
+        "责任限制": {
+          "level": 3
+        },
+        "信托费用": {
+          "level": 2
+        },
+        "组合交易及经纪分配": {
+          "level": 3
+        },
+        "税务身份": {
+          "level": 2
+        },
+        "专家": {
+          "level": 2
+        },
+        "A部分": {
+          "level": 1
+        },
+        "B部分": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "30b8904ae501861a97d69f9fefbe0ed3e6d715818777c9c94ffd2b4ad96fcea2",
+      "pages": 13,
+      "pdf_sha256": "ec77efb834fd2697ef2465c3a460aeca05c2767beb4c22f806ba9526fdc3c8c3",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [
+        {
+          "header": [
+            "单位持有人费用",
+            "每单位金额",
+            "占参考发行价比例"
+          ],
+          "weights": [
+            0.4520233273404146,
+            0.2987095221426641,
+            0.24926715051692133
+          ]
+        },
+        {
+          "header": [
+            "年度信托运营费用",
+            "每单位年度金额"
+          ],
+          "weights": [
+            0.5602705179066734,
+            0.4397294820933267
+          ]
+        },
+        {
+          "header": [
+            "购买金额",
+            "减免占发行价比例",
+            "最高销售费"
+          ],
+          "weights": [
+            0.506448036789442,
+            0.24677598160527897,
+            0.24677598160527897
+          ]
+        },
+        {
+          "header": [
+            "购买金额／类型",
+            "经纪商报酬比例"
+          ],
+          "weights": [
+            0.672373722055212,
+            0.327626277944788
+          ]
+        },
+        {
+          "header": [
+            "过去十二个月销售额",
+            "额外报酬"
+          ],
+          "weights": [
+            0.7592250214392555,
+            0.24077497856074453
+          ]
+        }
+      ],
+      "omitted_source_lines": {},
+      "rendered_text_replacements": {
+        "SEC未批准或否决所发行单位，也未认定本说明书真实或完整。": "",
+        "单位投资信托招募说明书：A部分": "A部分",
+        "单位投资信托招募说明书：B部分": "B部分"
+      },
+      "latex_source": "latex/04-01_单位投资信托招募说明书.tex",
+      "latex_sha256": "b9aa468d6ecb619bc3027904fdfae93d5e408fe7054c962f8747c094172d7769"
+    }
+  ],
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",
+  "content_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "d11e571abed27ff45c5f8d2d2a53961e394be81e8a15c17528ce964733073674",
+    "current_sha256": "e0f2d17a9f66b8c72fe9cb5a0a7b6ae26125767d2124d40faf0dea227f80285b",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "participant_document_cleanup": "仅保留页面顶部文件主标题；不呈现不适用于匿名模拟资料的监管审批、刑事法律与行政表格声明；原始来源及译文底稿保留。",
+  "qa_status": "text_and_layout_checked",
+  "heading_hierarchy_policy": "文件名称为主标题；独立文书的主要章节为一级标题，章节内主题为二级标题，主题下的小节为三级标题；编号问题及其回答按正文问题排版，不能仅因数字前缀提升为章节标题。",
+  "case_folder": "cases/04_UIT_Switch",
+  "research_folder": "research/04",
+  "editing_policy": "Formal LaTeX source is authoritative; draft generators never overwrite cases/latex.",
+  "document_manifest": "research/04/pdf_documents.json"
+}

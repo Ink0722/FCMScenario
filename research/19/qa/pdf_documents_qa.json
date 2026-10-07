@@ -1,0 +1,29 @@
+{
+  "case": 19,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "19-01",
+      "pdf": "19-01_个人贷款办理及费用资料.pdf",
+      "pages": 2,
+      "text_checks": 18,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "316214482fb752cb19014c7c402acddb87b31e57cae40d6550af1a2dcd7cacee",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "19-02",
+      "pdf": "19-02_现有信用卡账户协议.pdf",
+      "pages": 7,
+      "text_checks": 105,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "f04a70c9c873b3658ed2f6e8468f4ce2b00d1db0bb1650a8ee8ccb669d05bd1a",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked"
+}

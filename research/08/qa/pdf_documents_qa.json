@@ -1,0 +1,29 @@
+{
+  "case": 8,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "08-01",
+      "pdf": "08-01_支票账户透支服务通知.pdf",
+      "pages": 2,
+      "text_checks": 34,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "84799b261431e7316bec1871933a699941e02c77a7021b96b2a8244b62a63997",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "08-02",
+      "pdf": "08-02_透支服务资料与办理问答.pdf",
+      "pages": 5,
+      "text_checks": 76,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "d13e641fdaa00eea923eba8a585758f42db1cd2eaec8f768cce1e2afe0f85c8d",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked"
+}

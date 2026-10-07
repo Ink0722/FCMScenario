@@ -1,0 +1,39 @@
+{
+  "case": 5,
+  "pages": 11,
+  "paragraphs_checked": 172,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
+  "text_extraction_method": "PDFKit line selections sorted by page coordinates; headers/footers excluded",
+  "documents": [
+    {
+      "document_id": "05-01",
+      "pdf": "05-01_顾问基金账户项目披露手册.pdf",
+      "pages": 10,
+      "text_checks": 152,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "eacc1631265445d53de2cfdd83e38f865791d9753c200c5b4fcc93b4cffc575e",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "05-02",
+      "pdf": "05-02_经纪账户股票与ETF佣金表.pdf",
+      "pages": 1,
+      "text_checks": 20,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "6c217547c9c4b29001dc06cff4932b6fc2846574275164b77ddae17a2f99ebe8",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 2,
+  "qa_status": "text_and_layout_checked",
+  "checked_date": "2026-10-06",
+  "current_report": "qa/pdf_documents_qa.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

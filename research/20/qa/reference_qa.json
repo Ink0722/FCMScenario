@@ -1,0 +1,44 @@
+{
+  "case": 20,
+  "pages": 17,
+  "paragraphs_checked": 373,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_layout_review": "passed",
+  "checked_date": "2026-10-06",
+  "participant_links_checked": true,
+  "source_manifest_hashes_checked": true,
+  "decision_criteria_preserved": true,
+  "material_sha256": "8b8a2077b7f5e75a7e0b372a7d2ba68715d6ada2969114735c0a53d7a7647c15",
+  "notes_sha256": "56feb011eb4e155ef5d789c17593599e8746f900dac255793292dd57b8493d3f",
+  "documents": [
+    {
+      "document_id": "20-01",
+      "pdf": "20-01_银行存款归集项目披露.pdf",
+      "pages": 7,
+      "text_checks": 101,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "f95bbd6b58b476f00dbfa7649f2927f19dae66b644dff4091e1677a58b751810",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "20-02",
+      "pdf": "20-02_政府货币市场基金招募说明书.pdf",
+      "pages": 10,
+      "text_checks": 272,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "fc26d02fbcd6df9ec8ff518d7c6d30be0162b7280b51aa77bce0ed79b953a1f9",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 2,
+  "qa_status": "text_and_layout_checked",
+  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
+  "current_report": "qa/pdf_documents_qa.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

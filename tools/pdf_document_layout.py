@@ -109,8 +109,9 @@ def document_start(case_name,title,doc_id):
  return preamble(case_name,title,doc_id)+r'\begin{document}'+'\n'+r'{\noindent\fontsize{20}{25}\selectfont\bfseries '+escape(title)+r'\par}'+'\n'+r'\vspace{7pt}{\noindent\small\color{Muted}'+escape('仅供模拟使用·'+case_name+'·'+doc_id)+r'\par}\vspace{10pt}'+'\n'
 
 def compile_pdf(texfile,pdf):
- with tempfile.TemporaryDirectory(prefix='scminna_doc_',dir='/tmp') as temp:
-  command=['/Library/TeX/texbin/xelatex','-interaction=nonstopmode','-halt-on-error','-output-directory='+temp,str(texfile)]
+ build=Path(__file__).resolve().parent.parent/'build';build.mkdir(exist_ok=True)
+ with tempfile.TemporaryDirectory(prefix='pdf_compile_',dir=build) as temp:
+  command=[shutil.which('xelatex') or '/Library/TeX/texbin/xelatex','-interaction=nonstopmode','-halt-on-error','-output-directory='+temp,str(texfile)]
   for _ in range(2):
    result=subprocess.run(command,capture_output=True,text=True,cwd=texfile.parent)
    if result.returncode:raise RuntimeError(result.stdout[-5000:])

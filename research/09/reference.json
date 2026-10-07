@@ -1,0 +1,772 @@
+{
+  "case_folder": "cases/09_Promo_Financing",
+  "title": "消费融资卡账户协议及定价条款",
+  "status": "source_document_rebuild",
+  "language": "zh-CN",
+  "rendering": "native_xelatex",
+  "reference_file": "reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "expanded_adapted_source_documents",
+    "not_a_complete_certified_translation": true,
+    "chapters_in_original_order": true,
+    "account_confirmations": "Material.md — 本次账户及办理确认",
+    "source_localization": "各章来源与删改边界见Notes第3节。机构匿名及本次资格设定未声称出自真实原案。",
+    "documents": [
+      {
+        "document": "商户卡账户协议",
+        "source_ids": "[3]",
+        "adopted_scope": "英文第1—8页对应利率、计息、费用、促销、标准、15款仲裁、军人及州通知、账单权利和隐私",
+        "omission_or_verification_boundary": "删除重复西班牙语版本及机构地址、电话、负责人签名；中文依条目顺序改写，非认证法律译本。"
+      },
+      {
+        "document": "通用卡定价",
+        "source_ids": "[6]",
+        "adopted_scope": "2026-09-22定价披露的全部主要项目、注释、申请与转账条件",
+        "omission_or_verification_boundary": "保留其他交易及分期收费；本次不启用这些功能，不将其代入普通购买。"
+      },
+      {
+        "document": "奖励协议及活动",
+        "source_ids": "[7][8]",
+        "adopted_scope": "奖励协议各标题、取得、类别、兑换、失效、通讯；新客活动单独按来源7采用",
+        "omission_or_verification_boundary": "source_08.pdf为扫描型5页原件，已用系统OCR提取并核对核心兑换条件；不以OCR自动识别视作逐句译文校核。"
+      }
+    ],
+    "translation_review": "扩展中文译写；尚未全部逐句校勘；不标为整份原件全文译本"
+  },
+  "removed_content": [
+    "封面及广告导航",
+    "监管结论、涉案人物、销售培训、执法经过",
+    "不适用类别、重复语言版本及注册申报附件；具体范围见Notes",
+    "研究者摘要、推荐答案及跨选项综合比较表"
+  ],
+  "adaptation_policy": "Preserve adopted document and chapter order; no researcher summary or cross-option comparison table; anonymous institution names; experimental account facts in Material only.",
+  "content_sha256": "ccaf4066b92d0d323ce983bcda5ab9031fd0b1f42947859bb4b82ad913c1d125",
+  "sections": [
+    {
+      "id": "S001",
+      "heading": "商户合作融资卡账户协议",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 4,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S002",
+      "heading": "第一部分：利率及费用表",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 6,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S003",
+      "heading": "第二部分：利率、费用及付款信息",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 21,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S004",
+      "heading": "利息的计算",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 23,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S005",
+      "heading": "费用的适用",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 42,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S006",
+      "heading": "最低付款的计算",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 50,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S007",
+      "heading": "特别促销融资信息",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 62,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S008",
+      "heading": "第三部分：标准条款",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 70,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S009",
+      "heading": "信用卡账户协议",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 72,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S010",
+      "heading": "账户与卡的使用",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 80,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S011",
+      "heading": "付款时间与方法",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 88,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S012",
+      "heading": "客户信息",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 98,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S013",
+      "heading": "账户其他重要信息",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 106,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S014",
+      "heading": "协议其他重要信息",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 120,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S015",
+      "heading": "通过仲裁解决争议",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 126,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S016",
+      "heading": "第四部分：其他重要信息",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 166,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S017",
+      "heading": "现役军人及其家属通知",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 168,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S018",
+      "heading": "各州通知",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 172,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S019",
+      "heading": "账单权利",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 186,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S020",
+      "heading": "对购买商品或服务不满意的权利",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-01",
+      "line": 200,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S021",
+      "heading": "隐私政策",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-02",
+      "line": 204,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S022",
+      "heading": "银行如何处理个人信息",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-02",
+      "line": 206,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S023",
+      "heading": "通用购买优惠卡：定价信息",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-03",
+      "line": 236,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S024",
+      "heading": "利率及利息收费",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-03",
+      "line": 238,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S025",
+      "heading": "费用",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-03",
+      "line": 250,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S026",
+      "heading": "军人贷款法通知",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-03",
+      "line": 262,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S027",
+      "heading": "条款与条件",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-03",
+      "line": 266,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S028",
+      "heading": "通用购买优惠卡：奖励计划协议",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-04",
+      "line": 284,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S029",
+      "heading": "关于本计划及协议的重要信息",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-04",
+      "line": 286,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S030",
+      "heading": "变更通知",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-04",
+      "line": 296,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S031",
+      "heading": "如何取得点数",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-04",
+      "line": 302,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S032",
+      "heading": "额外点数方式",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-04",
+      "line": 316,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S033",
+      "heading": "点数取得及可用性的其他信息",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-04",
+      "line": 320,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S034",
+      "heading": "如何使用点数",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-04",
+      "line": 328,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S035",
+      "heading": "现金",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-04",
+      "line": 336,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S036",
+      "heading": "礼品卡",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-04",
+      "line": 342,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S037",
+      "heading": "旅行",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-04",
+      "line": 346,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S038",
+      "heading": "以点数支付商品及服务",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-04",
+      "line": 350,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S039",
+      "heading": "与其他奖励卡合并点数",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-04",
+      "line": 362,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S040",
+      "heading": "何时可能不能取得或使用点数",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-04",
+      "line": 366,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S041",
+      "heading": "何时会失去点数",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-04",
+      "line": 370,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S042",
+      "heading": "其他重要信息",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-04",
+      "line": 376,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S043",
+      "heading": "通讯",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-04",
+      "line": 390,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S044",
+      "heading": "电话监听",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "09-04",
+      "line": 394,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    }
+  ],
+  "research_settings": {
+    "file": "material.md",
+    "section": "本次账户及办理确认",
+    "provenance": "既有场景研究设定；非官方原件合同确认",
+    "text_sha256": "88e2ebccbc60a278145669be2f2adadaf6a87c589b1b7da130fad683faf2f93d"
+  },
+  "qa_status": "text_and_layout_checked",
+  "pages": 16,
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "09-01",
+      "title": "商户合作融资卡账户协议",
+      "pdf": "09-01_商户合作融资卡账户协议.pdf",
+      "content_source": "reference.txt",
+      "start_line": 3,
+      "end_line": 203,
+      "leading_source_heading": "商户合作融资卡账户协议",
+      "headings": {
+        "第一部分：利率及费用表": {
+          "level": 1
+        },
+        "第二部分：利率、费用及付款信息": {
+          "level": 1
+        },
+        "利息的计算": {
+          "level": 2
+        },
+        "费用的适用": {
+          "level": 2
+        },
+        "最低付款的计算": {
+          "level": 2
+        },
+        "特别促销融资信息": {
+          "level": 2
+        },
+        "第三部分：标准条款": {
+          "level": 1
+        },
+        "信用卡账户协议": {
+          "level": 2
+        },
+        "账户与卡的使用": {
+          "level": 2
+        },
+        "付款时间与方法": {
+          "level": 2
+        },
+        "客户信息": {
+          "level": 2
+        },
+        "账户其他重要信息": {
+          "level": 2
+        },
+        "协议其他重要信息": {
+          "level": 2
+        },
+        "通过仲裁解决争议": {
+          "level": 2
+        },
+        "第四部分：其他重要信息": {
+          "level": 1
+        },
+        "现役军人及其家属通知": {
+          "level": 2
+        },
+        "各州通知": {
+          "level": 2
+        },
+        "账单权利": {
+          "level": 2
+        },
+        "对购买商品或服务不满意的权利": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "895dfd225d30eb057658e0c1d3dc795131634333a447f65aa69db89d53d222a2",
+      "pages": 7,
+      "pdf_sha256": "36fed753f881c3e1ef48a5e3f225c2be227d31f761a248292cc3f3a7821a69b5",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [
+        {
+          "header": [
+            "利率及利息费用项目",
+            "条款"
+          ],
+          "weights": [
+            0.2300719049821885,
+            0.7699280950178116
+          ]
+        }
+      ],
+      "omitted_source_lines": {
+        "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/09-01_商户合作融资卡账户协议.tex",
+      "latex_sha256": "a4b757451b48984a9bb74c724ccca721968d8184f6611cbe11a04d7b0af8e7bc"
+    },
+    {
+      "document_number": "02",
+      "document_id": "09-02",
+      "title": "个人信息隐私通知",
+      "pdf": "09-02_个人信息隐私通知.pdf",
+      "content_source": "reference.txt",
+      "start_line": 203,
+      "end_line": 235,
+      "leading_source_heading": "隐私政策",
+      "headings": {
+        "银行如何处理个人信息": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "041f7ca6b65fecb778311758cd6de61c8eb56695bef9d9aced98569bffad2316",
+      "pages": 2,
+      "pdf_sha256": "43fa138f023547a3a053947ffb2024e458444d1b1c20239f1ebc4e3de1034100",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [
+        {
+          "header": [
+            "共享理由",
+            "是否共享",
+            "是否可限制"
+          ],
+          "weights": [
+            0.6326406161196306,
+            0.18367969194018466,
+            0.18367969194018466
+          ]
+        }
+      ],
+      "omitted_source_lines": {
+        "203": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/09-02_个人信息隐私通知.tex",
+      "latex_sha256": "6422b67c36f91b43dafedb08be61fbcc1304cd2b840ca18da5a73aa308cf8872"
+    },
+    {
+      "document_number": "03",
+      "document_id": "09-03",
+      "title": "通用购买优惠卡定价条款",
+      "pdf": "09-03_通用购买优惠卡定价条款.pdf",
+      "content_source": "reference.txt",
+      "start_line": 235,
+      "end_line": 283,
+      "leading_source_heading": "通用购买优惠卡：定价信息",
+      "headings": {
+        "利率及利息收费": {
+          "level": 1
+        },
+        "费用": {
+          "level": 1
+        },
+        "军人贷款法通知": {
+          "level": 1
+        },
+        "条款与条件": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "156435186943428a343f4631b402b88a5ef07c801ad0cd8c3d611efb767a950b",
+      "pages": 2,
+      "pdf_sha256": "6f5ec222fb26fdc53ccafdfa3af27c5129a5aa25f538eeea96417a95c36e9094",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "235": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/09-03_通用购买优惠卡定价条款.tex",
+      "latex_sha256": "07551a8d1271de332abb9470698fee299cdcd85252a743e7cc36471c12238b1e"
+    },
+    {
+      "document_number": "04",
+      "document_id": "09-04",
+      "title": "通用购买优惠卡奖励计划协议",
+      "pdf": "09-04_通用购买优惠卡奖励计划协议.pdf",
+      "content_source": "reference.txt",
+      "start_line": 283,
+      "end_line": 396,
+      "leading_source_heading": "通用购买优惠卡：奖励计划协议",
+      "headings": {
+        "关于本计划及协议的重要信息": {
+          "level": 1
+        },
+        "变更通知": {
+          "level": 1
+        },
+        "如何取得点数": {
+          "level": 1
+        },
+        "额外点数方式": {
+          "level": 1
+        },
+        "点数取得及可用性的其他信息": {
+          "level": 1
+        },
+        "如何使用点数": {
+          "level": 1
+        },
+        "现金": {
+          "level": 2
+        },
+        "礼品卡": {
+          "level": 2
+        },
+        "旅行": {
+          "level": 2
+        },
+        "以点数支付商品及服务": {
+          "level": 2
+        },
+        "与其他奖励卡合并点数": {
+          "level": 2
+        },
+        "何时可能不能取得或使用点数": {
+          "level": 1
+        },
+        "何时会失去点数": {
+          "level": 1
+        },
+        "其他重要信息": {
+          "level": 1
+        },
+        "通讯": {
+          "level": 2
+        },
+        "电话监听": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "3156a0730ba61fe2b6a12c16ef4286c8ce01328bc6cfcc9c4c227b9b3f1d4d8e",
+      "pages": 5,
+      "pdf_sha256": "c23d0c6355f715c42c0258f5289722f475b8f91198df4dd171b908881da210b6",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "283": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/09-04_通用购买优惠卡奖励计划协议.tex",
+      "latex_sha256": "e7c56f8d1304c9b6265337b0fd8e91c4c8244c9ccde0cb939df2266a1a1092e4"
+    }
+  ],
+  "pdf_files": [
+    "09-01_商户合作融资卡账户协议.pdf",
+    "09-02_个人信息隐私通知.pdf",
+    "09-03_通用购买优惠卡定价条款.pdf",
+    "09-04_通用购买优惠卡奖励计划协议.pdf"
+  ],
+  "pages_definition": "各独立PDF页数之和；不存在现行合并PDF。",
+  "document_manifest": "pdf_documents.json",
+  "heading_levels": 3,
+  "material_sha256": "f6f38c179a8d4abda6f7b71a67a6119be0f46c81e44fae410cfe9c211a712878",
+  "scenario_confirmation_location": "09_CareCredit_Promotional_Financing_Material.md — 场景信息／本次账户及办理条件",
+  "document_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "ccaf4066b92d0d323ce983bcda5ab9031fd0b1f42947859bb4b82ad913c1d125",
+    "current_sha256": "ccaf4066b92d0d323ce983bcda5ab9031fd0b1f42947859bb4b82ad913c1d125",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_widths": "content_adaptive",
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "participant_document_cleanup": "仅保留页面顶部文件主标题；不呈现不适用于匿名模拟资料的监管审批、刑事法律与行政表格声明；原始来源及译文底稿保留。",
+  "heading_hierarchy_policy": "文件名称为主标题；独立文书的主要章节为一级标题，章节内主题为二级标题，主题下的小节为三级标题；编号问题及其回答按正文问题排版，不能仅因数字前缀提升为章节标题。",
+  "pdf_directory": "../../cases/09_Promo_Financing"
+}

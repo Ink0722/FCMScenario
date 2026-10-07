@@ -1,17 +1,17 @@
 import Foundation
 import AppKit
 import PDFKit
-let root=URL(fileURLWithPath:"/Users/ink/Desktop/Scminna")
-let qa=URL(fileURLWithPath:"/tmp/scminna_split_pdf_qa")
+let root=URL(fileURLWithPath:#filePath).deletingLastPathComponent().deletingLastPathComponent()
+let qa=root.appendingPathComponent("build/pdf_qa")
 try FileManager.default.createDirectory(at:qa,withIntermediateDirectories:true)
 var records=[[String:Any]]()
 let layouts:[[Double]]=[[1],[0.68,0.32],[0.24,0.38,0.38],[0.38,0.31,0.31],[0.26,0.14,0.27,0.33],[0.52,0.16,0.16,0.16],[0.14,0.13,0.15,0.29,0.29],[0.30,0.14,0.14,0.14,0.14,0.14],[0.24,0.13,0.13,0.13,0.10,0.10,0.17]]
-for caseDir in try FileManager.default.contentsOfDirectory(at:root,includingPropertiesForKeys:nil).sorted(by:{$0.path<$1.path}) {
- let manifest=caseDir.appendingPathComponent("tools/pdf_documents.json")
+for caseDir in try FileManager.default.contentsOfDirectory(at:root.appendingPathComponent("research"),includingPropertiesForKeys:nil).sorted(by:{$0.path<$1.path}) {
+ let manifest=caseDir.appendingPathComponent("pdf_documents.json")
  guard FileManager.default.fileExists(atPath:manifest.path) else{continue}
  let config=try JSONSerialization.jsonObject(with:Data(contentsOf:manifest)) as! [String:Any]
  for doc in config["documents"] as! [[String:Any]] {
-  let id=doc["document_id"] as! String,file=caseDir.appendingPathComponent(doc["pdf"] as! String)
+  let id=doc["document_id"] as! String,file=root.appendingPathComponent(config["case_folder"] as! String).appendingPathComponent(doc["pdf"] as! String)
   guard let pdf=PDFDocument(url:file) else{fatalError("Missing PDF \(id)")}
   var text="",coltext="";var sizes=[[Double]]();var shortLines=[[String:Any]]()
   for i in 0..<pdf.pageCount {

@@ -1,0 +1,149 @@
+{
+  "case_number": "15",
+  "case_name": "汽车贷款：是否加入余额差额保障",
+  "scenario_id": "S-TOY-GAP-01",
+  "style": "content_sized_centered_tables_financial_typography_v3",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "15-01",
+      "title": "余额差额保障计划协议及披露",
+      "pdf": "15-01_余额差额保障计划协议及披露.pdf",
+      "content_source": "reference.txt",
+      "start_line": 3,
+      "end_line": 56,
+      "leading_source_heading": "第一部分　保障余额差额计划协议及披露",
+      "headings": {
+        "定义": {
+          "level": 1
+        },
+        "一般条款": {
+          "level": 1
+        },
+        "除外事项及限制": {
+          "level": 1
+        },
+        "示例一": {
+          "level": 2
+        },
+        "示例二": {
+          "level": 2
+        },
+        "保障事件后的贷款状态": {
+          "level": 1
+        },
+        "联系项目": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "2"
+      ],
+      "content_sha256": "a8c358dc5c1e8f3ca3115bea23d5d9c8025551ae12f8d72d21fd1311dd40d047",
+      "pages": 3,
+      "pdf_sha256": "9e347ca2ae12a269b6d03b40b7b104d6a8cc70e8e69a241f757a3af8bb023283",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/15-01_余额差额保障计划协议及披露.tex",
+      "latex_sha256": "9ed53b413a71b7337d7b4a83a9a21793d817384dc42cea3b070548daefb5650d"
+    },
+    {
+      "document_number": "02",
+      "document_id": "15-02",
+      "title": "加州汽车保险指南",
+      "pdf": "15-02_加州汽车保险指南.pdf",
+      "content_source": "reference.txt",
+      "start_line": 56,
+      "end_line": 140,
+      "leading_source_heading": "第二部分　加州汽车保险指南",
+      "headings": {
+        "汽车保险简介": {
+          "level": 1
+        },
+        "加利福尼亚州法律": {
+          "level": 1
+        },
+        "你的汽车保单": {
+          "level": 1
+        },
+        "了解你的权利": {
+          "level": 1
+        },
+        "汽车保险费用": {
+          "level": 1
+        },
+        "责任保障与加州法律": {
+          "level": 1
+        },
+        "其他保障选项": {
+          "level": 1
+        },
+        "保障项目汇总（原指南栏目）": {
+          "level": 2
+        },
+        "购买汽车保险": {
+          "level": 1
+        },
+        "填写申请": {
+          "level": 2
+        },
+        "与代理人或经纪人合作": {
+          "level": 2
+        },
+        "发生事故": {
+          "level": 1
+        },
+        "加州低成本汽车保险项目（CLCA）": {
+          "level": 1
+        },
+        "高风险驾驶记录与CAARP": {
+          "level": 1
+        },
+        "常用术语": {
+          "level": 1
+        },
+        "资源与投诉": {
+          "level": 1
+        },
+        "保障项目": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "4"
+      ],
+      "content_sha256": "8e5b79c45a3bf5d43da3be322d2f7dbf00877b34948c09e5bdb5bc17269a8806",
+      "pages": 6,
+      "pdf_sha256": "6c2c42c9fe17f27aeab28cbbaaa1249aff907faa8a0157fb132fe26824131491",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "56": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/15-02_加州汽车保险指南.tex",
+      "latex_sha256": "ba8cbb8726977dc7bd83137d13620ec7aeeec4a1f7232afc5f29dcfa0e9cb14a"
+    }
+  ],
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",
+  "content_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "0f44ed1633fd591d94b6feb2f5c5df2aa7dbf79381942a469b5e82decef86b58",
+    "current_sha256": "321fb9226b3fc6b46b34fef9af75eaba90d2abb63a8e7cd8d65b12f5631afe96",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "participant_document_cleanup": "仅保留页面顶部文件主标题；不呈现不适用于匿名模拟资料的监管审批、刑事法律与行政表格声明；原始来源及译文底稿保留。",
+  "qa_status": "text_and_layout_checked",
+  "heading_hierarchy_policy": "文件名称为主标题；独立文书的主要章节为一级标题，章节内主题为二级标题，主题下的小节为三级标题；编号问题及其回答按正文问题排版，不能仅因数字前缀提升为章节标题。",
+  "case_folder": "cases/15_GAP_Coverage",
+  "research_folder": "research/15",
+  "editing_policy": "Formal LaTeX source is authoritative; draft generators never overwrite cases/latex.",
+  "document_manifest": "research/15/pdf_documents.json"
+}

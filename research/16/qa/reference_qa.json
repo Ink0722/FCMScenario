@@ -1,0 +1,44 @@
+{
+  "case": 16,
+  "pages": 9,
+  "paragraphs_checked": 118,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_layout_review": "passed",
+  "checked_date": "2026-10-06",
+  "participant_links_checked": true,
+  "source_manifest_hashes_checked": true,
+  "decision_criteria_preserved": true,
+  "material_sha256": "7b815841dbb8d8969995b676503bf176409c647e62689f12b28e28621fd110a5",
+  "notes_sha256": "ea1df00b29518c864ef6c5e22019c7efb5004a5cc47139e0d912e01a6c46aa83",
+  "documents": [
+    {
+      "document_id": "16-01",
+      "pdf": "16-01_自动投资项目披露.pdf",
+      "pages": 8,
+      "text_checks": 109,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "863586d57f9b31e3e376ec6887fb7db12c1cea37e884a8d02f0e6938fe1bfc47",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "16-02",
+      "pdf": "16-02_账户办理问答.pdf",
+      "pages": 1,
+      "text_checks": 9,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "b92bead5267cb5cadfe3e76a7e3c95277375d3df51df39437f5df15463e3ec6c",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 2,
+  "qa_status": "text_and_layout_checked",
+  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
+  "current_report": "qa/pdf_documents_qa.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}

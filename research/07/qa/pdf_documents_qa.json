@@ -1,0 +1,39 @@
+{
+  "case": 7,
+  "independent_documents": 3,
+  "documents": [
+    {
+      "document_id": "07-01",
+      "pdf": "07-01_学生贷款再融资申请与还款披露.pdf",
+      "pages": 1,
+      "text_checks": 10,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "80144a578c5e0014686961ca7266d22d43ce35997a02f9c499f0b4754109c0ae",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "07-02",
+      "pdf": "07-02_九个月只付利息再融资产品问答.pdf",
+      "pages": 3,
+      "text_checks": 34,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "1d4b131f35f76e935498aa211f85de1f84b4dc02dbac14e4e339fb35a22fa28f",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "07-03",
+      "pdf": "07-03_学生贷款合并与还款资料.pdf",
+      "pages": 4,
+      "text_checks": 82,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "9d6c61b28cf9e193897198208ddcf7f974c15ec5e89a42025ef4bce7a9938969",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked"
+}

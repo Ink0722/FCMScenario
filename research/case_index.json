@@ -1,0 +1,162 @@
+[
+  {
+    "number": "01",
+    "folder": "01_Fund_Shares",
+    "case_name": "基金份额选择：八年持有",
+    "scenario_id": "S-JPM-01",
+    "previous_folder": "01_JPMorgan_Share_Class_8Y",
+    "documents": 1
+  },
+  {
+    "number": "02",
+    "folder": "02_Annuity_Switch",
+    "case_name": "年金合同替换：四年持有",
+    "scenario_id": "S-MET-01",
+    "previous_folder": "02_MetLife_Annuity_Replacement_4Y",
+    "documents": 1
+  },
+  {
+    "number": "03",
+    "folder": "03_Retirement_Rollover",
+    "case_name": "退休账户转移：五年持有与两层费用",
+    "scenario_id": "S-TIAA-01",
+    "previous_folder": "03_TIAA_Retirement_Rollover_5Y",
+    "documents": 2
+  },
+  {
+    "number": "04",
+    "folder": "04_UIT_Switch",
+    "case_name": "UIT持仓安排：保留旧一期或合并购买新一期",
+    "scenario_id": "S-MS-UIT-01",
+    "previous_folder": "04_MorganStanley_UIT_Replacement_6M",
+    "documents": 1
+  },
+  {
+    "number": "05",
+    "folder": "05_Account_Fees",
+    "case_name": "账户收费方式：一年交易安排",
+    "scenario_id": "S-WR-01",
+    "previous_folder": "05_WaddellReed_Account_Pricing_1Y",
+    "documents": 2
+  },
+  {
+    "number": "06",
+    "folder": "06_CD_Liquidity",
+    "case_name": "存款办理渠道选择：六个月后的付款安排",
+    "scenario_id": "S-LPL-CD-01",
+    "previous_folder": "06_LPL_CD_Liquidity_6M",
+    "documents": 2
+  },
+  {
+    "number": "07",
+    "folder": "07_Student_Refinance",
+    "case_name": "学生贷款再融资：选择合并范围",
+    "scenario_id": "S-SOFI-SL-01",
+    "previous_folder": "07_SoFi_Student_Loan_Refinance_Scope",
+    "documents": 3
+  },
+  {
+    "number": "08",
+    "folder": "08_Overdraft",
+    "case_name": "日常账户透支设置：账单与临时支付",
+    "scenario_id": "S-TD-OD-01",
+    "previous_folder": "08_TDBank_Overdraft_OptIn",
+    "documents": 2
+  },
+  {
+    "number": "09",
+    "folder": "09_Promo_Financing",
+    "case_name": "消费融资选择：较长优惠期与不同计息规则",
+    "scenario_id": "S-CC-PROMO-01",
+    "previous_folder": "09_CareCredit_Promotional_Financing",
+    "documents": 4
+  },
+  {
+    "number": "10",
+    "folder": "10_Credit_Monitoring",
+    "case_name": "信用资料保护：是否增加付费监测",
+    "scenario_id": "S-CO-CM-01",
+    "previous_folder": "10_CapitalOne_Credit_Monitoring_AddOn",
+    "documents": 3
+  },
+  {
+    "number": "11",
+    "folder": "11_Mortgage_Points",
+    "case_name": "房贷报价选择：四年后结清的费用安排",
+    "scenario_id": "S-AMERI-MP-01",
+    "previous_folder": "11_AmeriSave_Mortgage_Points_4Y",
+    "documents": 2
+  },
+  {
+    "number": "12",
+    "folder": "12_Mortgage_Payments",
+    "case_name": "房贷还款渠道：双周扣款与本金入账",
+    "scenario_id": "S-PAY-MP-01",
+    "previous_folder": "12_Paymap_Mortgage_Payment_Schedule_1Y",
+    "documents": 2
+  },
+  {
+    "number": "13",
+    "folder": "13_Auto_Insurance",
+    "case_name": "汽车贷款保险：已有保单与新增保障记录",
+    "scenario_id": "S-WF-CPI-01",
+    "previous_folder": "13_WellsFargo_Auto_Insurance_Overlap",
+    "documents": 2
+  },
+  {
+    "number": "14",
+    "folder": "14_Loan_Pause",
+    "case_name": "教育贷款暂停还款：资格与利息安排",
+    "scenario_id": "S-NAV-SP-01",
+    "previous_folder": "14_Navient_Student_Loan_Payment_Pause_90D",
+    "documents": 2
+  },
+  {
+    "number": "15",
+    "folder": "15_GAP_Coverage",
+    "case_name": "汽车贷款：是否加入余额差额保障",
+    "scenario_id": "S-TOY-GAP-01",
+    "previous_folder": "15_Toyota_Auto_Loan_GAP",
+    "documents": 2
+  },
+  {
+    "number": "16",
+    "folder": "16_Auto_Investing",
+    "case_name": "投资账户：自动管理还是自行管理",
+    "scenario_id": "S-SCH-AM-01",
+    "previous_folder": "16_Schwab_Automated_vs_SelfDirected",
+    "documents": 2
+  },
+  {
+    "number": "17",
+    "folder": "17_Mortgage_Rates",
+    "case_name": "住房贷款：固定月供还是先固定后浮动",
+    "scenario_id": "S-GLO-ARM-01",
+    "previous_folder": "17_GoLoans_Fixed_vs_ARM_12Y",
+    "documents": 2
+  },
+  {
+    "number": "18",
+    "folder": "18_Card_Rewards",
+    "case_name": "信用卡奖励：统一返现还是分类积分",
+    "scenario_id": "S-AMX-RWD-01",
+    "previous_folder": "18_Amex_CashBack_vs_Travel_Points",
+    "documents": 3
+  },
+  {
+    "number": "19",
+    "folder": "19_Debt_Consolidation",
+    "case_name": "信用卡欠款：合并贷款还是保留分卡还款",
+    "scenario_id": "S-LCL-DC-01",
+    "previous_folder": "19_LendingClub_Debt_Consolidation",
+    "documents": 2
+  },
+  {
+    "number": "20",
+    "folder": "20_Cash_Options",
+    "case_name": "现金账户：银行存款还是政府货币基金",
+    "scenario_id": "S-RSV-CASH-01",
+    "previous_folder": "20_Reserve_Cash_Sweep_vs_Money_Fund",
+    "documents": 2
+  }
+]

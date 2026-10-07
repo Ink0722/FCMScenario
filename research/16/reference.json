@@ -1,0 +1,554 @@
+{
+  "case_folder": "cases/16_Auto_Investing",
+  "title": "自动投资项目披露及账户服务资料",
+  "language": "zh-CN",
+  "status": "source_based_simulation_pdf_checked",
+  "reference_file": "reference.txt",
+  "source_manifest": "sources/source_manifest.json",
+  "coverage": {
+    "type": "source-based Chinese reference document set",
+    "adopted_scope": [
+      {
+        "heading": "第一部分　自动投资项目披露",
+        "source_ids": [
+          "9"
+        ],
+        "locator": "Schwab披露PDF第7—16页业务正文；删除Disciplinary Information监管历史，保留其他业务栏目"
+      },
+      {
+        "heading": "第二部分　账户办理问答",
+        "source_ids": [
+          "3"
+        ],
+        "locator": "官方FAQ：开户、入金、提现、投资档案和结算栏目"
+      },
+      {
+        "heading": "本次账户资料及办理记录",
+        "source_ids": [],
+        "locator": "tools/account_record.txt；具体参数来源及研究设定见Notes"
+      }
+    ],
+    "translation_review": "中文按所列来源栏目及条款展开；不声称全部来源整本逐字翻译；具体范围、匿名化与适配见Notes"
+  },
+  "removed_content": [
+    "网站导航、脚本、重复页眉页脚、广告横幅",
+    "监管案件结论及原案损失",
+    "不适用的其他产品专属内容",
+    "新开户奖励及本任务不适用优惠"
+  ],
+  "adaptation_policy": "参考PDF只排产品协议、公开披露和指南；任务、账户条件、实验控制及历史事件对照置于Material。所有判定依据保留在Notes。",
+  "content_sha256": "2a7ec3193a342187624459c94c106b9dbf9327798dcb2d28d85db9bbd8b3ed6d",
+  "sections": [
+    {
+      "id": "S001",
+      "heading": "第一部分　自动投资项目披露",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 4,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S002",
+      "heading": "引言",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 7,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S003",
+      "heading": "服务、费用与报酬",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 9,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S004",
+      "heading": "经纪做法",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 19,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S005",
+      "heading": "托管",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 21,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S006",
+      "heading": "全权投资及电子交付",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 23,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S007",
+      "heading": "项目费用",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 26,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S008",
+      "heading": "其他费用",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 29,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S009",
+      "heading": "报酬",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 33,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S010",
+      "heading": "关联机构利益及利益冲突",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 37,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S011",
+      "heading": "账户要求与客户类型",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 45,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S012",
+      "heading": "退休账户及管理公司选择",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 51,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S013",
+      "heading": "分析方法、策略及损失风险",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 55,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S014",
+      "heading": "网络安全、人工智能及系统中断",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 59,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S015",
+      "heading": "ETF选择",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 63,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S016",
+      "heading": "再平衡",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 66,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S017",
+      "heading": "洗售避免",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 69,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S018",
+      "heading": "税损收割功能",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 73,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S019",
+      "heading": "自动投资现金归集项目",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 78,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S020",
+      "heading": "等待投资或分配的资金",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 84,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S021",
+      "heading": "投票、客户资料及联系",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 88,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S022",
+      "heading": "其他金融行业活动及关联方",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 91,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S023",
+      "heading": "道德守则",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 94,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S024",
+      "heading": "订单路由与执行",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 97,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S025",
+      "heading": "ETF及有关付款",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 102,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S026",
+      "heading": "员工个人交易",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 105,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S027",
+      "heading": "账户审查",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 108,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S028",
+      "heading": "客户转介与其他报酬",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 111,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S029",
+      "heading": "财务信息",
+      "source_ids": [
+        "9"
+      ],
+      "document_id": "16-01",
+      "line": 113,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S030",
+      "heading": "第二部分　账户办理问答",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "16-02",
+      "line": 117,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S031",
+      "heading": "开户及入金",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "16-02",
+      "line": 119,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S032",
+      "heading": "修改配置",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "16-02",
+      "line": 123,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    },
+    {
+      "id": "S033",
+      "heading": "提款及结算",
+      "source_ids": [
+        "3"
+      ],
+      "document_id": "16-02",
+      "line": 125,
+      "text_status": "source_based_adaptation; see Notes for scope and modifications"
+    }
+  ],
+  "research_settings": {
+    "file": "account_record.txt",
+    "section": "本次账户资料及办理记录",
+    "provenance": "案例参数、补充产品机制及研究控制的区别见Notes",
+    "sha256": "b6218f20596993baba96dc19581403d614165e0dc985a34d7a85951093bd8273"
+  },
+  "rendering": "native_xelatex",
+  "pages": 9,
+  "qa_status": "text_and_layout_checked",
+  "material_sha256": "94c40e50f8a8fd7a117172262d76e99b1813410cad663e5205863dc693f2afa0",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "16-01",
+      "title": "自动投资项目披露",
+      "pdf": "16-01_自动投资项目披露.pdf",
+      "content_source": "reference.txt",
+      "start_line": 3,
+      "end_line": 116,
+      "leading_source_heading": "第一部分　自动投资项目披露",
+      "headings": {
+        "引言": {
+          "level": 1
+        },
+        "服务、费用与报酬": {
+          "level": 1
+        },
+        "经纪做法": {
+          "level": 2
+        },
+        "托管": {
+          "level": 2
+        },
+        "全权投资及电子交付": {
+          "level": 2
+        },
+        "项目费用": {
+          "level": 2
+        },
+        "其他费用": {
+          "level": 2
+        },
+        "报酬": {
+          "level": 2
+        },
+        "关联机构利益及利益冲突": {
+          "level": 2
+        },
+        "账户要求与客户类型": {
+          "level": 1
+        },
+        "退休账户及管理公司选择": {
+          "level": 2
+        },
+        "分析方法、策略及损失风险": {
+          "level": 1
+        },
+        "网络安全、人工智能及系统中断": {
+          "level": 2
+        },
+        "ETF选择": {
+          "level": 2
+        },
+        "再平衡": {
+          "level": 2
+        },
+        "洗售避免": {
+          "level": 2
+        },
+        "税损收割功能": {
+          "level": 2
+        },
+        "自动投资现金归集项目": {
+          "level": 2
+        },
+        "等待投资或分配的资金": {
+          "level": 2
+        },
+        "投票、客户资料及联系": {
+          "level": 1
+        },
+        "其他金融行业活动及关联方": {
+          "level": 1
+        },
+        "道德守则": {
+          "level": 1
+        },
+        "订单路由与执行": {
+          "level": 2
+        },
+        "ETF及有关付款": {
+          "level": 2
+        },
+        "员工个人交易": {
+          "level": 2
+        },
+        "账户审查": {
+          "level": 1
+        },
+        "客户转介与其他报酬": {
+          "level": 1
+        },
+        "财务信息": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "9"
+      ],
+      "content_sha256": "87af0f9f443ee754b2ff634d39f8ebac6b409f00d473f1e2a691d21649a95725",
+      "pages": 8,
+      "pdf_sha256": "863586d57f9b31e3e376ec6887fb7db12c1cea37e884a8d02f0e6938fe1bfc47",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {
+        "证券监管机构并未批准或核实本披露。登记为投资顾问不表示具有某一技能或训练水平。": ""
+      },
+      "latex_source": "latex/16-01_自动投资项目披露.tex",
+      "latex_sha256": "fe7703376a93e5d7b16b55560e6bbaf545e7f052f5d015b49a95331195bab1af"
+    },
+    {
+      "document_number": "02",
+      "document_id": "16-02",
+      "title": "账户办理问答",
+      "pdf": "16-02_账户办理问答.pdf",
+      "content_source": "reference.txt",
+      "start_line": 116,
+      "end_line": 129,
+      "leading_source_heading": "第二部分　账户办理问答",
+      "headings": {
+        "开户及入金": {
+          "level": 1
+        },
+        "修改配置": {
+          "level": 1
+        },
+        "提款及结算": {
+          "level": 1
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "fddd2a5c68e33bf8b2a693ebd4134e6cf967ff91a55a128629ca2ae918f747fb",
+      "pages": 1,
+      "pdf_sha256": "b92bead5267cb5cadfe3e76a7e3c95277375d3df51df39437f5df15463e3ec6c",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "116": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/16-02_账户办理问答.tex",
+      "latex_sha256": "8c31bf6ca0d96d0155b1a18cc4e339ca8b0d3717ffd38c3ae7c54627c2795e72"
+    }
+  ],
+  "pdf_files": [
+    "16-01_自动投资项目披露.pdf",
+    "16-02_账户办理问答.pdf"
+  ],
+  "pages_definition": "各独立PDF页数之和；不存在现行合并PDF。",
+  "document_manifest": "pdf_documents.json",
+  "heading_levels": 3,
+  "scenario_confirmation_location": "16_Schwab_Automated_vs_SelfDirected_Material.md — 场景信息／本次账户及办理条件",
+  "document_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "65bcd87310d910f5719a2b6a67bbf1f5787d74abd80415405c7f93620d17fba7",
+    "current_sha256": "2a7ec3193a342187624459c94c106b9dbf9327798dcb2d28d85db9bbd8b3ed6d",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_widths": "content_adaptive",
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "participant_document_cleanup": "仅保留页面顶部文件主标题；不呈现不适用于匿名模拟资料的监管审批、刑事法律与行政表格声明；原始来源及译文底稿保留。",
+  "heading_hierarchy_policy": "文件名称为主标题；独立文书的主要章节为一级标题，章节内主题为二级标题，主题下的小节为三级标题；编号问题及其回答按正文问题排版，不能仅因数字前缀提升为章节标题。",
+  "pdf_directory": "../../cases/16_Auto_Investing"
+}

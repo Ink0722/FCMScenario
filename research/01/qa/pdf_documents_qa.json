@@ -1,0 +1,19 @@
+{
+  "case": 1,
+  "independent_documents": 1,
+  "documents": [
+    {
+      "document_id": "01-01",
+      "pdf": "01-01_基金M招募说明书.pdf",
+      "pages": 31,
+      "text_checks": 875,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "a80ae65ccf13208c97bc22f0d448d2725ef780548ebf181fe411b64f26b9235f",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked"
+}

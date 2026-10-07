@@ -1,0 +1,345 @@
+{
+  "case_number": "20",
+  "case_name": "现金账户：银行存款还是政府货币基金",
+  "scenario_id": "S-RSV-CASH-01",
+  "style": "content_sized_centered_tables_financial_typography_v3",
+  "documents": [
+    {
+      "document_number": "01",
+      "document_id": "20-01",
+      "title": "银行存款归集项目披露",
+      "pdf": "20-01_银行存款归集项目披露.pdf",
+      "content_source": "reference.txt",
+      "start_line": 3,
+      "end_line": 108,
+      "leading_source_heading": "第一部分　银行存款归集项目披露",
+      "headings": {
+        "定义": {
+          "level": 1
+        },
+        "概述": {
+          "level": 1
+        },
+        "项目运作——存款": {
+          "level": 1
+        },
+        "最高存款限额": {
+          "level": 2
+        },
+        "提款": {
+          "level": 2
+        },
+        "利息入账": {
+          "level": 2
+        },
+        "存款保险限额变更": {
+          "level": 2
+        },
+        "所有权记录": {
+          "level": 2
+        },
+        "参与银行": {
+          "level": 1
+        },
+        "银行状态": {
+          "level": 2
+        },
+        "账户银行清单": {
+          "level": 2
+        },
+        "新账户": {
+          "level": 2
+        },
+        "现有账户转入归集项目": {
+          "level": 2
+        },
+        "已采用项目的账户": {
+          "level": 2
+        },
+        "客户发起清单变更": {
+          "level": 2
+        },
+        "银行加入及退出": {
+          "level": 2
+        },
+        "银行状态变更": {
+          "level": 2
+        },
+        "其他项目变更": {
+          "level": 2
+        },
+        "现金余额的访问": {
+          "level": 1
+        },
+        "存款账户": {
+          "level": 2
+        },
+        "报表及确认": {
+          "level": 2
+        },
+        "货币基金溢出": {
+          "level": 2
+        },
+        "银行存款利率": {
+          "level": 1
+        },
+        "溢出基金收益": {
+          "level": 1
+        },
+        "FDIC保险及SIPC保护": {
+          "level": 1
+        },
+        "平台与其他机构的关系": {
+          "level": 1
+        },
+        "平台与其他机构取得的利益": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "8"
+      ],
+      "content_sha256": "49f9a7032ac11fc2275e05bbbcdccacaa73dc2416ef5089291ff6b5ed6818e84",
+      "pages": 7,
+      "pdf_sha256": "f95bbd6b58b476f00dbfa7649f2927f19dae66b644dff4091e1677a58b751810",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [],
+      "omitted_source_lines": {
+        "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {},
+      "latex_source": "latex/20-01_银行存款归集项目披露.tex",
+      "latex_sha256": "50b931f7f27b67784ab1b5a4eca3a7add48038dd51b51bbbd7f8eea6addc647b"
+    },
+    {
+      "document_number": "02",
+      "document_id": "20-02",
+      "title": "政府货币市场基金招募说明书",
+      "pdf": "20-02_政府货币市场基金招募说明书.pdf",
+      "content_source": "reference.txt",
+      "start_line": 108,
+      "end_line": 423,
+      "leading_source_heading": "第二部分　政府货币市场基金招募说明书",
+      "headings": {
+        "投资目标": {
+          "level": 1
+        },
+        "费用表": {
+          "level": 1
+        },
+        "主要投资策略": {
+          "level": 1
+        },
+        "主要风险": {
+          "level": 2
+        },
+        "业绩": {
+          "level": 1
+        },
+        "顾问、交易及税务": {
+          "level": 2
+        },
+        "投资详情": {
+          "level": 1
+        },
+        "基本政策与份额估值": {
+          "level": 2
+        },
+        "买卖份额的一般事项": {
+          "level": 2
+        },
+        "买入": {
+          "level": 2
+        },
+        "卖出": {
+          "level": 2
+        },
+        "赎回支付政策": {
+          "level": 2
+        },
+        "份额转换": {
+          "level": 2
+        },
+        "账户功能与政策": {
+          "level": 2
+        },
+        "股息及资本收益分配": {
+          "level": 2
+        },
+        "税务后果": {
+          "level": 1
+        },
+        "基金管理": {
+          "level": 1
+        },
+        "分销": {
+          "level": 2
+        },
+        "财务摘要": {
+          "level": 1
+        },
+        "买卖份额的补充资料": {
+          "level": 1
+        },
+        "账户功能及政策": {
+          "level": 1
+        },
+        "股息及资本利得分配": {
+          "level": 1
+        },
+        "基金分销": {
+          "level": 1
+        },
+        "主要投资风险": {
+          "level": 1
+        },
+        "投资顾问": {
+          "level": 2
+        },
+        "购买及出售基金份额": {
+          "level": 2
+        },
+        "税务资料": {
+          "level": 2
+        },
+        "向经纪交易商及其他金融中介付款": {
+          "level": 2
+        },
+        "一般资料": {
+          "level": 2
+        },
+        "提交交易指令": {
+          "level": 2
+        },
+        "频繁购买及赎回": {
+          "level": 2
+        },
+        "购买份额": {
+          "level": 2
+        },
+        "出售份额": {
+          "level": 2
+        },
+        "基金份额赎回政策": {
+          "level": 2
+        },
+        "账户功能": {
+          "level": 2
+        },
+        "账户政策": {
+          "level": 2
+        },
+        "股息计提": {
+          "level": 2
+        },
+        "分配选项": {
+          "level": 2
+        },
+        "次级顾问": {
+          "level": 2
+        },
+        "投资顾问费用": {
+          "level": 2
+        },
+        "分销及服务计划": {
+          "level": 2
+        }
+      },
+      "source_ids": [
+        "3"
+      ],
+      "content_sha256": "8b12e6ae62b26b1e7f2e5a4012899ab6f6f2b9c4516329237961dbf01c87fcf1",
+      "pages": 10,
+      "pdf_sha256": "fc26d02fbcd6df9ec8ff518d7c6d30be0162b7280b51aa77bce0ed79b953a1f9",
+      "rendering": "native_xelatex",
+      "qa_status": "text_and_layout_checked",
+      "tables": [
+        {
+          "header": [
+            "年度运营费用",
+            "占投资价值比例"
+          ],
+          "weights": [
+            0.6544953322732511,
+            0.34550466772674904
+          ]
+        },
+        {
+          "header": [
+            "年份",
+            "年度收益"
+          ],
+          "weights": [
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "header": [
+            "截至4月30日年度",
+            "2026",
+            "2025",
+            "2024",
+            "2023",
+            "2022"
+          ],
+          "weights": [
+            0.2635647932623976,
+            0.1472870413475205,
+            0.1472870413475205,
+            0.1472870413475205,
+            0.1472870413475205,
+            0.1472870413475205
+          ]
+        }
+      ],
+      "source_restoration": {
+        "source": "sources/source_03.html",
+        "source_ids": [
+          "3"
+        ],
+        "adopted_sections": [
+          "Government Money Market Fund Summary",
+          "Additional Information about the Purchase and Sale of Shares (government fund/general provisions)",
+          "Exchanging Shares",
+          "Features and Policies",
+          "Dividends and Capital Gain Distributions",
+          "Tax Consequences",
+          "Fund Management (government fund)",
+          "Fund Distribution"
+        ],
+        "omitted": "不适用于政府货币基金的零售非政府基金资格、2%流动性费和其他基金特定条款；未纳入其他基金财务表；不声称整个多基金原件全文译本。"
+      },
+      "omitted_source_lines": {
+        "108": "正文开头重复文书标题，文件主标题已列于页面顶部"
+      },
+      "rendered_text_replacements": {
+        "证券监管机构未批准或否决本证券，亦未认定说明书准确完整；相反陈述属犯罪行为。": ""
+      },
+      "heading_overrides_by_source_line": {
+        "156": 1,
+        "159": 1,
+        "162": 1,
+        "165": 1
+      },
+      "latex_source": "latex/20-02_政府货币市场基金招募说明书.tex",
+      "latex_sha256": "5c47a095adda90bfcdffb1570c51aa7b1a14cb09069bc60e90cd05734e051dd8"
+    }
+  ],
+  "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",
+  "content_revision": {
+    "archive": "archive/before_reference_document_revision_20261006",
+    "previous_sha256": "98710e989b594156c6d4bcee23113385bc362174017c65e3bcd48ec342bdf09e",
+    "current_sha256": "c31ffcc2dd0c72a1a118673b24320f03be71ce866eb74849a1db650d864d6d42",
+    "scope": "参考文书口吻校正；11–20账户条件移回Material；03依据本地官方原件恢复费用示例、业绩、管理、风险、分销及财务表。"
+  },
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "participant_document_cleanup": "仅保留页面顶部文件主标题；不呈现不适用于匿名模拟资料的监管审批、刑事法律与行政表格声明；原始来源及译文底稿保留。",
+  "qa_status": "text_and_layout_checked",
+  "heading_hierarchy_policy": "文件名称为主标题；独立文书的主要章节为一级标题，章节内主题为二级标题，主题下的小节为三级标题；编号问题及其回答按正文问题排版，不能仅因数字前缀提升为章节标题。",
+  "case_folder": "cases/20_Cash_Options",
+  "research_folder": "research/20",
+  "editing_policy": "Formal LaTeX source is authoritative; draft generators never overwrite cases/latex.",
+  "document_manifest": "research/20/pdf_documents.json"
+}

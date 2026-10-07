@@ -1,0 +1,19 @@
+{
+  "case": 2,
+  "independent_documents": 1,
+  "documents": [
+    {
+      "document_id": "02-01",
+      "pdf": "02-01_递延可变年金招募说明书.pdf",
+      "pages": 16,
+      "text_checks": 337,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "7011b4cf953b1f933c605f610b936c7ad61798d7c1c40f0acd4dac4bdb6ec153",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked"
+}

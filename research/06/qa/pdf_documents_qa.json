@@ -1,0 +1,29 @@
+{
+  "case": 6,
+  "independent_documents": 2,
+  "documents": [
+    {
+      "document_id": "06-01",
+      "pdf": "06-01_银行直购无罚金定期存款.pdf",
+      "pages": 1,
+      "text_checks": 8,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "6e1574f2b670105807de7dc5fe31ba580c1bdf88918ccaf7b1a755560fe882ab",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "06-02",
+      "pdf": "06-02_经纪存款凭证披露声明.pdf",
+      "pages": 6,
+      "text_checks": 82,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "ad9e2afa92785803ad0547c764d67f8276dbdc23bd37abba9c749448ba8fb8c0",
+      "latex_overflow": false
+    }
+  ],
+  "all_current_body_text_present": true,
+  "decision_criteria_preserved": true,
+  "qa_status": "text_and_layout_checked"
+}

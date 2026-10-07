@@ -1,0 +1,44 @@
+{
+  "case": 12,
+  "pages": 4,
+  "paragraphs_checked": 52,
+  "missing_paragraphs": [],
+  "pdf_has_text": true,
+  "latex_overflow": false,
+  "originals_archived": true,
+  "translation_review": "not_fully_sentence_checked",
+  "visual_layout_review": "passed",
+  "checked_date": "2026-10-06",
+  "participant_links_checked": true,
+  "source_manifest_hashes_checked": true,
+  "decision_criteria_preserved": true,
+  "material_sha256": "b9a262c9d22128ee4a33a316a57c9d7aaa6f7e2549e5fff007efceca48c4950b",
+  "notes_sha256": "997f094a7e78dfa0f448a7358e7cab7b7702396f82edc9e7841aa2e6a1a55eed",
+  "documents": [
+    {
+      "document_id": "12-01",
+      "pdf": "12-01_第三方付款服务登记及授权条款.pdf",
+      "pages": 1,
+      "text_checks": 12,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "b92bcb6be180127166c9f461603bdf764e57dcbd7dd9f72b1325d5934e635afe",
+      "latex_overflow": false
+    },
+    {
+      "document_id": "12-02",
+      "pdf": "12-02_贷款机构付款资料.pdf",
+      "pages": 3,
+      "text_checks": 40,
+      "missing": [],
+      "header_and_subtitle_checked": true,
+      "pdf_sha256": "c749a7a501603ff5b66f1e41ea14a19a1cb4bc8efa9312a6ca436b86006f323d",
+      "latex_overflow": false
+    }
+  ],
+  "independent_documents": 2,
+  "qa_status": "text_and_layout_checked",
+  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
+  "current_report": "qa/pdf_documents_qa.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+}
