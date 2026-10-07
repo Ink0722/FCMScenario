@@ -9,7 +9,7 @@
       "text_checks": 12,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "b92bcb6be180127166c9f461603bdf764e57dcbd7dd9f72b1325d5934e635afe",
+      "pdf_sha256": "a965f0b1fe3fddde819848782be53de1f70bfbb9d7359295c83260c72e89e029",
       "latex_overflow": false
     },
     {
@@ -19,11 +19,14 @@
       "text_checks": 40,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "c749a7a501603ff5b66f1e41ea14a19a1cb4bc8efa9312a6ca436b86006f323d",
+      "pdf_sha256": "29be7b656fe02a073202dd955e02e740112cb0f6c6b8cdf5153ebac56d331be4",
       "latex_overflow": false
     }
   ],
   "all_current_body_text_present": true,
   "decision_criteria_preserved": true,
-  "qa_status": "text_and_layout_checked"
+  "qa_status": "text_and_structure_checked",
+  "checked_date": "2026-10-07",
+  "visual_review": "42份文书首页排版，07及15术语所在页；全部页面文本及短行自动检查",
+  "current_report": "../../qa/translation_and_residual_review.json"
 }

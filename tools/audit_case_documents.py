@@ -21,6 +21,7 @@ for n in range(1,21):
    for i,line in enumerate(lines):
     if str(doc['start_line']+i) in doc.get('omitted_source_lines',{}):continue
     for old,new in doc.get('rendered_text_replacements',{}).items():line=line.replace(old,new)
+    line=doc.get('rendered_source_line_overrides',{}).get(str(doc['start_line']+i),line)
     line=line.strip()
     if not line or (i==0 and line==doc.get('leading_source_heading')):continue
     if line.startswith('|'):

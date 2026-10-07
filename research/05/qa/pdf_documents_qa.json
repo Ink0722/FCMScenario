@@ -9,7 +9,7 @@
       "text_checks": 152,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "eacc1631265445d53de2cfdd83e38f865791d9753c200c5b4fcc93b4cffc575e",
+      "pdf_sha256": "a5628a5d9dbd3e6ab54ba184034151a268cf87685f4eb58b44da2cf4ac935ccd",
       "latex_overflow": false
     },
     {
@@ -19,11 +19,14 @@
       "text_checks": 20,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "6c217547c9c4b29001dc06cff4932b6fc2846574275164b77ddae17a2f99ebe8",
+      "pdf_sha256": "f008ba8efebdbd66d6e312b70db94b5b9c58c24d6d037df18ea829f3af611111",
       "latex_overflow": false
     }
   ],
   "all_current_body_text_present": true,
   "decision_criteria_preserved": true,
-  "qa_status": "text_and_layout_checked"
+  "qa_status": "text_and_structure_checked",
+  "checked_date": "2026-10-07",
+  "numbering_checked": "模拟第1—6项对应原件第4—9项；所有内部引用同步。",
+  "latex_overflow": false
 }

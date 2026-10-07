@@ -7,7 +7,7 @@
   "latex_overflow": false,
   "originals_archived": true,
   "translation_review": "not_fully_sentence_checked",
-  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
+  "visual_review": "42份文书首页排版，07及15术语所在页；全部页面文本及短行自动检查",
   "text_extraction_method": "PDFKit line selections sorted by page coordinates; headers/footers excluded",
   "documents": [
     {
@@ -17,7 +17,7 @@
       "text_checks": 152,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "eacc1631265445d53de2cfdd83e38f865791d9753c200c5b4fcc93b4cffc575e",
+      "pdf_sha256": "a5628a5d9dbd3e6ab54ba184034151a268cf87685f4eb58b44da2cf4ac935ccd",
       "latex_overflow": false
     },
     {
@@ -27,13 +27,16 @@
       "text_checks": 20,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "6c217547c9c4b29001dc06cff4932b6fc2846574275164b77ddae17a2f99ebe8",
+      "pdf_sha256": "f008ba8efebdbd66d6e312b70db94b5b9c58c24d6d037df18ea829f3af611111",
       "latex_overflow": false
     }
   ],
   "independent_documents": 2,
-  "qa_status": "text_and_layout_checked",
-  "checked_date": "2026-10-06",
-  "current_report": "qa/pdf_documents_qa.json",
-  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+  "qa_status": "text_and_structure_checked",
+  "checked_date": "2026-10-07",
+  "current_report": "../../qa/translation_and_residual_review.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "numbering_checked": "模拟第1—6项对应原件第4—9项；所有内部引用同步。",
+  "notes_sha256": "5306014d2234832b47f4a73145f8d4c1cd55a53f1d41ddad55bfd8debcd964a9",
+  "material_structure_report": "../../qa/material_structure_review.json"
 }

@@ -668,8 +668,8 @@
   },
   "rendering": "native_xelatex",
   "pages": 17,
-  "qa_status": "text_and_layout_checked",
-  "material_sha256": "cbecb325c4367ce124ff38b23abc512ca5d6812410d8a1d80d679079ffcb6e3d",
+  "qa_status": "text_and_structure_checked",
+  "material_sha256": "39cc92fceb3aed97a0ec2419d9b43e9efae027735ea4c9ca44b1f394905b6335",
   "documents": [
     {
       "document_number": "01",
@@ -768,16 +768,133 @@
       ],
       "content_sha256": "49f9a7032ac11fc2275e05bbbcdccacaa73dc2416ef5089291ff6b5ed6818e84",
       "pages": 7,
-      "pdf_sha256": "f95bbd6b58b476f00dbfa7649f2927f19dae66b644dff4091e1677a58b751810",
+      "pdf_sha256": "f7e49366bed9071dbc16dda15d344f9f7ca4bd1675dfb88b2b84ed8007cceaa5",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "你": "您"
+      },
       "latex_source": "latex/20-01_银行存款归集项目披露.tex",
-      "latex_sha256": "50b931f7f27b67784ab1b5a4eca3a7add48038dd51b51bbbd7f8eea6addc647b"
+      "latex_sha256": "d770c7b7a29f35cdba780b73d3440302e02a5af53b26cc7e1be30228019121fd",
+      "heading_outline": [
+        {
+          "title": "定义",
+          "level": 1
+        },
+        {
+          "title": "概述",
+          "level": 1
+        },
+        {
+          "title": "项目运作——存款",
+          "level": 1
+        },
+        {
+          "title": "最高存款限额",
+          "level": 2
+        },
+        {
+          "title": "提款",
+          "level": 2
+        },
+        {
+          "title": "利息入账",
+          "level": 2
+        },
+        {
+          "title": "存款保险限额变更",
+          "level": 2
+        },
+        {
+          "title": "所有权记录",
+          "level": 2
+        },
+        {
+          "title": "参与银行",
+          "level": 1
+        },
+        {
+          "title": "银行状态",
+          "level": 2
+        },
+        {
+          "title": "账户银行清单",
+          "level": 2
+        },
+        {
+          "title": "新账户",
+          "level": 2
+        },
+        {
+          "title": "现有账户转入归集项目",
+          "level": 2
+        },
+        {
+          "title": "已采用项目的账户",
+          "level": 2
+        },
+        {
+          "title": "客户发起清单变更",
+          "level": 2
+        },
+        {
+          "title": "银行加入及退出",
+          "level": 2
+        },
+        {
+          "title": "银行状态变更",
+          "level": 2
+        },
+        {
+          "title": "其他项目变更",
+          "level": 2
+        },
+        {
+          "title": "现金余额的访问",
+          "level": 1
+        },
+        {
+          "title": "存款账户",
+          "level": 2
+        },
+        {
+          "title": "报表及确认",
+          "level": 2
+        },
+        {
+          "title": "货币基金溢出",
+          "level": 2
+        },
+        {
+          "title": "银行存款利率",
+          "level": 1
+        },
+        {
+          "title": "溢出基金收益",
+          "level": 1
+        },
+        {
+          "title": "FDIC保险及SIPC保护",
+          "level": 1
+        },
+        {
+          "title": "平台与其他机构的关系",
+          "level": 1
+        },
+        {
+          "title": "平台与其他机构取得的利益",
+          "level": 2
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "16": "各可用银行均达到限额后，剩余现金进入货币市场基金溢出安排。在个别有限情形下，主要银行仍可能持有超过最高存款限额的余额，超出保险限额的部分不受美国联邦存款保险公司（FDIC）保障。",
+        "66": "新核心头寸可能不适用FDIC保险，而可能适用美国证券投资者保护公司（SIPC）保护。平台不保证新头寸提供相同或更高收益；实际收益可能较低，平台所得报酬也可能不同或更高。",
+        "68": "您同意平台向项目服务方提供姓名、社会保障号码或税务号码、地址及出生日期等资料。银行等服务方仅为履行其本身或平台的法定及监管义务而使用这些资料。"
+      }
     },
     {
       "document_number": "02",
@@ -918,9 +1035,9 @@
       ],
       "content_sha256": "8b12e6ae62b26b1e7f2e5a4012899ab6f6f2b9c4516329237961dbf01c87fcf1",
       "pages": 10,
-      "pdf_sha256": "fc26d02fbcd6df9ec8ff518d7c6d30be0162b7280b51aa77bce0ed79b953a1f9",
+      "pdf_sha256": "e1500df1b546726888135e56a484e8bc18dfbfdb950a322bfa116948e6130033",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [
         {
           "header": [
@@ -979,10 +1096,12 @@
         "omitted": "不适用于政府货币基金的零售非政府基金资格、2%流动性费和其他基金特定条款；未纳入其他基金财务表；不声称整个多基金原件全文译本。"
       },
       "omitted_source_lines": {
-        "108": "正文开头重复文书标题，文件主标题已列于页面顶部"
+        "108": "正文开头重复文书标题，文件主标题已列于页面顶部",
+        "111": "中文化复核：不影响金融条件的出版或联系方式残留"
       },
       "rendered_text_replacements": {
-        "证券监管机构未批准或否决本证券，亦未认定说明书准确完整；相反陈述属犯罪行为。": ""
+        "证券监管机构未批准或否决本证券，亦未认定说明书准确完整；相反陈述属犯罪行为。": "",
+        "截至2025年10月31日财务期间的N-CSRS报告": "最近财务期间的半年度持有人报告"
       },
       "heading_overrides_by_source_line": {
         "156": 1,
@@ -991,7 +1110,148 @@
         "165": 1
       },
       "latex_source": "latex/20-02_政府货币市场基金招募说明书.tex",
-      "latex_sha256": "5c47a095adda90bfcdffb1570c51aa7b1a14cb09069bc60e90cd05734e051dd8"
+      "latex_sha256": "e555d01864a59cc45edb063570d0e5c1339fbb9f415221b8caac25958417f4d4",
+      "heading_outline": [
+        {
+          "title": "投资目标",
+          "level": 1
+        },
+        {
+          "title": "费用表",
+          "level": 1
+        },
+        {
+          "title": "主要投资策略",
+          "level": 1
+        },
+        {
+          "title": "主要投资风险",
+          "level": 1
+        },
+        {
+          "title": "业绩",
+          "level": 1
+        },
+        {
+          "title": "投资顾问",
+          "level": 1
+        },
+        {
+          "title": "购买及出售基金份额",
+          "level": 1
+        },
+        {
+          "title": "税务资料",
+          "level": 1
+        },
+        {
+          "title": "向经纪交易商及其他金融中介付款",
+          "level": 1
+        },
+        {
+          "title": "投资详情",
+          "level": 1
+        },
+        {
+          "title": "基本政策与份额估值",
+          "level": 2
+        },
+        {
+          "title": "买卖份额的补充资料",
+          "level": 1
+        },
+        {
+          "title": "一般资料",
+          "level": 2
+        },
+        {
+          "title": "提交交易指令",
+          "level": 2
+        },
+        {
+          "title": "频繁购买及赎回",
+          "level": 2
+        },
+        {
+          "title": "购买份额",
+          "level": 2
+        },
+        {
+          "title": "出售份额",
+          "level": 2
+        },
+        {
+          "title": "基金份额赎回政策",
+          "level": 2
+        },
+        {
+          "title": "份额转换",
+          "level": 2
+        },
+        {
+          "title": "账户功能及政策",
+          "level": 1
+        },
+        {
+          "title": "账户功能",
+          "level": 2
+        },
+        {
+          "title": "账户政策",
+          "level": 2
+        },
+        {
+          "title": "股息及资本利得分配",
+          "level": 1
+        },
+        {
+          "title": "股息计提",
+          "level": 2
+        },
+        {
+          "title": "分配选项",
+          "level": 2
+        },
+        {
+          "title": "税务后果",
+          "level": 1
+        },
+        {
+          "title": "基金管理",
+          "level": 1
+        },
+        {
+          "title": "投资顾问",
+          "level": 2
+        },
+        {
+          "title": "次级顾问",
+          "level": 2
+        },
+        {
+          "title": "投资顾问费用",
+          "level": 2
+        },
+        {
+          "title": "基金分销",
+          "level": 1
+        },
+        {
+          "title": "分销及服务计划",
+          "level": 2
+        },
+        {
+          "title": "财务摘要",
+          "level": 1
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "110": "政府货币市场基金　MMF01",
+        "138": "投资可能亏损。基金以每份1美元为目标，不能保证达到。基金不是银行账户，不受美国联邦存款保险公司（FDIC）或其他政府保险。提供者及关联方没有补偿损失的义务，不应预期其在市场压力期间提供支持。",
+        "182": "尚未开立经纪或共同基金账户的投资者，可能须填写开户申请。您亦可通过退休账户，包括个人退休账户（IRA）及工资扣款账户，或者通过投资专业人员买卖份额。通过退休账户或投资专业人员交易时，购买、出售及转换程序，以及账户功能、政策和费用，可能不同于本招募说明书所述安排；亦可能产生本说明书以外的费用。例如，通过其他经纪商或投资专业人员买卖份额，可能须支付交易费。",
+        "372": "管理公司M担任基金管理人。截至2025年12月31日，其全权管理资产约5.6万亿美元，连同关联机构管理资产约7.1万亿美元。管理人总体负责指导基金投资及处理业务事务。",
+        "418": "A：净投资收入受所持基金或交易所交易基金（ETF）宣布股息时点影响，所持基金自身的净投资收入率不计入本基金的该项比率。"
+      }
     }
   ],
   "pdf_files": [

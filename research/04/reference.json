@@ -558,7 +558,7 @@
     "provenance": "既有场景研究设定；非官方原件合同确认",
     "text_sha256": "30ca5c78e9a8ff7e00eb05f6e342b2d818cf060e15556118ada245f5316749f5"
   },
-  "qa_status": "text_and_layout_checked",
+  "qa_status": "text_and_structure_checked",
   "pages": 13,
   "documents": [
     {
@@ -626,7 +626,7 @@
           "level": 3
         },
         "单位分销": {
-          "level": 3
+          "level": 2
         },
         "其他报酬及福利": {
           "level": 3
@@ -736,9 +736,9 @@
       ],
       "content_sha256": "30b8904ae501861a97d69f9fefbe0ed3e6d715818777c9c94ffd2b4ad96fcea2",
       "pages": 13,
-      "pdf_sha256": "ec77efb834fd2697ef2465c3a460aeca05c2767beb4c22f806ba9526fdc3c8c3",
+      "pdf_sha256": "d524b2271b48582f5e6bf932e42cf472d0ab6eddcca9b310bbf0f8addcf18a00",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [
         {
           "header": [
@@ -799,10 +799,241 @@
       "rendered_text_replacements": {
         "SEC未批准或否决所发行单位，也未认定本说明书真实或完整。": "",
         "单位投资信托招募说明书：A部分": "A部分",
-        "单位投资信托招募说明书：B部分": "B部分"
+        "单位投资信托招募说明书：B部分": "B部分",
+        "本披露版本中，": "",
+        "该披露版本门槛为": "适用门槛为",
+        "在这些人士2018年": "这些人士2018年",
+        "发起人可有因移除受托人并任命继任，通知持有人。": "发起人可基于正当理由解除受托人的职务，并依信托协议任命继任受托人；有关通知须邮寄给各持有人。",
+        "受托人须具美国法律下信托权，资本、盈余及未分配利润合计至少": "受托人须依法在美国或其任何州设立，并获准开展信托业务；其资本、盈余及未分配利润合计须持续不少于"
       },
       "latex_source": "latex/04-01_单位投资信托招募说明书.tex",
-      "latex_sha256": "b9aa468d6ecb619bc3027904fdfae93d5e408fe7054c962f8747c094172d7769"
+      "latex_sha256": "dc0cd5ab88086688ab0e7aa931d54a00f3e256d39d49c55f608011751075d7be",
+      "heading_outline": [
+        {
+          "title": "A部分",
+          "level": 1
+        },
+        {
+          "title": "基本信息",
+          "level": 2
+        },
+        {
+          "title": "费用表",
+          "level": 2
+        },
+        {
+          "title": "分配",
+          "level": 2
+        },
+        {
+          "title": "单位购买及赎回",
+          "level": 2
+        },
+        {
+          "title": "B部分",
+          "level": 1
+        },
+        {
+          "title": "组织",
+          "level": 2
+        },
+        {
+          "title": "单位",
+          "level": 2
+        },
+        {
+          "title": "购买单位",
+          "level": 2
+        },
+        {
+          "title": "公开发行价格",
+          "level": 3
+        },
+        {
+          "title": "组织费用",
+          "level": 3
+        },
+        {
+          "title": "交易销售费",
+          "level": 3
+        },
+        {
+          "title": "初次销售费",
+          "level": 3
+        },
+        {
+          "title": "递延销售费",
+          "level": 3
+        },
+        {
+          "title": "销售费用减免",
+          "level": 3
+        },
+        {
+          "title": "大额购买",
+          "level": 3
+        },
+        {
+          "title": "顾问及按资产收费账户",
+          "level": 3
+        },
+        {
+          "title": "替换或滚存选项",
+          "level": 3
+        },
+        {
+          "title": "员工",
+          "level": 3
+        },
+        {
+          "title": "股息再投资计划",
+          "level": 3
+        },
+        {
+          "title": "单位分销",
+          "level": 3
+        },
+        {
+          "title": "其他报酬及福利",
+          "level": 3
+        },
+        {
+          "title": "销售商利润",
+          "level": 3
+        },
+        {
+          "title": "发起人利润",
+          "level": 3
+        },
+        {
+          "title": "单位市场",
+          "level": 3
+        },
+        {
+          "title": "出售单位",
+          "level": 3
+        },
+        {
+          "title": "赎回",
+          "level": 3
+        },
+        {
+          "title": "发行及赎回价格计算",
+          "level": 3
+        },
+        {
+          "title": "发起人购买提交赎回的单位",
+          "level": 3
+        },
+        {
+          "title": "替换选项",
+          "level": 3
+        },
+        {
+          "title": "单位所有权",
+          "level": 3
+        },
+        {
+          "title": "投资风险",
+          "level": 2
+        },
+        {
+          "title": "稀释风险",
+          "level": 3
+        },
+        {
+          "title": "固定组合风险",
+          "level": 3
+        },
+        {
+          "title": "立法及诉讼风险",
+          "level": 3
+        },
+        {
+          "title": "流动性风险",
+          "level": 3
+        },
+        {
+          "title": "市场风险",
+          "level": 3
+        },
+        {
+          "title": "单位分销",
+          "level": 2
+        },
+        {
+          "title": "信托管理",
+          "level": 2
+        },
+        {
+          "title": "向持有人分配",
+          "level": 3
+        },
+        {
+          "title": "信托",
+          "level": 3
+        },
+        {
+          "title": "组合变更",
+          "level": 3
+        },
+        {
+          "title": "替代证券",
+          "level": 3
+        },
+        {
+          "title": "信托协议修改",
+          "level": 3
+        },
+        {
+          "title": "终止",
+          "level": 3
+        },
+        {
+          "title": "发起人",
+          "level": 3
+        },
+        {
+          "title": "监督人及估值人",
+          "level": 3
+        },
+        {
+          "title": "受托人",
+          "level": 3
+        },
+        {
+          "title": "组合顾问",
+          "level": 3
+        },
+        {
+          "title": "责任限制",
+          "level": 3
+        },
+        {
+          "title": "信托费用",
+          "level": 2
+        },
+        {
+          "title": "组合交易及经纪分配",
+          "level": 3
+        },
+        {
+          "title": "税务身份",
+          "level": 2
+        },
+        {
+          "title": "专家",
+          "level": 2
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "70": "首次发行价包含用于设立信托的证券或现金金额。包括注册声明、信托契约及交割文件编制、美国证券交易委员会（SEC）及州注册、首次组合审计、法律费、组合选择顾问费、受托人初始费用。发行期结束或成立六个月两者较早时扣取；信托出售证券补偿发起人，最高不超过A部分估计。",
+        "116": "信托分配再投资于本信托新增单位不收交易销售费。递延费固定，仍须从单位扣取，但购买时给予足够额外单位抵销剩余递延费。额外单位价值会波动。首次发行及二级市场均适用。经纪商可通过存托信托公司（DTC）服务或再投资代码办理。",
+        "242": "首次及后续发行按适用公开发行价格进行。在注册或豁免地区通过美国金融业监管局（FINRA）成员及其他机构销售，可支付相应分销费。不构成不合法地区要约，发起人可拒绝订单。",
+        "284": "M依法注册为经纪商、FINRA及美国证券投资者保护公司（SIPC）成员，属于金融集团。发起人辞任、不履职、无能力、破产或被接管时，受托人可任命合理报酬继任者、终止清算，或继续运营。伦理守则要求知悉交易的员工报告个人交易，防止冲突、欺诈及不当行为。",
+        "292": "T为纽约信托银行，受银行及联邦监管。银行存款在法律限额内受美国联邦存款保险公司（FDIC）保障，此身份不使信托单位成为受保存款。",
+        "341": "以下联邦税务说明部分依据发起人律师意见。美国国税局（IRS）可能不同意任何结论。律师未受托审查、也未就信托将持有资产的联邦税务处理作结论，以下可能不足以用于避免联邦税务罚款。应向自己的税务顾问寻求按个人情况提出的建议。"
+      }
     }
   ],
   "pdf_files": [
@@ -811,7 +1042,7 @@
   "pages_definition": "独立PDF页数。",
   "document_manifest": "pdf_documents.json",
   "heading_levels": 3,
-  "material_sha256": "2d98ac7f6a5b7b83048ce00e5937ed030c200abda762dc9ca121498b1b0bdc85",
+  "material_sha256": "0b863d5ab3ec03f81cbd30c1443ec49e220374941487679981c0b617feb3b725",
   "scenario_confirmation_location": "04_MorganStanley_UIT_Replacement_6M_Material.md — 场景信息／本次账户及办理条件",
   "document_revision": {
     "archive": "archive/before_reference_document_revision_20261006",

@@ -1,19 +1,19 @@
 {
   "case": 20,
   "pages": 17,
-  "paragraphs_checked": 373,
+  "paragraphs_checked": 372,
   "missing_paragraphs": [],
   "pdf_has_text": true,
   "latex_overflow": false,
   "originals_archived": true,
   "translation_review": "not_fully_sentence_checked",
   "visual_layout_review": "passed",
-  "checked_date": "2026-10-06",
+  "checked_date": "2026-10-07",
   "participant_links_checked": true,
   "source_manifest_hashes_checked": true,
   "decision_criteria_preserved": true,
-  "material_sha256": "8b8a2077b7f5e75a7e0b372a7d2ba68715d6ada2969114735c0a53d7a7647c15",
-  "notes_sha256": "56feb011eb4e155ef5d789c17593599e8746f900dac255793292dd57b8493d3f",
+  "material_sha256": "39cc92fceb3aed97a0ec2419d9b43e9efae027735ea4c9ca44b1f394905b6335",
+  "notes_sha256": "83c8ac4e6d0f4ac2adaff64e5792996f2506aa7fcc92886e5f05cf75db5fb2ce",
   "documents": [
     {
       "document_id": "20-01",
@@ -22,23 +22,24 @@
       "text_checks": 101,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "f95bbd6b58b476f00dbfa7649f2927f19dae66b644dff4091e1677a58b751810",
+      "pdf_sha256": "f7e49366bed9071dbc16dda15d344f9f7ca4bd1675dfb88b2b84ed8007cceaa5",
       "latex_overflow": false
     },
     {
       "document_id": "20-02",
       "pdf": "20-02_政府货币市场基金招募说明书.pdf",
       "pages": 10,
-      "text_checks": 272,
+      "text_checks": 271,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "fc26d02fbcd6df9ec8ff518d7c6d30be0162b7280b51aa77bce0ed79b953a1f9",
+      "pdf_sha256": "e1500df1b546726888135e56a484e8bc18dfbfdb950a322bfa116948e6130033",
       "latex_overflow": false
     }
   ],
   "independent_documents": 2,
-  "qa_status": "text_and_layout_checked",
-  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
-  "current_report": "qa/pdf_documents_qa.json",
-  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+  "qa_status": "text_and_structure_checked",
+  "visual_review": "42份文书首页排版，07及15术语所在页；全部页面文本及短行自动检查",
+  "current_report": "../../qa/translation_and_residual_review.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "material_structure_report": "../../qa/material_structure_review.json"
 }

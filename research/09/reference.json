@@ -490,7 +490,7 @@
     "provenance": "既有场景研究设定；非官方原件合同确认",
     "text_sha256": "88e2ebccbc60a278145669be2f2adadaf6a87c589b1b7da130fad683faf2f93d"
   },
-  "qa_status": "text_and_layout_checked",
+  "qa_status": "text_and_structure_checked",
   "pages": 16,
   "documents": [
     {
@@ -566,9 +566,9 @@
       ],
       "content_sha256": "895dfd225d30eb057658e0c1d3dc795131634333a447f65aa69db89d53d222a2",
       "pages": 7,
-      "pdf_sha256": "36fed753f881c3e1ef48a5e3f225c2be227d31f761a248292cc3f3a7821a69b5",
+      "pdf_sha256": "8623d6a4b0cc5677e16d563cb2afb7fe25533df0ae6c3e77546103e90316d5fb",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [
         {
           "header": [
@@ -584,9 +584,93 @@
       "omitted_source_lines": {
         "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "购买年化利率APR": "购买年度百分比率（APR）"
+      },
       "latex_source": "latex/09-01_商户合作融资卡账户协议.tex",
-      "latex_sha256": "a4b757451b48984a9bb74c724ccca721968d8184f6611cbe11a04d7b0af8e7bc"
+      "latex_sha256": "eed62ab419ce269a1eccb457c2ab8b3eb04a48aaec4e0a1fa1caca9a0f5673d0",
+      "heading_outline": [
+        {
+          "title": "第一部分：利率及费用表",
+          "level": 1
+        },
+        {
+          "title": "第二部分：利率、费用及付款信息",
+          "level": 1
+        },
+        {
+          "title": "利息的计算",
+          "level": 2
+        },
+        {
+          "title": "费用的适用",
+          "level": 2
+        },
+        {
+          "title": "最低付款的计算",
+          "level": 2
+        },
+        {
+          "title": "特别促销融资信息",
+          "level": 2
+        },
+        {
+          "title": "第三部分：标准条款",
+          "level": 1
+        },
+        {
+          "title": "信用卡账户协议",
+          "level": 2
+        },
+        {
+          "title": "账户与卡的使用",
+          "level": 2
+        },
+        {
+          "title": "付款时间与方法",
+          "level": 2
+        },
+        {
+          "title": "客户信息",
+          "level": 2
+        },
+        {
+          "title": "账户其他重要信息",
+          "level": 2
+        },
+        {
+          "title": "协议其他重要信息",
+          "level": 2
+        },
+        {
+          "title": "通过仲裁解决争议",
+          "level": 2
+        },
+        {
+          "title": "第四部分：其他重要信息",
+          "level": 1
+        },
+        {
+          "title": "现役军人及其家属通知",
+          "level": 2
+        },
+        {
+          "title": "各州通知",
+          "level": 2
+        },
+        {
+          "title": "账单权利",
+          "level": 2
+        },
+        {
+          "title": "对购买商品或服务不满意的权利",
+          "level": 2
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "24": "利率。我们以每日利率计算账户每日余额利息。每日利率为年度百分比率（APR）乘以1/365，利息金额和利率不超过适用法律允许的范围。购买每日利率为0.09039%（APR32.99%）；罚息每日利率为0.10957%（APR39.99%）。",
+        "201": "客户已善意尝试与商户解决问题但仍不满意，可能有权不付剩余购买款。须同时满足：购买发生在居住州或当前邮寄地址100英里内且价格超过50美元；通过信用卡购买而不是自动取款机（ATM）预借或信用卡支票；尚未全部付清。购买基于银行寄送广告，或银行拥有出售商品的公司时，地理和50美元条件不适用。符合条件时应向账单查询地址写信。调查期间适用上述争议金额规则，调查后告知决定；认为客户应付而拒付时可报告逾期。"
+      }
     },
     {
       "document_number": "02",
@@ -607,9 +691,9 @@
       ],
       "content_sha256": "041f7ca6b65fecb778311758cd6de61c8eb56695bef9d9aced98569bffad2316",
       "pages": 2,
-      "pdf_sha256": "43fa138f023547a3a053947ffb2024e458444d1b1c20239f1ebc4e3de1034100",
+      "pdf_sha256": "588157d9f1515ff79034dba65f2a17cf9744e8387b49d7afdbc6abfcbe9bdc72",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [
         {
           "header": [
@@ -629,7 +713,13 @@
       },
       "rendered_text_replacements": {},
       "latex_source": "latex/09-02_个人信息隐私通知.tex",
-      "latex_sha256": "6422b67c36f91b43dafedb08be61fbcc1304cd2b840ca18da5a73aa308cf8872"
+      "latex_sha256": "fe2e1d78d73ec27cf7965993a782e36b62379235374a86c262068e0c0bafc6d2",
+      "heading_outline": [
+        {
+          "title": "银行如何处理个人信息",
+          "level": 1
+        }
+      ]
     },
     {
       "document_number": "03",
@@ -659,16 +749,40 @@
       ],
       "content_sha256": "156435186943428a343f4631b402b88a5ef07c801ad0cd8c3d611efb767a950b",
       "pages": 2,
-      "pdf_sha256": "6f5ec222fb26fdc53ccafdfa3af27c5129a5aa25f538eeea96417a95c36e9094",
+      "pdf_sha256": "702fcb026abe086106df1176b48c476e4a06fa762f5e2f2cbf842aec5159fdec",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "235": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "该披露基准利率为": "基准利率为"
+      },
       "latex_source": "latex/09-03_通用购买优惠卡定价条款.tex",
-      "latex_sha256": "07551a8d1271de332abb9470698fee299cdcd85252a743e7cc36471c12238b1e"
+      "latex_sha256": "586a01a7c09a52cadb769d089f0272872c1b003e46c9ca250a4a1708c298b6e0",
+      "heading_outline": [
+        {
+          "title": "利率及利息收费",
+          "level": 1
+        },
+        {
+          "title": "费用",
+          "level": 1
+        },
+        {
+          "title": "军人贷款法通知",
+          "level": 1
+        },
+        {
+          "title": "条款与条件",
+          "level": 1
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "239": "购买年度百分比率（APR）：账户开立后最初15个月为0%；此后18.49%—27.99%，依据信用资格及其他因素，并随优惠基准利率变化。",
+        "279": "银行及关联方可共享信息以提供产品服务。客户可要求不共享申请、征信及第三方信息，并查阅隐私政策。申请漏填资料可导致拒绝。现有或曾持有相同奖励项目卡的客户，可能不符合第二张卡资格；正使用促销定价或长期仅使用促销定价的客户，不符合第二张促销卡资格。须具有美国50州、华盛顿特区、关岛、波多黎各、美属维尔京群岛或军方的永久地址。"
+      }
     },
     {
       "document_number": "04",
@@ -734,16 +848,85 @@
       ],
       "content_sha256": "3156a0730ba61fe2b6a12c16ef4286c8ce01328bc6cfcc9c4c227b9b3f1d4d8e",
       "pages": 5,
-      "pdf_sha256": "c23d0c6355f715c42c0258f5289722f475b8f91198df4dd171b908881da210b6",
+      "pdf_sha256": "1b8fb164d1811631039485afbd0021f7959c86fc1d61256b503f83a6816974c9",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "283": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
       "rendered_text_replacements": {},
       "latex_source": "latex/09-04_通用购买优惠卡奖励计划协议.tex",
-      "latex_sha256": "e7c56f8d1304c9b6265337b0fd8e91c4c8244c9ccde0cb939df2266a1a1092e4"
+      "latex_sha256": "1f35c1f1340a08558e139bf245f23ce469954bdbb29d2a507de31d16d72b697c",
+      "heading_outline": [
+        {
+          "title": "关于本计划及协议的重要信息",
+          "level": 1
+        },
+        {
+          "title": "变更通知",
+          "level": 1
+        },
+        {
+          "title": "如何取得点数",
+          "level": 1
+        },
+        {
+          "title": "额外点数方式",
+          "level": 1
+        },
+        {
+          "title": "点数取得及可用性的其他信息",
+          "level": 1
+        },
+        {
+          "title": "如何使用点数",
+          "level": 1
+        },
+        {
+          "title": "现金",
+          "level": 2
+        },
+        {
+          "title": "礼品卡",
+          "level": 2
+        },
+        {
+          "title": "旅行",
+          "level": 2
+        },
+        {
+          "title": "以点数支付商品及服务",
+          "level": 2
+        },
+        {
+          "title": "与其他奖励卡合并点数",
+          "level": 2
+        },
+        {
+          "title": "何时可能不能取得或使用点数",
+          "level": 1
+        },
+        {
+          "title": "何时会失去点数",
+          "level": 1
+        },
+        {
+          "title": "其他重要信息",
+          "level": 1
+        },
+        {
+          "title": "通讯",
+          "level": 2
+        },
+        {
+          "title": "电话监听",
+          "level": 2
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "379": "参加可能产生杂项收入，银行可能就获奖年度向客户及美国国税局（IRS）提交1099-MISC或1042-S表。客户负责有关税务，应咨询自己的税务顾问。银行可将协议权利义务转给第三方，后者取得转让权利。"
+      }
     }
   ],
   "pdf_files": [
@@ -755,7 +938,7 @@
   "pages_definition": "各独立PDF页数之和；不存在现行合并PDF。",
   "document_manifest": "pdf_documents.json",
   "heading_levels": 3,
-  "material_sha256": "f6f38c179a8d4abda6f7b71a67a6119be0f46c81e44fae410cfe9c211a712878",
+  "material_sha256": "26df224d82097af5caa8766957e87194a6ce7bd766997cc7f5959720f0b36c93",
   "scenario_confirmation_location": "09_CareCredit_Promotional_Financing_Material.md — 场景信息／本次账户及办理条件",
   "document_revision": {
     "archive": "archive/before_reference_document_revision_20261006",

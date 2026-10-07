@@ -9,7 +9,7 @@
       "text_checks": 10,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "80144a578c5e0014686961ca7266d22d43ce35997a02f9c499f0b4754109c0ae",
+      "pdf_sha256": "c189e8b514b0c408bb38b68b5aebfa85e989d40c50f021e0ac3e597ab6d907cd",
       "latex_overflow": false
     },
     {
@@ -19,21 +19,24 @@
       "text_checks": 34,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "1d4b131f35f76e935498aa211f85de1f84b4dc02dbac14e4e339fb35a22fa28f",
+      "pdf_sha256": "b71dae90df95bcc97ef4e832517a02d13bc488a38cbe7655dd3262bde3894353",
       "latex_overflow": false
     },
     {
       "document_id": "07-03",
       "pdf": "07-03_学生贷款合并与还款资料.pdf",
       "pages": 4,
-      "text_checks": 82,
+      "text_checks": 81,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "9d6c61b28cf9e193897198208ddcf7f974c15ec5e89a42025ef4bce7a9938969",
+      "pdf_sha256": "8fd605eb1af929d39f0bb6431d6d600f88017652a6a489540cab746673325447",
       "latex_overflow": false
     }
   ],
   "all_current_body_text_present": true,
   "decision_criteria_preserved": true,
-  "qa_status": "text_and_layout_checked"
+  "qa_status": "text_and_structure_checked",
+  "checked_date": "2026-10-07",
+  "visual_review": "42份文书首页排版，07及15术语所在页；全部页面文本及短行自动检查",
+  "current_report": "../../qa/translation_and_residual_review.json"
 }

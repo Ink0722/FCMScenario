@@ -288,8 +288,8 @@
   },
   "rendering": "native_xelatex",
   "pages": 9,
-  "qa_status": "text_and_layout_checked",
-  "material_sha256": "375ec0bd2d8bcc6868f8c144ba68e5e9621089f1b4c15393ee3cd8aefd59bae3",
+  "qa_status": "text_and_structure_checked",
+  "material_sha256": "aab052bdad5c6884adaf5d2626e7d60a8c2b22177d82f1a054fbe9b8ec20d0c8",
   "documents": [
     {
       "document_number": "01",
@@ -328,16 +328,53 @@
       ],
       "content_sha256": "a8c358dc5c1e8f3ca3115bea23d5d9c8025551ae12f8d72d21fd1311dd40d047",
       "pages": 3,
-      "pdf_sha256": "9e347ca2ae12a269b6d03b40b7b104d6a8cc70e8e69a241f757a3af8bb023283",
+      "pdf_sha256": "6d555ceec4b195b24df6e5202c138aaff427e4ccc947848057b704bb1649ad71",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
-        "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
+        "3": "正文开头重复文书标题，文件主标题已列于页面顶部",
+        "54": "中文化复核：不影响金融条件的出版或联系方式残留"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "；本文件为模拟任务使用的中文协议资料。": "。",
+        "你": "您"
+      },
       "latex_source": "latex/15-01_余额差额保障计划协议及披露.tex",
-      "latex_sha256": "9ed53b413a71b7337d7b4a83a9a21793d817384dc42cea3b070548daefb5650d"
+      "latex_sha256": "82b9b5e1e876d9c2ef823891d46fa6931e4d18079f5d429222e282a2a7c7841a",
+      "heading_outline": [
+        {
+          "title": "定义",
+          "level": 1
+        },
+        {
+          "title": "一般条款",
+          "level": 1
+        },
+        {
+          "title": "除外事项及限制",
+          "level": 1
+        },
+        {
+          "title": "示例一",
+          "level": 2
+        },
+        {
+          "title": "示例二",
+          "level": 2
+        },
+        {
+          "title": "保障事件后的贷款状态",
+          "level": 1
+        },
+        {
+          "title": "联系项目",
+          "level": 1
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "16": "贷款价值比：贷款余额与J.D. Power NADA官方二手车指南的良好车况零售估值（Clean Retail）之比；资料不可得时，采用我们单独确定的类似估价指数。"
+      }
     },
     {
       "document_number": "02",
@@ -353,12 +390,6 @@
           "level": 1
         },
         "加利福尼亚州法律": {
-          "level": 1
-        },
-        "你的汽车保单": {
-          "level": 1
-        },
-        "了解你的权利": {
           "level": 1
         },
         "汽车保险费用": {
@@ -399,6 +430,12 @@
         },
         "保障项目": {
           "level": 2
+        },
+        "您的汽车保单": {
+          "level": 1
+        },
+        "了解您的权利": {
+          "level": 1
         }
       },
       "source_ids": [
@@ -406,16 +443,90 @@
       ],
       "content_sha256": "8e5b79c45a3bf5d43da3be322d2f7dbf00877b34948c09e5bdb5bc17269a8806",
       "pages": 6,
-      "pdf_sha256": "6c2c42c9fe17f27aeab28cbbaaa1249aff907faa8a0157fb132fe26824131491",
+      "pdf_sha256": "ae8e111522f6225760553b3c05242ea6e4439f9bfc5ca5ef051aa1296b3b9b72",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "56": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "指南列出的保单签发后": "保单签发后",
+        "指南列出的其他证明方法": "其他财务责任证明方法",
+        "你": "您"
+      },
       "latex_source": "latex/15-02_加州汽车保险指南.tex",
-      "latex_sha256": "ba8cbb8726977dc7bd83137d13620ec7aeeec4a1f7232afc5f29dcfa0e9cb14a"
+      "latex_sha256": "83b82d692c896a3654aa88daca5901d270373e38d54d55f777d59767b8ec0bfb",
+      "heading_outline": [
+        {
+          "title": "汽车保险简介",
+          "level": 1
+        },
+        {
+          "title": "加利福尼亚州法律",
+          "level": 1
+        },
+        {
+          "title": "您的汽车保单",
+          "level": 1
+        },
+        {
+          "title": "了解您的权利",
+          "level": 1
+        },
+        {
+          "title": "汽车保险费用",
+          "level": 1
+        },
+        {
+          "title": "责任保障与加州法律",
+          "level": 1
+        },
+        {
+          "title": "其他保障选项",
+          "level": 1
+        },
+        {
+          "title": "保障项目",
+          "level": 2
+        },
+        {
+          "title": "购买汽车保险",
+          "level": 1
+        },
+        {
+          "title": "填写申请",
+          "level": 2
+        },
+        {
+          "title": "与代理人或经纪人合作",
+          "level": 2
+        },
+        {
+          "title": "发生事故",
+          "level": 1
+        },
+        {
+          "title": "加州低成本汽车保险项目（CLCA）",
+          "level": 1
+        },
+        {
+          "title": "高风险驾驶记录与CAARP",
+          "level": 1
+        },
+        {
+          "title": "常用术语",
+          "level": 1
+        },
+        {
+          "title": "资源与投诉",
+          "level": 1
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "104": "公司根据申请资料决定承保及收费。资料包括车辆用途、每年里程、家庭所有车辆的年份品牌型号及车辆识别号码（VIN）、购车金额、贷款或租赁保险要求、驾驶年数、家中驾驶人的姓名年龄婚姻状况和执照号码，以及事故、保险索赔及行车违规记录。公司通常向DMV取得机动车报告；该报告包含事故、交通违规及执照暂停记录。",
+        "137": "加利福尼亚州保险部门。"
+      }
     }
   ],
   "pdf_files": [

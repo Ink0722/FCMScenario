@@ -7,7 +7,7 @@
   "latex_overflow": false,
   "originals_archived": true,
   "translation_review": "not_fully_sentence_checked",
-  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
+  "visual_review": "42份文书首页排版，07及15术语所在页；全部页面文本及短行自动检查",
   "text_extraction_method": "PDFKit line selections sorted by page coordinates; headers/footers excluded",
   "documents": [
     {
@@ -17,7 +17,7 @@
       "text_checks": 113,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "36fed753f881c3e1ef48a5e3f225c2be227d31f761a248292cc3f3a7821a69b5",
+      "pdf_sha256": "8623d6a4b0cc5677e16d563cb2afb7fe25533df0ae6c3e77546103e90316d5fb",
       "latex_overflow": false
     },
     {
@@ -27,7 +27,7 @@
       "text_checks": 34,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "43fa138f023547a3a053947ffb2024e458444d1b1c20239f1ebc4e3de1034100",
+      "pdf_sha256": "588157d9f1515ff79034dba65f2a17cf9744e8387b49d7afdbc6abfcbe9bdc72",
       "latex_overflow": false
     },
     {
@@ -37,7 +37,7 @@
       "text_checks": 23,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "6f5ec222fb26fdc53ccafdfa3af27c5129a5aa25f538eeea96417a95c36e9094",
+      "pdf_sha256": "702fcb026abe086106df1176b48c476e4a06fa762f5e2f2cbf842aec5159fdec",
       "latex_overflow": false
     },
     {
@@ -47,13 +47,13 @@
       "text_checks": 56,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "c23d0c6355f715c42c0258f5289722f475b8f91198df4dd171b908881da210b6",
+      "pdf_sha256": "1b8fb164d1811631039485afbd0021f7959c86fc1d61256b503f83a6816974c9",
       "latex_overflow": false
     }
   ],
   "independent_documents": 4,
-  "qa_status": "text_and_layout_checked",
-  "checked_date": "2026-10-06",
-  "current_report": "qa/pdf_documents_qa.json",
+  "qa_status": "text_and_structure_checked",
+  "checked_date": "2026-10-07",
+  "current_report": "../../qa/translation_and_residual_review.json",
   "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
 }

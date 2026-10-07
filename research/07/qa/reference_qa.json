@@ -1,13 +1,13 @@
 {
   "case": 7,
   "pages": 8,
-  "paragraphs_checked": 126,
+  "paragraphs_checked": 125,
   "missing_paragraphs": [],
   "pdf_has_text": true,
   "latex_overflow": false,
   "originals_archived": true,
   "translation_review": "not_fully_sentence_checked",
-  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
+  "visual_review": "42份文书首页排版，07及15术语所在页；全部页面文本及短行自动检查",
   "text_extraction_method": "PDFKit line selections sorted by page coordinates; headers/footers excluded",
   "documents": [
     {
@@ -17,7 +17,7 @@
       "text_checks": 10,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "80144a578c5e0014686961ca7266d22d43ce35997a02f9c499f0b4754109c0ae",
+      "pdf_sha256": "c189e8b514b0c408bb38b68b5aebfa85e989d40c50f021e0ac3e597ab6d907cd",
       "latex_overflow": false
     },
     {
@@ -27,23 +27,23 @@
       "text_checks": 34,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "1d4b131f35f76e935498aa211f85de1f84b4dc02dbac14e4e339fb35a22fa28f",
+      "pdf_sha256": "b71dae90df95bcc97ef4e832517a02d13bc488a38cbe7655dd3262bde3894353",
       "latex_overflow": false
     },
     {
       "document_id": "07-03",
       "pdf": "07-03_学生贷款合并与还款资料.pdf",
       "pages": 4,
-      "text_checks": 82,
+      "text_checks": 81,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "9d6c61b28cf9e193897198208ddcf7f974c15ec5e89a42025ef4bce7a9938969",
+      "pdf_sha256": "8fd605eb1af929d39f0bb6431d6d600f88017652a6a489540cab746673325447",
       "latex_overflow": false
     }
   ],
   "independent_documents": 3,
-  "qa_status": "text_and_layout_checked",
-  "checked_date": "2026-10-06",
-  "current_report": "qa/pdf_documents_qa.json",
+  "qa_status": "text_and_structure_checked",
+  "checked_date": "2026-10-07",
+  "current_report": "../../qa/translation_and_residual_review.json",
   "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
 }

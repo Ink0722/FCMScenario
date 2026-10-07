@@ -9,7 +9,7 @@
       "text_checks": 21,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "c31bdbdbede6d954ebff87cf8c17a9a67246259a8502d8ee2098b51e2dd2557d",
+      "pdf_sha256": "f9a48caef3679785e5d4af765bc19905146f7147dc40d7485ef0fc06fb7231bb",
       "latex_overflow": false
     },
     {
@@ -19,7 +19,7 @@
       "text_checks": 254,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "33404c4d3bc536ec7bc928546b80fc7e2268ec4df16e466006bffdd74cf00ae9",
+      "pdf_sha256": "f70f820e3aea151f37b5951bddf596f9ce5c6a15464c45a11b7c31ff0ca6fce3",
       "latex_overflow": false
     },
     {
@@ -29,11 +29,14 @@
       "text_checks": 39,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "18ce9710831b7e69d9c9d8156c5937b0e4d4fcdbfecea362fa87e2765dd3bec2",
+      "pdf_sha256": "c699994c4c44f4e95aed222d77603bb9b8e5fbc7dae66681a20066764b2c4d67",
       "latex_overflow": false
     }
   ],
   "all_current_body_text_present": true,
   "decision_criteria_preserved": true,
-  "qa_status": "text_and_layout_checked"
+  "qa_status": "text_and_structure_checked",
+  "checked_date": "2026-10-07",
+  "visual_review": "42份文书首页排版，07及15术语所在页；全部页面文本及短行自动检查",
+  "current_report": "../../qa/translation_and_residual_review.json"
 }

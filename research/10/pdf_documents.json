@@ -33,16 +33,30 @@
       ],
       "content_sha256": "dd31cca9e1692a0e241bd42766722699c478acc0bd4a3819435c09c278be8c44",
       "pages": 2,
-      "pdf_sha256": "c31bdbdbede6d954ebff87cf8c17a9a67246259a8502d8ee2098b51e2dd2557d",
+      "pdf_sha256": "f9a48caef3679785e5d4af765bc19905146f7147dc40d7485ef0fc06fb7231bb",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
       "rendered_text_replacements": {},
       "latex_source": "latex/10-01_信用监测会员服务资料.tex",
-      "latex_sha256": "3bdcaec24913e18af7252bf42b7d4322b96e138dd505199baa2cdcfa22b3c9be"
+      "latex_sha256": "755eee9acaf936c3f47933b18c77abe3e21548e74b6b14d7f31e9df6e88abe52",
+      "heading_outline": [
+        {
+          "title": "重要信息",
+          "level": 1
+        },
+        {
+          "title": "您将获得的服务",
+          "level": 1
+        },
+        {
+          "title": "服务支持",
+          "level": 1
+        }
+      ]
     },
     {
       "document_number": "02",
@@ -190,9 +204,9 @@
       ],
       "content_sha256": "3211551d6ad25696e8044a69dc3e0026bd2ca192f8bdf97d20402f9fa5a9af4d",
       "pages": 14,
-      "pdf_sha256": "33404c4d3bc536ec7bc928546b80fc7e2268ec4df16e466006bffdd74cf00ae9",
+      "pdf_sha256": "f70f820e3aea151f37b5951bddf596f9ce5c6a15464c45a11b7c31ff0ca6fce3",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [
         {
           "header": [
@@ -225,7 +239,184 @@
       },
       "rendered_text_replacements": {},
       "latex_source": "latex/10-02_信用监测客户协议及附件.tex",
-      "latex_sha256": "5bae56136e6b9d30b6129090595bccacb1f6ab0094123739d6199b5afedee6af"
+      "latex_sha256": "4b3f76a486d1cc45a8b1f2f3a33772ed052872684837a8711a3bba26a39a9626",
+      "heading_outline": [
+        {
+          "title": "1. 同意使用条款及隐私政策",
+          "level": 1
+        },
+        {
+          "title": "2. 授权取得及使用您的数据、信用报告、信用评分及其他信息",
+          "level": 1
+        },
+        {
+          "title": "3. 通知及更新的交付",
+          "level": 1
+        },
+        {
+          "title": "4. 产品的使用及交付",
+          "level": 1
+        },
+        {
+          "title": "4.a. 本机构产品的使用",
+          "level": 2
+        },
+        {
+          "title": "4.b. 第三方产品",
+          "level": 2
+        },
+        {
+          "title": "4.c. 家庭计划的额外条款及条件",
+          "level": 2
+        },
+        {
+          "title": "4.c.1. 家庭计划——主要账户持有人",
+          "level": 3
+        },
+        {
+          "title": "4.c.2. 家庭计划——未成年子女",
+          "level": 3
+        },
+        {
+          "title": "4.c.3. 家庭计划——次要账户持有人",
+          "level": 3
+        },
+        {
+          "title": "5. 付款、取消及暂停",
+          "level": 1
+        },
+        {
+          "title": "5.a. 付款",
+          "level": 2
+        },
+        {
+          "title": "5.b. 本机构取消",
+          "level": 2
+        },
+        {
+          "title": "5.c. 订阅产品及取消",
+          "level": 2
+        },
+        {
+          "title": "5.d. 合资格订阅的临时暂停",
+          "level": 2
+        },
+        {
+          "title": "5.e. 非订阅产品（一次性购买）",
+          "level": 2
+        },
+        {
+          "title": "6. 税费",
+          "level": 1
+        },
+        {
+          "title": "7. 不能替代专业意见",
+          "level": 1
+        },
+        {
+          "title": "8. 不是信用修复机构",
+          "level": 1
+        },
+        {
+          "title": "9. 保密",
+          "level": 1
+        },
+        {
+          "title": "10. 不供未成年人使用",
+          "level": 1
+        },
+        {
+          "title": "11. 保证及责任免责声明",
+          "level": 1
+        },
+        {
+          "title": "12. 适用法律及诉讼时效",
+          "level": 1
+        },
+        {
+          "title": "13. 仲裁",
+          "level": 1
+        },
+        {
+          "title": "14. 保险",
+          "level": 1
+        },
+        {
+          "title": "15. 短信",
+          "level": 1
+        },
+        {
+          "title": "16. FICO评分版本",
+          "level": 1
+        },
+        {
+          "title": "17. 信用报告监测、更新评分、评分监测及提醒",
+          "level": 1
+        },
+        {
+          "title": "18. 完整协议",
+          "level": 1
+        },
+        {
+          "title": "额外消费者披露",
+          "level": 1
+        },
+        {
+          "title": "附件A——FICO评分版本",
+          "level": 1
+        },
+        {
+          "title": "重要信息",
+          "level": 2
+        },
+        {
+          "title": "提醒",
+          "level": 2
+        },
+        {
+          "title": "附件C——身份盗用保险条款及条件",
+          "level": 1
+        },
+        {
+          "title": "保险限额",
+          "level": 2
+        },
+        {
+          "title": "损失发生时的义务",
+          "level": 2
+        },
+        {
+          "title": "承保范围",
+          "level": 2
+        },
+        {
+          "title": "身份欺诈——费用报销",
+          "level": 2
+        },
+        {
+          "title": "现金追回",
+          "level": 2
+        },
+        {
+          "title": "除外责任",
+          "level": 2
+        },
+        {
+          "title": "定义",
+          "level": 2
+        },
+        {
+          "title": "条件",
+          "level": 2
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "367": "盗窃：在会员有效期内，会员购买商品或服务的交易对方盗窃与会员资料、支票簿、储蓄记录、自动取款机（ATM）访问或证券有关的财产，直接导致的损失。",
+        "379": "会员必须先向发卡、提供账户访问工具并持有账户的金融机构或其他提供者申请报销；未申请的不能追回款项不受保。已从其他来源取得报销的款项不受本项重复赔付。",
+        "399": "• 会员自愿向他人或机构交出全部或部分账户访问工具造成的损失；",
+        "431": "账户访问工具：卡片，包括信用卡、借记卡及ATM卡；代码、个人识别码（PIN）、密码、个人支票或其他类似账户访问方式，可用于提款、转账、购物或拨打长途、移动或数字无线电话。",
+        "493": "未经授权电子转账（UEFT）：由会员以外的人未经实际授权从会员账户发起，且会员未获得利益的电子转账。不包括：由会员曾向其提供账户访问工具的人发起的转账，除非会员事先通知机构该人不再获授权；会员或共谋者以欺诈意图发起的转账；金融机构或员工发起的转账；或任何商业账户转账。"
+      }
     },
     {
       "document_number": "03",
@@ -277,16 +468,61 @@
       ],
       "content_sha256": "e52e127adf0c5c3adf8c841513ce5e3a09f7d632e280258efe91b7a5d032b69a",
       "pages": 3,
-      "pdf_sha256": "18ce9710831b7e69d9c9d8156c5937b0e4d4fcdbfecea362fa87e2765dd3bec2",
+      "pdf_sha256": "c699994c4c44f4e95aed222d77603bb9b8e5fbc7dae66681a20066764b2c4d67",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "511": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
       "rendered_text_replacements": {},
       "latex_source": "latex/10-03_信用冻结及欺诈警示资料.tex",
-      "latex_sha256": "ae1e7c65015aceddc9a12961775b4aafc73b6d25effab11e7cd17314c79821c1"
+      "latex_sha256": "f4de1676aa1f003bcd2dd1881c7598c61846aab3bcc91906719a71e762303374",
+      "heading_outline": [
+        {
+          "title": "有关信用冻结",
+          "level": 1
+        },
+        {
+          "title": "信用冻结",
+          "level": 2
+        },
+        {
+          "title": "有关欺诈警示",
+          "level": 1
+        },
+        {
+          "title": "初始欺诈警示",
+          "level": 2
+        },
+        {
+          "title": "延长欺诈警示",
+          "level": 2
+        },
+        {
+          "title": "现役军人警示",
+          "level": 2
+        },
+        {
+          "title": "现役军人及国民警卫队成员的免费信用监测",
+          "level": 2
+        },
+        {
+          "title": "冻结子女信用",
+          "level": 2
+        },
+        {
+          "title": "取得免费报告",
+          "level": 1
+        },
+        {
+          "title": "信用报告取得渠道",
+          "level": 2
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "555": "可设置者：已遭身份盗用，并已提交美国联邦贸易委员会（FTC）身份盗用报告或警方报告者。"
+      }
     }
   ],
   "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",

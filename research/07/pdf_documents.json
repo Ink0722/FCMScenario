@@ -26,16 +26,29 @@
       ],
       "content_sha256": "5f35d55bc23b097a28a7586dacf22143a34f3bdb582973de11da01ee161a0e7a",
       "pages": 1,
-      "pdf_sha256": "80144a578c5e0014686961ca7266d22d43ce35997a02f9c499f0b4754109c0ae",
+      "pdf_sha256": "c189e8b514b0c408bb38b68b5aebfa85e989d40c50f021e0ac3e597ab6d907cd",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "† 为查看": "为查看"
+      },
       "latex_source": "latex/07-01_学生贷款再融资申请与还款披露.tex",
-      "latex_sha256": "50b989944be73a1b82db2736e7bf167c77e2fb0c358f8a96061bc18919cb6f93"
+      "latex_sha256": "ac424e80d7fcca985bae071d42e507bb3791c8ddaf3af7cb8c62c2309d9f2540",
+      "heading_outline": [
+        {
+          "title": "学生贷款再融资还款披露",
+          "level": 1
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "7": "条款及条件适用。贷款机构M保留随时修改条款、停止产品及福利的权利。您必须满足全部资格要求才能进行再融资。本机构仅对总额至少5,000美元的学生贷款进行再融资；该贷款须用于符合美国《高等教育法》第四篇（Title IV）条件的认可学校的学费，且您当时的注册学习量须至少达到学校认定全日制学习量的50%。目前用于正在就读学生教育费用的贷款不符合再融资条件。更多信息见资格标准。最低利率仅提供给信用状况最好的借款人。再融资可能使您在整个贷款存续期间支付更多利息。",
+        "9": "通知：本机构的学生贷款再融资属于私人贷款。用本机构贷款为联邦贷款再融资后，您将失去全部联邦贷款福利的资格，包括联邦学生贷款借款人现有或未来可能取得的灵活还款及减免选项，其中包括但不限于公共服务贷款减免（PSLF）、基于收入的还款计划、收入挂钩还款计划、延长还款计划、按收入比例还款计划（PAYE）或可负担教育还款计划（SAVE）。上述资料截至2026年5月21日，可能变更。再融资贷款由银行M发放。银行M为美国联邦存款保险公司（FDIC）成员。",
+        "13": "五年还款示例：贷款本金50,000美元，期限60个月，年度百分比率（APR）为4.850%，完全摊还的月付款为940.13美元，包含本金及利息。五年期间的利息总额为6,407.77美元。利率及APR仅供资料参考，可不经通知变更。"
+      }
     },
     {
       "document_number": "02",
@@ -99,16 +112,84 @@
       "source_ids": [],
       "content_sha256": "ed270ecbd6aa473382bc08a8bf6e73bc9562e12d9c80aff1524acba171c6c374",
       "pages": 3,
-      "pdf_sha256": "1d4b131f35f76e935498aa211f85de1f84b4dc02dbac14e4e339fb35a22fa28f",
+      "pdf_sha256": "b71dae90df95bcc97ef4e832517a02d13bc488a38cbe7655dd3262bde3894353",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "25": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "† 为查看": "为查看"
+      },
       "latex_source": "latex/07-02_九个月只付利息再融资产品问答.tex",
-      "latex_sha256": "5c498b9bd5db0773fad7c878e1294c9de12262739a0b991bc1df1d121977c00b"
+      "latex_sha256": "5bc8ef8a6c9b20023931ecf19ceae208e5fd0dc5949b64e1d47bda6d0968cac6",
+      "heading_outline": [
+        {
+          "title": "什么是九个月只付利息学生贷款再融资？",
+          "level": 1
+        },
+        {
+          "title": "如果刚毕业，还能享有六个月宽限期吗？",
+          "level": 1
+        },
+        {
+          "title": "能否与共同签署人一起申请？",
+          "level": 1
+        },
+        {
+          "title": "为什么选择这项再融资？",
+          "level": 1
+        },
+        {
+          "title": "选择此安排会支付更多利息吗？",
+          "level": 1
+        },
+        {
+          "title": "前九个月是否预付整个贷款存续期的全部利息？",
+          "level": 1
+        },
+        {
+          "title": "可以选择超过或少于九个月的只付利息期吗？",
+          "level": 1
+        },
+        {
+          "title": "标准还款与此选项看起来差别不大，有什么隐含条件？",
+          "level": 1
+        },
+        {
+          "title": "能否再次再融资？",
+          "level": 1
+        },
+        {
+          "title": "可以多付款，让本金更早减少吗？",
+          "level": 1
+        },
+        {
+          "title": "为什么我的产品报价中没有显示此选项？",
+          "level": 1
+        },
+        {
+          "title": "报价页面的贷款利率是否已经扣除会员折扣？",
+          "level": 1
+        },
+        {
+          "title": "此贷款是否收费？",
+          "level": 1
+        },
+        {
+          "title": "是否适用于所有学生贷款再融资类型？",
+          "level": 1
+        },
+        {
+          "title": "如何知道月付款将要增加？",
+          "level": 1
+        },
+        {
+          "title": "如果只付利息期结束后，无法支付更高的付款额怎么办？",
+          "level": 1
+        }
+      ]
     },
     {
       "document_number": "03",
@@ -156,16 +237,60 @@
       ],
       "content_sha256": "b8507e54b30462e01baac445b3dce33497ffce293cbf057c37cefe4d1d83644c",
       "pages": 4,
-      "pdf_sha256": "9d6c61b28cf9e193897198208ddcf7f974c15ec5e89a42025ef4bce7a9938969",
+      "pdf_sha256": "8fd605eb1af929d39f0bb6431d6d600f88017652a6a489540cab746673325447",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
-        "95": "正文开头重复文书标题，文件主标题已列于页面顶部"
+        "95": "正文开头重复文书标题，文件主标题已列于页面顶部",
+        "259": "来源页通用声明再次完整复制；已保留一处声明"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "† 为查看": "为查看"
+      },
       "latex_source": "latex/07-03_学生贷款合并与还款资料.tex",
-      "latex_sha256": "7bcd1ca117f526cf2bfe99e8a6779f0acb09a76f8a8addd6fcc66caefc27d1c3"
+      "latex_sha256": "fb7ac2458cc328f8a7f68e39e7499431e626c9868e309843be613f30fd12f6ff",
+      "heading_outline": [
+        {
+          "title": "联邦学生贷款合并",
+          "level": 1
+        },
+        {
+          "title": "私人学生贷款合并或再融资",
+          "level": 1
+        },
+        {
+          "title": "将联邦学生贷款合并为私人合并贷款",
+          "level": 1
+        },
+        {
+          "title": "将联邦学生贷款合并为住房净值贷款或住房净值信用额度",
+          "level": 1
+        },
+        {
+          "title": "联邦学生贷款还款选项",
+          "level": 1
+        },
+        {
+          "title": "如果错过付款或付款过高",
+          "level": 1
+        },
+        {
+          "title": "如何使违约的联邦学生贷款恢复正常",
+          "level": 1
+        },
+        {
+          "title": "开始偿还联邦学生贷款的策略",
+          "level": 1
+        },
+        {
+          "title": "完成联邦学生贷款还款的策略",
+          "level": 1
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "125": "仔细查看年度百分比率（APR）。新贷款月付款可能更低，但利率更高，因为还款期限延长。现役军人也应记住，再融资可能使其失去《军人民事救济法》（SCRA）下6%利率上限的福利。"
+      }
     }
   ],
   "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",

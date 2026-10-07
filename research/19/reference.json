@@ -268,8 +268,8 @@
   },
   "rendering": "native_xelatex",
   "pages": 9,
-  "qa_status": "text_and_layout_checked",
-  "material_sha256": "4753b54eda248347fdce50638fa47432731868ff9f5d425425cb976d17972e5f",
+  "qa_status": "text_and_structure_checked",
+  "material_sha256": "dd37bb658a9afed6b4d6f3589b60601466a237b3076ecb7b3532bed4b9d96946",
   "documents": [
     {
       "document_number": "01",
@@ -312,16 +312,57 @@
       ],
       "content_sha256": "42fe3f2ad88d7fdc702768c33f19ab620a6b4ebfcf66be467100d61b02be1d3d",
       "pages": 2,
-      "pdf_sha256": "316214482fb752cb19014c7c402acddb87b31e57cae40d6550af1a2dcd7cacee",
+      "pdf_sha256": "9cd4b5b57d1d6cbbe570d9a2a21b797a0778baf4173d3535ff2552635c53ed3b",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "放款費": "放款费",
+        "你": "您",
+        "可以签发姓名卡": "可以签发印有其姓名的卡片"
+      },
       "latex_source": "latex/19-01_个人贷款办理及费用资料.tex",
-      "latex_sha256": "e61ed206021767027fc2b133d61384665aec050c64f8d85c57f0e8328bb94049"
+      "latex_sha256": "b47ff29378801006005ee279964e8d7aaf2ab51209f0e80f1c2b9aee1772455c",
+      "heading_outline": [
+        {
+          "title": "个人贷款",
+          "level": 1
+        },
+        {
+          "title": "办理步骤",
+          "level": 1
+        },
+        {
+          "title": "APR是什么",
+          "level": 1
+        },
+        {
+          "title": "费用",
+          "level": 1
+        },
+        {
+          "title": "放款费用与到手金额",
+          "level": 1
+        },
+        {
+          "title": "信用查询及资格",
+          "level": 1
+        },
+        {
+          "title": "提前付款",
+          "level": 1
+        },
+        {
+          "title": "在线账户",
+          "level": 1
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "10": "年度百分比率（APR）是年度总借款成本，包括利息及有关费用。个别报价按负债收入比例、贷款金额及其他因素计算。固定利率贷款的有关合同利率、正常月供不随市场优惠利率改变。"
+      }
     },
     {
       "document_number": "02",
@@ -351,9 +392,6 @@
         "第六部分　协议一般法律条款": {
           "level": 1
         },
-        "第六部分续　争议解决计划——仲裁协议": {
-          "level": 1
-        },
         "账单权利": {
           "level": 2
         },
@@ -365,6 +403,9 @@
         },
         "口译员认证": {
           "level": 2
+        },
+        "争议解决计划——仲裁协议": {
+          "level": 2
         }
       },
       "source_ids": [
@@ -372,16 +413,71 @@
       ],
       "content_sha256": "2fe2fbca1548913de899374bd289f914aa24cc7af299709438b762c1a174f245",
       "pages": 7,
-      "pdf_sha256": "f04a70c9c873b3658ed2f6e8468f4ce2b00d1db0bb1650a8ee8ccb669d05bd1a",
+      "pdf_sha256": "a4f0197a0ea139c3bae87b4274cf037b0a69370666b2244d0f44b274d15d01cb",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "24": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "你": "您",
+        "第六部分续　争议解决计划——仲裁协议": "争议解决计划——仲裁协议",
+        "可以签发姓名卡": "可以签发印有其姓名的卡片"
+      },
       "latex_source": "latex/19-02_现有信用卡账户协议.tex",
-      "latex_sha256": "fdd62b5400245bb36000ce2c4722418c9d7ad4a9e2cfa9d9a1871b5096325dcb"
+      "latex_sha256": "1c0f94f3ecf2b744191014b9c2a9c3295809f0ceba790b2ced3af9e4c1b6e39d",
+      "heading_outline": [
+        {
+          "title": "第一部分　使用账户",
+          "level": 1
+        },
+        {
+          "title": "第二部分　交易及其他账户活动",
+          "level": 1
+        },
+        {
+          "title": "第三部分　费用与利息",
+          "level": 1
+        },
+        {
+          "title": "第四部分　付款与处理",
+          "level": 1
+        },
+        {
+          "title": "第五部分　联系方式与资料",
+          "level": 1
+        },
+        {
+          "title": "第六部分　协议一般法律条款",
+          "level": 1
+        },
+        {
+          "title": "争议解决计划——仲裁协议",
+          "level": 2
+        },
+        {
+          "title": "账单权利",
+          "level": 2
+        },
+        {
+          "title": "对信用卡购买不满意的权利",
+          "level": 2
+        },
+        {
+          "title": "现役军人及家属",
+          "level": 2
+        },
+        {
+          "title": "口译员认证",
+          "level": 2
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "34": "现金预支包括自动取款机（ATM）、柜台或线上现金，赌场筹码、外币、彩票、汇票、赌博、旅行支票、电汇、数字货币、人对人转款、可兑现金凭证及透支保护预支。现金预支和余额转移不属于购买。",
+        "40": "6. 可以增加授权使用人吗？向银行提供其姓名，可以签发印有其姓名的卡片。您负责其交易及利息费用。资料可能包括姓名、地址、社会保障号码、纳税号码、出生日期及国籍，须取得本人同意。",
+        "51": "预支的年度百分比率（APR）及费用见重要条款，费用及利息可能使余额超额度。联名支票账户由其他人产生透支，您仍负责全部预支；银行可向支票账户其他持有人说明该连结，并可随时取消、暂停或改变。"
+      }
     }
   ],
   "pdf_files": [

@@ -104,18 +104,142 @@
       ],
       "content_sha256": "87af0f9f443ee754b2ff634d39f8ebac6b409f00d473f1e2a691d21649a95725",
       "pages": 8,
-      "pdf_sha256": "863586d57f9b31e3e376ec6887fb7db12c1cea37e884a8d02f0e6938fe1bfc47",
+      "pdf_sha256": "3ad8da3d5dfde738bce2de74c11bee5e4cb58208290390a5b5aa16bba93a5daa",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
       "rendered_text_replacements": {
-        "证券监管机构并未批准或核实本披露。登记为投资顾问不表示具有某一技能或训练水平。": ""
+        "证券监管机构并未批准或核实本披露。登记为投资顾问不表示具有某一技能或训练水平。": "",
+        "你": "您"
       },
       "latex_source": "latex/16-01_自动投资项目披露.tex",
-      "latex_sha256": "fe7703376a93e5d7b16b55560e6bbaf545e7f052f5d015b49a95331195bab1af"
+      "latex_sha256": "7f2cf5d6f9c2bc3515328ee48ec921ae099f07293bc331d8ccfaa72946a1769c",
+      "heading_outline": [
+        {
+          "title": "引言",
+          "level": 1
+        },
+        {
+          "title": "服务、费用与报酬",
+          "level": 1
+        },
+        {
+          "title": "经纪做法",
+          "level": 2
+        },
+        {
+          "title": "托管",
+          "level": 2
+        },
+        {
+          "title": "全权投资及电子交付",
+          "level": 2
+        },
+        {
+          "title": "项目费用",
+          "level": 2
+        },
+        {
+          "title": "其他费用",
+          "level": 2
+        },
+        {
+          "title": "报酬",
+          "level": 2
+        },
+        {
+          "title": "关联机构利益及利益冲突",
+          "level": 2
+        },
+        {
+          "title": "账户要求与客户类型",
+          "level": 1
+        },
+        {
+          "title": "退休账户及管理公司选择",
+          "level": 2
+        },
+        {
+          "title": "分析方法、策略及损失风险",
+          "level": 1
+        },
+        {
+          "title": "网络安全、人工智能及系统中断",
+          "level": 2
+        },
+        {
+          "title": "ETF选择",
+          "level": 2
+        },
+        {
+          "title": "再平衡",
+          "level": 2
+        },
+        {
+          "title": "洗售避免",
+          "level": 2
+        },
+        {
+          "title": "税损收割功能",
+          "level": 2
+        },
+        {
+          "title": "自动投资现金归集项目",
+          "level": 2
+        },
+        {
+          "title": "等待投资或分配的资金",
+          "level": 2
+        },
+        {
+          "title": "投票、客户资料及联系",
+          "level": 1
+        },
+        {
+          "title": "其他金融行业活动及关联方",
+          "level": 1
+        },
+        {
+          "title": "道德守则",
+          "level": 1
+        },
+        {
+          "title": "订单路由与执行",
+          "level": 2
+        },
+        {
+          "title": "ETF及有关付款",
+          "level": 2
+        },
+        {
+          "title": "员工个人交易",
+          "level": 2
+        },
+        {
+          "title": "账户审查",
+          "level": 1
+        },
+        {
+          "title": "客户转介与其他报酬",
+          "level": 1
+        },
+        {
+          "title": "财务信息",
+          "level": 1
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "5": "本披露说明自动投资项目的参与资格及业务做法。",
+        "9": "项目通过自动投资顾问服务提供全权管理。组合包括交易所交易基金（ETF）及按目标和风险承受能力决定的现金配置。现金存放于关联银行的存款账户。美国联邦存款保险公司（FDIC）保障须满足条件，经纪公司及投资管理公司不是银行；非存款产品不受FDIC保障，可能损失价值。",
+        "27": "类似服务中，客户可能预期支付资产0.30%的年费。由于项目含退休账户，公司按美国国税局（IRS）规则进行名义计算，以关联机构从ETF交易获得的报酬抵销0.30%；超过资产0.30%的有关报酬，会退还或用于账户行政成本。结果是不收年度项目费。",
+        "45": "项目面向希望自动管理、接受主要通过数字渠道服务的投资者。可包括个人、个人退休账户（IRA）、生前信托及某些组织账户；政府实体及受美国《雇员退休收入保障法》（ERISA）规管的客户没有资格。不同组织可能有不同客户体验。",
+        "81": "自2022年6月1日起，银行同意按月将现金利率设为指定政府货币基金归集份额MMF02的七日年化收益率（计入费用减免）。利率及计算方法均可改变。银行按协议或监管要求通知经纪公司改变方法，公司收到后通知客户。",
+        "94": "公司按投资顾问法美国证券交易委员会（SEC） Rule 204A-1制定守则，反映顾问的受托原则。涵盖人员遵守证券法、报告违反守则的情形；有投资建议或相关资料访问权限者，定期报告某些个人交易及持仓。",
+        "111": "雇员、独立分行及代表按费用报酬条款取得收入。另有转介机构R的转介协议，按转介至本公司账户的资产，包括本项目，支付年度0.15%，即十五个基点的报酬。"
+      }
     },
     {
       "document_number": "02",
@@ -142,16 +266,34 @@
       ],
       "content_sha256": "fddd2a5c68e33bf8b2a693ebd4134e6cf967ff91a55a128629ca2ae918f747fb",
       "pages": 1,
-      "pdf_sha256": "b92bead5267cb5cadfe3e76a7e3c95277375d3df51df39437f5df15463e3ec6c",
+      "pdf_sha256": "ce3cfd7120a1d064bf0fa6939bfc068c86c29d6c065f027f0e485d5b8bbda433",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "116": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
       "rendered_text_replacements": {},
       "latex_source": "latex/16-02_账户办理问答.tex",
-      "latex_sha256": "8c31bf6ca0d96d0155b1a18cc4e339ca8b0d3717ffd38c3ae7c54627c2795e72"
+      "latex_sha256": "ae5afc7fb870bddad7ed5091e5878067f6fcf9bcfc2a1b7ca411c8355af37ecd",
+      "heading_outline": [
+        {
+          "title": "开户及入金",
+          "level": 1
+        },
+        {
+          "title": "修改配置",
+          "level": 1
+        },
+        {
+          "title": "提款及结算",
+          "level": 1
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "120": "可以开普通应税个人、联名、共有、托管及可撤销生前信托账户，也可以按资格使用个人退休账户（IRA）等账户类型。证券入金可能被出售并投入项目组合。",
+        "125": "可随时登录申请转款至其他本公司账户或外部机构。请求额不超过现有现金时可以立即可用；超过时，需要出售交易所交易基金（ETF）并等待结算，处理及结算通常四至六个营业日。"
+      }
     }
   ],
   "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",

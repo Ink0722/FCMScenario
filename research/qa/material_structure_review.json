@@ -1,0 +1,735 @@
+{
+  "source": "https://app.notion.com/p/3f23854bbee9816cb942f9624a46a050",
+  "appendix": "Appendix A",
+  "policy": "公共文案单独维护；同属性A/B列；共享字段单次显示；原有长条款、收费表、调查及历史资料保留；不从PDF另生成摘要或决策答案。",
+  "cases": [
+    {
+      "case_id": "01",
+      "template": "table",
+      "rows": 1,
+      "original_option_fields": 1,
+      "shared_fields_removed_from_comparison": 0,
+      "rewrites": [],
+      "material_sha256": "b20e8a4c99dc20ab8e6044a80bac70379126ca8cd884898964c413be0662a7b1",
+      "notes_sha256": "982fa6e91f709f8312b52ce5a7d53469536019a9ab17c35641cb6d435201d6f2",
+      "source_file": "cases/01_Fund_Shares/material.md",
+      "original_material_sha256": "694d7addbcdd79f1b67023d6fa9830cf29888c5d79618ddbd810cb14d646a9e7",
+      "reference_documents": [
+        "01-01"
+      ],
+      "supplement_kinds": [],
+      "numeric_check": {
+        "case": "01",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [
+          "2",
+          "3"
+        ],
+        "original_markdown_tables": 0,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "02",
+      "template": "cards",
+      "rows": 6,
+      "original_option_fields": 10,
+      "shared_fields_removed_from_comparison": 4,
+      "rewrites": [],
+      "material_sha256": "eeb0ea44c1173073c3504cc9dd3b09189071dc59372c61b316ccbc9201e82d19",
+      "notes_sha256": "a204d4d0517c3ade3001649c2c3a83b03e3a60694798d317fa8f32ae53e9e8bf",
+      "source_file": "cases/02_Annuity_Switch/material.md",
+      "original_material_sha256": "82650e13894dfddba183319a08d2e217dfd77fea7ee7575c4229551a54e12575",
+      "reference_documents": [
+        "02-01"
+      ],
+      "supplement_kinds": [
+        "terms",
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "02",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [
+          "2",
+          "3"
+        ],
+        "original_markdown_tables": 0,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "03",
+      "template": "table",
+      "rows": 12,
+      "original_option_fields": 14,
+      "shared_fields_removed_from_comparison": 2,
+      "rewrites": [],
+      "material_sha256": "02bb6dff6e0ae1f1ea20385c7188541de15c88695a587dc4a2b7810f7d458dac",
+      "notes_sha256": "0c5a1f06228c9f7a3a97296f8beee16a2f4c2bae83a4e838d4dd547646ec60fa",
+      "source_file": "cases/03_Retirement_Rollover/material.md",
+      "original_material_sha256": "b11dfb1b4f2deab9842229fb951187d6ffa0d1d80529b525ba2515935e0dd57b",
+      "reference_documents": [
+        "03-01",
+        "03-02"
+      ],
+      "supplement_kinds": [
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "03",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [
+          "2",
+          "3"
+        ],
+        "original_markdown_tables": 1,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "04",
+      "template": "table",
+      "rows": 6,
+      "original_option_fields": 12,
+      "shared_fields_removed_from_comparison": 6,
+      "rewrites": [],
+      "material_sha256": "0b863d5ab3ec03f81cbd30c1443ec49e220374941487679981c0b617feb3b725",
+      "notes_sha256": "d15c4b4b29953daa0c054d9d91af7bd9c06cb1568fdaf3b51f645f84d108e1c2",
+      "source_file": "cases/04_UIT_Switch/material.md",
+      "original_material_sha256": "2d98ac7f6a5b7b83048ce00e5937ed030c200abda762dc9ca121498b1b0bdc85",
+      "reference_documents": [
+        "04-01"
+      ],
+      "supplement_kinds": [
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "04",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [
+          "2",
+          "3"
+        ],
+        "original_markdown_tables": 1,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "05",
+      "template": "table",
+      "rows": 9,
+      "original_option_fields": 10,
+      "shared_fields_removed_from_comparison": 1,
+      "rewrites": [],
+      "material_sha256": "8c4e6d754c4f32b239c0085703e3569a220e9240c33920c8b0fec7d8e1b7e932",
+      "notes_sha256": "5306014d2234832b47f4a73145f8d4c1cd55a53f1d41ddad55bfd8debcd964a9",
+      "source_file": "cases/05_Account_Fees/material.md",
+      "original_material_sha256": "9602a074f235fd62185273eb3aaf123c1c09d0a3254f7fbb9011c09e13770fca",
+      "reference_documents": [
+        "05-01",
+        "05-02"
+      ],
+      "supplement_kinds": [
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "05",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [
+          "2",
+          "3"
+        ],
+        "original_markdown_tables": 2,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "06",
+      "template": "table",
+      "rows": 12,
+      "original_option_fields": 13,
+      "shared_fields_removed_from_comparison": 1,
+      "rewrites": [],
+      "material_sha256": "0c9e715e256b14a48dcc0972319c17d4cc0ce675ff6be9279bff9abf0866afb9",
+      "notes_sha256": "b93d8aa1dd8871c2bed6a8786e34b87b211dfb28bae0a448ca5c7b44fcbba5da",
+      "source_file": "cases/06_CD_Liquidity/material.md",
+      "original_material_sha256": "2b1e54faf3dec8e422546a53a74cace0c85ec406d5718496bc738a6d01fd6fca",
+      "reference_documents": [
+        "06-01",
+        "06-02"
+      ],
+      "supplement_kinds": [
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "06",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [
+          "2",
+          "3"
+        ],
+        "original_markdown_tables": 0,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "07",
+      "template": "cards",
+      "rows": 8,
+      "original_option_fields": 11,
+      "shared_fields_removed_from_comparison": 3,
+      "rewrites": [],
+      "material_sha256": "71b761532f94487ed87302ce5bd8442f3814bcbda75ddce3f1e81a5f9ba4650a",
+      "notes_sha256": "56ae86596b6e72c43ceb0bc6107e6fd80c3704b493deac7dad9a5a6472f94a21",
+      "source_file": "cases/07_Student_Refinance/material.md",
+      "original_material_sha256": "cd24f6c311671b1cc3fe7867054f6f4ae463c492d6d20c27c94c7d9ce5a1a2cf",
+      "reference_documents": [
+        "07-01",
+        "07-02",
+        "07-03"
+      ],
+      "supplement_kinds": [
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "07",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [
+          "2",
+          "3"
+        ],
+        "original_markdown_tables": 1,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "08",
+      "template": "cards",
+      "rows": 5,
+      "original_option_fields": 10,
+      "shared_fields_removed_from_comparison": 5,
+      "rewrites": [
+        {
+          "shared_field": "ACH自动扣款、支票、重复借记卡扣款",
+          "A": "由标准服务按规则处理",
+          "B": "由相同标准服务按规则处理",
+          "shared": "由标准服务按规则处理"
+        },
+        {
+          "shared_field": "已支付透支的费用规则",
+          "A": "超过规定阈值时每笔35美元，每日最多3笔；符合补款规则可退还",
+          "B": "标准服务已支付的透支适用相同规则",
+          "shared": "超过规定阈值时每笔35美元，每日最多3笔；符合补款规则可退还"
+        },
+        {
+          "shared_field": "账户查看与通知",
+          "A": "网上查余额、设置余额及透支通知",
+          "B": "支持相同功能",
+          "shared": "网上查余额、设置余额及透支通知"
+        }
+      ],
+      "material_sha256": "bac545d58a12bf16371fae7d4d93f7fdbcf446834727a7bbd07f2a5f70e1f1da",
+      "notes_sha256": "095cf4279605ca6349a57ef7a4cf4074cdcf42f48dc51571e8d72fa2955719cd",
+      "source_file": "cases/08_Overdraft/material.md",
+      "original_material_sha256": "fa25dcf08baf08d136f17996cd29edcd49da9ccd9874dba0add9f1e94c1a8bee",
+      "reference_documents": [
+        "08-01",
+        "08-02"
+      ],
+      "supplement_kinds": [
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "08",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [
+          "2",
+          "3"
+        ],
+        "original_markdown_tables": 1,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "09",
+      "template": "table",
+      "rows": 7,
+      "original_option_fields": 11,
+      "shared_fields_removed_from_comparison": 4,
+      "rewrites": [],
+      "material_sha256": "26df224d82097af5caa8766957e87194a6ce7bd766997cc7f5959720f0b36c93",
+      "notes_sha256": "d77de254fe03b2e138c7f5d8ee101ef455c437439962d21f28ea367d7bef33a9",
+      "source_file": "cases/09_Promo_Financing/material.md",
+      "original_material_sha256": "f6f38c179a8d4abda6f7b71a67a6119be0f46c81e44fae410cfe9c211a712878",
+      "reference_documents": [
+        "09-01",
+        "09-02",
+        "09-03",
+        "09-04"
+      ],
+      "supplement_kinds": [
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "09",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [
+          "2",
+          "3"
+        ],
+        "original_markdown_tables": 0,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "10",
+      "template": "cards",
+      "rows": 8,
+      "original_option_fields": 11,
+      "shared_fields_removed_from_comparison": 3,
+      "rewrites": [
+        {
+          "shared_field": "三家信用冻结",
+          "A": "分别向三家征信机构办理",
+          "B": "同样分别办理",
+          "shared": "分别向三家征信机构办理"
+        },
+        {
+          "shared_field": "新信用申请前的冻结处理",
+          "A": "仍需向相关征信机构临时解除冻结",
+          "B": "同样需要临时解除",
+          "shared": "仍需向相关征信机构临时解除冻结"
+        }
+      ],
+      "material_sha256": "f5ff717f74ae2e262f1e0afde4df5fbf6200bef3c133ec38d17f39ebeb5ba86d",
+      "notes_sha256": "58134df0cf557511fa7c475c99eefbf69a57f6880d9ee480f1044689e1ce3c46",
+      "source_file": "cases/10_Credit_Monitoring/material.md",
+      "original_material_sha256": "c88cde41d2885f916f55e2ea581f4bd09d1361df48e641e5cab59a6d54c931ee",
+      "reference_documents": [
+        "10-01",
+        "10-02",
+        "10-03"
+      ],
+      "supplement_kinds": [
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "10",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [
+          "2",
+          "3"
+        ],
+        "original_markdown_tables": 0,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "11",
+      "template": "table",
+      "rows": 5,
+      "original_option_fields": 12,
+      "shared_fields_removed_from_comparison": 7,
+      "rewrites": [
+        {
+          "shared_field": "其他贷款办理费用",
+          "A": "与B相同，另行支付",
+          "B": "与A相同，另行支付",
+          "shared": "两种方案金额相同，另行支付"
+        },
+        {
+          "shared_field": "房产税与房屋保险",
+          "A": "自行支付，不计入上述月供",
+          "B": "同样自行支付",
+          "shared": "自行支付，不计入上述月供"
+        },
+        {
+          "shared_field": "报价资格与完成日期",
+          "A": "本次核验通过，可按计划完成",
+          "B": "同样核验通过，可按计划完成",
+          "shared": "本次核验通过，可按计划完成"
+        }
+      ],
+      "material_sha256": "a1d5c7f1a5dfab5370331033ad515d2310bbc772a7d9a70ef75a514ae4b2d80e",
+      "notes_sha256": "d3af578b407c9c1abd0767c7a5771e081ef0ed02c0e08e29de359a2eaea060d9",
+      "source_file": "cases/11_Mortgage_Points/material.md",
+      "original_material_sha256": "70257d10f107d4c81772351749a9e876f809e79b49a7f3c6f6dafc666f51b599",
+      "reference_documents": [
+        "11-01",
+        "11-02"
+      ],
+      "supplement_kinds": [
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "11",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [
+          "2",
+          "3"
+        ],
+        "original_markdown_tables": 0,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "12",
+      "template": "table",
+      "rows": 8,
+      "original_option_fields": 11,
+      "shared_fields_removed_from_comparison": 3,
+      "rewrites": [
+        {
+          "shared_field": "正常月供入账",
+          "A": "按原合同每月到期日向贷款机构支付1,000美元",
+          "B": "按相同到期日完成1,000美元正常付款",
+          "shared": "按原合同每月到期日向贷款机构支付1,000美元"
+        },
+        {
+          "glossary_fact_moved": "本次扣款日历采用已确认的26次安排。"
+        }
+      ],
+      "material_sha256": "0ec89103338cc7a87874a91764b21d574d9ecfc65442ea7154e98b3669bff707",
+      "notes_sha256": "cb0f8a3f2a410f9f6396743281995df703dab2297480c4aabd43308bc9a0aaa1",
+      "source_file": "cases/12_Mortgage_Payments/material.md",
+      "original_material_sha256": "591003eecf19c232d378db0594123c6dccd3bd524a6beeffdf11fb3621c31fa2",
+      "reference_documents": [
+        "12-01",
+        "12-02"
+      ],
+      "supplement_kinds": [
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "12",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [
+          "2",
+          "3"
+        ],
+        "original_markdown_tables": 0,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "13",
+      "template": "cards",
+      "rows": 4,
+      "original_option_fields": 10,
+      "shared_fields_removed_from_comparison": 6,
+      "rewrites": [
+        {
+          "shared_field": "已有个人车辆保单",
+          "A": "继续保留",
+          "B": "同样继续保留",
+          "shared": "继续保留"
+        }
+      ],
+      "material_sha256": "691a12ee03bfc76c267a59bf4d15006cfa0c3a26a453fb1a3e0196e12a620bf9",
+      "notes_sha256": "b28812f2ef5830838028824225104b8063860f6e3657f180607e035c079842a8",
+      "source_file": "cases/13_Auto_Insurance/material.md",
+      "original_material_sha256": "5255cc478e0e3c3f68b152fee295f58b402bf57b22b2d97341ac0cf0ea5ef32c",
+      "reference_documents": [
+        "13-01",
+        "13-02"
+      ],
+      "supplement_kinds": [
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "13",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [],
+        "original_markdown_tables": 0,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "14",
+      "template": "cards",
+      "rows": 5,
+      "original_option_fields": 13,
+      "shared_fields_removed_from_comparison": 8,
+      "rewrites": [
+        {
+          "shared_field": "本次资料准备状态",
+          "A": "可以完整提交",
+          "B": "正式补助证明已取得，可以完整提交",
+          "shared": "两种申请均可完整提交；失业补助正式证明已取得"
+        }
+      ],
+      "material_sha256": "c387d89e3d6111a77e0a10de78251bc65ac9437453ecb5728c6957a672d41264",
+      "notes_sha256": "e6f59cda2ade52cd6ade88caa06374cd972ea537800006b27fb2ae2b9ac69eaf",
+      "source_file": "cases/14_Loan_Pause/material.md",
+      "original_material_sha256": "20e3f4953c8fa945bb42523262033abb6270e919b37f98b56785a6eb86204275",
+      "reference_documents": [
+        "14-01",
+        "14-02"
+      ],
+      "supplement_kinds": [
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "14",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [
+          "2",
+          "3"
+        ],
+        "original_markdown_tables": 0,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "15",
+      "template": "cards",
+      "rows": 7,
+      "original_option_fields": 7,
+      "shared_fields_removed_from_comparison": 0,
+      "rewrites": [],
+      "material_sha256": "aab052bdad5c6884adaf5d2626e7d60a8c2b22177d82f1a054fbe9b8ec20d0c8",
+      "notes_sha256": "6dca3777663ad89583db3c77ec2464b3f4dca084c4b075e1454eabbff0e2f40d",
+      "source_file": "cases/15_GAP_Coverage/material.md",
+      "original_material_sha256": "375ec0bd2d8bcc6868f8c144ba68e5e9621089f1b4c15393ee3cd8aefd59bae3",
+      "reference_documents": [
+        "15-01",
+        "15-02"
+      ],
+      "supplement_kinds": [
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "15",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [
+          "2",
+          "3"
+        ],
+        "original_markdown_tables": 0,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "16",
+      "template": "table",
+      "rows": 6,
+      "original_option_fields": 9,
+      "shared_fields_removed_from_comparison": 3,
+      "rewrites": [
+        {
+          "glossary_fact_moved": "本任务不包含税损收割服务。"
+        },
+        "顾问费、指定线上ETF交易佣金及开户时相同ETF运营费移入共同条件，保留适用范围及以后持仓变化条件。"
+      ],
+      "material_sha256": "48351bcde17477e4a360279272a3215c7a893443d2c75e014600a18c98a0423a",
+      "notes_sha256": "1b2a7f655cbaf2c92ddf8436d814c802e6025492dff12558699e0cd483493b47",
+      "source_file": "cases/16_Auto_Investing/material.md",
+      "original_material_sha256": "75e0235913eea7b782c58685c300e92d21b41b0a053b7f278597ca432f787a7a",
+      "reference_documents": [
+        "16-01",
+        "16-02"
+      ],
+      "supplement_kinds": [
+        "survey",
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "16",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [
+          "2"
+        ],
+        "original_markdown_tables": 0,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "17",
+      "template": "table",
+      "rows": 8,
+      "original_option_fields": 10,
+      "shared_fields_removed_from_comparison": 2,
+      "rewrites": [
+        {
+          "glossary_fact_moved": "本次两个方案均不收利率折扣点费用。"
+        }
+      ],
+      "material_sha256": "b7c6c38c44d2f70bc6874d5a5e6adf38c26e53a892f84a7fe91da5953a48f039",
+      "notes_sha256": "b2296768982e4225fa8b8c1baef2749bf2a6da65f120182081e31c73856c5d6b",
+      "source_file": "cases/17_Mortgage_Rates/material.md",
+      "original_material_sha256": "34acff70c76d659ecda99dd0a306aac6d129f3deb7ccd50c1b28c6b4c2d46d7f",
+      "reference_documents": [
+        "17-01",
+        "17-02"
+      ],
+      "supplement_kinds": [
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "17",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [
+          "2",
+          "3"
+        ],
+        "original_markdown_tables": 0,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "18",
+      "template": "table",
+      "rows": 8,
+      "original_option_fields": 9,
+      "shared_fields_removed_from_comparison": 2,
+      "rewrites": [
+        "境外交易费0明确为0%",
+        {
+          "shared_field": "奖励有效期",
+          "A": "账户保持开放时不因时间经过到期",
+          "B": "账户保持开放时积分不因时间经过到期",
+          "shared": "账户保持开放时奖励不因时间经过到期"
+        },
+        "原有两种账户资料名称移为同属性A/B行，通用消费用途保留为共同条件。"
+      ],
+      "material_sha256": "4cd97dcfb5cac7b7591e9e4a7f3f43f28c730b0b2091c540c22cc9f423f562a7",
+      "notes_sha256": "65f5cf92aac8c0f1aac446e04ad45923400c585bbc9b36f9c3b4a90d6ab40064",
+      "source_file": "cases/18_Card_Rewards/material.md",
+      "original_material_sha256": "aa5f64a6e05c3deca3ab2281ca3d27c034e5f00438bb064ae4f4b934d52916a2",
+      "reference_documents": [
+        "18-01",
+        "18-02",
+        "18-03"
+      ],
+      "supplement_kinds": [
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "18",
+        "missing_numeric_tokens": [
+          "0"
+        ],
+        "new_numeric_tokens": [
+          "0%"
+        ],
+        "original_markdown_tables": 0,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "19",
+      "template": "table",
+      "rows": 8,
+      "original_option_fields": 8,
+      "shared_fields_removed_from_comparison": 0,
+      "rewrites": [],
+      "material_sha256": "dd37bb658a9afed6b4d6f3589b60601466a237b3076ecb7b3532bed4b9d96946",
+      "notes_sha256": "71ebc1e58cffd106f9fb3464afdc80b07886c810064b051ab98475ed513486ad",
+      "source_file": "cases/19_Debt_Consolidation/material.md",
+      "original_material_sha256": "4753b54eda248347fdce50638fa47432731868ff9f5d425425cb976d17972e5f",
+      "reference_documents": [
+        "19-01",
+        "19-02"
+      ],
+      "supplement_kinds": [
+        "terms",
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "19",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [
+          "2",
+          "3"
+        ],
+        "original_markdown_tables": 0,
+        "missing_original_tables": []
+      }
+    },
+    {
+      "case_id": "20",
+      "template": "table",
+      "rows": 7,
+      "original_option_fields": 8,
+      "shared_fields_removed_from_comparison": 1,
+      "rewrites": [
+        "相同付款工具集中展示，B自动赎回的付款处理仍在方案资料中。"
+      ],
+      "material_sha256": "39cc92fceb3aed97a0ec2419d9b43e9efae027735ea4c9ca44b1f394905b6335",
+      "notes_sha256": "83c8ac4e6d0f4ac2adaff64e5792996f2506aa7fcc92886e5f05cf75db5fb2ce",
+      "source_file": "cases/20_Cash_Options/material.md",
+      "original_material_sha256": "cbecb325c4367ce124ff38b23abc512ca5d6812410d8a1d80d679079ffcb6e3d",
+      "reference_documents": [
+        "20-01",
+        "20-02"
+      ],
+      "supplement_kinds": [
+        "terms",
+        "history",
+        "terms"
+      ],
+      "numeric_check": {
+        "case": "20",
+        "missing_numeric_tokens": [],
+        "new_numeric_tokens": [
+          "2"
+        ],
+        "original_markdown_tables": 0,
+        "missing_original_tables": []
+      }
+    }
+  ],
+  "checked_at": "2026-10-07T20:57:16.824638+08:00",
+  "shared_source": "shared/instructions.md",
+  "shared_sha256": "7d906da96e020967d70441b3f3b1795390f63fe4f44cdcc4ebb3b926f4e5bf87",
+  "summary": {
+    "cases": 20,
+    "pdf_references": 42,
+    "comparison_rows": 140,
+    "shared_fields_moved": 61,
+    "original_markdown_financial_tables_retained": 6
+  },
+  "checks": [
+    "共享公共说明与原20份相同说明一致；选择与置信度文案集中维护。",
+    "材料标识、A/B属性顺序、非空字段、选择标签及42个现行PDF引用通过统一读取校验。",
+    "原有6个金融Markdown表完整保留；数值逐项检查仅有18的0→0%单位明确化、01陈旧32页入口删除及新增章节编号差异。",
+    "长条款、16调查、19的B最低付款规则和20历史记录单独读取；原资格和例外条件保留。",
+    "临时修改Material费用和公共置信度题干后，下次读取及revision同步变化；测试后还原文件。",
+    "无效A/B空字段校验拒绝；导出不包含研究者notes、理性答案或Goal。",
+    "42份PDF、LaTeX编辑源及原始来源文件字节未变。"
+  ],
+  "scope": "仅重组参与者材料和共享文案、同步相关Notes及当前文件哈希，提供统一读取器。未实施前端、真人实验或新的PDF生成。数值检查不替代语义核对。",
+  "metadata_files_updated": [
+    "research/02/reference.json",
+    "research/03/reference.json",
+    "research/04/reference.json",
+    "research/05/qa/reference_qa.json",
+    "research/05/reference.json",
+    "research/06/reference.json",
+    "research/07/reference.json",
+    "research/08/reference.json",
+    "research/09/reference.json",
+    "research/10/reference.json",
+    "research/11/qa/reference_qa.json",
+    "research/11/reference.json",
+    "research/12/qa/reference_qa.json",
+    "research/12/reference.json",
+    "research/13/qa/reference_qa.json",
+    "research/13/reference.json",
+    "research/14/qa/reference_qa.json",
+    "research/14/reference.json",
+    "research/15/qa/reference_qa.json",
+    "research/15/reference.json",
+    "research/16/qa/reference_qa.json",
+    "research/16/reference.json",
+    "research/17/qa/reference_qa.json",
+    "research/17/reference.json",
+    "research/18/qa/reference_qa.json",
+    "research/18/reference.json",
+    "research/19/qa/reference_qa.json",
+    "research/19/reference.json",
+    "research/20/qa/reference_qa.json",
+    "research/20/reference.json"
+  ]
+}

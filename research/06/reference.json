@@ -224,7 +224,7 @@
     "provenance": "既有场景研究设定；非官方原件合同确认",
     "text_sha256": "d6f6fb56af327f0384d8bd4a3ad7bb01a0ba24367a3920b140daaa8d7eb19a52"
   },
-  "qa_status": "text_and_layout_checked",
+  "qa_status": "text_and_structure_checked",
   "pages": 7,
   "documents": [
     {
@@ -248,16 +248,25 @@
       ],
       "content_sha256": "4118ff2115db0349bb62dce69a0a338424b001dc37ebf6e8ac101f909a540795",
       "pages": 1,
-      "pdf_sha256": "6e1574f2b670105807de7dc5fe31ba580c1bdf88918ccaf7b1a755560fe882ab",
+      "pdf_sha256": "18b0fa653539d97cc165a74e3fd7f8f1763c5d805b33fa37741e4a1055630080",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
       "rendered_text_replacements": {},
       "latex_source": "latex/06-01_银行直购无罚金定期存款.tex",
-      "latex_sha256": "bc6cd1a620ece92590589e967514ee0c23e03e85982320c16de237c998ba5a14"
+      "latex_sha256": "e5263bd679acc25f6608e4083361b4c4a58edd1df5890ed2de03536aaf54f2fb",
+      "heading_outline": [
+        {
+          "title": "七个月无罚金定期存款",
+          "level": 1
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "7": "锁定利率，并可在入金七天后在线提取全部资金而不支付提前支取罚金。取得所列年化收益率（APY）所需最低余额为500美元。支取须为全额，不提供部分本金支取。具体利率及APY以账户开立及利率确认规则为准。"
+      }
     },
     {
       "document_number": "02",
@@ -313,16 +322,75 @@
       ],
       "content_sha256": "5844ea2821572ce4a3d9edcd1b06c4cca7aa4cd71c93c6327b2e58d0711a7b1b",
       "pages": 6,
-      "pdf_sha256": "ad9e2afa92785803ad0547c764d67f8276dbdc23bd37abba9c749448ba8fb8c0",
+      "pdf_sha256": "024a36cff2ecdf8ceceed5cfce672467ef943a25c0c00613ca9cfd6e86a027f2",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "21": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "本披露版本下，": "",
+        "本披露版本的规则": "本披露所述规则"
+      },
       "latex_source": "latex/06-02_经纪存款凭证披露声明.tex",
-      "latex_sha256": "1c3784cdfac09af8b4db32e6778d6a5c1465ab0ae6af0209f885e5268abdbba7"
+      "latex_sha256": "7793c865d18b1005a13de38701b9a7d298449e58d7c61e67b29c3192c981b29f",
+      "heading_outline": [
+        {
+          "title": "CD条款",
+          "level": 1
+        },
+        {
+          "title": "付息CD",
+          "level": 2
+        },
+        {
+          "title": "零息CD",
+          "level": 2
+        },
+        {
+          "title": "提前赎回特征",
+          "level": 2
+        },
+        {
+          "title": "您与本机构及发行人的关系",
+          "level": 1
+        },
+        {
+          "title": "重要投资考虑",
+          "level": 1
+        },
+        {
+          "title": "有关FDIC保障的疑问",
+          "level": 2
+        },
+        {
+          "title": "不利情况下的付款",
+          "level": 1
+        },
+        {
+          "title": "追加或支取",
+          "level": 1
+        },
+        {
+          "title": "二级市场",
+          "level": 1
+        },
+        {
+          "title": "费用",
+          "level": 1
+        },
+        {
+          "title": "联邦所得税后果",
+          "level": 1
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "25": "提供本披露的经纪商“本机构”，向客户提供下述存款凭证（CD）。凭证可依据本机构与其他经纪商的安排提供。每份CD为一家位于美国或其属地的存款机构“发行人”的存款债务，其存款及账户在下述限额内受美国联邦存款保险公司（FDIC）保险保障。CD构成发行人的直接义务，不直接或间接构成本机构的义务。可在发行时的一级市场或二级市场购买。",
+        "31": "同一发行人CD在每种受保所有权类别（如个人、联名、个人退休账户（IRA））下，本金及应计利息合计可受最高250,000美元FDIC保障。您须合并计算同一类别下对发行人的全部存款，包括直接持有及通过本机构或其他中介持有的存款。若发行人为外国银行在美国的分行，您在该外国银行全部美国分行的同类别存款须合并。",
+        "85": "美国证券交易委员会（SEC）投资提示：SEC不时发布CD等金融产品的投资提示，可通过其网站查询。",
+        "127": "适用计划包括美国《雇员退休收入保障法》（ERISA）第3(3)条所定义的员工福利计划（含Keogh计划，无论技术上是否属于ERISA计划），以及税法第457条合资格递延报酬计划，通常涵盖多数确定给付及确定缴费计划。"
+      }
     }
   ],
   "pdf_files": [
@@ -332,7 +400,7 @@
   "pages_definition": "各独立PDF页数之和；不存在现行合并PDF。",
   "document_manifest": "pdf_documents.json",
   "heading_levels": 3,
-  "material_sha256": "2b1e54faf3dec8e422546a53a74cace0c85ec406d5718496bc738a6d01fd6fca",
+  "material_sha256": "0c9e715e256b14a48dcc0972319c17d4cc0ce675ff6be9279bff9abf0866afb9",
   "scenario_confirmation_location": "06_LPL_CD_Liquidity_6M_Material.md — 场景信息／本次账户及办理条件",
   "document_revision": {
     "archive": "archive/before_reference_document_revision_20261006",

@@ -1,0 +1,693 @@
+{
+  "checked_date": "2026-10-07",
+  "cases": 20,
+  "documents": 42,
+  "body_source_items_checked": 4387,
+  "missing_body_source_items": 0,
+  "financial_tables_checked": 48,
+  "original_financial_table_numeric_values_preserved": true,
+  "source_downloads_unchanged": true,
+  "participant_materials_unchanged": true,
+  "checks": [
+    {
+      "document_id": "01-01",
+      "pages": 30,
+      "headings": 74,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "02-01",
+      "pages": 16,
+      "headings": 55,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "03-01",
+      "pages": 2,
+      "headings": 2,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "03-02",
+      "pages": 14,
+      "headings": 37,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "04-01",
+      "pages": 13,
+      "headings": 54,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "05-01",
+      "pages": 10,
+      "headings": 25,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "05-02",
+      "pages": 1,
+      "headings": 0,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "06-01",
+      "pages": 1,
+      "headings": 1,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "06-02",
+      "pages": 6,
+      "headings": 12,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "07-01",
+      "pages": 1,
+      "headings": 1,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "07-02",
+      "pages": 3,
+      "headings": 16,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "07-03",
+      "pages": 4,
+      "headings": 9,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "08-01",
+      "pages": 2,
+      "headings": 6,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "08-02",
+      "pages": 5,
+      "headings": 23,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "09-01",
+      "pages": 7,
+      "headings": 19,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "09-02",
+      "pages": 2,
+      "headings": 1,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "09-03",
+      "pages": 2,
+      "headings": 4,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "09-04",
+      "pages": 4,
+      "headings": 16,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "10-01",
+      "pages": 2,
+      "headings": 3,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "10-02",
+      "pages": 14,
+      "headings": 42,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "10-03",
+      "pages": 3,
+      "headings": 10,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "11-01",
+      "pages": 3,
+      "headings": 10,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "11-02",
+      "pages": 3,
+      "headings": 10,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "12-01",
+      "pages": 1,
+      "headings": 6,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "12-02",
+      "pages": 3,
+      "headings": 9,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "13-01",
+      "pages": 1,
+      "headings": 4,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "13-02",
+      "pages": 6,
+      "headings": 16,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "14-01",
+      "pages": 4,
+      "headings": 9,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "14-02",
+      "pages": 4,
+      "headings": 9,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "15-01",
+      "pages": 3,
+      "headings": 7,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "15-02",
+      "pages": 6,
+      "headings": 16,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "16-01",
+      "pages": 8,
+      "headings": 28,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "16-02",
+      "pages": 1,
+      "headings": 3,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "17-01",
+      "pages": 3,
+      "headings": 10,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "17-02",
+      "pages": 4,
+      "headings": 11,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "18-01",
+      "pages": 7,
+      "headings": 11,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "18-02",
+      "pages": 2,
+      "headings": 5,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "18-03",
+      "pages": 2,
+      "headings": 6,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "19-01",
+      "pages": 2,
+      "headings": 8,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "19-02",
+      "pages": 7,
+      "headings": 11,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "20-01",
+      "pages": 7,
+      "headings": 27,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    },
+    {
+      "document_id": "20-02",
+      "pages": 10,
+      "headings": 33,
+      "latex_overflow": false,
+      "heading_level_jumps": [],
+      "terminal_one_or_two_character_body_lines": []
+    }
+  ],
+  "changes": [
+    {
+      "document_id": "01-01",
+      "latex": "cases/01_Fund_Shares/latex/01-01_基金M招募说明书.tex",
+      "reasons": [
+        "恢复费用表列对应与金额限定，合并断裂的费用行，清除旧页续标题及重复封面信息，修正地址和标题层级",
+        "正文末尾短行保护（334处），不改文字"
+      ]
+    },
+    {
+      "document_id": "02-01",
+      "latex": "cases/02_Annuity_Switch/latex/02-01_递延可变年金招募说明书.tex",
+      "reasons": [
+        "去除编辑者口吻或转换说明，保留文书条款与数据",
+        "正文末尾短行保护（150处），不改文字"
+      ]
+    },
+    {
+      "document_id": "03-01",
+      "latex": "cases/03_Retirement_Rollover/latex/03-01_退休账户顾问项目披露资料.tex",
+      "reasons": [
+        "正文末尾短行保护（16处），不改文字"
+      ]
+    },
+    {
+      "document_id": "03-02",
+      "latex": "cases/03_Retirement_Rollover/latex/03-02_基金F招募说明书.tex",
+      "reasons": [
+        "分开两项风险的小标题",
+        "同一风险条目小标题采用一致粗体规则",
+        "删除完整复制的风险块并修正基金资料标题层级",
+        "正文末尾短行保护（91处），不改文字",
+        "依据原文恢复增长型股票的限定词"
+      ]
+    },
+    {
+      "document_id": "04-01",
+      "latex": "cases/04_UIT_Switch/latex/04-01_单位投资信托招募说明书.tex",
+      "reasons": [
+        "去除编辑者口吻或转换说明，保留文书条款与数据",
+        "分销条款从投资风险下移出，恢复B部分的同级条款",
+        "正文末尾短行保护（107处），不改文字",
+        "按原件校正受托人解除、继任及资质条款中的生硬译句"
+      ]
+    },
+    {
+      "document_id": "05-01",
+      "latex": "cases/05_Account_Fees/latex/05-01_顾问基金账户项目披露手册.tex",
+      "reasons": [
+        "正文末尾短行保护（97处），不改文字"
+      ]
+    },
+    {
+      "document_id": "05-02",
+      "latex": "cases/05_Account_Fees/latex/05-02_经纪账户股票与ETF佣金表.tex",
+      "reasons": [
+        "正文末尾短行保护（2处），不改文字"
+      ]
+    },
+    {
+      "document_id": "06-01",
+      "latex": "cases/06_CD_Liquidity/latex/06-01_银行直购无罚金定期存款.tex",
+      "reasons": [
+        "正文末尾短行保护（7处），不改文字"
+      ]
+    },
+    {
+      "document_id": "06-02",
+      "latex": "cases/06_CD_Liquidity/latex/06-02_经纪存款凭证披露声明.tex",
+      "reasons": [
+        "去除编辑者口吻或转换说明，保留文书条款与数据",
+        "正文末尾短行保护（61处），不改文字"
+      ]
+    },
+    {
+      "document_id": "07-01",
+      "latex": "cases/07_Student_Refinance/latex/07-01_学生贷款再融资申请与还款披露.tex",
+      "reasons": [
+        "正文末尾短行保护（8处），不改文字"
+      ]
+    },
+    {
+      "document_id": "07-02",
+      "latex": "cases/07_Student_Refinance/latex/07-02_九个月只付利息再融资产品问答.tex",
+      "reasons": [
+        "正文末尾短行保护（18处），不改文字"
+      ]
+    },
+    {
+      "document_id": "07-03",
+      "latex": "cases/07_Student_Refinance/latex/07-03_学生贷款合并与还款资料.tex",
+      "reasons": [
+        "正文末尾短行保护（68处），不改文字"
+      ]
+    },
+    {
+      "document_id": "08-01",
+      "latex": "cases/08_Overdraft/latex/08-01_支票账户透支服务通知.tex",
+      "reasons": [
+        "正文末尾短行保护（23处），不改文字"
+      ]
+    },
+    {
+      "document_id": "08-02",
+      "latex": "cases/08_Overdraft/latex/08-02_透支服务资料与办理问答.tex",
+      "reasons": [
+        "正文末尾短行保护（50处），不改文字"
+      ]
+    },
+    {
+      "document_id": "09-01",
+      "latex": "cases/09_Promo_Financing/latex/09-01_商户合作融资卡账户协议.tex",
+      "reasons": [
+        "正文末尾短行保护（69处），不改文字"
+      ]
+    },
+    {
+      "document_id": "09-02",
+      "latex": "cases/09_Promo_Financing/latex/09-02_个人信息隐私通知.tex",
+      "reasons": [
+        "正文末尾短行保护（9处），不改文字"
+      ]
+    },
+    {
+      "document_id": "09-03",
+      "latex": "cases/09_Promo_Financing/latex/09-03_通用购买优惠卡定价条款.tex",
+      "reasons": [
+        "正文末尾短行保护（16处），不改文字"
+      ]
+    },
+    {
+      "document_id": "09-04",
+      "latex": "cases/09_Promo_Financing/latex/09-04_通用购买优惠卡奖励计划协议.tex",
+      "reasons": [
+        "正文末尾短行保护（36处），不改文字"
+      ]
+    },
+    {
+      "document_id": "10-01",
+      "latex": "cases/10_Credit_Monitoring/latex/10-01_信用监测会员服务资料.tex",
+      "reasons": [
+        "正文末尾短行保护（10处），不改文字"
+      ]
+    },
+    {
+      "document_id": "10-02",
+      "latex": "cases/10_Credit_Monitoring/latex/10-02_信用监测客户协议及附件.tex",
+      "reasons": [
+        "正文末尾短行保护（164处），不改文字"
+      ]
+    },
+    {
+      "document_id": "10-03",
+      "latex": "cases/10_Credit_Monitoring/latex/10-03_信用冻结及欺诈警示资料.tex",
+      "reasons": [
+        "正文末尾短行保护（24处），不改文字"
+      ]
+    },
+    {
+      "document_id": "11-01",
+      "latex": "cases/11_Mortgage_Points/latex/11-01_固定利率借据A.tex",
+      "reasons": [
+        "去除编辑者口吻或转换说明，保留文书条款与数据",
+        "正文末尾短行保护（28处），不改文字"
+      ]
+    },
+    {
+      "document_id": "11-02",
+      "latex": "cases/11_Mortgage_Points/latex/11-02_固定利率借据B.tex",
+      "reasons": [
+        "去除编辑者口吻或转换说明，保留文书条款与数据",
+        "正文末尾短行保护（28处），不改文字"
+      ]
+    },
+    {
+      "document_id": "12-01",
+      "latex": "cases/12_Mortgage_Payments/latex/12-01_第三方付款服务登记及授权条款.tex",
+      "reasons": [
+        "正文末尾短行保护（6处），不改文字"
+      ]
+    },
+    {
+      "document_id": "12-02",
+      "latex": "cases/12_Mortgage_Payments/latex/12-02_贷款机构付款资料.tex",
+      "reasons": [
+        "统一金融文书对客户的称谓",
+        "正文末尾短行保护（28处），不改文字"
+      ]
+    },
+    {
+      "document_id": "13-01",
+      "latex": "cases/13_Auto_Insurance/latex/13-01_贷款机构安排的车辆保障资料.tex",
+      "reasons": [
+        "统一金融文书对客户的称谓",
+        "正文末尾短行保护（8处），不改文字"
+      ]
+    },
+    {
+      "document_id": "13-02",
+      "latex": "cases/13_Auto_Insurance/latex/13-02_加州汽车保险指南.tex",
+      "reasons": [
+        "去除编辑者口吻或转换说明，保留文书条款与数据",
+        "统一金融文书对客户的称谓",
+        "正文末尾短行保护（50处），不改文字"
+      ]
+    },
+    {
+      "document_id": "14-01",
+      "latex": "cases/14_Loan_Pause/latex/14-01_一般暂缓还款申请.tex",
+      "reasons": [
+        "统一金融文书对客户的称谓",
+        "删除不适用于模拟申请的刑事处罚告知，保留免费服务说明",
+        "正文末尾短行保护（36处），不改文字"
+      ]
+    },
+    {
+      "document_id": "14-02",
+      "latex": "cases/14_Loan_Pause/latex/14-02_失业延期还款申请.tex",
+      "reasons": [
+        "统一金融文书对客户的称谓",
+        "删除不适用于模拟申请的刑事处罚告知，保留免费服务说明",
+        "正文末尾短行保护（35处），不改文字"
+      ]
+    },
+    {
+      "document_id": "15-01",
+      "latex": "cases/15_GAP_Coverage/latex/15-01_余额差额保障计划协议及披露.tex",
+      "reasons": [
+        "去除编辑者口吻或转换说明，保留文书条款与数据",
+        "统一金融文书对客户的称谓",
+        "正文末尾短行保护（38处），不改文字"
+      ]
+    },
+    {
+      "document_id": "15-02",
+      "latex": "cases/15_GAP_Coverage/latex/15-02_加州汽车保险指南.tex",
+      "reasons": [
+        "去除编辑者口吻或转换说明，保留文书条款与数据",
+        "统一金融文书对客户的称谓",
+        "正文末尾短行保护（50处），不改文字"
+      ]
+    },
+    {
+      "document_id": "16-01",
+      "latex": "cases/16_Auto_Investing/latex/16-01_自动投资项目披露.tex",
+      "reasons": [
+        "统一金融文书对客户的称谓",
+        "正文末尾短行保护（74处），不改文字"
+      ]
+    },
+    {
+      "document_id": "16-02",
+      "latex": "cases/16_Auto_Investing/latex/16-02_账户办理问答.tex",
+      "reasons": [
+        "正文末尾短行保护（6处），不改文字"
+      ]
+    },
+    {
+      "document_id": "17-01",
+      "latex": "cases/17_Mortgage_Rates/latex/17-01_固定利率借据A.tex",
+      "reasons": [
+        "去除编辑者口吻或转换说明，保留文书条款与数据",
+        "正文末尾短行保护（28处），不改文字"
+      ]
+    },
+    {
+      "document_id": "17-02",
+      "latex": "cases/17_Mortgage_Rates/latex/17-02_浮动利率借据B.tex",
+      "reasons": [
+        "去除编辑者口吻或转换说明，保留文书条款与数据",
+        "正文末尾短行保护（45处），不改文字"
+      ]
+    },
+    {
+      "document_id": "18-01",
+      "latex": "cases/18_Card_Rewards/latex/18-01_消费者信用卡客户协议.tex",
+      "reasons": [
+        "统一金融文书对客户的称谓",
+        "仲裁协议归入第六部分，删除旧页续标题",
+        "正文末尾短行保护（87处），不改文字"
+      ]
+    },
+    {
+      "document_id": "18-02",
+      "latex": "cases/18_Card_Rewards/latex/18-02_日常返现卡奖励附录.tex",
+      "reasons": [
+        "正文末尾短行保护（13处），不改文字"
+      ]
+    },
+    {
+      "document_id": "18-03",
+      "latex": "cases/18_Card_Rewards/latex/18-03_分类积分卡奖励附录.tex",
+      "reasons": [
+        "正文末尾短行保护（20处），不改文字"
+      ]
+    },
+    {
+      "document_id": "19-01",
+      "latex": "cases/19_Debt_Consolidation/latex/19-01_个人贷款办理及费用资料.tex",
+      "reasons": [
+        "去除编辑者口吻或转换说明，保留文书条款与数据",
+        "统一金融文书对客户的称谓",
+        "正文末尾短行保护（10处），不改文字"
+      ]
+    },
+    {
+      "document_id": "19-02",
+      "latex": "cases/19_Debt_Consolidation/latex/19-02_现有信用卡账户协议.tex",
+      "reasons": [
+        "统一金融文书对客户的称谓",
+        "仲裁协议归入第六部分，删除旧页续标题",
+        "正文末尾短行保护（87处），不改文字"
+      ]
+    },
+    {
+      "document_id": "20-01",
+      "latex": "cases/20_Cash_Options/latex/20-01_银行存款归集项目披露.tex",
+      "reasons": [
+        "统一金融文书对客户的称谓",
+        "正文末尾短行保护（70处），不改文字"
+      ]
+    },
+    {
+      "document_id": "20-02",
+      "latex": "cases/20_Cash_Options/latex/20-02_政府货币市场基金招募说明书.tex",
+      "reasons": [
+        "正文末尾短行保护（116处），不改文字"
+      ]
+    }
+  ],
+  "additional_corrections": [
+    "07-03重复通用声明仅保留一处",
+    "01-01删除财务章节的编辑者说明",
+    "12-02将来源页面说明改为文书内示例表述",
+    "金额、积分及括号结尾短尾行已逐项复核"
+  ],
+  "review_scope": "全部PDF正文提取、源段落核对、LaTeX编译边界及标题结构检查；首页总体版式及重点修改页视觉抽检。文书措辞修正不等于完成全部原文逐句译文校勘。",
+  "visual_examples_checked": [
+    "01-01首页及费用示例",
+    "03-02风险披露及追加风险",
+    "14-02表格问项",
+    "04-01信托管理条款",
+    "18-01第六部分仲裁条款"
+  ]
+}

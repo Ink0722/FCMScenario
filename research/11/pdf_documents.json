@@ -51,16 +51,60 @@
       ],
       "content_sha256": "061ab08833913b98c18a7e37d0b399a56eaa249f114baf3713d4023907630f79",
       "pages": 3,
-      "pdf_sha256": "355859d99438a59ccee48b54c35963617513c0654a7ffb2cff9ee2ef0a39b299",
+      "pdf_sha256": "712e215e15e2269235e220e19a4e1d50edf57a64f12648e61c71b3e3565490fd",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "本中文文本为参考文件，不供签署。": ""
+      },
       "latex_source": "latex/11-01_固定利率借据A.tex",
-      "latex_sha256": "bcf9f6fcfb55e8c5ce6043e8bcc5467db076e4c4b86b37c660b7b646e06692a2"
+      "latex_sha256": "6ad0cb7724c89198178b190f424ed41a3366999dace0e217bac7c072db8d6c0f",
+      "heading_outline": [
+        {
+          "title": "1. 借款人的付款承诺",
+          "level": 1
+        },
+        {
+          "title": "2. 利息",
+          "level": 1
+        },
+        {
+          "title": "3. 付款",
+          "level": 1
+        },
+        {
+          "title": "4. 借款人的提前还款权利",
+          "level": 1
+        },
+        {
+          "title": "5. 贷款费用",
+          "level": 1
+        },
+        {
+          "title": "6. 借款人未按要求付款",
+          "level": 1
+        },
+        {
+          "title": "7. 通知",
+          "level": 1
+        },
+        {
+          "title": "8. 本票据下各人的义务",
+          "level": 1
+        },
+        {
+          "title": "9. 权利放弃",
+          "level": 1
+        },
+        {
+          "title": "10. 统一担保票据",
+          "level": 1
+        }
+      ]
     },
     {
       "document_number": "02",
@@ -109,16 +153,60 @@
       ],
       "content_sha256": "8af135b4f578ece58f086c49777fd71920d60932190608fdf45b54928230f868",
       "pages": 3,
-      "pdf_sha256": "fcef294852fb829696f9be965d9a5201dcb68d2f24142d125f7c1533aad8177a",
+      "pdf_sha256": "8c77ed48bf42f4960a2b9ac78b13cf8d474f9a172ff9432072e72b4c31fc472a",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "46": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "本中文文本为参考文件，不供签署。": ""
+      },
       "latex_source": "latex/11-02_固定利率借据B.tex",
-      "latex_sha256": "5a790d6aa30d8a65a49bcea1323f18427599a27047ed263508e159129af4a002"
+      "latex_sha256": "74d481b0b2bbbaa99c61b50c4d56607275dc7a05f706ea89e6d7026705ae80b1",
+      "heading_outline": [
+        {
+          "title": "1. 借款人的付款承诺",
+          "level": 1
+        },
+        {
+          "title": "2. 利息",
+          "level": 1
+        },
+        {
+          "title": "3. 付款",
+          "level": 1
+        },
+        {
+          "title": "4. 借款人的提前还款权利",
+          "level": 1
+        },
+        {
+          "title": "5. 贷款费用",
+          "level": 1
+        },
+        {
+          "title": "6. 借款人未按要求付款",
+          "level": 1
+        },
+        {
+          "title": "7. 通知",
+          "level": 1
+        },
+        {
+          "title": "8. 本票据下各人的义务",
+          "level": 1
+        },
+        {
+          "title": "9. 权利放弃",
+          "level": 1
+        },
+        {
+          "title": "10. 统一担保票据",
+          "level": 1
+        }
+      ]
     }
   ],
   "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",

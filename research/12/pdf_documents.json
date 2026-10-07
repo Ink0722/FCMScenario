@@ -39,16 +39,42 @@
       "source_ids": [],
       "content_sha256": "f3f2763dc0f7022defafb21f98224e0a70c090c91bc7750ef85701a2a3001bd5",
       "pages": 1,
-      "pdf_sha256": "b92bcb6be180127166c9f461603bdf764e57dcbd7dd9f72b1325d5934e635afe",
+      "pdf_sha256": "a965f0b1fe3fddde819848782be53de1f70bfbb9d7359295c83260c72e89e029",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
       "rendered_text_replacements": {},
       "latex_source": "latex/12-01_第三方付款服务登记及授权条款.tex",
-      "latex_sha256": "f7636403d4733450010655f290c1d570ad72e41f2d5d77279d3031a67d14fabe"
+      "latex_sha256": "b527ede4124553cf049bcce2cfafe4671538295c45a0852d05fd510949d21705",
+      "heading_outline": [
+        {
+          "title": "1. 扣款指示",
+          "level": 1
+        },
+        {
+          "title": "2. 服务登记费用",
+          "level": 1
+        },
+        {
+          "title": "3. 资金保管及月供转付",
+          "level": 1
+        },
+        {
+          "title": "4. 三次扣款月份",
+          "level": 1
+        },
+        {
+          "title": "5. 贷款账户与服务账户",
+          "level": 1
+        },
+        {
+          "title": "6. 扣款授权",
+          "level": 1
+        }
+      ]
     },
     {
       "document_number": "02",
@@ -94,16 +120,63 @@
       ],
       "content_sha256": "54561d147dd107b2d85b78888b3354e7ca6ff8e8c2b731af355fab11217a48a7",
       "pages": 3,
-      "pdf_sha256": "c749a7a501603ff5b66f1e41ea14a19a1cb4bc8efa9312a6ca436b86006f323d",
+      "pdf_sha256": "29be7b656fe02a073202dd955e02e740112cb0f6c6b8cdf5153ebac56d331be4",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "18": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "你": "您",
+        "原产品页面示例使用": "示例假设贷款本金为"
+      },
       "latex_source": "latex/12-02_贷款机构付款资料.tex",
-      "latex_sha256": "12470423fdcd2adba6da4c52b0247c66a4345ea062c0f15a4c76b318d071d1f7"
+      "latex_sha256": "2787cd473c0cd1c1e625e2eb956bb78b67cb3adc5a7626faa1f91f28388e5091",
+      "heading_outline": [
+        {
+          "title": "一般付款常见问题",
+          "level": 1
+        },
+        {
+          "title": "房贷利息和付款如何运作？",
+          "level": 2
+        },
+        {
+          "title": "付款日期是否影响当期应付利息？",
+          "level": 2
+        },
+        {
+          "title": "付款日期是否重要？",
+          "level": 2
+        },
+        {
+          "title": "灵活付款常见问题",
+          "level": 1
+        },
+        {
+          "title": "如何处理每月两次和每两周付款？",
+          "level": 2
+        },
+        {
+          "title": "如果已经用其他方式付款，仍会自动扣款吗？",
+          "level": 2
+        },
+        {
+          "title": "灵活付款产品页面",
+          "level": 1
+        },
+        {
+          "title": "房贷付款示例",
+          "level": 2
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "21": "我可以在线支付房贷或房屋净值账户吗？可以，从本机构或其他银行的存款账户付款。可以通过网站或手机应用设置。",
+        "46": "房屋净值贷款及信用额度：如果您已通过上述渠道付款，我们不会再自动扣取另一笔付款。",
+        "50": "所有住房贷款都能使用这些选项吗？不是。房屋净值贷款及信用额度、可选还款额浮动利率贷款（Option ARM）、只付利息贷款、每日单利贷款、建设贷款、房贷优惠利率贷款及按年或季度付款的贷款，不能设置每月两次或每两周付款，仍可设置每月自动付款。",
+        "52": "每月一次：可用于房贷及房屋净值贷款。每月在所选日期扣款，在到期日应用付款，有助于遵守预算。"
+      }
     }
   ],
   "emphasis_policy": "文书主标题及各级标题加粗；表头加粗；段首定义、风险及条款标签加粗；正文数值不自动强调；两类份额及两项方案采用相同规则。",

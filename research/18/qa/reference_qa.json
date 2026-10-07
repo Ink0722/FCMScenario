@@ -8,12 +8,12 @@
   "originals_archived": true,
   "translation_review": "not_fully_sentence_checked",
   "visual_layout_review": "passed",
-  "checked_date": "2026-10-06",
+  "checked_date": "2026-10-07",
   "participant_links_checked": true,
   "source_manifest_hashes_checked": true,
   "decision_criteria_preserved": true,
-  "material_sha256": "c700b645ec86d9a876abbe8a51b95fa0f70e4ed8eddccb31f35519a0c8ec606d",
-  "notes_sha256": "40dfcd1a183958a2a6708c2845010b0bef601b8b3d1182a5bba813af92f7d131",
+  "material_sha256": "4cd97dcfb5cac7b7591e9e4a7f3f43f28c730b0b2091c540c22cc9f423f562a7",
+  "notes_sha256": "65f5cf92aac8c0f1aac446e04ad45923400c585bbc9b36f9c3b4a90d6ab40064",
   "documents": [
     {
       "document_id": "18-01",
@@ -22,7 +22,7 @@
       "text_checks": 105,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "e3d3021506c4055004e420ba4c1086fcab2659b56d4e14a3f1501d0a44cb029e",
+      "pdf_sha256": "dcadaf03e617a51f7fafe2178ade5e25fcab94513c481e5b604c421ad5cdb6ba",
       "latex_overflow": false
     },
     {
@@ -32,7 +32,7 @@
       "text_checks": 18,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "b61b3dbddfbb22826e7b8f77da358d1b968a124a98f7b72adbe9dd650fe2ced3",
+      "pdf_sha256": "71bd3aa15934cc5ee10e39d7e1690df2ebb19811156ea3d8ca95fe6877197cd1",
       "latex_overflow": false
     },
     {
@@ -42,13 +42,14 @@
       "text_checks": 27,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "62b1e005e2c51d8606268c1a5af4e1478573e31cf405fa83af50d4c4b9c71dcf",
+      "pdf_sha256": "5c583f2751f9fc9367135b4509f0563071f96479be7e553d4bb9058849d41ef1",
       "latex_overflow": false
     }
   ],
   "independent_documents": 3,
-  "qa_status": "text_and_layout_checked",
-  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
-  "current_report": "qa/pdf_documents_qa.json",
-  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+  "qa_status": "text_and_structure_checked",
+  "visual_review": "42份文书首页排版，07及15术语所在页；全部页面文本及短行自动检查",
+  "current_report": "../../qa/translation_and_residual_review.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "material_structure_report": "../../qa/material_structure_review.json"
 }

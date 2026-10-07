@@ -9,21 +9,24 @@
       "text_checks": 101,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "f95bbd6b58b476f00dbfa7649f2927f19dae66b644dff4091e1677a58b751810",
+      "pdf_sha256": "f7e49366bed9071dbc16dda15d344f9f7ca4bd1675dfb88b2b84ed8007cceaa5",
       "latex_overflow": false
     },
     {
       "document_id": "20-02",
       "pdf": "20-02_政府货币市场基金招募说明书.pdf",
       "pages": 10,
-      "text_checks": 272,
+      "text_checks": 271,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "fc26d02fbcd6df9ec8ff518d7c6d30be0162b7280b51aa77bce0ed79b953a1f9",
+      "pdf_sha256": "e1500df1b546726888135e56a484e8bc18dfbfdb950a322bfa116948e6130033",
       "latex_overflow": false
     }
   ],
   "all_current_body_text_present": true,
   "decision_criteria_preserved": true,
-  "qa_status": "text_and_layout_checked"
+  "qa_status": "text_and_structure_checked",
+  "checked_date": "2026-10-07",
+  "visual_review": "42份文书首页排版，07及15术语所在页；全部页面文本及短行自动检查",
+  "current_report": "../../qa/translation_and_residual_review.json"
 }

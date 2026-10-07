@@ -1,13 +1,13 @@
 {
   "case": 3,
-  "pages": 17,
-  "paragraphs_checked": 545,
+  "pages": 16,
+  "paragraphs_checked": 532,
   "missing_paragraphs": [],
   "pdf_has_text": true,
   "latex_overflow": false,
   "originals_archived": true,
   "translation_review": "not_fully_sentence_checked",
-  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
+  "visual_review": "42份文书首页排版，07及15术语所在页；全部页面文本及短行自动检查",
   "text_extraction_method": "PDFKit line selections sorted by page coordinates; headers/footers excluded",
   "documents": [
     {
@@ -17,23 +17,23 @@
       "text_checks": 38,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "752e61b0ca6fe3ffb775f7fe1644dc0f52c3363d2e01a585281ffbbebe08883b",
+      "pdf_sha256": "a1b8a29784477e31420ae29de94ec5cdef2417d0cf6a9bafa603f003c0dbfd8e",
       "latex_overflow": false
     },
     {
       "document_id": "03-02",
       "pdf": "03-02_基金F招募说明书.pdf",
-      "pages": 15,
-      "text_checks": 507,
+      "pages": 14,
+      "text_checks": 494,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "e0182b3f0bbff470ce629a85757b38bbf74ea34c8966436ef4fbe7f9370bda02",
+      "pdf_sha256": "5c402f5b11a3141e27b4bd0a6809c75507fe828149870d622abc2ed60320bc3c",
       "latex_overflow": false
     }
   ],
   "independent_documents": 2,
-  "qa_status": "text_and_layout_checked",
-  "checked_date": "2026-10-06",
-  "current_report": "qa/pdf_documents_qa.json",
+  "qa_status": "text_and_structure_checked",
+  "checked_date": "2026-10-07",
+  "current_report": "../../qa/translation_and_residual_review.json",
   "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
 }

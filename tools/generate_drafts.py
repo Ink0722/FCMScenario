@@ -8,6 +8,10 @@ def build_case(number):
  for doc in config['documents']:
   if doc.get('format')=='aligned_source_units':continue
   lines=(d/doc['content_source']).read_text().splitlines()[doc['start_line']:doc['end_line']];body=[];i=0;tables=[]
+  for j,raw in enumerate(lines):
+   if str(doc['start_line']+j) in doc.get('omitted_source_lines',{}):lines[j]='';continue
+   for old,new in doc.get('rendered_text_replacements',{}).items():raw=raw.replace(old,new)
+   lines[j]=doc.get('rendered_source_line_overrides',{}).get(str(doc['start_line']+j),raw)
   while i<len(lines):
    line=lines[i].strip()
    if str(doc['start_line']+i) in doc.get('omitted_source_lines',{}):i+=1;continue

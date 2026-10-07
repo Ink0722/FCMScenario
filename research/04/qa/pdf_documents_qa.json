@@ -9,11 +9,14 @@
       "text_checks": 249,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "ec77efb834fd2697ef2465c3a460aeca05c2767beb4c22f806ba9526fdc3c8c3",
+      "pdf_sha256": "d524b2271b48582f5e6bf932e42cf472d0ab6eddcca9b310bbf0f8addcf18a00",
       "latex_overflow": false
     }
   ],
   "all_current_body_text_present": true,
   "decision_criteria_preserved": true,
-  "qa_status": "text_and_layout_checked"
+  "qa_status": "text_and_structure_checked",
+  "checked_date": "2026-10-07",
+  "visual_review": "42份文书首页排版，07及15术语所在页；全部页面文本及短行自动检查",
+  "current_report": "../../qa/translation_and_residual_review.json"
 }

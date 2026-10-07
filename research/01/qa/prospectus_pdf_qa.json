@@ -1,37 +1,36 @@
 {
-  "pages": 31,
+  "pages": 29,
   "source_units": 976,
-  "rendered_units": 920,
+  "rendered_units": 834,
   "removed_repeated_footer_units": 56,
   "missing_text_units": [],
   "native_latex_overflow": false,
   "original_translation_array_unchanged": true,
   "body_paragraphs_preserved": true,
-  "tables": 15,
-  "pdf_sha256": "41b16af8657dee22f212b3904a10ff845f5fe86ac615e9a20148c62d37048ae9",
+  "tables": 13,
+  "pdf_sha256": "1b5693c395145697f108980f828cde6440397ae900283034db9ca3e48a74f284",
   "archive": "archive/before_reference_document_revision_20261006",
-  "visual_review": "First page and full contact sheet checked after contents removal; 44 contents units omitted; all remaining 875 source units present.",
-  "checked_date": "2026-10-06",
+  "visual_review": "42份文书首页排版，07及15术语所在页；全部页面文本及短行自动检查",
+  "checked_date": "2026-10-07",
   "document_id": "01-01",
-  "current_report": "qa/pdf_documents_qa.json",
+  "current_report": "../../qa/translation_and_residual_review.json",
   "pagination_updated": true,
   "documents": [
     {
       "document_id": "01-01",
       "pdf": "01-01_基金M招募说明书.pdf",
-      "pages": 31,
-      "text_checks": 875,
+      "pages": 29,
+      "text_checks": 834,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "a80ae65ccf13208c97bc22f0d448d2725ef780548ebf181fe411b64f26b9235f",
-      "latex_overflow": false,
-      "table_of_contents_removed": true,
-      "internal_page_references_checked": true
+      "pdf_sha256": "1b5693c395145697f108980f828cde6440397ae900283034db9ca3e48a74f284",
+      "latex_overflow": false
     }
   ],
-  "paragraphs_checked": 875,
+  "paragraphs_checked": 834,
   "missing_paragraphs": [],
   "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
-  "qa_status": "text_and_layout_checked",
-  "table_of_contents_removed": true
+  "qa_status": "text_and_structure_checked",
+  "table_of_contents_removed": true,
+  "independent_documents": 1
 }

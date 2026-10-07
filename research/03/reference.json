@@ -464,8 +464,8 @@
     "provenance": "既有场景研究设定；非官方原件合同确认",
     "text_sha256": "faee0d3cdbd6827f7b1498a1355a8055aba283561abe123dd3bdbfc19b050e75"
   },
-  "qa_status": "text_and_layout_checked",
-  "pages": 17,
+  "qa_status": "text_and_structure_checked",
+  "pages": 16,
   "documents": [
     {
       "document_number": "01",
@@ -489,9 +489,9 @@
       ],
       "content_sha256": "e09cb03bf8886a5dd37ecb90de3409aef4c7f84459ca253dfbd95f27ce687a82",
       "pages": 2,
-      "pdf_sha256": "752e61b0ca6fe3ffb775f7fe1644dc0f52c3363d2e01a585281ffbbebe08883b",
+      "pdf_sha256": "a1b8a29784477e31420ae29de94ec5cdef2417d0cf6a9bafa603f003c0dbfd8e",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [
         {
           "header": [
@@ -509,7 +509,20 @@
       },
       "rendered_text_replacements": {},
       "latex_source": "latex/03-01_退休账户顾问项目披露资料.tex",
-      "latex_sha256": "092468dd284d098eeb67bbc47b6efa2c072658c2c53392e87e3221ec47c2d799"
+      "latex_sha256": "9e0fca5b829eb17ee57d4de74f4166bb73d666763d04ebd30752d1fb85d8f2a2",
+      "heading_outline": [
+        {
+          "title": "项目服务与管理权限",
+          "level": 1
+        },
+        {
+          "title": "项目成本",
+          "level": 1
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "45": "两层费用。项目费不含底层基金固有的投资顾问、行政、分销、过户、托管、法律、审计及其他费用，也不包含基金投资相关的递延销售费或赎回费。因此客户直接承担项目费，并作为基金持有人间接承担基金费用。某些个人退休账户（IRA）或美国《雇员退休收入保障法》（ERISA）合资格账户投资关联基金时，可依条款取得关联管理费抵扣。费用总额可能高于或低于机构其他投资项目。"
+      }
     },
     {
       "document_number": "02",
@@ -591,16 +604,16 @@
           "level": 2
         },
         "管理": {
-          "level": 2
+          "level": 1
         },
         "基金份额的购买及出售": {
-          "level": 2
+          "level": 1
         },
         "税务资料": {
-          "level": 2
+          "level": 1
         },
         "向经纪交易商及其他金融中介付款": {
-          "level": 2
+          "level": 1
         },
         "其他投资风险": {
           "level": 2
@@ -637,10 +650,10 @@
         "4"
       ],
       "content_sha256": "9968567d51a37ca7ef5ef4017f0afa578e26be9971fbc451e54b7c36c77fa77b",
-      "pages": 15,
-      "pdf_sha256": "e0182b3f0bbff470ce629a85757b38bbf74ea34c8966436ef4fbe7f9370bda02",
+      "pages": 14,
+      "pdf_sha256": "5c402f5b11a3141e27b4bd0a6809c75507fe828149870d622abc2ed60320bc3c",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "source_restoration": {
         "source": "sources/source_04.html",
         "source_ids": [
@@ -870,11 +883,180 @@
       ],
       "omitted_source_lines": {
         "53": "正文开头重复文书标题，文件主标题已列于页面顶部",
-        "59": "不适用于匿名模拟文件的监管审批或刑事法律提示"
+        "59": "不适用于匿名模拟文件的监管审批或刑事法律提示",
+        "196": "复原过程中再次完整复制的主要风险段落；同一完整披露已保留在前文",
+        "198": "复原过程中再次完整复制的主要风险段落；同一完整披露已保留在前文",
+        "200": "复原过程中再次完整复制的主要风险段落；同一完整披露已保留在前文",
+        "202": "复原过程中再次完整复制的主要风险段落；同一完整披露已保留在前文",
+        "204": "复原过程中再次完整复制的主要风险段落；同一完整披露已保留在前文",
+        "206": "复原过程中再次完整复制的主要风险段落；同一完整披露已保留在前文",
+        "208": "复原过程中再次完整复制的主要风险段落；同一完整披露已保留在前文",
+        "210": "复原过程中再次完整复制的主要风险段落；同一完整披露已保留在前文",
+        "212": "复原过程中再次完整复制的主要风险段落；同一完整披露已保留在前文",
+        "214": "复原过程中再次完整复制的主要风险段落；同一完整披露已保留在前文",
+        "216": "复原过程中再次完整复制的主要风险段落；同一完整披露已保留在前文",
+        "218": "复原过程中再次完整复制的主要风险段落；同一完整披露已保留在前文",
+        "57": "中文化复核：不影响金融条件的出版或联系方式残留"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "增长型股票。普通股": "增长型股票。增长型普通股",
+        "年度或半年度N-CSR报告": "年度或半年度持有人报告"
+      },
       "latex_source": "latex/03-02_基金F招募说明书.tex",
-      "latex_sha256": "d9a1d904818537f32243ea130d3879732f7f7bbef09ebc0e3af01def2536a0f6"
+      "latex_sha256": "4c3b65bac4df0238353fb45f1256c755e792656f330a13210ca8e7322ebac822",
+      "heading_outline": [
+        {
+          "title": "投资目标",
+          "level": 1
+        },
+        {
+          "title": "基金费用及支出",
+          "level": 1
+        },
+        {
+          "title": "费用示例",
+          "level": 2
+        },
+        {
+          "title": "主要投资策略",
+          "level": 1
+        },
+        {
+          "title": "主要风险",
+          "level": 1
+        },
+        {
+          "title": "基金投资业绩",
+          "level": 1
+        },
+        {
+          "title": "平均年度总回报",
+          "level": 2
+        },
+        {
+          "title": "管理",
+          "level": 1
+        },
+        {
+          "title": "基金份额的购买及出售",
+          "level": 1
+        },
+        {
+          "title": "税务资料",
+          "level": 1
+        },
+        {
+          "title": "向经纪交易商及其他金融中介付款",
+          "level": 1
+        },
+        {
+          "title": "投资目标、策略及风险",
+          "level": 1
+        },
+        {
+          "title": "其他投资风险",
+          "level": 2
+        },
+        {
+          "title": "基金比较指数",
+          "level": 2
+        },
+        {
+          "title": "基金业绩计算",
+          "level": 2
+        },
+        {
+          "title": "组合持仓",
+          "level": 2
+        },
+        {
+          "title": "管理与组织",
+          "level": 1
+        },
+        {
+          "title": "投资顾问",
+          "level": 2
+        },
+        {
+          "title": "多组合经理制度",
+          "level": 2
+        },
+        {
+          "title": "持有人信息",
+          "level": 1
+        },
+        {
+          "title": "购买、转换及出售份额",
+          "level": 2
+        },
+        {
+          "title": "份额估值",
+          "level": 2
+        },
+        {
+          "title": "收费渠道及退休计划类别购买",
+          "level": 2
+        },
+        {
+          "title": "份额转换",
+          "level": 2
+        },
+        {
+          "title": "如何出售份额",
+          "level": 2
+        },
+        {
+          "title": "电话、传真或网上交易",
+          "level": 2
+        },
+        {
+          "title": "频繁交易",
+          "level": 2
+        },
+        {
+          "title": "分配及税务",
+          "level": 1
+        },
+        {
+          "title": "选择份额类别",
+          "level": 1
+        },
+        {
+          "title": "分销计划",
+          "level": 1
+        },
+        {
+          "title": "向经销商支付的其他报酬",
+          "level": 1
+        },
+        {
+          "title": "基金支出",
+          "level": 1
+        },
+        {
+          "title": "子过户代理及记录管理费用",
+          "level": 2
+        },
+        {
+          "title": "财务摘要",
+          "level": 1
+        },
+        {
+          "title": "P类份额",
+          "level": 2
+        },
+        {
+          "title": "Q类份额",
+          "level": 2
+        },
+        {
+          "title": "组合周转率",
+          "level": 2
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "314": "除说明书明确例外，退休计划类别通常不提供给普通非退休个人账户、传统或Roth 个人退休账户（IRA）、经纪账户持有的SEP、SARSEPs、SIMPLE IRA及529计划。某些雇主退休安排通过退休记录机构服务并使用收费项目时可适用例外。购买具体由计划管理人或记录机构办理。"
+      }
     }
   ],
   "pdf_files": [
@@ -884,7 +1066,7 @@
   "pages_definition": "各独立PDF页数之和；不存在现行合并PDF。",
   "document_manifest": "pdf_documents.json",
   "heading_levels": 3,
-  "material_sha256": "b11dfb1b4f2deab9842229fb951187d6ffa0d1d80529b525ba2515935e0dd57b",
+  "material_sha256": "02bb6dff6e0ae1f1ea20385c7188541de15c88695a587dc4a2b7810f7d458dac",
   "scenario_confirmation_location": "03_TIAA_Retirement_Rollover_5Y_Material.md — 场景信息／本次账户及办理条件",
   "document_revision": {
     "archive": "archive/before_reference_document_revision_20261006",

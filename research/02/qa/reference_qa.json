@@ -7,7 +7,7 @@
   "latex_overflow": false,
   "originals_archived": true,
   "translation_review": "not_fully_sentence_checked",
-  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
+  "visual_review": "42份文书首页排版，07及15术语所在页；全部页面文本及短行自动检查",
   "text_extraction_method": "PDFKit line selections sorted by page coordinates; headers/footers excluded",
   "documents": [
     {
@@ -17,13 +17,13 @@
       "text_checks": 337,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "7011b4cf953b1f933c605f610b936c7ad61798d7c1c40f0acd4dac4bdb6ec153",
+      "pdf_sha256": "e794abb78b50f5c2f23668e67b5588222ae07d25f06688a5ffe2dd21520a15bd",
       "latex_overflow": false
     }
   ],
   "independent_documents": 1,
-  "qa_status": "text_and_layout_checked",
-  "checked_date": "2026-10-06",
-  "current_report": "qa/pdf_documents_qa.json",
+  "qa_status": "text_and_structure_checked",
+  "checked_date": "2026-10-07",
+  "current_report": "../../qa/translation_and_residual_review.json",
   "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
 }

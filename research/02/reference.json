@@ -608,7 +608,7 @@
     "provenance": "既有场景研究设定；非官方原件合同确认",
     "text_sha256": "5546274d2b5a1a5cd3dc52dcd406018b459e83d0da1ea3de58bbc2887929ee14"
   },
-  "qa_status": "text_and_layout_checked",
+  "qa_status": "text_and_structure_checked",
   "pages": 16,
   "documents": [
     {
@@ -792,9 +792,9 @@
       ],
       "content_sha256": "d519ebdf9044a9fca17831040dda655f036834bee5dc34322c3a72e34a106c2d",
       "pages": 16,
-      "pdf_sha256": "7011b4cf953b1f933c605f610b936c7ad61798d7c1c40f0acd4dac4bdb6ec153",
+      "pdf_sha256": "e794abb78b50f5c2f23668e67b5588222ae07d25f06688a5ffe2dd21520a15bd",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [
         {
           "header": [
@@ -849,13 +849,245 @@
         "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
       "rendered_text_replacements": {
-        "SEC及州证券监管机构未批准或否决这些证券，也未认定说明书真实或完整。相反陈述构成刑事违法。": ""
+        "SEC及州证券监管机构未批准或否决这些证券，也未认定说明书真实或完整。相反陈述构成刑事违法。": "",
+        "本披露版本中，": ""
       },
       "body_labels": [
         "B类及L类合同"
       ],
       "latex_source": "latex/02-01_递延可变年金招募说明书.tex",
-      "latex_sha256": "bac1bbb9b2acace7d1616f7639807f3acffe300403b70369a706459f7beb8271"
+      "latex_sha256": "24c6763378baa81d0b2609aabc7fa3c71ec7d023ea3c135cd70ead9cd975b78a",
+      "heading_outline": [
+        {
+          "title": "重要术语",
+          "level": 1
+        },
+        {
+          "title": "保险公司及独立账户",
+          "level": 1
+        },
+        {
+          "title": "可变年金",
+          "level": 1
+        },
+        {
+          "title": "年金合同替换",
+          "level": 1
+        },
+        {
+          "title": "递延年金及退休计划",
+          "level": 1
+        },
+        {
+          "title": "递延年金类别",
+          "level": 1
+        },
+        {
+          "title": "B类",
+          "level": 2
+        },
+        {
+          "title": "L类",
+          "level": 2
+        },
+        {
+          "title": "B类及L类的合资格滚存及直接转入信用额",
+          "level": 2
+        },
+        {
+          "title": "底层基金",
+          "level": 1
+        },
+        {
+          "title": "付款",
+          "level": 1
+        },
+        {
+          "title": "403(b)计划付款",
+          "level": 2
+        },
+        {
+          "title": "付款配置",
+          "level": 2
+        },
+        {
+          "title": "付款限制",
+          "level": 2
+        },
+        {
+          "title": "投资价值",
+          "level": 1
+        },
+        {
+          "title": "转账权利",
+          "level": 1
+        },
+        {
+          "title": "转账限制",
+          "level": 2
+        },
+        {
+          "title": "取得您的资金",
+          "level": 1
+        },
+        {
+          "title": "账户减少型贷款",
+          "level": 2
+        },
+        {
+          "title": "系统提款计划",
+          "level": 2
+        },
+        {
+          "title": "最低分配",
+          "level": 2
+        },
+        {
+          "title": "费用",
+          "level": 1
+        },
+        {
+          "title": "账户减少型贷款费用",
+          "level": 2
+        },
+        {
+          "title": "资金处于分部期间的费用",
+          "level": 2
+        },
+        {
+          "title": "独立账户费",
+          "level": 2
+        },
+        {
+          "title": "底层基金费用",
+          "level": 2
+        },
+        {
+          "title": "转账费",
+          "level": 2
+        },
+        {
+          "title": "年度合同费",
+          "level": 2
+        },
+        {
+          "title": "可选收入保障费",
+          "level": 2
+        },
+        {
+          "title": "保费及其他税款",
+          "level": 2
+        },
+        {
+          "title": "提款费用",
+          "level": 2
+        },
+        {
+          "title": "不收提款费的情形",
+          "level": 2
+        },
+        {
+          "title": "冷静期",
+          "level": 2
+        },
+        {
+          "title": "身故保障——一般规定",
+          "level": 1
+        },
+        {
+          "title": "标准身故保障",
+          "level": 2
+        },
+        {
+          "title": "可选身故保障",
+          "level": 2
+        },
+        {
+          "title": "年度调升身故保障",
+          "level": 2
+        },
+        {
+          "title": "一般信息",
+          "level": 1
+        },
+        {
+          "title": "管理",
+          "level": 2
+        },
+        {
+          "title": "付款办理",
+          "level": 2
+        },
+        {
+          "title": "交易确认",
+          "level": 2
+        },
+        {
+          "title": "交易处理",
+          "level": 2
+        },
+        {
+          "title": "电话或互联网",
+          "level": 2
+        },
+        {
+          "title": "死亡后",
+          "level": 2
+        },
+        {
+          "title": "无人认领财产",
+          "level": 2
+        },
+        {
+          "title": "年龄误报",
+          "level": 2
+        },
+        {
+          "title": "第三方请求",
+          "level": 2
+        },
+        {
+          "title": "估值及暂停支付",
+          "level": 2
+        },
+        {
+          "title": "其他事项",
+          "level": 2
+        },
+        {
+          "title": "递延年金变更",
+          "level": 2
+        },
+        {
+          "title": "投票权",
+          "level": 2
+        },
+        {
+          "title": "年金销售",
+          "level": 2
+        },
+        {
+          "title": "提款",
+          "level": 2
+        },
+        {
+          "title": "财务报表",
+          "level": 1
+        },
+        {
+          "title": "公司可取消合同的情形",
+          "level": 1
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "11": "独立账户及固定利息账户权益不是美国政府、银行或其他存款机构的存款或义务，不受美国联邦存款保险公司（FDIC）、联邦储备委员会或其他机构保证。",
+        "27": "假定投资回报率（AIR）：用于确定首笔可变收入付款的假定回报率，也是计算后续付款时的投资表现基准。",
+        "83": "投入阶段通过一次或多次付款累积资金，款项留存期间记录投资回报。合同可用于TSA、适用美国《雇员退休收入保障法》（ERISA）的TSA、SEP、SIMPLE 个人退休账户（IRA）、第457(b)及403(a)安排，也可向仅作为合同持有人的银行签发。",
+        "193": "某些计划允许从账户余额借款。按可借款来源及各分部、固定账户余额比例扣除；正常还款按原资金来源恢复，并按当前缴款配置分配。已经向美国国税局（IRS）报告违约收入但尚未抵销的贷款，还款作为税后缴款。还款期、方式、利率、违约、税务及最低最高金额见贷款文件，可能有设立及维护费。",
+        "445": "交易所受限、非正常假日关闭，或紧急情况使定价或出售不可行且美国证券交易委员会（SEC）规则允许时，公司可暂停或推迟提款或转账；SEC通过命令允许的其他期间也可暂停。",
+        "463": "关联分销机构D为主要承销及分销商，也销售本公司及关联机构其他保险产品。公司补偿其分销费用，包括支付零售经纪商的佣金；D不保留合同费用。D依法注册为经纪商及美国金融业监管局（FINRA）成员。可通过BrokerCheck查询经纪商及人员背景。",
+        "481": "独立账户及公司财务报表通过向SEC提交的财务报表文件引用纳入，可查阅对应原件。"
+      }
     }
   ],
   "pdf_files": [
@@ -864,7 +1096,7 @@
   "pages_definition": "独立PDF页数。",
   "document_manifest": "pdf_documents.json",
   "heading_levels": 3,
-  "material_sha256": "82650e13894dfddba183319a08d2e217dfd77fea7ee7575c4229551a54e12575",
+  "material_sha256": "eeb0ea44c1173073c3504cc9dd3b09189071dc59372c61b316ccbc9201e82d19",
   "scenario_confirmation_location": "02_MetLife_Annuity_Replacement_4Y_Material.md — 场景信息／本次账户及办理条件",
   "document_revision": {
     "archive": "archive/before_reference_document_revision_20261006",

@@ -8,12 +8,12 @@
   "originals_archived": true,
   "translation_review": "not_fully_sentence_checked",
   "visual_layout_review": "passed",
-  "checked_date": "2026-10-06",
+  "checked_date": "2026-10-07",
   "participant_links_checked": true,
   "source_manifest_hashes_checked": true,
   "decision_criteria_preserved": true,
-  "material_sha256": "78cbaf3aef3077da1b62e33b1864ac78aa15e78e9b553f55c9d55db4a85ba29e",
-  "notes_sha256": "0ba4cfe2ff8c793522aad4ce90b6f0b23bb9040c8aed9f357e4718881230cac0",
+  "material_sha256": "691a12ee03bfc76c267a59bf4d15006cfa0c3a26a453fb1a3e0196e12a620bf9",
+  "notes_sha256": "b28812f2ef5830838028824225104b8063860f6e3657f180607e035c079842a8",
   "documents": [
     {
       "document_id": "13-01",
@@ -22,7 +22,7 @@
       "text_checks": 12,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "ee5856da1e0fd048edab7f840085dbdeff9f76d5734aeddb46d62981f3e6382c",
+      "pdf_sha256": "4b9ad498329855733702dbdb478e8be66575672e1563ac5810866f0449e5e333",
       "latex_overflow": false
     },
     {
@@ -32,13 +32,14 @@
       "text_checks": 80,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "64ff2b8373706a59ec76599b06988eb1354db496e2ba135ac0214de47e689a53",
+      "pdf_sha256": "1562cf4e21fd0acb42de26184b4dac2d63cc3e44e09ddea43facc568e9e27687",
       "latex_overflow": false
     }
   ],
   "independent_documents": 2,
-  "qa_status": "text_and_layout_checked",
-  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
-  "current_report": "qa/pdf_documents_qa.json",
-  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+  "qa_status": "text_and_structure_checked",
+  "visual_review": "42份文书首页排版，07及15术语所在页；全部页面文本及短行自动检查",
+  "current_report": "../../qa/translation_and_residual_review.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "material_structure_report": "../../qa/material_structure_review.json"
 }

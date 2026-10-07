@@ -410,7 +410,7 @@
     "provenance": "既有场景研究设定；非官方原件合同确认",
     "text_sha256": "2617832e99d76f45fa7c3fc870f7d69a088f0578752fd349745a7f583fb8d510"
   },
-  "qa_status": "text_and_layout_checked",
+  "qa_status": "text_and_structure_checked",
   "pages": 7,
   "documents": [
     {
@@ -449,16 +449,46 @@
       ],
       "content_sha256": "503c98fe98510061a7ed8a6593aa7096d6ac52c6fd94e43b6f76491d8bbc200d",
       "pages": 2,
-      "pdf_sha256": "84799b261431e7316bec1871933a699941e02c77a7021b96b2a8244b62a63997",
+      "pdf_sha256": "30b6bcef8c0bb3d595d744b1984f9f5cf6b7943e3b64e0d3498915fa78035ef4",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
       "rendered_text_replacements": {},
       "latex_source": "latex/08-01_支票账户透支服务通知.tex",
-      "latex_sha256": "4025b45657b984dcc1cd994b8e0033ee1b8a0f3e3271d2098d8985b0da114040"
+      "latex_sha256": "9c857b03684305e0659863ba9fd1f8f01faf3db198fe896743bf7570ac374588",
+      "heading_outline": [
+        {
+          "title": "概述（透支服务不适用于基本银行账户）",
+          "level": 1
+        },
+        {
+          "title": "标准透支服务",
+          "level": 1
+        },
+        {
+          "title": "您的账户包含的标准透支服务是什么？",
+          "level": 2
+        },
+        {
+          "title": "借记卡垫付服务",
+          "level": 1
+        },
+        {
+          "title": "透支费用（适用于上述所有透支产品）",
+          "level": 1
+        },
+        {
+          "title": "如果透支获支付，您会被收取哪些费用？",
+          "level": 2
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "9": "当您的可用余额不足以支付一项交易，而我们仍支付该项交易时，就发生透支。您的可用余额会扣除任何“待入账”的借记卡交易（购物及自动取款机（ATM）提款），并包括依照我们的资金可用政策已经可以使用的存入款项。我们可以通过以下三种方式处理透支：",
+        "71": "银行M为美国联邦存款保险公司（FDIC）成员。"
+      }
     },
     {
       "document_number": "02",
@@ -547,16 +577,114 @@
       ],
       "content_sha256": "bf34e5e817f7c5fe123eb960f98b7c2c9c187284a861b72830fbb2a952d358a4",
       "pages": 5,
-      "pdf_sha256": "d13e641fdaa00eea923eba8a585758f42db1cd2eaec8f768cce1e2afe0f85c8d",
+      "pdf_sha256": "6143e563a5f0e218213486f02298b1f52b8bca14d14d584695fa4f2e40467bb3",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "73": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
       "rendered_text_replacements": {},
       "latex_source": "latex/08-02_透支服务资料与办理问答.tex",
-      "latex_sha256": "f8d9b6942b6da98c236aef8e75523b23345ea81e3464b193465855bc7c5c3165"
+      "latex_sha256": "eb088f37fd4529585b0f8e81d1c3abf6bd7102a246b748e758b753c5710fe846",
+      "heading_outline": [
+        {
+          "title": "透支减负服务",
+          "level": 1
+        },
+        {
+          "title": "什么是透支费？",
+          "level": 2
+        },
+        {
+          "title": "透支如何发生？",
+          "level": 2
+        },
+        {
+          "title": "账户确实透支后会发生什么？",
+          "level": 2
+        },
+        {
+          "title": "标准透支服务的自动覆盖[5]",
+          "level": 1
+        },
+        {
+          "title": "其他透支选项",
+          "level": 1
+        },
+        {
+          "title": "借记卡垫付服务*",
+          "level": 2
+        },
+        {
+          "title": "储蓄账户透支保护",
+          "level": 2
+        },
+        {
+          "title": "拒绝全部[6]",
+          "level": 2
+        },
+        {
+          "title": "账户管理工具与资源",
+          "level": 1
+        },
+        {
+          "title": "透支减负服务常见问题",
+          "level": 1
+        },
+        {
+          "title": "如果没有在宽限期内将账户余额恢复到0美元或以上，会发生什么？",
+          "level": 2
+        },
+        {
+          "title": "需要存入多少钱才能享受宽限期？",
+          "level": 2
+        },
+        {
+          "title": "一笔待入账借记卡交易使账户透支，是否已经进入宽限期？",
+          "level": 2
+        },
+        {
+          "title": "储蓄账户透支保护与宽限期如何配合？如果关联储蓄账户余额不足，会发生什么？",
+          "level": 2
+        },
+        {
+          "title": "如何知道已经获得多少次宽限期退款？退款次数是否有限制？",
+          "level": 2
+        },
+        {
+          "title": "如果在发生透支的当天将现金存入账户，会发生什么？",
+          "level": 2
+        },
+        {
+          "title": "账户连续多日透支，银行是否收取持续透支费？",
+          "level": 2
+        },
+        {
+          "title": "透支费是否适用于储蓄账户？",
+          "level": 2
+        },
+        {
+          "title": "宽限期或50美元透支门槛是否适用于储蓄账户？",
+          "level": 2
+        },
+        {
+          "title": "账户透支时是否会收到通知？",
+          "level": 2
+        },
+        {
+          "title": "重要披露",
+          "level": 1
+        },
+        {
+          "title": "宽限期说明视频文字稿",
+          "level": 1
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "75": "登记借记卡垫付服务，即表示当您账户中的可用资金不足以支付交易时，您允许我们授权并支付自动取款机（ATM）及一次性借记卡交易。每项使您的可用账户余额透支超过50美元的交易，无论通过借记卡、支票、现场提款或其他电子方式进行，均适用35美元费用；每个账户每日最多三笔费用。您有义务立即偿还透支款项。",
+        "105": "大多数支票账户¹包含标准透支服务[5]。在资金不足时，该服务可能允许自动清算所系统（ACH）付款、定期借记卡交易及个人支票继续支付，并收取35美元费用。无需登记，大多数支票账户¹自动包含此服务。"
+      }
     }
   ],
   "pdf_files": [
@@ -566,7 +694,7 @@
   "pages_definition": "各独立PDF页数之和；不存在现行合并PDF。",
   "document_manifest": "pdf_documents.json",
   "heading_levels": 3,
-  "material_sha256": "fa25dcf08baf08d136f17996cd29edcd49da9ccd9874dba0add9f1e94c1a8bee",
+  "material_sha256": "bac545d58a12bf16371fae7d4d93f7fdbcf446834727a7bbd07f2a5f70e1f1da",
   "scenario_confirmation_location": "08_TDBank_Overdraft_OptIn_Material.md — 场景信息／本次账户及办理条件",
   "document_revision": {
     "archive": "archive/before_reference_document_revision_20261006",

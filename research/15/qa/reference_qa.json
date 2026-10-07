@@ -1,28 +1,28 @@
 {
   "case": 15,
   "pages": 9,
-  "paragraphs_checked": 130,
+  "paragraphs_checked": 129,
   "missing_paragraphs": [],
   "pdf_has_text": true,
   "latex_overflow": false,
   "originals_archived": true,
   "translation_review": "not_fully_sentence_checked",
   "visual_layout_review": "passed",
-  "checked_date": "2026-10-06",
+  "checked_date": "2026-10-07",
   "participant_links_checked": true,
   "source_manifest_hashes_checked": true,
   "decision_criteria_preserved": true,
-  "material_sha256": "9f1e9949ca608adf750dac402d7c91ddc282c6a46419cf38017881f9d30caf31",
-  "notes_sha256": "7edc4f5fd21d297f70ec41f5ec0f703cc8996126851bd1d676ec5adf721da4a1",
+  "material_sha256": "aab052bdad5c6884adaf5d2626e7d60a8c2b22177d82f1a054fbe9b8ec20d0c8",
+  "notes_sha256": "6dca3777663ad89583db3c77ec2464b3f4dca084c4b075e1454eabbff0e2f40d",
   "documents": [
     {
       "document_id": "15-01",
       "pdf": "15-01_余额差额保障计划协议及披露.pdf",
       "pages": 3,
-      "text_checks": 50,
+      "text_checks": 49,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "9e347ca2ae12a269b6d03b40b7b104d6a8cc70e8e69a241f757a3af8bb023283",
+      "pdf_sha256": "6d555ceec4b195b24df6e5202c138aaff427e4ccc947848057b704bb1649ad71",
       "latex_overflow": false
     },
     {
@@ -32,13 +32,14 @@
       "text_checks": 80,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "6c2c42c9fe17f27aeab28cbbaaa1249aff907faa8a0157fb132fe26824131491",
+      "pdf_sha256": "ae8e111522f6225760553b3c05242ea6e4439f9bfc5ca5ef051aa1296b3b9b72",
       "latex_overflow": false
     }
   ],
   "independent_documents": 2,
-  "qa_status": "text_and_layout_checked",
-  "visual_review": "All document first pages inspected; chapter/topic/subtopic levels explicitly assigned and checked against generated PDF source; all seven numbered questions in 14-02 use consistent body labels; previous centered tables and removed notices preserved.",
-  "current_report": "qa/pdf_documents_qa.json",
-  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。"
+  "qa_status": "text_and_structure_checked",
+  "visual_review": "42份文书首页排版，07及15术语所在页；全部页面文本及短行自动检查",
+  "current_report": "../../qa/translation_and_residual_review.json",
+  "table_alignment_policy": "表头、短文本、数字及费率在单元格内水平和垂直居中；大段说明左对齐；取消短表头的固定换行，并约束各段末尾断行，避免末行仅余一两个字。",
+  "material_structure_report": "../../qa/material_structure_review.json"
 }

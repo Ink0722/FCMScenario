@@ -5,15 +5,18 @@
     {
       "document_id": "01-01",
       "pdf": "01-01_基金M招募说明书.pdf",
-      "pages": 31,
-      "text_checks": 875,
+      "pages": 29,
+      "text_checks": 834,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "a80ae65ccf13208c97bc22f0d448d2725ef780548ebf181fe411b64f26b9235f",
+      "pdf_sha256": "1b5693c395145697f108980f828cde6440397ae900283034db9ca3e48a74f284",
       "latex_overflow": false
     }
   ],
   "all_current_body_text_present": true,
   "decision_criteria_preserved": true,
-  "qa_status": "text_and_layout_checked"
+  "qa_status": "text_and_structure_checked",
+  "checked_date": "2026-10-07",
+  "visual_review": "42份文书首页排版，07及15术语所在页；全部页面文本及短行自动检查",
+  "current_report": "../../qa/translation_and_residual_review.json"
 }

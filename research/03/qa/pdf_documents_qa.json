@@ -9,21 +9,24 @@
       "text_checks": 38,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "752e61b0ca6fe3ffb775f7fe1644dc0f52c3363d2e01a585281ffbbebe08883b",
+      "pdf_sha256": "a1b8a29784477e31420ae29de94ec5cdef2417d0cf6a9bafa603f003c0dbfd8e",
       "latex_overflow": false
     },
     {
       "document_id": "03-02",
       "pdf": "03-02_基金F招募说明书.pdf",
-      "pages": 15,
-      "text_checks": 507,
+      "pages": 14,
+      "text_checks": 494,
       "missing": [],
       "header_and_subtitle_checked": true,
-      "pdf_sha256": "e0182b3f0bbff470ce629a85757b38bbf74ea34c8966436ef4fbe7f9370bda02",
+      "pdf_sha256": "5c402f5b11a3141e27b4bd0a6809c75507fe828149870d622abc2ed60320bc3c",
       "latex_overflow": false
     }
   ],
   "all_current_body_text_present": true,
   "decision_criteria_preserved": true,
-  "qa_status": "text_and_layout_checked"
+  "qa_status": "text_and_structure_checked",
+  "checked_date": "2026-10-07",
+  "visual_review": "42份文书首页排版，07及15术语所在页；全部页面文本及短行自动检查",
+  "current_report": "../../qa/translation_and_residual_review.json"
 }

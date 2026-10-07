@@ -264,8 +264,8 @@
   },
   "rendering": "native_xelatex",
   "pages": 7,
-  "qa_status": "text_and_layout_checked",
-  "material_sha256": "5255cc478e0e3c3f68b152fee295f58b402bf57b22b2d97341ac0cf0ea5ef32c",
+  "qa_status": "text_and_structure_checked",
+  "material_sha256": "691a12ee03bfc76c267a59bf4d15006cfa0c3a26a453fb1a3e0196e12a620bf9",
   "documents": [
     {
       "document_number": "01",
@@ -296,16 +296,36 @@
       ],
       "content_sha256": "df88d2fe4ca3e0f2c50e5aa1c01448b550321be70310a991e5b9ac22f88a8119",
       "pages": 1,
-      "pdf_sha256": "ee5856da1e0fd048edab7f840085dbdeff9f76d5734aeddb46d62981f3e6382c",
+      "pdf_sha256": "4b9ad498329855733702dbdb478e8be66575672e1563ac5810866f0449e5e333",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "你": "您"
+      },
       "latex_source": "latex/13-01_贷款机构安排的车辆保障资料.tex",
-      "latex_sha256": "d0cb3356c95b0bd47f358c1f8a8d7879ba4d333b20b8bef101d4c2d54f4c3901"
+      "latex_sha256": "04308bf198ffef529dc639efe1fd3868e65e10924b347f16a06571369de0d737",
+      "heading_outline": [
+        {
+          "title": "理解贷款机构购入的保障",
+          "level": 1
+        },
+        {
+          "title": "保单承保什么",
+          "level": 1
+        },
+        {
+          "title": "如何移除保障",
+          "level": 1
+        },
+        {
+          "title": "保持保险记录更新",
+          "level": 1
+        }
+      ]
     },
     {
       "document_number": "02",
@@ -321,12 +341,6 @@
           "level": 1
         },
         "加利福尼亚州法律": {
-          "level": 1
-        },
-        "你的汽车保单": {
-          "level": 1
-        },
-        "了解你的权利": {
           "level": 1
         },
         "汽车保险费用": {
@@ -367,6 +381,12 @@
         },
         "保障项目": {
           "level": 2
+        },
+        "您的汽车保单": {
+          "level": 1
+        },
+        "了解您的权利": {
+          "level": 1
         }
       },
       "source_ids": [
@@ -374,16 +394,90 @@
       ],
       "content_sha256": "8e5b79c45a3bf5d43da3be322d2f7dbf00877b34948c09e5bdb5bc17269a8806",
       "pages": 6,
-      "pdf_sha256": "64ff2b8373706a59ec76599b06988eb1354db496e2ba135ac0214de47e689a53",
+      "pdf_sha256": "1562cf4e21fd0acb42de26184b4dac2d63cc3e44e09ddea43facc568e9e27687",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "18": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "指南列出的保单签发后": "保单签发后",
+        "指南列出的其他证明方法": "其他财务责任证明方法",
+        "你": "您"
+      },
       "latex_source": "latex/13-02_加州汽车保险指南.tex",
-      "latex_sha256": "e71e83994390866d76204989cabd9e9f23603cb2f025c52803bd71354d3e4d8e"
+      "latex_sha256": "f36824853c41e2bcce982e1447c29f9309576cc42eb3e3abb6dede4368e86213",
+      "heading_outline": [
+        {
+          "title": "汽车保险简介",
+          "level": 1
+        },
+        {
+          "title": "加利福尼亚州法律",
+          "level": 1
+        },
+        {
+          "title": "您的汽车保单",
+          "level": 1
+        },
+        {
+          "title": "了解您的权利",
+          "level": 1
+        },
+        {
+          "title": "汽车保险费用",
+          "level": 1
+        },
+        {
+          "title": "责任保障与加州法律",
+          "level": 1
+        },
+        {
+          "title": "其他保障选项",
+          "level": 1
+        },
+        {
+          "title": "保障项目",
+          "level": 2
+        },
+        {
+          "title": "购买汽车保险",
+          "level": 1
+        },
+        {
+          "title": "填写申请",
+          "level": 2
+        },
+        {
+          "title": "与代理人或经纪人合作",
+          "level": 2
+        },
+        {
+          "title": "发生事故",
+          "level": 1
+        },
+        {
+          "title": "加州低成本汽车保险项目（CLCA）",
+          "level": 1
+        },
+        {
+          "title": "高风险驾驶记录与CAARP",
+          "level": 1
+        },
+        {
+          "title": "常用术语",
+          "level": 1
+        },
+        {
+          "title": "资源与投诉",
+          "level": 1
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "66": "公司根据申请资料决定承保及收费。资料包括车辆用途、每年里程、家庭所有车辆的年份品牌型号及车辆识别号码（VIN）、购车金额、贷款或租赁保险要求、驾驶年数、家中驾驶人的姓名年龄婚姻状况和执照号码，以及事故、保险索赔及行车违规记录。公司通常向DMV取得机动车报告；该报告包含事故、交通违规及执照暂停记录。",
+        "99": "加利福尼亚州保险部门。"
+      }
     }
   ],
   "pdf_files": [

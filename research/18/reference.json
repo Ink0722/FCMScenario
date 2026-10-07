@@ -338,8 +338,8 @@
   },
   "rendering": "native_xelatex",
   "pages": 11,
-  "qa_status": "text_and_layout_checked",
-  "material_sha256": "aa5f64a6e05c3deca3ab2281ca3d27c034e5f00438bb064ae4f4b934d52916a2",
+  "qa_status": "text_and_structure_checked",
+  "material_sha256": "4cd97dcfb5cac7b7591e9e4a7f3f43f28c730b0b2091c540c22cc9f423f562a7",
   "documents": [
     {
       "document_number": "01",
@@ -369,9 +369,6 @@
         "第六部分　协议一般法律条款": {
           "level": 1
         },
-        "第六部分续　争议解决计划——仲裁协议": {
-          "level": 1
-        },
         "账单权利": {
           "level": 2
         },
@@ -383,6 +380,9 @@
         },
         "口译员认证": {
           "level": 2
+        },
+        "争议解决计划——仲裁协议": {
+          "level": 2
         }
       },
       "source_ids": [
@@ -391,16 +391,71 @@
       ],
       "content_sha256": "429bb714a48d43338c1ed269584d38b1fbd802467f791e14ce623296683a6614",
       "pages": 7,
-      "pdf_sha256": "e3d3021506c4055004e420ba4c1086fcab2659b56d4e14a3f1501d0a44cb029e",
+      "pdf_sha256": "dcadaf03e617a51f7fafe2178ade5e25fcab94513c481e5b604c421ad5cdb6ba",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "3": "正文开头重复文书标题，文件主标题已列于页面顶部"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "你": "您",
+        "第六部分续　争议解决计划——仲裁协议": "争议解决计划——仲裁协议",
+        "可以签发姓名卡": "可以签发印有其姓名的卡片"
+      },
       "latex_source": "latex/18-01_消费者信用卡客户协议.tex",
-      "latex_sha256": "fc2780849e8eac0a2d6456da470e44c7779738d77693ab6cbe8bc48bc90a939a"
+      "latex_sha256": "fa3b5873caab88924fbc123bb89a73f08b3a7e3eec7ad8be7033674ae8532678",
+      "heading_outline": [
+        {
+          "title": "第一部分　使用账户",
+          "level": 1
+        },
+        {
+          "title": "第二部分　交易及其他账户活动",
+          "level": 1
+        },
+        {
+          "title": "第三部分　费用与利息",
+          "level": 1
+        },
+        {
+          "title": "第四部分　付款与处理",
+          "level": 1
+        },
+        {
+          "title": "第五部分　联系方式与资料",
+          "level": 1
+        },
+        {
+          "title": "第六部分　协议一般法律条款",
+          "level": 1
+        },
+        {
+          "title": "争议解决计划——仲裁协议",
+          "level": 2
+        },
+        {
+          "title": "账单权利",
+          "level": 2
+        },
+        {
+          "title": "对信用卡购买不满意的权利",
+          "level": 2
+        },
+        {
+          "title": "现役军人及家属",
+          "level": 2
+        },
+        {
+          "title": "口译员认证",
+          "level": 2
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "13": "现金预支包括自动取款机（ATM）、柜台或线上现金，赌场筹码、外币、彩票、汇票、赌博、旅行支票、电汇、数字货币、人对人转款、可兑现金凭证及透支保护预支。现金预支和余额转移不属于购买。",
+        "19": "6. 可以增加授权使用人吗？向银行提供其姓名，可以签发印有其姓名的卡片。您负责其交易及利息费用。资料可能包括姓名、地址、社会保障号码、纳税号码、出生日期及国籍，须取得本人同意。",
+        "30": "预支的年度百分比率（APR）及费用见重要条款，费用及利息可能使余额超额度。联名支票账户由其他人产生透支，您仍负责全部预支；银行可向支票账户其他持有人说明该连结，并可随时取消、暂停或改变。"
+      }
     },
     {
       "document_number": "02",
@@ -433,17 +488,44 @@
       ],
       "content_sha256": "d73b84a53689402059a83ce868f7614b11eefb4fb5f9f015304108f700012370",
       "pages": 2,
-      "pdf_sha256": "b61b3dbddfbb22826e7b8f77da358d1b968a124a98f7b72adbe9dd650fe2ced3",
+      "pdf_sha256": "71bd3aa15934cc5ee10e39d7e1690df2ebb19811156ea3d8ca95fe6877197cd1",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "113": "正文开头重复文书标题，文件主标题已列于页面顶部",
         "115": "重复文件名称或其缩写标题"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "可以签发姓名卡": "可以签发印有其姓名的卡片"
+      },
       "latex_source": "latex/18-02_日常返现卡奖励附录.tex",
-      "latex_sha256": "e8b91e9a6e591d984b8b03f77ec2a3ff23dd728b3986064540490529df8d6e94"
+      "latex_sha256": "116898581b18603f8db58df27b7e8c72b64f4453a558be96d2038a7b644c56ff",
+      "heading_outline": [
+        {
+          "title": "参加、奖励记录与限制",
+          "level": 1
+        },
+        {
+          "title": "不取得奖励的交易",
+          "level": 1
+        },
+        {
+          "title": "退货与负余额",
+          "level": 1
+        },
+        {
+          "title": "有效期与兑换",
+          "level": 1
+        },
+        {
+          "title": "修改、暂停或取消",
+          "level": 1
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "123": "自动取款机（ATM）、现金预支、汇票、预付礼品卡、旅行支票、电汇、人对人转款、透支保护预支、可接受的数字货币；余额转移及账户支票；争议或违法购买；违反本附录或账户协议的购买；年费、月费、逾期费、退回付款费以及利息；线上下注、赌场筹码、彩票和场外赌博均不取得奖励。"
+      }
     },
     {
       "document_number": "03",
@@ -479,17 +561,48 @@
       ],
       "content_sha256": "1862ea83ae93d7a1bda129c28a10710936e7c855a9d99bd852fb7a58cfb07864",
       "pages": 2,
-      "pdf_sha256": "62b1e005e2c51d8606268c1a5af4e1478573e31cf405fa83af50d4c4b9c71dcf",
+      "pdf_sha256": "5c583f2751f9fc9367135b4509f0563071f96479be7e553d4bb9058849d41ef1",
       "rendering": "native_xelatex",
-      "qa_status": "text_and_layout_checked",
+      "qa_status": "text_checked",
       "tables": [],
       "omitted_source_lines": {
         "135": "正文开头重复文书标题，文件主标题已列于页面顶部",
         "137": "重复文件名称或其缩写标题"
       },
-      "rendered_text_replacements": {},
+      "rendered_text_replacements": {
+        "可以签发姓名卡": "可以签发印有其姓名的卡片"
+      },
       "latex_source": "latex/18-03_分类积分卡奖励附录.tex",
-      "latex_sha256": "d7467aa0b4f170079551989bb986a93321f90aedfd7c2d6ec5c1445fa8327450"
+      "latex_sha256": "23334467966c67fb6358b3fb8df24f5d3ee266cd950ab88e20e6e236c12fcac9",
+      "heading_outline": [
+        {
+          "title": "积分伙伴转移",
+          "level": 1
+        },
+        {
+          "title": "参加、奖励记录与限制",
+          "level": 1
+        },
+        {
+          "title": "不取得奖励的交易",
+          "level": 1
+        },
+        {
+          "title": "退货与负余额",
+          "level": 1
+        },
+        {
+          "title": "有效期与兑换",
+          "level": 1
+        },
+        {
+          "title": "修改、暂停或取消",
+          "level": 1
+        }
+      ],
+      "rendered_source_line_overrides": {
+        "154": "自动取款机（ATM）、现金预支、汇票、预付礼品卡、旅行支票、电汇、人对人转款、透支保护预支、可接受的数字货币；余额转移及账户支票；争议或违法购买；违反本附录或账户协议的购买；年费、月费、逾期费、退回付款费以及利息；线上下注、赌场筹码、彩票和场外赌博均不取得奖励。"
+      }
     }
   ],
   "pdf_files": [

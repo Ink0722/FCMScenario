@@ -38,6 +38,10 @@ def main():
    if file and item.get('status')=='downloaded':
     source=p.parent/file;assert source.exists(),source
     if item.get('sha256'):assert hashlib.sha256(source.read_bytes()).hexdigest()==item['sha256'],source
+ from materials import load_bundle
+ bundle=load_bundle(ROOT)
+ assert len(bundle['scenarios'])==20
+ print('Shared copy and 20 canonical materials verified.')
  print('20 cases,',docs,'PDF/LaTeX pairs,',links,'local Markdown links verified; source download hashes intact.')
 
 if __name__=='__main__':main()
