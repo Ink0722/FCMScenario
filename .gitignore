@@ -12,3 +12,8 @@ __pycache__/
 *.fdb_latexmk
 *.synctex.gz
 .DS_Store
+/frontend/node_modules/
+/frontend/dist/
+/frontend/public/materials/
+/frontend/test-results/
+/frontend/playwright-report/
