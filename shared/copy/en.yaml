@@ -1,0 +1,13 @@
+source_revision: 6620beb0e1b5b3625d4527f4c05047ea0593bf605ddaf9d814171ea48103a3c4
+locale: en
+welcome: |-
+  Thank you for taking part in this study. Please read the financial decision materials carefully and make your choice based on your own understanding and considerations.
+
+  You can read the materials and talk freely with the AI assistant to help inform your decision. At the end, submit your own choice and confidence rating. The AI assistant will not make or enter the decision for you.
+choice_prompt: Your choice (select one, required)
+confidence_prompt: How confident are you in the choice you just made? (0–100, required)
+confidence_scale: 0 means not at all confident; 100 means completely confident. Rate how certain you are about your
+  choice, not the probability of making a profit.
+pre_prompt: Please make your choice based on the information currently available.
+probe_prompt: Please make your choice based on the information currently available.
+post_prompt: Please make your choice again.

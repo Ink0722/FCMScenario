@@ -1,0 +1,143 @@
+schema_version: '1.0'
+default_locale: zh-CN
+cases:
+- case_id: '01'
+  folder: 01_Fund_Shares
+  scenario_id: S-JPM-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: '02'
+  folder: 02_Annuity_Switch
+  scenario_id: S-MET-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: '03'
+  folder: 03_Retirement_Rollover
+  scenario_id: S-TIAA-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: '04'
+  folder: 04_UIT_Switch
+  scenario_id: S-MS-UIT-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: '05'
+  folder: 05_Account_Fees
+  scenario_id: S-WR-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: '06'
+  folder: 06_CD_Liquidity
+  scenario_id: S-LPL-CD-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: '07'
+  folder: 07_Student_Refinance
+  scenario_id: S-SOFI-SL-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: 08
+  folder: 08_Overdraft
+  scenario_id: S-TD-OD-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: 09
+  folder: 09_Promo_Financing
+  scenario_id: S-CC-PROMO-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: '10'
+  folder: 10_Credit_Monitoring
+  scenario_id: S-CO-CM-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: '11'
+  folder: 11_Mortgage_Points
+  scenario_id: S-AMERI-MP-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: '12'
+  folder: 12_Mortgage_Payments
+  scenario_id: S-PAY-MP-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: '13'
+  folder: 13_Auto_Insurance
+  scenario_id: S-WF-CPI-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: '14'
+  folder: 14_Loan_Pause
+  scenario_id: S-NAV-SP-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: '15'
+  folder: 15_GAP_Coverage
+  scenario_id: S-TOY-GAP-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: '16'
+  folder: 16_Auto_Investing
+  scenario_id: S-SCH-AM-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: '17'
+  folder: 17_Mortgage_Rates
+  scenario_id: S-GLO-ARM-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: '18'
+  folder: 18_Card_Rewards
+  scenario_id: S-AMX-RWD-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: '19'
+  folder: 19_Debt_Consolidation
+  scenario_id: S-LCL-DC-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify
+- case_id: '20'
+  folder: 20_Cash_Options
+  scenario_id: S-RSV-CASH-01
+  locales:
+    zh-CN:
+      file: case.zh-CN.yaml
+      legacy_mode: verify

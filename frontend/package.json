@@ -4,14 +4,16 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "materials": "python3 scripts/prepare_materials.py",
+    "materials": "python3 ../tools/run_python.py ../tools/prepare_frontend.py",
     "predev": "npm run materials",
     "dev": "vite --host 127.0.0.1 --port 5173 --strictPort",
     "prebuild": "npm run materials",
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview --host 127.0.0.1 --port 5173 --strictPort",
     "test": "tsx --test tests/*.test.ts",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "pretest": "npm run materials",
+    "check:content": "python3 ../tools/run_python.py ../tools/check_content.py"
   },
   "dependencies": {
     "react": "^19.3.0",

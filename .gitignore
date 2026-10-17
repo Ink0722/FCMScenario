@@ -17,3 +17,10 @@ __pycache__/
 /frontend/public/materials/
 /frontend/test-results/
 /frontend/playwright-report/
+/.venv/
+/backend/.venv/
+/backend/.env
+/backend/.env.*
+!/backend/.env.example
+/backend/runtime/
+/frontend/src/generated/

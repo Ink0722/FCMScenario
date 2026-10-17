@@ -1,0 +1,94 @@
+schema_version: '1.0'
+study_id: local-development
+case_locale: zh-CN
+shared_copy: shared/copy/en.yaml
+profile: shared/questionnaires/profile.zh-CN.yaml
+policy:
+  min_turns_before_end: 3
+  probe_after_turns: 2
+tasks:
+- id: task-7k3m
+  number: TASK-7K3M
+  case_id: '01'
+  probe_enabled: false
+- id: task-6h2w
+  number: TASK-6H2W
+  case_id: '02'
+  probe_enabled: false
+- id: task-3j8t
+  number: TASK-3J8T
+  case_id: '03'
+  probe_enabled: false
+- id: task-8d4l
+  number: TASK-8D4L
+  case_id: '04'
+  probe_enabled: false
+- id: task-5b9v
+  number: TASK-5B9V
+  case_id: '05'
+  probe_enabled: false
+- id: task-2r6x
+  number: TASK-2R6X
+  case_id: '06'
+  probe_enabled: false
+- id: task-9f3p
+  number: TASK-9F3P
+  case_id: '07'
+  probe_enabled: false
+- id: task-4w7h
+  number: TASK-4W7H
+  case_id: 08
+  probe_enabled: false
+- id: task-4p8r
+  number: TASK-4P8R
+  case_id: 09
+  probe_enabled: false
+- id: task-6n2c
+  number: TASK-6N2C
+  case_id: '10'
+  probe_enabled: false
+- id: task-3t9d
+  number: TASK-3T9D
+  case_id: '11'
+  probe_enabled: false
+- id: task-8m5k
+  number: TASK-8M5K
+  case_id: '12'
+  probe_enabled: false
+- id: task-2v7s
+  number: TASK-2V7S
+  case_id: '13'
+  probe_enabled: false
+- id: task-5q4b
+  number: TASK-5Q4B
+  case_id: '14'
+  probe_enabled: false
+- id: task-9l6j
+  number: TASK-9L6J
+  case_id: '15'
+  probe_enabled: false
+- id: task-7r2f
+  number: TASK-7R2F
+  case_id: '16'
+  probe_enabled: false
+- id: task-9c2n
+  number: TASK-9C2N
+  case_id: '17'
+  probe_enabled: false
+- id: task-4h8w
+  number: TASK-4H8W
+  case_id: '18'
+  probe_enabled: false
+- id: task-6s3v
+  number: TASK-6S3V
+  case_id: '19'
+  probe_enabled: false
+- id: task-2k5m
+  number: TASK-2K5M
+  case_id: '20'
+  probe_enabled: false
+- id: task-2x9q
+  number: TASK-2X9Q
+  case_id: '01'
+  probe_enabled: true
+development_codes: studies/fixtures/local-codes.yaml

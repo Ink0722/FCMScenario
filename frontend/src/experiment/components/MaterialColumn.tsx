@@ -1,3 +1,4 @@
+import { ui } from '../../app/copy';
 import { useRef, useState } from 'react';
 import type { Scenario } from '../../content/types';
 import type { ExperimentEvent } from '../../integration/contracts';
@@ -10,9 +11,9 @@ export function MaterialColumn({ scenario, taskNumber, onEvent }: {
   const scroll = useRef<HTMLDivElement>(null);
   const [active, setActive] = useState('background');
   const sections = [
-    { key: 'background', label: '情境' }, { key: 'conditions', label: '条件' }, { key: 'comparison', label: '方案' },
-    ...(scenario.additional_information.length ? [{ key: 'additional', label: '补充' }] : []),
-    { key: 'references', label: 'PDF' }, { key: 'knowledge', label: '术语' },
+    { key: 'background', label: ui.backgroundNav }, { key: 'conditions', label: ui.conditionsNav }, { key: 'comparison', label: ui.comparisonNav },
+    ...(scenario.additional_information.length ? [{ key: 'additional', label: ui.additionalNav }] : []),
+    { key: 'references', label: 'PDF' }, { key: 'knowledge', label: ui.knowledgeNav },
   ];
   const navigate = (key: string) => {
     const section = scroll.current?.querySelector<HTMLElement>(`[data-material-section="${key}"]`);
@@ -27,8 +28,8 @@ export function MaterialColumn({ scenario, taskNumber, onEvent }: {
     const current = nodes.filter(node => node.getBoundingClientRect().top <= top + 32).at(-1) ?? nodes[0];
     if (current) setActive(current.dataset.materialSection!);
   };
-  return <aside className="scenario-column" aria-label="原始场景材料">
-    <div className="column-heading"><span className="material-task-number">任务编号 <strong>{taskNumber}</strong></span><nav className="material-nav" aria-label="材料章节">{sections.map(section =>
+  return <aside className="scenario-column" aria-label={ui.materials}>
+    <div className="column-heading"><span className="material-task-number">{ui.taskNumber} <strong>{taskNumber}</strong></span><nav className="material-nav" aria-label={ui.materialSections}>{sections.map(section =>
       <button key={section.key} type="button" aria-current={active === section.key ? 'location' : undefined} onClick={() => navigate(section.key)}>{section.label}</button>
     )}</nav></div>
     <div className="scenario-scroll" ref={scroll} onScroll={updateActive}>

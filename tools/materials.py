@@ -1,6 +1,7 @@
-"""Read canonical material Markdown and shared copy; export data without a frontend.
+"""Read structured participant cases, checking their retained Markdown pairs.
 
-The source files are authoritative. JSON is a derived snapshot, never an editing source.
+Authoring sources are YAML and explicitly synchronized legacy Markdown; JSON is
+a generated runtime snapshot. See docs/content-maintenance.md for editing.
 """
 from pathlib import Path
 from urllib.parse import unquote
@@ -110,14 +111,14 @@ def load_shared(root=ROOT):
             'revision': hashlib.sha256(path.read_bytes()).hexdigest()}
 
 
-def load_case(case_id, root=ROOT):
+def load_legacy_case(case_id, root=ROOT, text_override=None):
     root = Path(root).resolve()
     index = json.loads((root / 'research/case_index.json').read_text(encoding='utf-8'))
     number = f'{int(case_id):02d}'
     row = next((r for r in index if r['number'] == number), None)
     require(row is not None, f'Unknown case: {number}')
     path = root / 'cases' / row['folder'] / 'material.md'
-    text = path.read_text(encoding='utf-8')
+    text = path.read_text(encoding='utf-8') if text_override is None else text_override
     meta = metadata(text, 'material')
     require(meta.get('case_id') == number and meta.get('scenario_id') == row['scenario_id'],
             'Material identity differs from case_index.json')
@@ -155,26 +156,33 @@ def load_case(case_id, root=ROOT):
                 'references': references, 'task': data['task'],
                 'knowledge': knowledge(data['knowledge']), 'options': options}
     scenario['source_file'] = str(path.relative_to(root))
-    scenario['revision'] = hashlib.sha256(path.read_bytes()).hexdigest()
+    scenario['revision'] = hashlib.sha256(path.read_bytes() if text_override is None else text.encode('utf-8')).hexdigest()
     return scenario
 
 
-def load_bundle(root=ROOT, case_id=None):
+def load_case(case_id, root=ROOT, locale=None):
+    from case_content import load_case as structured_case
+    return structured_case(case_id, root, locale)
+
+
+def load_bundle(root=ROOT, case_id=None, locale=None, case_ids=None):
+    from case_content import load_catalog
     root = Path(root).resolve()
-    ids = [case_id] if case_id is not None else [r['number'] for r in json.loads(
-        (root / 'research/case_index.json').read_text())]
+    require(case_id is None or case_ids is None, 'Choose case_id or case_ids, not both')
+    ids = case_ids if case_ids is not None else [case_id] if case_id is not None else [r['case_id'] for r in load_catalog(root)['cases']]
     return {'schema_version': VERSION, 'shared': load_shared(root),
-            'scenarios': [load_case(i, root) for i in ids]}
+            'scenarios': [load_case(i, root, locale) for i in ids]}
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--root', type=Path, default=ROOT)
     parser.add_argument('--case', help='Export one case, e.g. 01')
+    parser.add_argument('--locale', help='Exact case language; no silent language fallback')
     parser.add_argument('--check', action='store_true', help='Validate without exporting data')
     parser.add_argument('--output', type=Path, help='Derived JSON output; only paths under build/ are accepted')
     args = parser.parse_args()
-    bundle = load_bundle(args.root, args.case)
+    bundle = load_bundle(args.root, args.case, args.locale)
     if args.check:
         require(args.output is None, '--check does not write output')
         print(f"{len(bundle['scenarios'])} materials, "
@@ -184,7 +192,7 @@ def main():
         text = json.dumps(bundle, ensure_ascii=False, indent=2) + '\n'
         if args.output:
             dest = args.output.resolve(); build = args.root.resolve() / 'build'
-            require(build in dest.parents, 'Derived output must be under build/; edit material.md instead')
+            require(build in dest.parents, 'Derived output must be under build/; edit the case YAML and sync its retained Markdown')
             dest.parent.mkdir(parents=True, exist_ok=True); dest.write_text(text, encoding='utf-8')
             print(dest)
         else:
@@ -192,4 +200,9 @@ def main():
 
 
 if __name__ == '__main__':
+    # Preserve the existing python3 CLI when a project environment is installed.
+    import os, sys
+    local = ROOT / '.venv' / ('Scripts/python.exe' if os.name == 'nt' else 'bin/python')
+    if local.is_file() and Path(sys.prefix).resolve() != (ROOT / '.venv').resolve():
+        os.execv(str(local), [str(local), *sys.argv])
     main()

@@ -1,0 +1,34 @@
+schema_version: '1.0'
+development_only: true
+study_id: local-development
+codes:
+  FCM-2026:
+  - task-7k3m
+  - task-4p8r
+  - task-9c2n
+  FCM-SINGLE:
+  - task-6h2w
+  FCM-PROBE:
+  - task-2x9q
+  FCM-ALL:
+  - task-7k3m
+  - task-6h2w
+  - task-3j8t
+  - task-8d4l
+  - task-5b9v
+  - task-2r6x
+  - task-9f3p
+  - task-4w7h
+  - task-4p8r
+  - task-6n2c
+  - task-3t9d
+  - task-8m5k
+  - task-2v7s
+  - task-5q4b
+  - task-9l6j
+  - task-7r2f
+  - task-9c2n
+  - task-4h8w
+  - task-6s3v
+  - task-2k5m
+  FCM-EMPTY: []

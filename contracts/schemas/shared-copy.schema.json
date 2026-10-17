@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://fcm.local/contracts/shared-copy.schema.json",
+  "type": "object",
+  "properties": {
+    "source_revision": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "locale": {
+      "type": "string",
+      "minLength": 1
+    },
+    "welcome": {
+      "type": "string",
+      "minLength": 1
+    },
+    "choice_prompt": {
+      "type": "string",
+      "minLength": 1
+    },
+    "confidence_prompt": {
+      "type": "string",
+      "minLength": 1
+    },
+    "confidence_scale": {
+      "type": "string",
+      "minLength": 1
+    },
+    "pre_prompt": {
+      "type": "string",
+      "minLength": 1
+    },
+    "probe_prompt": {
+      "type": "string",
+      "minLength": 1
+    },
+    "post_prompt": {
+      "type": "string",
+      "minLength": 1
+    }
+  },
+  "required": [
+    "source_revision",
+    "locale",
+    "welcome",
+    "choice_prompt",
+    "confidence_prompt",
+    "confidence_scale",
+    "pre_prompt",
+    "probe_prompt",
+    "post_prompt"
+  ],
+  "additionalProperties": false
+}

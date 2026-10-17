@@ -1,3 +1,4 @@
+import { errors, UI_VERSION, UI_LOCALE } from '../../app/copy';
 import { useEffect, useReducer, useRef, useState } from 'react';
 import type { Decision, DecisionStage, ExperimentEvent, ExperimentGateway, Message, StartedTask } from '../../integration/contracts';
 import { reducer, stateFromStartedTask, validDecision } from '../flow/reducer';
@@ -17,19 +18,19 @@ export function useExperiment(started: StartedTask, gateway: ExperimentGateway) 
     if (lock.current) return false;
     lock.current = true; setBusy(true); setError('');
     try { await operation(); return true; }
-    catch (e) { setError(e instanceof Error ? e.message : '这次操作没能完成，请再试一次。'); return false; }
+    catch (e) { setError(e instanceof Error ? e.message : errors.operation); return false; }
     finally { lock.current = false; setBusy(false); }
   };
   const recordEvent = async (kind: ExperimentEvent['kind'], details: ExperimentEvent['details']) => {
     if (!state.session) return;
     try { await gateway.recordEvent(state.session.id, { kind, details, id: crypto.randomUUID(), timestamp: new Date().toISOString() }); }
-    catch { setError('刚才的操作记录暂时没能保存。如果反复出现，请联系研究人员协助处理。'); }
+    catch { setError(errors.eventSave); }
   };
   useEffect(() => {
-    if (state.session) void recordEvent('stage_view', { stage: state.stage });
+    if (state.session) void recordEvent('stage_view', { stage: state.stage, ui_version: UI_VERSION, ui_locale: UI_LOCALE });
   }, [state.stage, state.session?.id]);
   const saveDecision = (stage: DecisionStage, decision: Decision) => attempt(async () => {
-    if (!state.session || !validDecision(decision)) throw new Error('请完成当前判断。');
+    if (!state.session || !validDecision(decision)) throw new Error(errors.decisionRequired);
     const policy = await gateway.submitDecision(state.session.id, {
       requestId: idFor(`decision-${stage}`), stage, decision, timestamp: new Date().toISOString(),
     });

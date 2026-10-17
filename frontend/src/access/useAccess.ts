@@ -1,3 +1,4 @@
+import { errors } from '../app/copy';
 import { useEffect, useRef, useState } from 'react';
 import type { AccessGrant, ExperimentGateway, ParticipantProfile, StartedTask, TestTask } from '../integration/contracts';
 import { clearAccessCache, readAccessCache, saveAccessCache } from './storage';
@@ -38,7 +39,7 @@ export function useAccess(gateway: ExperimentGateway) {
     if (lock.current) return false;
     lock.current = true; setBusy(true); setError('');
     try { await operation(); return true; }
-    catch (e) { setError(e instanceof Error ? e.message : '这次操作没能完成，请再试一次。'); return false; }
+    catch (e) { setError(e instanceof Error ? e.message : errors.operation); return false; }
     finally { lock.current = false; setBusy(false); }
   };
   useEffect(() => {
@@ -52,7 +53,7 @@ export function useAccess(gateway: ExperimentGateway) {
         saveAccessCache({ grant, sessionId: cache.sessionId });
         await enterTasks(grant, cache.sessionId, () => active);
       } catch (e) {
-        if (active) { clearAccessCache(); setState({ stage: 'code' }); setError(e instanceof Error ? e.message : '暂时没能恢复你的任务，请重新输入测试编码。'); }
+        if (active) { clearAccessCache(); setState({ stage: 'code' }); setError(e instanceof Error ? e.message : errors.restore); }
       }
     };
     void restore();
@@ -90,7 +91,7 @@ export function useAccess(gateway: ExperimentGateway) {
   const returnToTasks = () => run(async () => {
     if (state.stage !== 'active') return;
     const current = await gateway.resumeTask(state.grant.accessToken, state.started.session.id);
-    if (current.progress.stage !== 'complete') throw new Error('请先完成当前任务。');
+    if (current.progress.stage !== 'complete') throw new Error(errors.finishCurrent);
     saveAccessCache({ grant: state.grant, sessionId: null });
     await enterTasks(state.grant);
   });

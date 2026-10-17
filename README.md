@@ -1,87 +1,66 @@
 # Financial AI Scenarios
 
-## 实验前端初版
+本项目包含金融决策案例、实验桌面前端与材料工具，后端目录已预留。现有 20 个案例已增加结构化 YAML，原 Markdown、Notes、42 份 PDF 和正式 LaTeX 全部保留原位置。
 
-`frontend/` 提供 React + TypeScript 的桌面实验界面，复用本项目材料与 PDF。输入测试编码后进入任务列表，最上方是只需填写一次的用户资料任务，完成后选择所分配的测试任务，每个任务使用独立编号；开始后固定任务，刷新恢复已提交进度，完成后可以返回列表。返回主界面前需确认，确认后丢弃未完成进度，保留编码并返回任务选择页。支持阅读与 Pre 合并、对话、可选 Probe、Post 与完成流程；用户资料独立于任务，按编码保存。Pre/Dialogue/Post 均为双栏，材料在左、决策任务在右；参与者界面不含预览或模拟提示。后端接口暂未接入，本地检查可输入 `FCM-2026` 查看三个任务。启动、材料更新与接口边界见 [frontend/README.md](frontend/README.md)。
+## 从哪里开始
 
-`cases/` 是日常使用区；`research/` 保存来源、译文底稿、生成配置和正式核对记录；`tools/` 保存共用程序；`shared/` 保存全局实验文案。历史版本集中到 `archive/`，本地保留但不纳入 Git。
+- [内容维护指南](docs/content-maintenance.md)：更新习题、案例、PDF、Profile 和实验任务。
+- [项目结构与后端边界](docs/architecture.md)：目录职责与 Case／Task／Session 区分。
+- [前端说明](frontend/README.md)：页面流程、本地运行与当前限制。
+- [案例编辑入口](cases/README.md)：新 YAML 与旧 Markdown 的双格式过渡。
+- [数据契约](contracts/README.md)：前后端中立 Schema 与生成类型。
+- [后端接入目录](backend/README.md)：后续实现位置；当前尚无真实服务。
 
-## 修改参与者材料
-
-各案例的 `material.md` 是该案例网页内容的唯一编辑源；[shared/instructions.md](shared/instructions.md) 是公共实验说明、选择题干、置信度题干和各阶段提示语的唯一编辑源。材料保留三部分：场景信息、背景知识、决策选项。Notes、原始来源、研究者答案和 Goal 不进入材料导出。
-
-直接编辑 Markdown 正文。文件首行的 `material-meta` 记录案例身份、结构版本及展示模板（`table` 或 `cards`）。`block` 注释标识背景、共同条件、A/B资料、补充资料、PDF入口、任务、背景知识及决策选项。注释不属于参与者文案；可修改中文标题，读取程序不以中文标题或章节编号定位内容。保留区块标识及其顺序。
-
-A/B资料统一使用“属性／方案A／方案B”三列表格；前端按 `template` 将同一组属性排成比较表或对称卡片。两列保持字段相同、顺序相同；相同条件集中在共同条件中，不能将未提供的条件写成“无”。列头固定为`属性`、`方案A`、`方案B`。表格内每个字段占一行，单元格中不用换行或竖线`|`；较长收费表和合同条款放入补充资料，不摘要、不省略资格和例外。调查、历史记录及条款通过 `information` 标识独立成块。参考文件只链接本案当前PDF，不手写页数。
+## 本地运行
 
 ```bash
-# 校验20份材料、公共说明、A/B结构和42个PDF入口
-python3 tools/materials.py --check
-
-# 从文件读取并输出01的完整内容数据；不改变源文件
-python3 tools/materials.py --case 01
-
-# 可选：生成供前端接入的完整快照；build/已被Git忽略
-python3 tools/materials.py --output build/materials.json
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements-tools.lock.txt
+cd frontend
+npm install
+npm run dev
 ```
 
-`tools/materials.py` 仅提供读取、校验与数据导出，没有实现网页。前端接入时应读取或监听源文件；若使用导出JSON，需要在Markdown变化后重新生成。JSON是派生快照，不是第二份手工维护的材料。静态部署需要重新构建和发布；修改本地文件不会自动改变已部署的网站。
+打开 http://127.0.0.1:5173/ ，本地开发码 FCM-2026 对应三项任务，FCM-ALL 对应全部 20 个案例。当前仍为本地 Mock，尚未部署或接入正式 Agent。
 
-数据接口顶层为 `schema_version`、`shared`、`scenarios`。每个Scenario包含：
+## 修改案例
 
-| 字段 | 内容 |
-|---|---|
-| `case_id` / `scenario_id` / `title` / `template` | 身份、标题及两类展示模板 |
-| `background` | 决策情境原文 |
-| `common_facts[]` | 共同条件；段落和原有Markdown表格完整保留 |
-| `comparison[]` | 每行含 `attribute`、`A`、`B`，同一份属性用于表格或卡片 |
-| `additional_information[]` | `kind`、`title`、`text`；收费及合同条款、调查和历史资料 |
-| `references[]` | 本案当前PDF的编号、名称和项目相对路径 |
-| `task` | 决策任务 |
-| `knowledge[]` | 金融术语标题及解释 |
-| `options[]` | `id`、`label`；只维护一处A/B名称，方案展示与三次决策复用 |
-| `source_file` / `revision` | 编辑来源及文件SHA-256，用于材料版本识别 |
-
-正文数据保留Markdown，需要前端按Markdown显示；比较资料已经拆成字段，不需要前端再猜测A/B边界。读取规则不会生成 AI 总结、计算推荐答案或预填参与者结果。
-
-阅读与Pre、Dialogue、Post必须使用同一个Scenario对象，保留背景、共同条件、比较资料、全部补充资料、背景知识、任务及PDF入口。材料展示在左栏，决策任务统一放在右栏；只允许重排布局，不因栏目名称为“补充资料”而默认排除条款。`options`供选择组件和方案名称使用，不把作答控件或任何历史答案显示在Dialogue左栏。置信度为必填整数0—100，默认值为null；Pre、Probe、Post题干从共享文件读取，三者复用同一组A/B选项。每次实验开始时冻结该Scenario和共享文案的 `revision`；文件修改供新实验使用，进行中的实验继续使用开始时的内容。
-
-公共说明在编码入口和任务选择页统一呈现，进入Scenario后直接展示材料，Dialogue左栏也不重复说明。两个入口页的说明仍从 `shared/instructions.md` 导出。公共说明文件中的选择及置信度题干分别供决策组件使用，不能将整个共享文件一次性显示在左栏。题干不包含答案字段；参与者响应由实验程序另行存储。
-
-## 修改 PDF
-
-每份 PDF 在案例目录的 `latex/` 中都有一份同名 `.tex`。该文件是正式编辑源，编译程序只读取它，不会用译文底稿覆盖你的修改。
-
-需要 XeLaTeX，以及源文件中使用的宋体（当前使用 macOS 自带 Songti）和 TeX Gyre Termes 字体。以下命令在项目根目录执行：
+推荐编辑 `cases/对应目录/case.zh-CN.yaml`，然后明确同步保留的 Markdown：
 
 ```bash
-# 编辑 cases/14_Loan_Pause/latex/14-02_失业延期还款申请.tex 后，更新这份 PDF
-python3 tools/build_pdfs.py --document 14-02
-
-# 更新某个案例的全部 PDF
-python3 tools/build_pdfs.py 14
-
-# 编译检查全部 42 份源文件，结果写入 build/，不替换正式 PDF
-python3 tools/build_pdfs.py --check
+.venv/bin/python tools/cases.py sync --case 01 --from yaml
+.venv/bin/python tools/check_content.py
 ```
 
-正式 PDF 输出到案例目录；编译检查和临时文件放在 `build/`。从原始译文和排版规则重新生成时，使用 `python3 tools/generate_drafts.py 14`；01 同样使用 `python3 tools/generate_drafts.py 1`。草稿只写入 `build/drafts/`，不会覆盖正式 `.tex` 或 PDF。核对后如要采用草稿，手工替换相应正式源文件，再编译。
+也可以继续编辑原 `material.md`，再执行 `--from markdown`。两边不一致时构建会停止，不自动覆盖；现有文件格式继续保留。新增英文内容由负责人译审，不把中文副本标为 en。
 
-修改金融事实时，同步维护 Material、Notes 和研究底稿；仅修改字号、列宽或标题格式时，编辑 `.tex` 即可。
+## 目录职责
 
-## 核对
+| 目录 | 维护内容 |
+| --- | --- |
+| frontend/ | 页面与交互、固定 UI 文案、Gateway 适配 |
+| backend/ | 后续后端代码与迁移、测试骨架 |
+| cases/ | 参与者案例与稳定目录入口，保留旧格式 |
+| shared/ | 公共说明、测量提示和独立 Profile |
+| studies/ | 实验任务配置；fixtures 仅为本地开发编码 |
+| contracts/ | 案例、问卷、实验与运行数据 Schema，生成 DTO |
+| research/ | 来源、译审、答案与核对；旧索引继续兼容 PDF 工具 |
+| tools/ | 校验、同步、打包、PDF 与类型生成 |
+| docs/ | 架构和维护指南 |
+| build/ | 生成和核对产物，不作为编辑源 |
+
+真实参与者、测试码绑定、作答和完成状态由未来后端存储，不放入案例。研究者资料不导出到参与者材料；正式服务还需实现访问控制与持久化。
+
+## 验证
 
 ```bash
+.venv/bin/python -m unittest discover -s tools/tests -v
 python3 tools/check_project.py
-swift -module-cache-path /tmp/fcm-swift-cache tools/check_case_documents.swift
-python3 tools/audit_case_documents.py
+cd frontend
+npm test
+npm run build
+npm run test:e2e
 ```
-
-后两步需要 macOS PDFKit，检查输出位于 `build/pdf_qa/`。`research/NN/qa/` 中保留正式核对记录。手工改变 PDF 内容后，原记录先标记为待复核；不得把编译成功等同于内容核对成功。
-
-## Git 忽略范围
-
-只忽略根目录及任意位置的 `archive/`、根目录 `build/` 与 `tmp/`、Python 缓存、LaTeX 编译中间文件及 `.DS_Store`。当前 PDF、正式 `.tex`、Material、Notes、原始来源、译文底稿、配置、程序和正式核对记录继续纳入 Git。不笼统忽略 PDF、JSON、图片或整个 `research/`。
 
 ## 案例
 
