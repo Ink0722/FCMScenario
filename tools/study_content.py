@@ -14,9 +14,14 @@ def load_study(root=ROOT, study_file='studies/local-development.yaml'):
         values = [task[field] for task in study['tasks']]
         if len(values) != len(set(values)):
             raise ValueError(f'Duplicate study task {field}')
+    overrides = study.get('case_locales', {})
+    assigned_cases = {task['case_id'] for task in study['tasks']}
+    if not set(overrides) <= assigned_cases:
+        raise ValueError('Case locale overrides must reference cases used by this study')
     for task in study['tasks']:
         case = known.get(task['case_id'])
-        if case is None or study['case_locale'] not in case['locales']:
+        locale = overrides.get(task['case_id'], study['case_locale'])
+        if case is None or locale not in case['locales']:
             raise ValueError(f'{task["id"]}: unknown case or unavailable locale')
     policy = study['policy']
     if policy['probe_after_turns'] > policy['min_turns_before_end']:

@@ -42,10 +42,12 @@ class PreservationTests(unittest.TestCase):
         originals = {p: p.read_bytes() for p in (ROOT / 'cases').rglob('*')
                      if p.is_file() and p.suffix in ('.md', '.pdf', '.tex')}
         bundle = prepare()
-        selected = list(dict.fromkeys(task['case_id'] for task in load_study()['tasks']))
+        study = load_study()
+        selected = list(dict.fromkeys(task['case_id'] for task in study['tasks']))
         self.assertEqual([scenario['case_id'] for scenario in bundle['scenarios']], selected)
         self.assertEqual(sum(len(s['references']) for s in bundle['scenarios']),
-                         sum(len(load_case(case_id)['references']) for case_id in selected))
+                         sum(len(load_case(case_id, locale=study.get('case_locales', {}).get(case_id, study['case_locale']))['references'])
+                             for case_id in selected))
         validate(bundle, 'runtime.schema.json')
         for scenario in bundle['scenarios']:
             self.assertFalse({'legacy_source', 'source_file', 'goal', 'answer', 'notes'} & set(scenario))
@@ -161,7 +163,44 @@ class ContentFixture(unittest.TestCase):
 
     def test_no_silent_language_fallback(self):
         with self.assertRaisesRegex(ValueError, 'fallback is disabled'):
-            load_case('01', self.root, 'en')
+            load_case('01', self.root, 'fr')
+
+    def test_case_one_english_preserves_identities_and_original_pdf(self):
+        original = load_case('01', self.root, 'zh-CN')
+        english = load_case('01', self.root, 'en')
+        for field in ('case_id', 'scenario_id', 'template', 'additional_information'):
+            self.assertEqual(original[field], english[field])
+        self.assertEqual([item['id'] for item in english['options']], ['A', 'B'])
+        self.assertEqual(english['comparison'][0]['A'], 'MX01')
+        self.assertEqual(english['comparison'][0]['B'], 'MX02')
+        self.assertEqual(len(english['common_facts']), len(original['common_facts']))
+        self.assertEqual(len(english['knowledge']), len(original['knowledge']))
+        self.assertIn('$40,000', english['background'])
+        self.assertIn('$20,000', english['common_facts'][2])
+        self.assertIn('exactly eight years', english['common_facts'][1])
+        self.assertEqual(english['references'], [
+            dict(original['references'][0], title='Fund M prospectus (01-01)'),
+            dict(original['references'][0], document_id='01-02', title='Fund M prospectus — copy (01-02)'),
+        ])
+
+    def test_explicit_case_language_override_is_checked_and_compiled(self):
+        study = read_yaml(self.root / 'studies/local-development.yaml')
+        study['tasks'] = [task for task in study['tasks'] if task['case_id'] == '01']
+        write_yaml(self.root / 'studies/local-development.yaml', study)
+        fixtures = read_yaml(self.root / 'studies/fixtures/local-codes.yaml')
+        fixtures['codes'] = {'LANGUAGE-CHECK': [study['tasks'][0]['id']]}
+        write_yaml(self.root / 'studies/fixtures/local-codes.yaml', fixtures)
+        bundle = prepare(self.root)
+        self.assertEqual(bundle['scenarios'][0]['locale'], 'en')
+        self.assertEqual(bundle['scenarios'][0]['title'], load_case('01', self.root, 'en')['title'])
+        study['case_locales']['01'] = 'fr'
+        write_yaml(self.root / 'studies/local-development.yaml', study)
+        with self.assertRaisesRegex(ValueError, 'unavailable locale'):
+            load_study(self.root)
+        study['case_locales'] = {'02': 'en'}
+        write_yaml(self.root / 'studies/local-development.yaml', study)
+        with self.assertRaisesRegex(ValueError, 'must reference cases used'):
+            load_study(self.root)
 
     def test_new_english_case_can_exist_without_a_legacy_markdown_or_research_index_entry(self):
         data = read_yaml(self.yaml_path)
@@ -180,6 +219,7 @@ class ContentFixture(unittest.TestCase):
         self.assertEqual(load_case('21', self.root, 'en')['case_id'], '21')
         self.assertFalse((base / 'material.md').exists())
         study = read_yaml(self.root / 'studies/local-development.yaml')
+        study.pop('case_locales', None)
         study.update(case_locale='en', tasks=[{'id':'task-example','number':'TASK-EXAMPLE','case_id':'21','probe_enabled':False}])
         write_yaml(self.root / 'studies/local-development.yaml', study)
         fixtures = read_yaml(self.root / 'studies/fixtures/local-codes.yaml')

@@ -8,6 +8,9 @@ cases:
     zh-CN:
       file: case.zh-CN.yaml
       legacy_mode: verify
+    en:
+      file: case.en.yaml
+      legacy_mode: none
 - case_id: '02'
   folder: 02_Annuity_Switch
   scenario_id: S-MET-01

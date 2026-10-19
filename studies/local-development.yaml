@@ -1,6 +1,8 @@
 schema_version: '1.0'
 study_id: local-development
 case_locale: zh-CN
+case_locales:
+  '01': en
 shared_copy: shared/copy/en.yaml
 profile: shared/questionnaires/profile.zh-CN.yaml
 policy:

@@ -24,7 +24,8 @@ def prepare(root=ROOT, study_file='studies/local-development.yaml'):
     shared = load_shared_copy(study, root)
     # Validated pairs must agree before any public artifact is written.
     case_ids = list(dict.fromkeys(task['case_id'] for task in study['tasks']))
-    bundle = load_bundle(root, locale=study['case_locale'], case_ids=case_ids)
+    bundle = load_bundle(root, locale=study['case_locale'], case_ids=case_ids,
+                         case_locales=study.get('case_locales'))
     bundle['shared'] = shared
     config = development_config(study, root)
     public = root / 'frontend/public/materials'

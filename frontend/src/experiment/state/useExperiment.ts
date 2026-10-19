@@ -2,13 +2,17 @@ import { errors, UI_VERSION, UI_LOCALE } from '../../app/copy';
 import { useEffect, useReducer, useRef, useState } from 'react';
 import type { Decision, DecisionStage, ExperimentEvent, ExperimentGateway, Message, StartedTask } from '../../integration/contracts';
 import { reducer, stateFromStartedTask, validDecision } from '../flow/reducer';
+import { clearDraft, clearSessionDrafts, isMessageAttempt, readDraft, sessionDraftKey, sessionDraftRevision, writeDraft } from '../../app/drafts';
 
 export function useExperiment(started: StartedTask, gateway: ExperimentGateway) {
   const [state, dispatch] = useReducer(reducer, started, stateFromStartedTask);
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState('');
   const lock = useRef(false);
-  const pendingMessage = useRef<Message | null>(null);
+  const draftRevision = sessionDraftRevision(started);
+  const keyFor = (field: string) => sessionDraftKey(started.session.id, field);
+  const [initialAttempt] = useState(() => readDraft(keyFor('message-request'), draftRevision, isMessageAttempt));
+  const pendingMessage = useRef<Message | null>(initialAttempt);
   const requestIds = useRef(new Map<string, string>());
   const idFor = (key: string) => {
     if (!requestIds.current.has(key)) requestIds.current.set(key, crypto.randomUUID());
@@ -34,6 +38,7 @@ export function useExperiment(started: StartedTask, gateway: ExperimentGateway) 
     const policy = await gateway.submitDecision(state.session.id, {
       requestId: idFor(`decision-${stage}`), stage, decision, timestamp: new Date().toISOString(),
     });
+    clearDraft(keyFor(stage));
     dispatch({ type: 'DECISION_SAVED', stage, decision, policy });
   });
   const send = (text: string) => attempt(async () => {
@@ -42,9 +47,12 @@ export function useExperiment(started: StartedTask, gateway: ExperimentGateway) 
       id: crypto.randomUUID(), role: 'user' as const, text: text.trim(), timestamp: new Date().toISOString(),
     };
     pendingMessage.current = message;
+    writeDraft(keyFor('message-request'), draftRevision, message);
     dispatch({ type: 'MESSAGE_SENT', message });
     try {
       const result = await gateway.sendMessage(state.session.id, message);
+      clearDraft(keyFor('message'));
+      clearDraft(keyFor('message-request'));
       dispatch({ type: 'MESSAGE_RECEIVED', ...result });
       pendingMessage.current = null;
     } catch (e) { dispatch({ type: 'MESSAGE_FAILED', messageId: message.id }); throw e; }
@@ -52,12 +60,15 @@ export function useExperiment(started: StartedTask, gateway: ExperimentGateway) 
   const end = () => attempt(async () => {
     if (!state.session) return;
     await gateway.endDialogue(state.session.id, idFor('end'));
+    clearDraft(keyFor('message'));
+    clearDraft(keyFor('message-request'));
     await recordEvent('dialogue_end', { user_initiated: true });
     dispatch({ type: 'DIALOGUE_ENDED' });
   });
   const complete = () => attempt(async () => {
     if (!state.session || state.stage !== 'finishing') return;
     const result = await gateway.completeSession(state.session.id, idFor('complete'));
+    clearSessionDrafts(state.session.id);
     dispatch({ type: 'COMPLETED', receipt: result.receipt });
   });
   useEffect(() => {

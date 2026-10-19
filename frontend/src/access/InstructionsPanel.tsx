@@ -9,6 +9,6 @@ export function InstructionsPanel({ resource, compact = false }: { resource: Ins
   </>;
   return <section className={`surface entry-instructions${compact ? ' compact-instructions' : ''}`} aria-label={ui.instructions} aria-busy={resource.loading}>
     {compact ? <details open={resource.error || resource.loading ? true : undefined}><summary>{ui.instructions}<span aria-hidden="true">{ui.instructionsHint}</span></summary><div className="instructions-content">{content}</div></details>
-      : <><span className="eyebrow">{ui.profileLabel}</span><h2>{ui.instructions}</h2>{content}</>}
+      : <><h2>{ui.instructions}</h2>{content}</>}
   </section>;
 }

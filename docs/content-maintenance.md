@@ -56,7 +56,15 @@ YAML 中 `legacy_source` 是同步工具维护的上次对齐记录，正常编�
 2. 在 `cases/catalog.yaml` 增加稳定 case_id、scenario_id、目录和语言入口。原案例的英文版与中文版使用同一 case_id 和稳定选项／比较项 ID；不要把中文内容标记为 en。
 3. 原 20 例继续保留 verify 配对。新 case 或新增英文语言可以用 `legacy_mode: none`，不要求人为生成一份旧中文 Markdown。
 4. 在 `studies/对应实验.yaml` 的 tasks 中引用 case_id，使用独立稳定任务编号。需要本地编码验证时，在对应 fixtures 文件中加入任务 ID。
-5. 运行内容检查与材料编译。当前本地方案 case_locale 是 zh-CN；要运行英文 case，需创建或调整明确的英文实验配置，所有引用任务都必须有英文版本。
+5. 运行内容检查与材料编译。`case_locale` 指定实验默认案例语言；可用 `case_locales` 按案例明确覆盖。当前本地配置默认 `zh-CN`，仅 Case 01 明确选择 `en`，方便逐个检查译文。所有引用任务都必须具有所指定的语言。
+
+```yaml
+case_locale: zh-CN
+case_locales:
+  '01': en
+```
+
+查看当前 Case 01 英文网页可使用本地测试码 `FCM-EN`。英文内容源为 `cases/01_Fund_Shares/case.en.yaml`，它不与中文 `material.md` 执行双格式同步；中文原配对继续保持 verify。PDF 暂保留中文。同一案例的所有任务使用该实验中指定的同一语言，不按任务悄悄切换。
 
 程序不会静默回退语言。未纳入当前实验的已登记案例不会自动开放给参与者；前端打包只包含该实验 tasks 引用的案例。
 

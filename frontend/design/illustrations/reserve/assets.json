@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-18",
+  "generation_mode": "built-in image_gen",
+  "status": "filed-notes used in Profile from UI 0.6.1; three remaining illustrations in reserve",
+  "files": {
+    "originals/quiet-reading.png": {
+      "sha256": "fd7c67fd1b00c21de1f740f91ccb083679a3436b88172b8e80eb54e63c15e826",
+      "bytes": 2217282,
+      "width": 1536,
+      "height": 1024,
+      "has_alpha": true
+    },
+    "web/quiet-reading.webp": {
+      "sha256": "77d56a47b9ed01244ed25e7f77aa3120e3a44b672cdc90b4a86eceaea422504d",
+      "bytes": 220500,
+      "width": 1536,
+      "height": 1024,
+      "has_alpha": true
+    },
+    "originals/comparing-notes.png": {
+      "sha256": "5522e0c1766f9a3116fdbdde2d56666035e0052590be6cd009c777caee224b0c",
+      "bytes": 2245120,
+      "width": 1536,
+      "height": 1024,
+      "has_alpha": true
+    },
+    "web/comparing-notes.webp": {
+      "sha256": "6cb35d6ce74123768735b37152e9d44493d4d8fdac89e58002dc994f5401099d",
+      "bytes": 235492,
+      "width": 1536,
+      "height": 1024,
+      "has_alpha": true
+    },
+    "originals/conversation-notes.png": {
+      "sha256": "4672c9a1e39092bbcac2623fd334f44ee8759ddf8877bbac7b15d168687dff62",
+      "bytes": 2273871,
+      "width": 1536,
+      "height": 1024,
+      "has_alpha": true
+    },
+    "web/conversation-notes.webp": {
+      "sha256": "76f69fe51fcbf51242bc74d1c98c9a31e18a751f1ffc5b182def816c3b666208",
+      "bytes": 229668,
+      "width": 1536,
+      "height": 1024,
+      "has_alpha": true
+    },
+    "originals/filed-notes.png": {
+      "sha256": "96e5493f3435bda2df0cba4d37268b6375bfc751e19c9cb3cda88e98a3fcd87e",
+      "bytes": 2449551,
+      "width": 1536,
+      "height": 1024,
+      "has_alpha": true
+    },
+    "web/filed-notes.webp": {
+      "sha256": "6acd83b77dccd4c44dc13438276f9c9de25ed4674ed9da88cf0a606f11fb8b73",
+      "bytes": 282948,
+      "width": 1536,
+      "height": 1024,
+      "has_alpha": true
+    }
+  }
+}

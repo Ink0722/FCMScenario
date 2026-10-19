@@ -12,14 +12,17 @@ import { DecisionScreen } from '../experiment/screens/DecisionScreen';
 import { DialogueScreen } from '../experiment/screens/DialogueScreen';
 import { ExperimentHeader, SiteHeader } from './ExperimentLayout';
 import { ReturnHomeDialog } from './ReturnHomeDialog';
+import { sessionDraftRevision } from './drafts';
+import { StudyIllustration } from './StudyIllustration';
 
 export function App() {
   const gateway = useMemo(() => createMockGateway(), []);
   const access = useAccess(gateway);
   const instructions = useInstructions(gateway);
+  useEffect(() => { window.scrollTo(0, 0); }, [access.state.stage]);
   if (access.state.stage === 'loading') return <><SiteHeader /><main id="main-content" className="load-screen" role="status"><h1>{ui.preparing}</h1></main></>;
   if (access.state.stage === 'code') return <CodeScreen busy={access.busy} error={access.error} onSubmit={access.verifyCode} instructions={instructions} />;
-  if (access.state.stage === 'profile') return <ProfileScreen profile={access.state.profile} busy={access.busy} error={access.error} onSubmit={access.submitProfile} onReturnToTasks={access.returnFromProfile} />;
+  if (access.state.stage === 'profile') return <ProfileScreen testCode={access.state.grant.testCode} profile={access.state.profile} busy={access.busy} error={access.error} onSubmit={access.submitProfile} onReturnToTasks={access.returnFromProfile} />;
   if (access.state.stage === 'tasks') return <TaskSelectionScreen testCode={access.state.grant.testCode} tasks={access.state.tasks} profileComplete={access.state.profile.answers !== null} onOpenProfile={access.openProfile} busy={access.busy} error={access.error} onStart={access.start} onChangeCode={access.changeCode} instructions={instructions} />;
   return <div className="app-shell"><Experiment key={access.state.started.session.id} started={access.state.started} gateway={gateway}
     entryBusy={access.busy} entryError={access.error} onReturnToTasks={access.returnToTasks} onReturnHome={access.returnHome} /></div>;
@@ -36,8 +39,10 @@ function Experiment({ started, gateway, entryBusy, entryError, onReturnToTasks, 
   return <><ExperimentHeader stage={state.stage} busy={busy || entryBusy || state.dialogueStatus === 'confirm'}
     onReturnHome={() => { if (state.stage === 'complete') void onReturnHome(); else setConfirmReturn(true); }} />
     {(state.stage === 'pre' || state.stage === 'post') && <DecisionScreen key={state.stage} stage={state.stage} scenario={scenario} shared={shared} taskNumber={task.number}
+      sessionId={started.session.id} draftRevision={sessionDraftRevision(started)}
       busy={busy} error={error} onSubmit={d => { void saveDecision(state.stage === 'pre' ? 'pre' : 'post', d); }} onEvent={recordEvent} />}
     {state.stage === 'dialogue' && <DialogueScreen scenario={scenario} shared={shared} taskNumber={task.number} state={state} busy={busy} error={error}
+      sessionId={started.session.id} draftRevision={sessionDraftRevision(started)}
       send={send} saveProbe={d => { void saveDecision('probe', d); }} end={() => { void end(); }}
       confirmEnd={() => dispatch({ type: 'CONFIRM_END' })} cancelEnd={() => dispatch({ type: 'CANCEL_END' })} onEvent={recordEvent} />}
     {!workspace && <main id="main-content" className="page-main focused-page">
@@ -45,7 +50,7 @@ function Experiment({ started, gateway, entryBusy, entryError, onReturnToTasks, 
         <span className="task-number">{ui.taskNumber} {task.number}</span><h1 ref={heading} tabIndex={-1}>{error ? ui.finishRetry : ui.finishing}</h1>
         {error && <><p>{ui.finishRetryText}</p><div className="error-message" role="alert">{error}</div><button className="button primary" disabled={busy} onClick={() => { void complete(); }}>{ui.retry}</button></>}
       </section>}
-      {state.stage === 'complete' && <section className="surface completion"><div className="completion-symbol" aria-hidden="true">✓</div>
+      {state.stage === 'complete' && <section className="surface completion"><StudyIllustration variant="reading" className="completion-illustration" /><div className="completion-symbol" aria-hidden="true">✓</div>
         <span className="task-number">{ui.taskNumber} {task.number}</span><h1 ref={heading} tabIndex={-1}>{ui.taskComplete}</h1><p>{ui.taskThanks}</p><p>{ui.completionNext}</p>
         <button className="button secondary completion-return" disabled={entryBusy} onClick={onReturnToTasks}>{entryBusy ? ui.returning : ui.back}</button>
         {entryError && <div className="error-message" role="alert">{entryError}</div>}

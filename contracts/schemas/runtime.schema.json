@@ -276,6 +276,10 @@
         "confidence_scale": {
           "type": "string"
         },
+        "confidence_notes": {
+          "type": "string",
+          "minLength": 1
+        },
         "pre_prompt": {
           "type": "string"
         },
@@ -367,6 +371,16 @@
         },
         "probeRequired": {
           "type": "boolean"
+        },
+        "minTurnsBeforeEnd": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Minimum completed user-message/assistant-reply exchanges required before ending."
+        },
+        "completedTurns": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Completed user-message/assistant-reply exchanges; the opening message is excluded."
         }
       },
       "required": [

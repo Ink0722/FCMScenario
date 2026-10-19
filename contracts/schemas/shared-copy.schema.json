@@ -27,6 +27,11 @@
       "type": "string",
       "minLength": 1
     },
+    "confidence_notes": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Optional interpretation and neutral response guidance shown after the confidence input. When present, confidence_scale is shown before the input."
+    },
     "pre_prompt": {
       "type": "string",
       "minLength": 1

@@ -2,6 +2,7 @@ import { errors } from '../app/copy';
 import { useEffect, useRef, useState } from 'react';
 import type { AccessGrant, ExperimentGateway, ParticipantProfile, StartedTask, TestTask } from '../integration/contracts';
 import { clearAccessCache, readAccessCache, saveAccessCache } from './storage';
+import { clearDraft, clearSessionDrafts, profileDraftKey, reconcileSessionDrafts } from '../app/drafts';
 
 type AccessState = { stage: 'loading' } | { stage: 'code' }
   | { stage: 'profile'; grant: AccessGrant; profile: ParticipantProfile; sessionId: string | null }
@@ -18,12 +19,17 @@ export function useAccess(gateway: ExperimentGateway) {
     return requestIds.current.get(key)!;
   };
   const activate = (grant: AccessGrant, started: StartedTask) => {
+    reconcileSessionDrafts(started);
     saveAccessCache({ grant, sessionId: started.session.id });
     setState({ stage: 'active', grant, started });
   };
-  const enterTasks = async (grant: AccessGrant, sessionId: string | null = null, active = () => true) => {
+  const enterTasks = async (grant: AccessGrant, sessionId: string | null = null, active = () => true, restoreProfile = false) => {
     const [profile, tasks] = await Promise.all([gateway.getParticipantProfile(grant.accessToken), gateway.getTasks(grant.accessToken)]);
     if (!active()) return;
+    if (restoreProfile && profile.answers === null) {
+      setState({ stage: 'profile', grant, profile, sessionId });
+      return;
+    }
     if (profile.answers !== null && sessionId) {
       const started = await gateway.resumeTask(grant.accessToken, sessionId);
       if (active()) activate(grant, started);
@@ -50,8 +56,8 @@ export function useAccess(gateway: ExperimentGateway) {
       try {
         const grant = await gateway.getAccessGrant(cache.grant.accessToken);
         if (!active) return;
-        saveAccessCache({ grant, sessionId: cache.sessionId });
-        await enterTasks(grant, cache.sessionId, () => active);
+        saveAccessCache({ grant, sessionId: cache.sessionId, view: cache.view });
+        await enterTasks(grant, cache.sessionId, () => active, cache.view === 'profile');
       } catch (e) {
         if (active) { clearAccessCache(); setState({ stage: 'code' }); setError(e instanceof Error ? e.message : errors.restore); }
       }
@@ -68,15 +74,20 @@ export function useAccess(gateway: ExperimentGateway) {
   const openProfile = () => {
     if (state.stage !== 'tasks' || lock.current || state.profile.answers !== null) return;
     setError('');
+    saveAccessCache({ grant: state.grant, sessionId: state.sessionId, view: 'profile' });
     setState({ stage: 'profile', grant: state.grant, profile: state.profile, sessionId: state.sessionId });
   };
   const returnFromProfile = () => run(async () => {
     if (state.stage !== 'profile') return;
     await enterTasks(state.grant, state.sessionId);
+    clearDraft(profileDraftKey(state.grant.testCode));
+    saveAccessCache({ grant: state.grant, sessionId: state.sessionId });
   });
   const submitProfile = (answers: Record<string, string>) => run(async () => {
     if (state.stage !== 'profile') return;
     await gateway.submitProfile(state.grant.accessToken, idFor(`profile-${state.grant.accessToken}`), answers);
+    clearDraft(profileDraftKey(state.grant.testCode));
+    saveAccessCache({ grant: state.grant, sessionId: state.sessionId });
     await enterTasks(state.grant, state.sessionId);
   });
   const start = (taskId: string) => run(async () => {
@@ -99,6 +110,7 @@ export function useAccess(gateway: ExperimentGateway) {
     if (state.stage !== 'active') return;
     const id = state.started.session.id;
     await gateway.abandonTask(state.grant.accessToken, id, idFor(`abandon-${id}`));
+    clearSessionDrafts(id);
     saveAccessCache({ grant: state.grant, sessionId: null });
     requestIds.current.clear();
     await enterTasks(state.grant);

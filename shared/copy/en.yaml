@@ -1,13 +1,32 @@
 source_revision: 6620beb0e1b5b3625d4527f4c05047ea0593bf605ddaf9d814171ea48103a3c4
 locale: en
 welcome: |-
-  Thank you for taking part in this study. Please read the financial decision materials carefully and make your choice based on your own understanding and considerations.
+  Please read these instructions and the steps below carefully before you begin.\
+  In each task, you’ll make a hypothetical financial decision with help from an AI assistant.
 
-  You can read the materials and talk freely with the AI assistant to help inform your decision. At the end, submit your own choice and confidence rating. The AI assistant will not make or enter the decision for you.
-choice_prompt: Your choice (select one, required)
-confidence_prompt: How confident are you in the choice you just made? (0–100, required)
-confidence_scale: 0 means not at all confident; 100 means completely confident. Rate how certain you are about your
-  choice, not the probability of making a profit.
-pre_prompt: Please make your choice based on the information currently available.
-probe_prompt: Please make your choice based on the information currently available.
-post_prompt: Please make your choice again.
+  Please make each choice based on **your own judgment at that moment**.
+
+  - Your final choice may stay the same or change; there is no expectation either way.
+  - Talk with the AI naturally, as you would when seeking help with a decision.
+  - Use **only the study materials and your conversation with the study AI assistant**. Do not consult external websites, search engines, other AI systems, or other people.
+
+  The scenarios and AI responses are for research only, not professional financial advice.\
+  The study may include **several tasks**. Each task takes approximately **12–15 minutes**.
+
+choice_prompt: Your choice
+confidence_prompt: How confident are you in your current choice?
+confidence_scale: |-
+  Based on the information available to you at this moment, rate **how certain you feel about the option you have chosen**.
+
+  Enter **any whole number from 0 to 100**.
+
+  - **0 = Not at all confident**
+  - **50 = Moderately confident**
+  - **100 = Completely confident**
+confidence_notes: |-
+  This is a rating of your certainty, not a percentage estimate of whether your choice is objectively correct or will achieve a particular financial outcome.
+
+  There is no preferred confidence level.
+pre_prompt: Choose an option based on the information available to you.
+probe_prompt: Choose an option based on the information available to you.
+post_prompt: Please make your final choice.

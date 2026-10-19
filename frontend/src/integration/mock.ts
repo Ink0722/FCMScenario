@@ -1,4 +1,4 @@
-import { UI_VERSION, UI_LOCALE, errors } from '../app/copy';
+import { UI_VERSION, UI_LOCALE, errors, ui } from '../app/copy';
 import { loadExperimentInstructions, loadMaterials } from '../content/load';
 import type { MaterialBundle } from '../content/types';
 import { previewQuestions } from '../questionnaire/config';
@@ -6,7 +6,8 @@ import study from '../generated/study.json';
 import type { AccessGrant, DecisionSubmission, DialoguePolicy, ExperimentEvent, ExperimentGateway, StartedTask, TestTask } from './contracts';
 
 const pause = () => new Promise<void>(resolve => setTimeout(resolve, 350));
-const databaseKey = 'fcm.mock-service.v2';
+export const mockDatabaseKey = 'fcm.mock-service.v2';
+export const mockResetEpochKey = 'fcm.dev.reset-epoch.v1';
 interface TaskDefinition { id: string; number: string; caseId: string; probeEnabled: boolean }
 const taskCatalog: TaskDefinition[] = study.tasks;
 const taskById = new Map(taskCatalog.map(task => [task.id, task]));
@@ -25,7 +26,7 @@ interface SessionRecord {
   repliesByRequest: Record<string, { message: StartedTask['session']['initialMessage']; policy: DialoguePolicy }>;
   events: ExperimentEvent[];
 }
-interface Database {
+export interface MockDatabase {
   grants: Record<string, GrantRecord>; sessions: Record<string, SessionRecord>;
   starts: Record<string, string>; abandoned: Record<string, string>;
   profiles: Record<string, { answers: Record<string, string>; submittedAt: string }>;
@@ -35,8 +36,9 @@ interface Database {
 // It is not authorization: the HTTP implementation must enforce ownership,
 // expiration, task availability, locking and idempotency on the server.
 export function createMockGateway(materialLoader: () => Promise<MaterialBundle> = loadMaterials): ExperimentGateway {
-  let database: Database;
-  try { database = JSON.parse(sessionStorage.getItem(databaseKey) ?? 'null') ?? { grants: {}, sessions: {}, starts: {}, abandoned: {}, profiles: {} }; }
+  const resetEpoch = import.meta.env?.DEV ? sessionStorage.getItem(mockResetEpochKey) : null;
+  let database: MockDatabase;
+  try { database = JSON.parse(sessionStorage.getItem(mockDatabaseKey) ?? 'null') ?? { grants: {}, sessions: {}, starts: {}, abandoned: {}, profiles: {} }; }
   catch { database = { grants: {}, sessions: {}, starts: {}, abandoned: {}, profiles: {} }; }
   database.abandoned ??= {};
   database.profiles ??= {};
@@ -52,13 +54,18 @@ export function createMockGateway(materialLoader: () => Promise<MaterialBundle> 
     delete progress.profileAnswers;
     delete legacy.profileSubmitted;
   }
-  sessionStorage.setItem(databaseKey, JSON.stringify(database));
+  sessionStorage.setItem(mockDatabaseKey, JSON.stringify(database));
   let materialsPromise: Promise<MaterialBundle> | null = null;
   const materials = () => {
     materialsPromise ??= materialLoader().catch(error => { materialsPromise = null; throw error; });
     return materialsPromise;
   };
-  const save = () => sessionStorage.setItem(databaseKey, JSON.stringify(database));
+  const save = () => {
+    // An older in-flight request must not restore data after a development reset.
+    if (import.meta.env?.DEV && sessionStorage.getItem(mockResetEpochKey) !== resetEpoch)
+      throw new Error('Local test data was reset. Reload this page before continuing.');
+    sessionStorage.setItem(mockDatabaseKey, JSON.stringify(database));
+  };
   const grantFor = (token: string) => {
     const grant = database.grants[token];
     if (!grant || Date.parse(grant.expiresAt) <= Date.now()) throw new Error(errors.codeInactive);
@@ -73,6 +80,8 @@ export function createMockGateway(materialLoader: () => Promise<MaterialBundle> 
   const policyFor = (record: SessionRecord): DialoguePolicy => ({
     canEnd: record.completedTurns >= study.policy.minTurnsBeforeEnd,
     probeRequired: record.probeEnabled && !record.probeDone && record.completedTurns >= study.policy.probeAfterTurns,
+    minTurnsBeforeEnd: study.policy.minTurnsBeforeEnd,
+    completedTurns: record.completedTurns,
   });
   const snapshot = (record: SessionRecord) => {
     record.started.session.policy = policyFor(record);
@@ -154,7 +163,7 @@ export function createMockGateway(materialLoader: () => Promise<MaterialBundle> 
         started: { task: { ...task, status: 'in_progress' }, scenario: structuredClone(scenario), shared: structuredClone(bundle.shared), bundleRevision: bundle.bundle_revision,
           session: { id, taskId: task.id, taskNumber: task.number, scenarioRevision: scenario.revision, sharedRevision: bundle.shared.revision, uiVersion: UI_VERSION, uiLocale: UI_LOCALE,
             policy: { canEnd: false, probeRequired: false }, initialMessage: { id: crypto.randomUUID(), role: 'assistant', timestamp: new Date().toISOString(),
-              text: 'You can ask about the conditions in the materials or share what you are considering. We can discuss them one at a time.' } },
+              text: ui.dialogueOpening } },
           progress: { stage: 'pre', dialogueStatus: 'ready', messages: [], decisions: {}, receipt: '' } },
       };
       database.sessions[id] = record; database.starts[`${token}:${requestId}`] = id; grant.activeSessionId = id; save();
@@ -201,9 +210,9 @@ export function createMockGateway(materialLoader: () => Promise<MaterialBundle> 
         throw new Error(errors.probeFirst);
       record.completedTurns++;
       const texts = [
-        'You can refer to the specific conditions in the materials on the left. Common terms are listed separately, and differences appear in the option details. You can also open the reference documents for contract details.',
-        'You can compare the eligibility conditions, fees and timing of the two options, then consider which factors matter to you. If a passage is unclear, you can share the original wording here.',
-        'The final choice is yours. You can discuss anything that remains unclear, or end the conversation when you have enough information and make your final choice independently.',
+        'The materials on the left include the conditions for this task. The reference documents give the contract details.',
+        'If a passage is unclear, paste it here so we can look at the wording.',
+        'Is there anything else you would like to check? You can keep talking or move on to your final choice.',
       ];
       const result = { message: { id: crypto.randomUUID(), role: 'assistant' as const, timestamp: new Date().toISOString(), text: texts[(record.completedTurns - 1) % texts.length] }, policy: policyFor(record) };
       record.repliesByRequest[message.id] = result;

@@ -1,7 +1,7 @@
 import type { AccessGrant } from '../integration/contracts';
 
 const key = 'fcm.access.v1';
-export interface AccessCache { grant: AccessGrant; sessionId: string | null }
+export interface AccessCache { grant: AccessGrant; sessionId: string | null; view?: 'profile' }
 export function readAccessCache(): AccessCache | null {
   try {
     const value = JSON.parse(sessionStorage.getItem(key) ?? 'null');

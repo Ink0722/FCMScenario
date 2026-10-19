@@ -2,6 +2,8 @@ schema_version: '1.0'
 development_only: true
 study_id: local-development
 codes:
+  FCM-EN:
+  - task-7k3m
   FCM-2026:
   - task-7k3m
   - task-4p8r

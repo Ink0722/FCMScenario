@@ -165,13 +165,13 @@ def load_case(case_id, root=ROOT, locale=None):
     return structured_case(case_id, root, locale)
 
 
-def load_bundle(root=ROOT, case_id=None, locale=None, case_ids=None):
+def load_bundle(root=ROOT, case_id=None, locale=None, case_ids=None, case_locales=None):
     from case_content import load_catalog
     root = Path(root).resolve()
     require(case_id is None or case_ids is None, 'Choose case_id or case_ids, not both')
     ids = case_ids if case_ids is not None else [case_id] if case_id is not None else [r['case_id'] for r in load_catalog(root)['cases']]
     return {'schema_version': VERSION, 'shared': load_shared(root),
-            'scenarios': [load_case(i, root, locale) for i in ids]}
+            'scenarios': [load_case(i, root, (case_locales or {}).get(i, locale)) for i in ids]}
 
 
 def main():

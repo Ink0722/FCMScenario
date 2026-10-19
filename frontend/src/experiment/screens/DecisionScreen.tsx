@@ -5,13 +5,14 @@ import type { Decision, ExperimentEvent } from '../../integration/contracts';
 import { DecisionPanel } from '../components/DecisionPanel';
 import { MaterialColumn } from '../components/MaterialColumn';
 import { TaskPanel } from '../components/TaskPanel';
+import { sessionDraftKey } from '../../app/drafts';
 
 interface Props {
-  stage: 'pre' | 'post'; scenario: Scenario; shared: SharedCopy; taskNumber: string; busy: boolean; error: string;
+  stage: 'pre' | 'post'; sessionId: string; draftRevision: string; scenario: Scenario; shared: SharedCopy; taskNumber: string; busy: boolean; error: string;
   onSubmit: (decision: Decision) => void;
   onEvent: (kind: ExperimentEvent['kind'], details: ExperimentEvent['details']) => void;
 }
-export function DecisionScreen({ stage, scenario, shared, taskNumber, busy, error, onSubmit, onEvent }: Props) {
+export function DecisionScreen({ stage, sessionId, draftRevision, scenario, shared, taskNumber, busy, error, onSubmit, onEvent }: Props) {
   const heading = useRef<HTMLHeadingElement>(null);
   const [actionsTarget, setActionsTarget] = useState<HTMLDivElement | null>(null);
   useEffect(() => { heading.current?.focus({ preventScroll: true }); }, []);
@@ -22,6 +23,7 @@ export function DecisionScreen({ stage, scenario, shared, taskNumber, busy, erro
       <div className="decision-scroll"><div className="decision-content">
         <TaskPanel task={scenario.task} />
         <DecisionPanel scenario={scenario} shared={shared} prompt={stage === 'pre' ? shared.pre_prompt : shared.post_prompt}
+          draftKey={sessionDraftKey(sessionId, stage)} draftRevision={draftRevision}
           busy={busy} onSubmit={onSubmit} actionsTarget={actionsTarget} buttonLabel={stage === 'pre' ? ui.saveInitial : ui.saveFinal} />
         {error && <div className="error-message" role="alert">{error}</div>}
       </div></div>

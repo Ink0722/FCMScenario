@@ -6,7 +6,7 @@ export type Question = { id: string; title: string; required: boolean; options: 
 
 export type Scenario = { case_id: string; scenario_id: string; locale?: string; title: string; template: "table" | "cards"; background: string; common_facts: Array<string>; comparison: Array<{ attribute: string; A: string; B: string }>; additional_information: Array<{ kind: "terms" | "survey" | "history"; title: string; text: string }>; references: Array<{ document_id: string; title: string; url: string; revision: string }>; task: string; knowledge: Array<{ title: string; text: string }>; options: Array<{ id: Choice; label: string }>; revision: string };
 
-export type SharedCopy = { locale?: string; source_revision?: string; welcome: string; choice_prompt: string; confidence_prompt: string; confidence_scale: string; pre_prompt: string; probe_prompt: string; post_prompt: string; revision: string };
+export type SharedCopy = { locale?: string; source_revision?: string; welcome: string; choice_prompt: string; confidence_prompt: string; confidence_scale: string; confidence_notes?: string; pre_prompt: string; probe_prompt: string; post_prompt: string; revision: string };
 
 export type Decision = { choice: Choice; confidence: number };
 
@@ -14,7 +14,7 @@ export type DecisionStage = "pre" | "probe" | "post";
 
 export type Message = { id: string; role: "assistant" | "user"; text: string; timestamp: string };
 
-export type DialoguePolicy = { canEnd: boolean; probeRequired: boolean };
+export type DialoguePolicy = { canEnd: boolean; probeRequired: boolean; minTurnsBeforeEnd?: number; completedTurns?: number };
 
 export type ExperimentStage = "pre" | "dialogue" | "post" | "finishing" | "complete";
 

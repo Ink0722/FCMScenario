@@ -1,0 +1,27 @@
+{
+  "ui_version": "0.6.1",
+  "files": {
+    "design/illustrations/reading-watercolor.png": {
+      "sha256": "cb2d48ffddbbb6c212f3980400b4feb9a849b6f61be408ea681018528d5ada8c",
+      "bytes": 2002935
+    },
+    "design/illustrations/task-folder-watercolor.png": {
+      "sha256": "2bb7b02c8c464fd7e28cba8a4c880ff9aada9bac87cfc70bae7132de6c9974b7",
+      "bytes": 2134737
+    },
+    "public/illustrations/reading-watercolor.webp": {
+      "sha256": "79a0e519ce962b69e1c061d754a031a1ad328a76a34cf9c5dbc3742069bb6589",
+      "bytes": 190414
+    },
+    "public/illustrations/task-folder-watercolor.webp": {
+      "sha256": "d5341390bceee5e885df46f03eac0a0622bd311292c031f086e7f64ced8d1cd8",
+      "bytes": 195808
+    },
+    "public/illustrations/filed-notes-watercolor.webp": {
+      "sha256": "6acd83b77dccd4c44dc13438276f9c9de25ed4674ed9da88cf0a606f11fb8b73",
+      "bytes": 282948,
+      "source": "design/illustrations/reserve/web/filed-notes.webp",
+      "introduced_ui_version": "0.6.1"
+    }
+  }
+}
