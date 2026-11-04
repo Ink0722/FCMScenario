@@ -16,6 +16,8 @@ python -m pip install -r requirements.txt
 | 要修改什么 | 编辑源 |
 | --- | --- |
 | 某个 case 的题干、背景、条件、比较信息、术语 | `cases/对应目录/case.zh-CN.yaml`，或经译审的 `case.en.yaml` |
+| FinDRIFT 新案例的生成流程 | `docs/case-authoring.md` |
+| FinDRIFT 新案例的 Ground Truth、taxonomy、来源与审核 | `research/templates/case.yaml` 及对应研究者记录 |
 | 当前案例清单与语言 | `cases/catalog.yaml` |
 | 某项实验开放哪些任务、引用哪个 case | `studies/local-development.yaml` 或其他实验 YAML |
 | 本地测试码对应哪些任务 | `studies/fixtures/local-codes.yaml`，仅开发用 |
@@ -50,13 +52,28 @@ YAML 中 `legacy_source` 是同步工具维护的上次对齐记录，正常编�
 
 旧 Markdown 比较表不能容纳单元格内竖线和换行。YAML 虽能表达更复杂文本，verify 模式同步遇到此类内容会明确拒绝，不删字或猜测转义。新语言或新案例可使用没有旧格式配对的 none 模式。
 
-## 添加新案例或英文版本
+## 添加 FinDRIFT 新案例
 
-1. 在 `cases/` 中建立目录，按 `contracts/examples/case.example.yaml` 填写正式内容。参考文件路径相对案例目录，不写绝对路径或网站 URL。
-2. 在 `cases/catalog.yaml` 增加稳定 case_id、scenario_id、目录和语言入口。原案例的英文版与中文版使用同一 case_id 和稳定选项／比较项 ID；不要把中文内容标记为 en。
-3. 原 20 例继续保留 verify 配对。新 case 或新增英文语言可以用 `legacy_mode: none`，不要求人为生成一份旧中文 Markdown。
-4. 在 `studies/对应实验.yaml` 的 tasks 中引用 case_id，使用独立稳定任务编号。需要本地编码验证时，在对应 fixtures 文件中加入任务 ID。
-5. 运行内容检查与材料编译。`case_locale` 指定实验默认案例语言；可用 `case_locales` 按案例明确覆盖。当前本地配置默认 `zh-CN`，仅 Case 01 明确选择 `en`，方便逐个检查译文。所有引用任务都必须具有所指定的语言。
+FinDRIFT 新案例采用 one-by-one 流程，完整规范见 [FinDRIFT Case Authoring](case-authoring.md)。
+
+1. 先提出一个 Case Concept，并确认目标 Axis A、Axis B 与 Ground Truth 的可行性；
+2. 优先核验一手来源，再用 `research/templates/case.yaml` 完成研究者侧 reference answer、decision rule、derivation、source evidence 等字段；
+3. Ground Truth 通过人工审核后，才在 `cases/` 中建立目录，按 `contracts/examples/case.example.yaml` 创建 participant-facing `case.zh-CN.yaml`；参考文件路径相对案例目录，不写绝对路径或网站 URL；
+4. Participant-facing 内容继续严格遵守 `contracts/schemas/case.schema.json`，不得写入答案、Goal、taxonomy 或研究者推导；
+5. 在 `cases/catalog.yaml` 登记稳定 case_id、scenario_id、目录和语言入口；新 case 可使用 `legacy_mode: none`，无需人为生成旧中文 Markdown；原 20 例的中文 YAML 与 Markdown 继续保留 verify 配对；
+6. 在 `studies/对应实验.yaml` 的 tasks 中引用 case_id，使用独立稳定任务编号；需要本地编码验证时，在对应 fixtures 文件中加入任务 ID；
+7. 运行内容检查与材料编译。
+
+当前 Pilot 先逐个尝试 A1–A8 × B2（Risk & Uncertainty Evaluation），不要求为了填满矩阵强行保留不自然的案例。
+
+## 添加英文版本
+
+1. 原案例的英文版与中文版使用同一 case_id 和稳定选项／比较项 ID；不要把中文内容标记为 en。
+2. 未提供经译审的英文内容时不创建假英文副本。
+3. 新增英文语言可以用 `legacy_mode: none`，不要求另建旧 Markdown；原中文 verify 配对继续保留。
+4. 在实验配置中明确指定案例语言。`case_locale` 指定实验默认案例语言，可用 `case_locales` 按案例明确覆盖；所有引用任务都必须具有所指定的语言。
+
+当前本地配置默认 `zh-CN`，仅 Case 01 明确选择 `en`，方便逐个检查译文：
 
 ```yaml
 case_locale: zh-CN
@@ -64,7 +81,7 @@ case_locales:
   '01': en
 ```
 
-查看当前 Case 01 英文网页可使用本地测试码 `FCM-EN`。英文内容源为 `cases/01_Fund_Shares/case.en.yaml`，它不与中文 `material.md` 执行双格式同步；中文原配对继续保持 verify。PDF 暂保留中文。同一案例的所有任务使用该实验中指定的同一语言，不按任务悄悄切换。
+查看当前 Case 01 英文网页可使用本地测试码 `FCM-EN`。英文内容源为 `cases/01_Fund_Shares/case.en.yaml`，它不与中文 `material.md` 执行双格式同步。PDF 暂保留中文。同一案例的所有任务使用该实验中指定的同一语言，不按任务悄悄切换。
 
 程序不会静默回退语言。未纳入当前实验的已登记案例不会自动开放给参与者；前端打包只包含该实验 tasks 引用的案例。
 

@@ -1,0 +1,47 @@
+# FinDRIFT researcher-side case template
+# This file is not participant-facing and must not be exported to the experiment UI.
+
+case_id: ''
+scenario_id: ''
+version: '0.1'
+
+primary_axis_a:
+  id: ''
+  name: ''
+
+primary_axis_b:
+  id: ''
+  name: ''
+
+secondary_metadata: []
+
+core_decision: ''
+
+reference_answer: ''   # A or B
+
+decision_rule: |
+  # State the reproducible rule that determines the correct option.
+
+required_facts:
+  - ''
+
+derivation: |
+  # Show the complete calculation, rule application, or evidence chain.
+
+source_evidence:
+  - source_id: ''
+    title: ''
+    location: ''       # local file, official URL, section/page, etc.
+    supports: ''       # which fact/rule this source supports
+
+assumptions:
+  - ''
+
+review_status:
+  concept: pending
+  taxonomy: pending
+  source: pending
+  ground_truth: pending
+  participant_material: pending
+
+review_notes: ''
