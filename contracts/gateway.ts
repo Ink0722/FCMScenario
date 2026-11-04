@@ -1,6 +1,6 @@
 import type {
   AccessGrant, DecisionSubmission, DialoguePolicy, ExperimentEvent,
-  ExperimentInstructions, Message, ParticipantProfile, StartedTask, TestTask,
+  ExperimentInstructions, Message, ParticipantProfile, StartedTask, TestTask, TurnSnapshot,
 } from './generated/types';
 
 // Application capabilities, not guessed HTTP endpoints. The backend owns
@@ -17,8 +17,15 @@ export interface ExperimentGateway {
   // Discard an unfinished session, keeping completed results and profile.
   abandonTask(accessToken: string, sessionId: string, requestId: string): Promise<void>;
   submitDecision(sessionId: string, submission: DecisionSubmission): Promise<DialoguePolicy>;
-  sendMessage(sessionId: string, message: Message): Promise<{ message: Message; policy: DialoguePolicy }>;
+  sendMessage(sessionId: string, message: Message, onUpdate?: (snapshot: TurnSnapshot) => void, signal?: AbortSignal): Promise<{ message: Message; policy: DialoguePolicy }>;
   endDialogue(sessionId: string, requestId: string): Promise<void>;
   recordEvent(sessionId: string, event: ExperimentEvent): Promise<void>;
   completeSession(sessionId: string, requestId: string): Promise<{ receipt: string }>;
+}
+
+// Long-running transport primitives; sendMessage is the compatibility facade.
+export interface TurnGateway {
+  submitMessage(sessionId: string, message: Message): Promise<TurnSnapshot>;
+  getTurn(sessionId: string, turnId: string): Promise<TurnSnapshot>;
+  observeTurn(sessionId: string, turnId: string, onUpdate: (snapshot: TurnSnapshot) => void, signal?: AbortSignal): Promise<TurnSnapshot>;
 }

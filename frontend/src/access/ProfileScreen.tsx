@@ -7,8 +7,8 @@ import { ProfileForm } from '../questionnaire/ProfileForm';
 import { profileDraftKey } from '../app/drafts';
 import { StudyIllustration } from '../app/StudyIllustration';
 
-export function ProfileScreen({ testCode, profile, busy, error, onSubmit, onReturnToTasks }: {
-  testCode: string; profile: ParticipantProfile; busy: boolean; error: string;
+export function ProfileScreen({ profileId, profile, busy, error, onSubmit, onReturnToTasks }: {
+  profileId: string; profile: ParticipantProfile; busy: boolean; error: string;
   onSubmit: (answers: Record<string, string>) => void; onReturnToTasks: () => void;
 }) {
   const [confirmReturn, setConfirmReturn] = useState(false);
@@ -17,7 +17,7 @@ export function ProfileScreen({ testCode, profile, busy, error, onSubmit, onRetu
       <StudyIllustration variant="profile" className="profile-illustration" />
     </header>
     <section className="surface" aria-label={ui.profile}>
-      <ProfileForm questions={profile.questions} draftKey={profileDraftKey(testCode)} busy={busy} onSubmit={onSubmit} />
+      <ProfileForm questions={profile.questions} draftKey={profileDraftKey(profileId)} busy={busy} onSubmit={onSubmit} />
       {error && <div className="error-message" role="alert">{error}</div>}
     </section>
   </main>{confirmReturn && <ReturnHomeDialog busy={busy} error={error} onCancel={() => setConfirmReturn(false)} onConfirm={onReturnToTasks}

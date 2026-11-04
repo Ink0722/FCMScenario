@@ -103,15 +103,15 @@ export function createMockGateway(materialLoader: () => Promise<MaterialBundle> 
       if (codeKey === 'FCM-EXPIRED') throw new Error(errors.codeExpired);
       if (!codeTasks[codeKey]) throw new Error(errors.codeUnknown);
       const existing = Object.entries(database.grants).find(([, g]) => g.codeKey === codeKey && Date.parse(g.expiresAt) > Date.now());
-      if (existing) return { accessToken: existing[0], expiresAt: existing[1].expiresAt, testCode: codeKey };
+      if (existing) return { accessToken: existing[0], expiresAt: existing[1].expiresAt, testCode: codeKey, participantId: codeKey, codeDisplay: codeKey };
       const accessToken = crypto.randomUUID();
       const expiresAt = new Date(Date.now() + 24 * 60 * 60 * 1000).toISOString();
       database.grants[accessToken] = { codeKey, expiresAt, activeSessionId: null }; save();
-      return { accessToken, expiresAt, testCode: codeKey };
+      return { accessToken, expiresAt, testCode: codeKey, participantId: codeKey, codeDisplay: codeKey };
     },
     async getAccessGrant(token) {
       const grant = grantFor(token);
-      return { accessToken: token, expiresAt: grant.expiresAt, testCode: grant.codeKey };
+      return { accessToken: token, expiresAt: grant.expiresAt, testCode: grant.codeKey, participantId: grant.codeKey, codeDisplay: grant.codeKey };
     },
     async getTasks(token) {
       const grant = grantFor(token);

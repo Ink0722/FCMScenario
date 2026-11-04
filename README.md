@@ -1,6 +1,6 @@
 # Financial AI Scenarios
 
-本项目包含金融决策案例、实验桌面前端与材料工具，后端目录已预留。现有 20 个案例已增加结构化 YAML，原 Markdown、Notes、42 份 PDF 和正式 LaTeX 全部保留原位置。
+本项目包含金融决策案例、实验桌面前端、Python 实验后端、研究控制台与材料工具。现有 20 个案例已增加结构化 YAML，原 Markdown、Notes、42 份 PDF 和正式 LaTeX 全部保留原位置。后端已实现第一、二批实验流程闭环，以及管理端首批发码和回放功能；对话支持确定性开发回复与可选的真实 GPT Advisor（本地材料联调），详见 [运行说明](docs/advisor-runtime.md)。
 
 ## 从哪里开始
 
@@ -9,27 +9,32 @@
 - [前端说明](frontend/README.md)：页面流程、本地运行与当前限制。
 - [案例编辑入口](cases/README.md)：新 YAML 与旧 Markdown 的双格式过渡。
 - [数据契约](contracts/README.md)：前后端中立 Schema 与生成类型。
-- [后端接入目录](backend/README.md)：后续实现位置；当前尚无真实服务。
+- [后端运行说明](backend/README.md)：数据库初始化、发码、API/Worker 启动与 HTTP 联调。
+- [HTTP 协议](docs/http-protocol.md)：认证、命令防重、SSE 与恢复状态。
 
 ## 本地运行
 
 ```bash
-python3 -m venv .venv
-.venv/bin/python -m pip install -r requirements-tools.lock.txt
+conda activate FCMScenario
+python -m pip install -r requirements.txt
 cd frontend
 npm install
 npm run dev
 ```
 
-打开 http://127.0.0.1:5173/ ，本地开发码 FCM-EN 只对应 Case 01 英文网页，FCM-2026 对应三项任务，FCM-ALL 对应全部 20 个案例。Case 01 中文原件与全部 PDF 保留；其他案例尚未英文化。当前仍为本地 Mock，尚未部署或接入正式 Agent。
+打开 http://127.0.0.1:5173/ ，默认本地 Mock 中 FCM-EN 对应 Case 01 英文网页，FCM-2026 对应三项任务，FCM-ALL 对应全部 20 个案例。HTTP 模式按 [后端运行说明](backend/README.md) 启动，使用服务端生成的新码。生产构建默认 HTTP。本地材料 Advisor 接入已实现；正式研究发布、正式部署与 Pilot 验收尚未完成。
+
+研究控制台入口为 http://127.0.0.1:5173/admin.html ，始终接真实后端；支持研究者登录、发码/CSV/换码/取消、参与记录筛选和全部历史尝试回放。登录方式见 [研究控制台说明](backend/README.md#研究控制台)。
+
+当前统一 Python 环境为 Conda `FCMScenario`（Python 3.12），根目录 `requirements.txt` 记录后端基础与测试依赖。npm 材料命令优先使用已激活的 Conda 环境；未激活时兼容项目 `.venv`，其内容工具依赖仍可通过 `requirements-tools.lock.txt` 安装。
 
 ## 修改案例
 
 推荐编辑 `cases/对应目录/case.zh-CN.yaml`，然后明确同步保留的 Markdown：
 
 ```bash
-.venv/bin/python tools/cases.py sync --case 01 --from yaml
-.venv/bin/python tools/check_content.py
+python tools/cases.py sync --case 01 --from yaml
+python tools/check_content.py
 ```
 
 也可以继续编辑原 `material.md`，再执行 `--from markdown`。两边不一致时构建会停止，不自动覆盖；现有文件格式继续保留。新增英文内容由负责人译审，不把中文副本标为 en。
@@ -39,7 +44,7 @@ npm run dev
 | 目录 | 维护内容 |
 | --- | --- |
 | frontend/ | 页面与交互、固定 UI 文案、Gateway 适配 |
-| backend/ | 后续后端代码与迁移、测试骨架 |
+| backend/ | 实验 API、数据库迁移、可选 Advisor Worker 与集成测试 |
 | cases/ | 参与者案例与稳定目录入口，保留旧格式 |
 | shared/ | 公共说明、测量提示和独立 Profile |
 | studies/ | 实验任务配置；fixtures 仅为本地开发编码 |
@@ -49,12 +54,12 @@ npm run dev
 | docs/ | 架构和维护指南 |
 | build/ | 生成和核对产物，不作为编辑源 |
 
-真实参与者、测试码绑定、作答和完成状态由未来后端存储，不放入案例。研究者资料不导出到参与者材料；正式服务还需实现访问控制与持久化。
+HTTP 模式中的参与记录、测试码绑定、作答和完成状态由后端存储，不放入案例。研究者资料不导出到参与者材料；正式生产部署仍需后续验收。
 
 ## 验证
 
 ```bash
-.venv/bin/python -m unittest discover -s tools/tests -v
+python -m unittest discover -s tools/tests -v
 python3 tools/check_project.py
 cd frontend
 npm test

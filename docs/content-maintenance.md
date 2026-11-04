@@ -2,14 +2,14 @@
 
 ## 首次准备
 
-在项目根目录执行，Python 3.9+：
+在项目根目录执行，使用 Python 3.12 的 Conda 环境：
 
 ```bash
-python3 -m venv .venv
-.venv/bin/python -m pip install -r requirements-tools.lock.txt
+conda activate FCMScenario
+python -m pip install -r requirements.txt
 ```
 
-`requirements-tools.txt` 给出允许范围，lock 文件记录本轮验证的确切版本。npm 的材料命令通过跨平台启动器使用项目 .venv，不向系统 Python 安装依赖。
+`requirements-tools.txt` 给出内容工具依赖的允许范围，lock 文件记录其确切版本。当前也可执行 `conda activate FCMScenario` 后用 `python -m pip install -r requirements.txt` 安装统一的后端和工具环境。npm 的材料命令优先使用已激活的 Conda 环境，未激活时使用项目 `.venv`，不向系统 Python 安装依赖。
 
 ## 快速定位
 
@@ -33,15 +33,15 @@ python3 -m venv .venv
 推荐工作方式：编辑 YAML 后显式同步 Markdown，再检查：
 
 ```bash
-.venv/bin/python tools/cases.py sync --case 01 --from yaml
-.venv/bin/python tools/cases.py check --case 01
-.venv/bin/python tools/check_content.py
+python tools/cases.py sync --case 01 --from yaml
+python tools/cases.py check --case 01
+python tools/check_content.py
 ```
 
 如果你更习惯编辑原 `material.md`，改完后反向同步即可：
 
 ```bash
-.venv/bin/python tools/cases.py sync --case 01 --from markdown
+python tools/cases.py sync --case 01 --from markdown
 ```
 
 `--from yaml` 表示保留 YAML 的修改；`--from markdown` 表示保留 Markdown 的修改。若两边都改过，工具会停止，先手工合并；明确要舍弃另一边修改时才加 `--force`。构建不会代你解决冲突。
@@ -83,15 +83,15 @@ case_locales:
 
 ```bash
 # 所有案例语言、共享内容、配置和契约
-.venv/bin/python tools/check_content.py
+python tools/check_content.py
 # 所有旧格式配对及结构化输入
-.venv/bin/python tools/cases.py check
+python tools/cases.py check
 # 原 PDF/LaTeX、链接与来源哈希，兼容原命令
 python3 tools/check_project.py
 # 导出一个案例的运行输入，不改源文件
-.venv/bin/python tools/cases.py export --case 01 --locale zh-CN
+python tools/cases.py export --case 01 --locale zh-CN
 # 生成当前本地前端材料与开发配置
-.venv/bin/python tools/prepare_frontend.py
+python tools/prepare_frontend.py
 ```
 
 其他实验可以通过 `--study studies/文件.yaml` 选择。npm 默认读取 local-development；需要切换 npm 构建使用的实验时，设置 `FCM_STUDY_FILE`。用于本地 Mock 的方案应显式指定自己的 `development_codes` 开发夹具。正式后端不使用这个公开夹具认证。

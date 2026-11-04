@@ -1,0 +1,49 @@
+services:
+  db:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_DB: fcm
+      POSTGRES_USER: fcm
+      POSTGRES_PASSWORD: ${FCM_DB_PASSWORD:?Set FCM_DB_PASSWORD}
+    volumes:
+      - postgres:/var/lib/postgresql/data
+    healthcheck:
+      test: [CMD-SHELL, "pg_isready -U fcm -d fcm"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+  api:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    environment: &runtime
+      FCM_DATABASE_URL: postgresql+psycopg://fcm:${FCM_DB_PASSWORD}@db:5432/fcm
+      FCM_SECRET_KEY: ${FCM_SECRET_KEY:?Set FCM_SECRET_KEY}
+      FCM_ADMIN_TOKEN: ${FCM_ADMIN_TOKEN:?Set FCM_ADMIN_TOKEN}
+    command: [sh, -c, "python -m backend.app.cli init && python -m uvicorn backend.app.main:app --host 0.0.0.0 --port 8000 --no-access-log"]
+    ports:
+      - 127.0.0.1:8000:8000
+    volumes:
+      - runtime:/app/backend/runtime
+    depends_on:
+      db:
+        condition: service_healthy
+    healthcheck:
+      test: [CMD, python, -c, "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/api/v1/health')"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+  worker:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    environment: *runtime
+    command: [python, -m, backend.app.worker]
+    volumes:
+      - runtime:/app/backend/runtime
+    depends_on:
+      api:
+        condition: service_healthy
+volumes:
+  postgres:
+  runtime:

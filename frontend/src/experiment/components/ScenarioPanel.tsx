@@ -28,7 +28,7 @@ export function ScenarioPanel({ scenario: s, compact = false, onEvent }: Props) 
       <section className="material-section" data-material-section="conditions"><h4 tabIndex={-1}>{ui.conditions}</h4>
         {s.references.length > 0 && <div className="condition-references" data-material-section="references">
           <div className="reference-list">{s.references.map(ref =>
-            <a className="reference-link" data-material-anchor key={ref.document_id} href={`${import.meta.env.BASE_URL}${ref.url}`} target="_blank" rel="noopener noreferrer" aria-label={`${ref.title} (${ui.openDocument})`}
+            <a className="reference-link" data-material-anchor key={ref.document_id} href={ref.url.startsWith('/') || /^https?:\/\//.test(ref.url) ? ref.url : `${import.meta.env.BASE_URL}${ref.url}`} target="_blank" rel="noopener noreferrer" aria-label={`${ref.title} (${ui.openDocument})`}
               onClick={() => onEvent?.('reference_open', { document_id: ref.document_id, revision: ref.revision })}>
               <span className="file-icon" aria-hidden="true">
                 <svg viewBox="0 0 20 20" focusable="false">

@@ -353,6 +353,20 @@
         "timestamp": {
           "type": "string",
           "minLength": 1
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "partial",
+            "complete",
+            "interrupted"
+          ]
+        },
+        "citations": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Citation"
+          }
         }
       },
       "required": [
@@ -381,6 +395,16 @@
           "type": "integer",
           "minimum": 0,
           "description": "Completed user-message/assistant-reply exchanges; the opening message is excluded."
+        },
+        "maxTurns": {
+          "type": "integer",
+          "minimum": 3
+        },
+        "canSend": {
+          "type": "boolean"
+        },
+        "stage": {
+          "$ref": "#/$defs/ExperimentStage"
         }
       },
       "required": [
@@ -402,6 +426,11 @@
     "TestTask": {
       "type": "object",
       "properties": {
+        "sequence": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 20
+        },
         "id": {
           "type": "string",
           "minLength": 1
@@ -446,12 +475,21 @@
         "testCode": {
           "type": "string",
           "minLength": 1
+        },
+        "participantId": {
+          "type": "string",
+          "minLength": 1
+        },
+        "codeDisplay": {
+          "type": "string",
+          "minLength": 1
         }
       },
       "required": [
         "accessToken",
         "expiresAt",
-        "testCode"
+        "participantId",
+        "codeDisplay"
       ],
       "additionalProperties": false
     },
@@ -513,7 +551,10 @@
           "type": "string",
           "enum": [
             "ready",
-            "probe"
+            "probe",
+            "queued",
+            "running",
+            "interrupted"
           ]
         },
         "messages": {
@@ -541,6 +582,20 @@
         },
         "receipt": {
           "type": "string"
+        },
+        "activeTurn": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/TurnHandle"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "revision": {
+          "type": "integer",
+          "minimum": 0
         }
       },
       "required": [
@@ -621,6 +676,13 @@
         },
         "policy": {
           "$ref": "#/$defs/DialoguePolicy"
+        },
+        "runtimeMode": {
+          "type": "string",
+          "enum": [
+            "deterministic",
+            "agent"
+          ]
         }
       },
       "required": [
@@ -733,6 +795,101 @@
         "bundle_revision",
         "shared",
         "scenarios"
+      ],
+      "additionalProperties": false
+    },
+    "Citation": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "minLength": 1
+        },
+        "documentId": {
+          "type": "string"
+        },
+        "page": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "revision": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "title",
+        "url"
+      ],
+      "additionalProperties": false
+    },
+    "TurnStatus": {
+      "type": "string",
+      "enum": [
+        "queued",
+        "running",
+        "completed",
+        "interrupted",
+        "cancelled"
+      ]
+    },
+    "TurnHandle": {
+      "type": "object",
+      "properties": {
+        "turnId": {
+          "type": "string",
+          "minLength": 1
+        },
+        "status": {
+          "$ref": "#/$defs/TurnStatus"
+        }
+      },
+      "required": [
+        "turnId",
+        "status"
+      ],
+      "additionalProperties": false
+    },
+    "TurnSnapshot": {
+      "type": "object",
+      "properties": {
+        "turnId": {
+          "type": "string",
+          "minLength": 1
+        },
+        "status": {
+          "$ref": "#/$defs/TurnStatus"
+        },
+        "messages": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Message"
+          }
+        },
+        "policy": {
+          "$ref": "#/$defs/DialoguePolicy"
+        },
+        "stage": {
+          "$ref": "#/$defs/ExperimentStage"
+        },
+        "revision": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "error": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "turnId",
+        "status",
+        "messages",
+        "policy",
+        "stage",
+        "revision"
       ],
       "additionalProperties": false
     }

@@ -5,7 +5,7 @@
 ```text
 FCMScenario/
   frontend/                  React 页面、操作文案、Gateway 适配与浏览器测试
-  backend/                   后续后端的 app/、migrations/、tests/ 骨架
+  backend/                   实验 API、数据库迁移、确定性 Worker 与集成测试
   cases/
     catalog.yaml             当前案例与语言入口
     01_Fund_Shares/
@@ -62,12 +62,14 @@ flowchart LR
 
 `contracts/schemas/runtime.schema.json` 是运行数据规范，TypeScript 类型自动生成。`contracts/gateway.ts` 是服务能力列表；前端原 import 路径保留为兼容导出，后端无需依赖任何 React 文件。
 
-现在仍由本地 Mock 实现；真实服务由后端独立实现验证、身份、分配、持久化、随机化及 Agent。未来在前端切换 Gateway 工厂，不重做页面和案例组件。后端暂不绑定框架和数据库，也未提供虚构的 HTTP 地址。
+当前同时提供本地 Mock 与 HTTP 模式。HTTP 后端采用 FastAPI/Pydantic、SQLAlchemy/Alembic，数据库保存五张表；本地 SQLite 已联调，PostgreSQL Compose 配置待实际环境验收。确定性 Worker 用于检验排队、SSE、保存和恢复，真实 Agent 接入属于后续批次。前端共享页面，通过 Gateway 接入权威状态。协议见 [HTTP 协议](http-protocol.md)，启动见 [后端说明](../backend/README.md)。
 
 开发编码从 `studies/fixtures/` 编译到本地 Mock，真实参与者编码和绑定留在数据库。Profile 配置从 `shared/questionnaires/` 读取，按当前约定每个编码提交一次，保持独立任务。
+
+研究控制台为独立 `admin.html` 入口，React 代码位于 `frontend/src/admin/`；共享视觉基础，始终通过真实 `/api/v1/admin` 获取数据，不读取参与者 Mock。`backend/app/admin.py` 负责管理会话和只读联查；发码、换码、取消复用既有领域服务及同事务审计。控制会话使用 system_jobs 的独立 kind，保持五表结构。首批提供总览、访问管理与历史尝试回放；配置发布、研究数据导出和沙盒等仍待后续实现。
 
 ## 过渡兼容
 
 `research/case_index.json` 继续支持旧 Markdown／PDF 工具；新目录以 `cases/catalog.yaml` 为入口。原 20 例使用 verify 模式，需要双格式一致。未来新案例或译审后的新语言可使用 none 模式，直接按 Schema 读取，不再依赖固定中文表头。
 
-任何文件同步都需显式指定方向。日常启动、构建、检查不会覆盖作者源文件。原来的 `python3 tools/materials.py` 和 `python3 tools/check_project.py` 在项目 .venv 存在时会自动使用它；其他内容工具按维护指南使用 .venv 调用。
+任何文件同步都需显式指定方向。日常启动、构建、检查不会覆盖作者源文件。材料工具优先使用已激活的 Conda 环境，未激活时兼容项目 `.venv`。HTTP 发码时将材料和 PDF 冻结到私有工件存储，已发放安排不会读取修改后的作者文件。

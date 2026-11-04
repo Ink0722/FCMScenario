@@ -1,2 +1,2 @@
 export type * from './generated/types';
-export type { ExperimentGateway } from './gateway';
+export type { ExperimentGateway, TurnGateway } from './gateway';

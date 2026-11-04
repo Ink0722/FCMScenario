@@ -1,5 +1,5 @@
 // Fixed UI copy; materials, questionnaire items and AI responses are separate content.
-export const UI_VERSION = '0.6.29';
+export const UI_VERSION = '0.7.0';
 export const UI_LOCALE = 'en';
 export const ui = {
   brand: 'Financial Decision Study', skip: 'Skip to main content', back: 'Back to tasks',
@@ -17,9 +17,10 @@ export const ui = {
   readConfirmation: 'I have read the instructions carefully and confirm that I am ready to begin.',
   read: 'Read the materials', discuss: 'Talk with the AI assistant', decide: 'Make your own choice',
   readDescription: ['Read the scenario and supporting materials, then choose option A or B.', 'Report how confident you are in that initial choice before continuing.'],
-  discussDescription: ['Talk with the AI assistant about the decision and ask any questions you have.', 'Use only the study materials and this conversation during the task.'],
-  decideDescription: ['After the discussion, make your final choice and complete the follow-up questions.', 'Your choice may stay the same or change; there is no expectation either way.'],
+  discussDescription: ['Talk with the AI assistant about the decision and ask any questions you have.', 'You can refer back to the scenario and supporting documents throughout the conversation.'],
+  decideDescription: ['After the discussion, make your final choice and report your confidence.', 'Your choice may stay the same or change; there is no expectation either way.'],
   tasks: 'Study tasks', tasksIntro: 'Choose a task below to begin.',
+  orderedTasksIntro: 'Complete the tasks in the assigned order. The next task opens after you finish the current one.',
   profileFirst: 'Please complete the background questionnaire before choosing a task.',
   tasksWaiting: 'You can check the status of your tasks below.',
   allComplete: 'Your study tasks are complete', allCompleteIntro: 'Thank you for taking part.',

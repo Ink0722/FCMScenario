@@ -21,7 +21,9 @@ python3 tools/generate_contracts.py --check
 
 构建会检查生成类型是否过期。生成器只处理本契约使用的本地 `$defs`、对象、数组、联合与基础类型；遇到不支持的类型会明确失败，不猜测。类型检查不能替代运行时 JSON Schema 校验。
 
-`gateway.ts` 描述应用需要的服务能力，尚不是 OpenAPI 或网络实现；后续确定 HTTP 协议时可以另加 OpenAPI 文档。前端原类型路径保留为兼容导出，因此大部分组件不需要重写。
+`gateway.ts` 描述应用服务能力，`TurnGateway` 补充消息受理、运行查询和观察；HTTP 实现与服务端路径见 [HTTP 协议](../docs/http-protocol.md)。API 运行时提供 /docs 和 /openapi.json，公开 DTO 的详细约束仍以本目录 Schema 为准。前端原类型路径保留为兼容导出。
+
+`AccessGrant` 使用 participantId/codeDisplay 表示稳定参与记录和脱敏标识。可选 testCode 仅保留旧 Mock 的兼容字段，HTTP 服务不返回原始码。`TurnSnapshot` 包含公开消息、状态、policy、stage 和 revision；`SessionProgress.activeTurn` 用于刷新后观察原运行。Message.status/citations 表示部分生成和来源；这些可选字段使旧 Mock 仍可运行。
 
 `DialoguePolicy` 中的 `canEnd`、`probeRequired` 决定是否允许结束对话。可选字段 `minTurnsBeforeEnd`、`completedTurns` 用于显示最低交流轮数和剩余轮数，一轮指用户发送一条消息并得到 AI 回复，开场白不计入。后端接入时，应在任务初始化、消息回复、判断提交和会话恢复时一起返回这两个字段；计数以服务端确认完成的交流为准，重复请求不得重复计数。旧接口未提供数值时，前端使用通用提示，不猜测最低轮数，也不改变 `canEnd` 的权限判断。
 

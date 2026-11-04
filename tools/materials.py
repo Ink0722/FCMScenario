@@ -200,9 +200,6 @@ def main():
 
 
 if __name__ == '__main__':
-    # Preserve the existing python3 CLI when a project environment is installed.
-    import os, sys
-    local = ROOT / '.venv' / ('Scripts/python.exe' if os.name == 'nt' else 'bin/python')
-    if local.is_file() and Path(sys.prefix).resolve() != (ROOT / '.venv').resolve():
-        os.execv(str(local), [str(local), *sys.argv])
+    from python_environment import use_project_python
+    use_project_python()
     main()

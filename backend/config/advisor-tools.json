@@ -1,0 +1,87 @@
+[
+  {
+    "type": "function",
+    "name": "read_material",
+    "description": "Read pages of a frozen public PDF for the current case. Page numbers start at 1. Maximum 3 pages per call. No access to other cases or private research files.",
+    "strict": true,
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "document_id": {
+          "type": "string"
+        },
+        "start_page": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "end_page": {
+          "type": "integer",
+          "minimum": 1
+        }
+      },
+      "required": [
+        "document_id",
+        "start_page",
+        "end_page"
+      ],
+      "additionalProperties": false
+    }
+  },
+  {
+    "type": "function",
+    "name": "search_material",
+    "description": "Search a frozen public PDF by keywords in the material language (Chinese or English) to locate relevant pages without reading sequentially. Use concise, space-separated keywords. Returns up to 3 page excerpts. Only current case documents are allowed.",
+    "strict": true,
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "document_id": {
+          "type": "string"
+        },
+        "query": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "document_id",
+        "query"
+      ],
+      "additionalProperties": false
+    }
+  },
+  {
+    "type": "function",
+    "name": "select_strategy",
+    "description": "Commit the single primary strategy for the forthcoming public reply. Call exactly once after preparation, before replying. Do not provide a rationale.",
+    "strict": true,
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "strategy_id": {
+          "type": "string",
+          "enum": [
+            "S00",
+            "S01",
+            "S02",
+            "S03",
+            "S04",
+            "S05",
+            "S06",
+            "S07",
+            "S08",
+            "S09",
+            "S10",
+            "S11",
+            "S12",
+            "S13",
+            "S14"
+          ]
+        }
+      },
+      "required": [
+        "strategy_id"
+      ],
+      "additionalProperties": false
+    }
+  }
+]

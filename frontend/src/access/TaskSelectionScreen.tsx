@@ -19,7 +19,7 @@ export function TaskSelectionScreen({ testCode, tasks, profileComplete, onOpenPr
   const statusLabels: Record<TestTask['status'], string> = { available: ui.available, in_progress: ui.inProgress, completed: ui.completed, unavailable: ui.unavailable };
   return <><SiteHeader /><main id="main-content" className="task-selection-page">
     <header className="entry-heading task-selection-heading"><div className="task-heading-content"><StudyIllustration variant="tasks" className="task-illustration" /><div><h1>{allCompleted ? ui.allComplete : ui.tasks}</h1>
-      <p>{allCompleted ? ui.allCompleteIntro : !profileComplete ? ui.profileFirst : waiting ? ui.tasksWaiting : completed.length ? ui.continueTasks(completed.length) : ui.tasksIntro}</p></div></div>
+      <p>{allCompleted ? ui.allCompleteIntro : !profileComplete ? ui.profileFirst : waiting ? ui.tasksWaiting : tasks.some(task => task.sequence !== undefined) ? ui.orderedTasksIntro : completed.length ? ui.continueTasks(completed.length) : ui.tasksIntro}</p></div></div>
       <div className="task-overview"><dl className="current-test-code" aria-label={ui.currentCode}><dt>{ui.code}</dt><dd>{testCode}</dd></dl>
         {tasks.length > 0 && <p className="task-progress">{ui.progress(completed.length, tasks.length)}</p>}
       </div>
@@ -40,7 +40,7 @@ export function TaskSelectionScreen({ testCode, tasks, profileComplete, onOpenPr
       <fieldset disabled={busy} className="task-list"><legend className="sr-only">{ui.selectTask}</legend>
         {tasks.map(task => { const Row = task.status === 'completed' ? 'div' : 'label'; return <Row key={task.id} className={`task-choice ${selected === task.id ? 'selected' : ''} ${task.status === 'completed' ? 'completed' : !profileComplete || task.status !== 'available' ? 'unavailable' : ''}`}>
           {task.status === 'completed' ? <span className="task-complete-check" aria-hidden="true">✓</span> : <input type="radio" name="test-task" value={task.id} disabled={!profileComplete || task.status !== 'available'} checked={selected === task.id} onChange={() => setSelected(task.id)} />}
-          <span className="task-choice-content"><span className="task-number">{task.number}</span><span className="task-title">{task.title}</span></span>
+          <span className="task-choice-content"><span className="task-number">{task.sequence !== undefined ? `${task.sequence}. Case ${task.number}` : task.number}</span><span className="task-title">{task.title}</span></span>
           <span className={`task-status ${task.status === 'completed' ? 'completed' : ''}`}>{!profileComplete && task.status === 'available' ? ui.needsProfile : statusLabels[task.status]}</span>
         </Row>; })}
       </fieldset>

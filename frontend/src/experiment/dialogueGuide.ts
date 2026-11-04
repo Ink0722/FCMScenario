@@ -3,6 +3,7 @@ import type { DialoguePolicy } from '../integration/contracts';
 import type { DialogueStatus } from './flow/reducer';
 
 export function dialogueEndGuide(policy: DialoguePolicy, status: DialogueStatus): string {
+  if (['queued', 'running', 'reconnecting', 'interrupted'].includes(status)) return ui.endWaitReply;
   if (policy.canEnd) {
     if (policy.probeRequired || status === 'probe') return ui.finishProbe;
     return status === 'waiting' ? ui.endWaitReply : ui.endGuide;

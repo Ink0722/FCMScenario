@@ -16,6 +16,7 @@ __pycache__/
 /frontend/dist/
 /frontend/public/materials/
 /frontend/test-results/
+/frontend/test-results-http/
 /frontend/playwright-report/
 /.venv/
 /backend/.venv/
