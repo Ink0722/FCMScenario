@@ -1,12 +1,5 @@
 [
   {
-    "file": "SourceSans3-Roman.woff2",
-    "source": "https://github.com/adobe-fonts/source-sans/blob/release/WOFF2/VF/SourceSans3VF-Upright.ttf.woff2",
-    "blob_sha": "96cc9fd06ceb275ec3d6103ad97c5647212c88c5",
-    "sha256": "5f16566f7a40d39b339ad26be151fa5a1ab1f0c2574c7a2e619765584a1acbd8",
-    "bytes": 170188
-  },
-  {
     "file": "SourceSerif4-Roman.woff2",
     "source": "https://github.com/adobe-fonts/source-serif/blob/release/WOFF2/VAR/SourceSerif4Variable-Roman.ttf.woff2",
     "blob_sha": "cca344bfa7707992bf39271ee999e385c3727de2",

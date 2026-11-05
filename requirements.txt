@@ -1,5 +1,7 @@
-# Backend foundation and integration tests.
-# Validated in Conda FCMScenario, Python 3.12.15, macOS arm64 (2026-10-19).
+# Python 3.12. Shared dependencies for the backend, content tools and tests.
+# Pinned to the current Conda FCMScenario environment; install this file in a venv too.
+
+# API, persistence and authentication.
 fastapi==0.148.0
 pydantic==2.14.1
 SQLAlchemy==2.0.55
@@ -8,10 +10,21 @@ uvicorn==0.54.0
 psycopg[binary]==3.3.6
 itsdangerous==2.2.0
 cryptography==50.0.2
+
+# Advisor clients and materials.
 httpx==0.28.1
-pytest==8.4.2
-PyYAML==6.0.3
-jsonschema==4.26.0
 openai==3.35.1
 httpx2==2.15.1
 pypdf==6.21.1
+PyYAML==6.0.3
+
+# Content validation, including the previously separate tool lock entries.
+jsonschema==4.26.0
+attrs==26.1.0
+jsonschema-specifications==2025.9.1
+referencing==0.37.0
+rpds-py==2026.9.1
+typing_extensions==4.16.0
+
+# Automated tests.
+pytest==8.4.2

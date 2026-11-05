@@ -26,7 +26,7 @@ npm run dev
 
 研究控制台入口为 http://127.0.0.1:5173/admin.html ，始终接真实后端；支持研究者登录、发码/CSV/换码/取消、参与记录筛选和全部历史尝试回放。登录方式见 [研究控制台说明](backend/README.md#研究控制台)。
 
-当前统一 Python 环境为 Conda `FCMScenario`（Python 3.12），根目录 `requirements.txt` 记录后端基础与测试依赖。npm 材料命令优先使用已激活的 Conda 环境；未激活时兼容项目 `.venv`，其内容工具依赖仍可通过 `requirements-tools.lock.txt` 安装。
+Python 依赖统一维护在根目录 `requirements.txt`，涵盖后端、内容工具和自动测试。推荐使用 Conda `FCMScenario`（Python 3.12）；如使用项目 `.venv`，也请用 Python 3.12 创建并安装同一份依赖。npm 材料命令优先使用已激活的 Conda 环境，未激活时使用项目 `.venv`。
 
 ## 修改案例
 

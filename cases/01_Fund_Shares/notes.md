@@ -141,7 +141,7 @@ S的一般最低额、例外及原文推荐全部保留；本账户不可购买S
 
 基金尚未运营的历史状态完整保留，不编造收益或财务表。已有20,000美元持仓属于同一系列其他基金。行政和股东服务费为原披露已有费用层次，不在运营费用合计上重复叠加。八年统一基准及其模型假设见第4节。
 
-`../../research/01/generation/source_units.py`读取976项文本对应关系并解析原HTML结构；`../../tools/generate_drafts.py`据此生成原生PDF草稿；`../../tools/build_pdfs.py`只编译正式LaTeX源文件；`../../tools/check_case_documents.swift`用于抽取PDF文本及渲染检查图。原文件及已有版本保存在archive，正文不附版本修订叙述。
+`../../research/01/generation/source_units.py`读取976项文本对应关系并解析原HTML结构；`../../tools/generate_drafts.py`据此生成原生PDF草稿；`../../tools/build_pdfs.py`只编译正式LaTeX源文件；`../../tools/check_case_documents.swift`用于抽取PDF文本及渲染检查图。当前文件保留在项目中，已提交版本通过 Git 历史查看；正文不附版本修订叙述。
 
 ### 呈现及输入边界
 

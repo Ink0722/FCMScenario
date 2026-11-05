@@ -101,7 +101,7 @@ fcmDev.resetCode({ code: 'FCM-EN' })
 
 **目前不能称为完整英文实验**：Case 01 已增加独立英文网页版本并在本地实验中启用；其他 19 个案例、全部 42 份 PDF 和 Profile 题项保持原文。AI 回复来自开发替身，尚未接入正式英文 Agent。没有修改案例事实、数字、评分或正式 Profile 设计。额外后测问卷取消，保留最终选择与置信度，入口说明同步更新。
 
-案例的新增、双格式同步、实验任务配置和后端接入说明见 [根目录维护指南](../docs/content-maintenance.md) 与 [项目架构](../docs/architecture.md)。首次运行前激活 Conda `FCMScenario` 并安装根目录 `requirements.txt`；npm 材料命令优先使用该环境，也兼容按维护指南配置的项目 `.venv`。
+案例的新增、双格式同步、实验任务配置和后端接入说明见 [根目录维护指南](../docs/content-maintenance.md) 与 [项目架构](../docs/architecture.md)。首次运行前激活 Conda `FCMScenario` 并安装根目录 `requirements.txt`；内容工具与后端共用这一份依赖。npm 材料命令优先使用该环境，也支持使用 Python 3.12 创建并安装同一份依赖的项目 `.venv`。
 
 正式使用前的内容清单：
 

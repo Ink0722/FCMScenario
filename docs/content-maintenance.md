@@ -9,7 +9,7 @@ conda activate FCMScenario
 python -m pip install -r requirements.txt
 ```
 
-`requirements-tools.txt` 给出内容工具依赖的允许范围，lock 文件记录其确切版本。当前也可执行 `conda activate FCMScenario` 后用 `python -m pip install -r requirements.txt` 安装统一的后端和工具环境。npm 的材料命令优先使用已激活的 Conda 环境，未激活时使用项目 `.venv`，不向系统 Python 安装依赖。
+后端、内容工具与自动测试共用根目录 `requirements.txt`，依赖版本在同一处维护。也可以使用 Python 3.12 创建项目 `.venv`，并在该环境中安装同一份依赖。npm 的材料命令优先使用已激活的 Conda 环境，未激活时使用项目 `.venv`。
 
 ## 快速定位
 
