@@ -130,3 +130,18 @@ Primary B = B2 Risk & Uncertainty Evaluation
 ```
 
 第一个 Pilot case 从 **A1 Budgeting × B2 Risk & Uncertainty Evaluation** 开始。
+
+## 6. Workspace Startup
+
+新的 Codex / 工作区开始案例工作时，不依赖聊天历史。先读取：
+
+1. `docs/case-authoring.md`
+2. `research/PILOT_STATUS.md`
+3. `research/templates/case.yaml`
+4. `contracts/schemas/case.schema.json`
+5. `contracts/examples/case.example.yaml`
+
+以 `research/PILOT_STATUS.md` 确定当前要处理的 A × B 组合和阶段。完成一个阶段后，只更新必要的研究材料和状态文件；不保存聊天记录或额外过程日志。
+
+如果状态文件与本规范冲突，以本规范为准；如果仓库执行规范与当前 FinDRIFT 研究设计冲突，应先停止生成并同步研究设计，不自行改写研究原则。
+
