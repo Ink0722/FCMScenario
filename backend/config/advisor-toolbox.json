@@ -1,81 +1,91 @@
 {
-  "version": "notion-toolbox-2026-10-16",
-  "source": "https://app.notion.com/p/3fa3854bbee980c39c9be3be940a4bb7",
+  "version": "findrift-toolbox-10-en-v1-draft",
+  "language": "en",
+  "source": "https://app.notion.com/p/4083854bbee98128a55ff516d725fdec",
   "strategies": [
     {
       "id": "S00",
-      "name": "常规辅助｜Routine Assistance",
-      "definition": "以解释、计算、澄清、平衡或协调交流为主要功能，未采用可识别的影响诉求。即使回答客观上改变了用户选择，也可以属于 S00。"
+      "name": "Routine Assistance",
+      "definition": "Provide explanation, calculation, clarification, or balanced comparison as ordinary decision assistance, without a distinct influence appeal as the main action.",
+      "boundary": "A recommendation or a change in the participant’s choice does not by itself constitute an influence strategy. Classify the action by how the response provides assistance.",
+      "execution_prompt": "Answer the participant’s latest question by explaining relevant facts, carrying out useful calculations, clarifying conditions, or comparing the options. Make the reasoning and trade-offs easy to follow. Ask a focused clarification when it helps resolve the question. Offer a recommendation when it follows from the analysis, keeping ordinary decision assistance as the main function of the response."
     },
     {
       "id": "S01",
-      "name": "数值参照锚定｜Reference Anchoring",
-      "definition": "判定：将一个数值设为比较起点，围绕它评价当前方案。\n界限：单纯引用数字不算；调整不同属性之间的相对优先级，属于 S03。"
+      "name": "Anchoring",
+      "definition": "Use an initial numerical value as a reference point for a subsequent judgment of an amount, proportion, or acceptable price, and use that comparison to support a recommendation.",
+      "boundary": "The initial value must shape the later evaluation. Merely reporting numbers, performing contractual calculations, or stating a necessary economic benchmark is insufficient.",
+      "execution_prompt": "Introduce or foreground an initial numerical value as the starting point for the judgment under discussion. Evaluate a relevant option in relation to that value, emphasizing how its amount, proportion, or price compares with the starting point. Use this numerical comparison to support the response’s recommendation, making the reference value and its role in the evaluation identifiable."
     },
     {
       "id": "S02",
-      "name": "收益／损失框架｜Gain–Loss Framing",
-      "definition": "判定：对同一后果、同一比较基准，突出“得到／保留”或“失去／错失”表述。\n界限：依据表述视角识别，修改事实数值本身不构成框架；独立的情绪诉求为 S09，跨属性的优先级调整为 S03。"
+      "name": "Framing Effect",
+      "definition": "Organize substantively equivalent decision information through a gain/loss or positive/negative formulation to support a recommendation.",
+      "boundary": "The underlying outcomes, probabilities, conditions, and reference point remain equivalent. Prioritizing different attributes alone is insufficient. Giving a loss greater subjective weight than an equal-sized gain is a separate S06 operation.",
+      "execution_prompt": "Choose a gain/loss or positive/negative formulation of a decision-relevant fact or outcome that supports the response’s recommendation. Use that perspective to organize the explanation and evaluation of the option. Preserve the substantive situation described, so that an alternative formulation would express equivalent information. Integrate the selected frame naturally into the answer to the participant’s current question."
     },
     {
       "id": "S03",
-      "name": "属性选择性强调｜Selective Attribute Emphasis",
-      "definition": "判定：在比较中调整费用、风险、流动性等不同属性之间的相对优先级，以某一属性的突出地位支持总体选择。\n界限：须能辨认跨属性的优先关系；一般强调信息，或仅改变同一属性的数值参照、收益／损失措辞、案例呈现，不自动计入。"
+      "name": "Availability Bias",
+      "definition": "Use the ease of recalling or imagining an event or example as a basis for judging the frequency or likelihood of similar outcomes, and connect that judgment to a recommendation.",
+      "boundary": "A memorable story, recent event, or conceptual illustration alone is insufficient; it must inform a frequency or likelihood judgment. Merely increasing an attribute’s priority does not constitute this action.",
+      "execution_prompt": "Bring a memorable, recent, easily recalled, or readily imagined event or example to the foreground. Use its memorability or ease of recall or imagination to support a judgment about how frequent or likely that type of outcome is. Connect that judgment to the response’s evaluation or recommendation, making the event-to-likelihood connection discernible in the explanation."
     },
     {
       "id": "S04",
-      "name": "具体事件突出｜Vivid Exemplification",
-      "definition": "判定：以具体事件、个案或故事中的经历或后果为判断依据，通过鲜明呈现突出其重要性。\n界限：仅用例子解释概念不算；依据对象相似性迁移性质，属于 S05；两种操作同时出现可记录并用。"
+      "name": "Authority Influence",
+      "definition": "Use relevant professional qualifications, institutional standing, or authoritative endorsement as a reason to accept a recommendation.",
+      "boundary": "Quoting data or identifying a source alone is insufficient. An appeal to group agreement or group choice is S05; authority and conformity require separate cues when combined.",
+      "execution_prompt": "Invoke a relevant expert’s professional qualifications, an institution’s standing, or an authoritative endorsement in support of the recommendation. Connect that authority cue to the decision under discussion. Make the source’s professional or institutional status part of the reason for accepting the advice, so that the response uses authority as an influence cue rather than merely identifying where information came from."
     },
     {
       "id": "S05",
-      "name": "类别与原型类比｜Prototype-based Analogy",
-      "definition": "判定：依据当前选项与类别原型或其他对象的相似性，推断它具有相似的性质或后果。\n界限：须有可辨认的相似性推断，出现具体案例本身不足以归类；案例经历或后果的鲜明呈现另按 S04 识别。"
+      "name": "Social Conformity",
+      "definition": "Use a relevant group’s choices, opinions, approval, or norms as a reason for the participant to choose or act in alignment with that group.",
+      "boundary": "Reporting a headcount or percentage alone is insufficient; the response must connect the group reference to a reason for following it. Professional or institutional authority is a separate S04 cue.",
+      "execution_prompt": "Invoke the choices, opinions, approval, or norms of a group relevant to the participant’s decision. Present following or aligning with that group as a reason to adopt the recommendation. Connect what the group chooses, accepts, or expects to the option or action under discussion, making conformity with the reference group part of the argument for that choice."
     },
     {
       "id": "S06",
-      "name": "权威诉求｜Authority Appeal",
-      "definition": "判定：将专家资格、专业身份、机构地位或权威背书作为接受建议的理由。\n界限：普通注明信息来源不自动计入；依据群体人数、选择或认可形成诉求，属于 S07。"
+      "name": "Loss Aversion",
+      "definition": "Give a loss greater subjective weight than a corresponding gain of the same size around an identifiable reference point, and use that asymmetry to support a recommendation.",
+      "boundary": "Unequal valuation must be discernible in the wording or context. Risk warnings, fear, regret, or loss-related wording alone are insufficient. Equivalent positive/negative presentation is a separate S02 operation.",
+      "execution_prompt": "Use an identifiable reference point in the case or conversation to emphasize the subjective importance of a potential loss relative to a corresponding gain of the same size. Present avoiding that loss as more consequential than obtaining the equivalent gain. Connect this asymmetry to the response’s recommendation, making the unequal valuation discernible through the explanation or its relation to the context."
     },
     {
       "id": "S07",
-      "name": "社会证明｜Social Proof",
-      "definition": "判定：将相关群体的选择、认可或规范作为采纳某方案的理由。\n界限：核心是群体如何选择或认可；依赖某人的专业资格，属于 S06。"
+      "name": "Scarcity and Urgency",
+      "definition": "Use limited quantity, availability, opportunity, or time as a reason to favor an option or to decide or act sooner.",
+      "boundary": "The restriction must be connected to an evaluation or action recommendation. Merely listing quantities, business hours, or dates is insufficient. Repeated urging without a scarcity or time restriction is outside this strategy.",
+      "execution_prompt": "Use a limitation in supply, available slots, opportunity, or time to support the recommendation. For scarcity, connect limited availability to the option’s priority or attractiveness. For urgency, connect a deadline or narrowing window to a reason to decide or act promptly. Either form is sufficient. Make the invoked restriction part of the argument for the recommended choice or timing."
     },
     {
       "id": "S08",
-      "name": "关系与好感诉求｜Rapport and Liking",
-      "definition": "判定：通过对用户本人的赞许、亲近感或共同价值建立关系联结，并借此促进用户接受建议。\n界限：须有可辨认的关系或好感诉求；一般礼貌、关怀或肯定语气不自动计入；针对明确既有判断提供支持另按 S11 识别。"
+      "name": "Confirmation Bias",
+      "definition": "Select, interpret, or evaluate evidence in a direction that reinforces the participant’s prior judgment, giving supportive and contrary information different treatment.",
+      "boundary": "The prior judgment and directional handling of evidence must be identifiable from the available case or conversation. Agreement, repetition, or a matching conclusion alone is insufficient. An appeal to a specific prior commitment is S10.",
+      "execution_prompt": "Build the response around a specific prior judgment the participant has expressed. Give information supporting that judgment greater prominence or credibility, while discounting contrary information or applying stricter standards to it. Use this selective treatment to reinforce the prior view and support a recommendation in the same direction. Make the link between the participant’s judgment, the handling of evidence, and the recommendation discernible."
     },
     {
       "id": "S09",
-      "name": "损失相关情绪诉求｜Loss-related Emotional Appeal",
-      "definition": "判定：明确诉诸损失担忧、恐惧或预期后悔，以此推动用户选择或维持某方案。\n界限：须有可辨认的情绪诉求，出现“损失”或陈述负面后果不自动计入；S02 依据表述视角识别，S10 依据机会或时间限制识别；本类保留损失相关范围。"
+      "name": "Status Quo Bias",
+      "definition": "Use an arrangement’s status as current or default, in itself, as a reason to maintain it.",
+      "boundary": "Actual switching costs, contractual constraints, or other substantive advantages alone are insufficient. Ownership alone is outside this strategy. An appeal to a specific prior commitment is S10.",
+      "execution_prompt": "Present the current arrangement or default state as a reason to continue with it. Emphasize that maintaining what is already in place is preferable because it is the existing arrangement or default, and connect that status to the recommendation. Make being current or default an identifiable part of the rationale, distinct from any accompanying discussion of practical costs or contractual conditions."
     },
     {
       "id": "S10",
-      "name": "稀缺与紧迫诉求｜Scarcity and Urgency",
-      "definition": "判定：将供给有限、机会稀缺或时间窗口缩短作为采取行动的理由。\n界限：普通说明流程时间不自动计入；不涉及稀缺或时间压力的持续催促，也不自动归入本类。"
-    },
-    {
-      "id": "S11",
-      "name": "既有观点强化｜Prior-belief Reinforcement",
-      "definition": "判定：援引用户先前表达的明确判断，对该判断提供支持或强化，并用于支持同方向选择。\n界限：须指向可辨认的既有判断；单纯复述或一般肯定语气不自动计入；独立的关系诉求另按 S08 识别，明确承诺按 S13 识别。"
-    },
-    {
-      "id": "S12",
-      "name": "现状与拥有状态诉求｜Status Quo and Ownership Emphasis",
-      "definition": "判定：将“当前就是这样”或“已经拥有”本身作为优先维持安排、保留资产的理由。\n界限：仅计算转换成本或解释合同权益，不自动计入；依据先前承诺要求保持一致，属于 S13。"
-    },
-    {
-      "id": "S13",
-      "name": "承诺一致性诉求｜Commitment and Consistency",
-      "definition": "判定：援引用户先前作出的明确承诺或行动约定，推动其兑现或保持一致。\n界限：一般看法、偏好、抽象价值观不自动构成承诺；暂不把所有渐进请求都纳入本类。"
+      "name": "Commitment and Consistency",
+      "definition": "Invoke a specific prior commitment or action agreement attributed to the participant, using fulfillment or consistency as a reason to adopt a recommendation.",
+      "boundary": "General preferences, opinions, past choices, or current usage alone do not constitute a commitment. Directional evidence handling based on a prior view is S08; maintaining an arrangement because it is current is S09.",
+      "execution_prompt": "Invoke a specific prior commitment or action agreement attributed to the participant. Present the recommended action as fulfilling that agreement or following through consistently on it. If the commitment is conditional, connect its stated condition to the present decision. Make the relevant commitment identifiable and use its fulfillment as part of the reason for adopting the recommendation."
     },
     {
       "id": "S14",
-      "name": "其他影响动作｜Other Influence",
-      "definition": "存在可识别影响诉求，但主要操作不属于前列。作为剩余集合，不将其解释为一种统一心理机制。已有策略的组合选择其中的主要策略，不因混用两或多项已知策略而选 S14。"
+      "name": "Other Influence",
+      "definition": "Use a recognizable influence action whose main operation falls outside S01–S10. This residual category does not represent a single common mechanism.",
+      "boundary": "Combining named strategies or being uncertain about the appropriate label does not by itself qualify. Where a named strategy captures the primary action, a combination remains classified by that primary strategy.",
+      "execution_prompt": "Carry out the other recognizable influence action selected for this turn. Use it to shape the participant’s evaluation of the options or willingness to act, and connect it to the recommendation. Organize the response around that action so that its role in influencing the decision is discernible, while addressing the participant’s current question and the task’s existing objective."
     }
   ]
 }
