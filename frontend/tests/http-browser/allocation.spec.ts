@@ -10,8 +10,7 @@ async function login(page: Page) {
   await expect(page.getByRole('heading', { name: '研究总览', exact: true })).toBeVisible();
 }
 function drain() {
-  const python = process.env.FCM_PYTHON ?? `${process.env.CONDA_PREFIX}/bin/python`;
-  execFileSync(python, ['-c', `import json; from pathlib import Path; from backend.app.settings import Settings,ROOT; from backend.app.db import Database; from backend.app.content import ContentStore; from backend.app.service import Service; from backend.app.worker import tick; data=json.loads((ROOT/'runtime/http-e2e-runtime.json').read_text()); s=Settings(data['database_url'],Path(data['artifact_dir']),'integration-secret-'*4,'123456'); db=Database(s.database_url); svc=Service(s,ContentStore(s.artifact_dir,s.study_file)); [tick(db,svc) for _ in range(4)]`], { cwd: '..' });
+  execFileSync('python3', ['tools/run_python.py', '-c', `import json; from pathlib import Path; from backend.app.settings import Settings,ROOT; from backend.app.db import Database; from backend.app.content import ContentStore; from backend.app.service import Service; from backend.app.worker import tick; data=json.loads((ROOT/'runtime/http-e2e-runtime.json').read_text()); s=Settings(data['database_url'],Path(data['artifact_dir']),'integration-secret-'*4,'123456'); db=Database(s.database_url); svc=Service(s,ContentStore(s.artifact_dir,s.study_file)); [tick(db,svc) for _ in range(4)]`], { cwd: '..' });
 }
 
 async function savedPlan(page: Page, batch: string, modelId?: string): Promise<AllocationPlan> {
@@ -33,7 +32,7 @@ test('quota allocation is separate, freezes a preview and issues the same matrix
   }
   await page.getByLabel('批次名称', { exact: true }).fill('quota-ui-plan');
   await page.getByLabel('对话最大轮数', { exact: true }).fill('3');
-  await page.screenshot({ path: '../build/admin-qa/quota-form.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('quota-form.png'), fullPage: true });
   await page.getByRole('button', { name: '生成随机分配预览', exact: true }).click();
   await expect(page).toHaveURL(/#allocation\/[0-9a-f]{64}$/);
   const ref = new URL(page.url()).hash.split('/')[1];
@@ -57,10 +56,10 @@ test('quota allocation is separate, freezes a preview and issues the same matrix
   const after = await (await page.request.get(`/api/v1/admin/allocation-plans/${ref}`)).json();
   expect(after.members.map((member: { tasks: unknown }) => member.tasks)).toEqual(before.members.map((member: { tasks: unknown }) => member.tasks));
   expect((await (await page.request.get('/api/v1/admin/participants?batch=quota-ui-plan')).json()).total).toBe(4);
-  await page.screenshot({ path: '../build/admin-qa/quota-plan.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('quota-plan.png'), fullPage: true });
   await page.setViewportSize({ width: 1100, height: 850 });
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBeTruthy();
-  await page.screenshot({ path: '../build/admin-qa/quota-plan-1100.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('quota-plan-1100.png'), fullPage: true });
   await page.getByRole('link', { name: '批次管理', exact: true }).click();
   const row = page.getByRole('row').filter({ hasText: 'quota-ui-plan' });
   await expect(row.getByRole('link', { name: '查看配额方案', exact: true })).toBeVisible();
@@ -103,7 +102,7 @@ test('quota participant tasks unlock sequentially and remain ordered after compl
   const choices = page.locator('.task-choice').getByRole('radio');
   await expect(choices).toHaveCount(2);
   await expect(choices.nth(0)).toBeEnabled(); await expect(choices.nth(1)).toBeDisabled();
-  await page.screenshot({ path: '../build/admin-qa/quota-participant.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('quota-participant.png'), fullPage: true });
   await choices.nth(0).check();
   await page.getByRole('button', { name: 'Begin task', exact: true }).click();
   await expect(page.getByRole('heading', { name: 'Initial choice', exact: true })).toBeVisible();
@@ -140,7 +139,7 @@ test('copy pre-fills quotas without reusing expiry or seed, shows distributions 
   await expect(page.getByLabel('Case 01 与 02 共现', { exact: true })).toHaveText(String(pair.neutral));
   await page.getByRole('combobox', { name: '共现实验条件', exact: true }).selectOption('goal');
   await expect(page.getByLabel('Case 01 与 02 共现', { exact: true })).toHaveText(String(pair.goal));
-  await page.screenshot({ path: '../build/admin-qa/quota-distributions.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('quota-distributions.png'), fullPage: true });
   await page.getByRole('link', { name: '复制为新方案', exact: true }).click();
   await expect(page.getByLabel('Case 01 Neutral 配额', { exact: true })).toHaveValue('5');
   await expect(page.getByLabel('Case 02 Goal 配额', { exact: true })).toHaveValue('1');

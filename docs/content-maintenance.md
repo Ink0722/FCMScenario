@@ -9,7 +9,15 @@ conda activate FCMScenario
 python -m pip install -r requirements.txt
 ```
 
-后端、内容工具与自动测试共用根目录 `requirements.txt`，依赖版本在同一处维护。也可以使用 Python 3.12 创建项目 `.venv`，并在该环境中安装同一份依赖。npm 的材料命令优先使用已激活的 Conda 环境，未激活时使用项目 `.venv`。
+后端、内容工具与自动测试共用根目录 `requirements.txt`，要求 Python 3.12+。本地统一使用 Conda `FCMScenario`，npm 和 HTTP 浏览器测试通过 `tools/run_python.py` 选择解释器：显式 `FCM_PYTHON` 优先，其次为已激活的 Conda，最后为当前 Python 3.12+。无效配置和过低版本会明确报错。
+
+不激活 Conda 时，可以通过统一入口显式指定已安装相同依赖的解释器：
+
+```bash
+FCM_PYTHON=/path/to/python3.12 python3 tools/run_python.py tools/check_content.py
+```
+
+路径可包含空格，设置变量时按终端规则加引号；不要把本机路径写入项目源文件。
 
 ## 快速定位
 

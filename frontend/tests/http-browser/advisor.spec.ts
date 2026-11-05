@@ -4,8 +4,7 @@ import { execFileSync } from 'node:child_process';
 // Uses the real HTTP API, DB, Worker executor and OpenAI SDK, with an isolated
 // provider transport. No paid traffic and no real credentials in this test.
 function runAdvisor() {
-  const python = process.env.FCM_PYTHON ?? `${process.env.CONDA_PREFIX}/bin/python`;
-  execFileSync(python, ['-c', `
+  execFileSync('python3', ['tools/run_python.py', '-c', `
 import json
 from pathlib import Path
 import httpx2
@@ -55,7 +54,7 @@ test('Advisor validation survives a lost response and reload, then enables a rea
   runAdvisor();
   await expect(page.getByText('真实 Advisor 验证通过：', { exact: false })).toBeVisible();
   await expect(page.getByText('3 次模型调用 · 2 次工具调用 · 策略 S00')).toBeVisible();
-  await page.screenshot({ path: '../build/admin-qa/advisor-validation.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('advisor-validation.png'), fullPage: true });
   await page.getByRole('link', { name: '测试码与发放', exact: true }).click();
   await page.getByRole('combobox', { name: '本批模型', exact: false }).selectOption('openai-gpt54-mini');
   await page.getByRole('radio', { name: 'Neutral', exact: false }).check();
@@ -115,7 +114,7 @@ test('Advisor validation survives a lost response and reload, then enables a rea
   expect((await page.request.get((await source.getAttribute('href'))!.split('#')[0])).status()).toBe(200);
   await page.locator('.admin-turn-details').getByText('查看原生摘要').first().click();
   await expect(page.locator('.admin-turn-details').getByText('Provider native summary.', { exact: true }).first()).toBeVisible();
-  await page.screenshot({ path: '../build/admin-qa/advisor-replay.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('advisor-replay.png'), fullPage: true });
   await page.goto('/admin.html#participants?batch=advisor-sdk-browser-pilot');
   const exported = page.waitForEvent('download');
   await page.getByRole('link', { name: '导出研究数据 ZIP' }).click();
@@ -143,5 +142,5 @@ test('budget warning disables a new live issuance before creating participants',
   await page.getByRole('combobox', { name: '本批模型', exact: false }).selectOption('openai-gpt54-mini');
   await expect(page.getByRole('status').filter({ hasText: '发放额度预检' })).toContainText('额度不足');
   await expect(page.getByRole('button', { name: '生成 1 个测试码', exact: true })).toBeDisabled();
-  await page.screenshot({ path: '../build/admin-qa/budget-preflight.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('budget-preflight.png'), fullPage: true });
 });

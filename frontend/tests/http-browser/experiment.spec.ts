@@ -15,15 +15,15 @@ async function enter(page: Page, index: number) {
   await page.locator('.task-choice').getByRole('radio').check();
   await page.getByRole('button', { name: 'Begin task', exact: true }).click();
   await expect(page.getByRole('heading', { name: 'Initial choice', exact: true })).toBeVisible();
-  await page.getByRole('radio').first().check();
+  await page.locator('.decision-panel .choice-card').first().click();
+  await expect(page.getByRole('radio').first()).toBeChecked();
   await page.getByLabel('Confidence value').fill('0');
   await page.getByRole('button', { name: 'Continue to conversation' }).click();
   await expect(page.getByRole('heading', { name: 'Conversation', exact: true })).toBeVisible();
 }
 function drain() {
-  const python = process.env.FCM_PYTHON ?? `${process.env.CONDA_PREFIX}/bin/python`;
   const code = `import json; from pathlib import Path; from backend.app.settings import Settings,ROOT; from backend.app.db import Database; from backend.app.content import ContentStore; from backend.app.service import Service; from backend.app.worker import tick; data=json.loads((ROOT/'runtime/http-e2e-runtime.json').read_text()); s=Settings(data['database_url'],Path(data['artifact_dir']),'integration-secret-'*4,'123456'); db=Database(s.database_url); svc=Service(s,ContentStore(s.artifact_dir,s.study_file)); [tick(db,svc) for _ in range(4)]`;
-  execFileSync(python, ['-c', code], { cwd: '..' });
+  execFileSync('python3', ['tools/run_python.py', '-c', code], { cwd: '..' });
 }
 
 test('HTTP acceptance survives reload, then automatic final judgment and durable completion', async ({ page }) => {
@@ -34,14 +34,14 @@ test('HTTP acceptance survives reload, then automatic final judgment and durable
   await page.getByRole('button', { name: 'Send', exact: true }).click();
   await expect(page.getByText('Your message is saved and queued. Waiting for a reply…')).toBeVisible();
   await expect(page.getByRole('button', { name: 'End conversation', exact: true })).toBeDisabled();
-  await page.screenshot({ path: '../build/backend-qa/http-queued.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('http-queued.png'), fullPage: true });
   await page.reload();
   await expect(page.getByText('Your message is saved and queued. Waiting for a reply…')).toBeVisible();
   drain();
   await expect(page.getByPlaceholder('Ask a question about the materials…')).toBeEnabled();
   await expect(page.locator('.message.user')).toHaveCount(1);
   await expect(page.locator('.message.assistant')).toHaveCount(2);
-  await page.screenshot({ path: '../build/backend-qa/http-dialogue.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('http-dialogue.png'), fullPage: true });
   for (let i=0;i<2;i++) {
     await page.getByPlaceholder('Ask a question about the materials…').fill(`Another question ${i}`);
     await page.getByRole('button', { name: 'Send', exact: true }).click();
@@ -50,7 +50,8 @@ test('HTTP acceptance survives reload, then automatic final judgment and durable
     if (i === 0) await expect(page.getByPlaceholder('Ask a question about the materials…')).toBeEnabled();
   }
   await expect(page.getByRole('heading', { name: 'Final choice', exact: true })).toBeVisible();
-  await page.getByRole('radio').last().check();
+  await page.locator('.decision-panel .choice-card').last().click();
+  await expect(page.getByRole('radio').last()).toBeChecked();
   await page.getByLabel('Confidence value').fill('100');
   await page.getByRole('button', { name: 'Submit final choice' }).click();
   await expect(page.getByRole('heading', { name: 'Task complete', exact: true })).toBeVisible();
@@ -58,7 +59,7 @@ test('HTTP acceptance survives reload, then automatic final judgment and durable
   await expect(page.getByRole('heading', { name: 'Task complete', exact: true })).toBeVisible();
   await page.getByRole('button', { name: 'Back to tasks', exact: true }).click();
   await expect(page.getByRole('heading', { name: 'Your study tasks are complete' })).toBeVisible();
-  await page.screenshot({ path: '../build/backend-qa/http-complete.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('http-complete.png'), fullPage: true });
   expect(errors).toEqual([]);
 });
 

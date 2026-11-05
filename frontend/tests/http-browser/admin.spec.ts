@@ -17,13 +17,12 @@ async function post(request: APIRequestContext, path: string, data: unknown, hea
   return response.status() === 204 ? undefined : response.json();
 }
 function drain() {
-  const python = process.env.FCM_PYTHON ?? `${process.env.CONDA_PREFIX}/bin/python`;
-  execFileSync(python, ['-c', `import json; from pathlib import Path; from backend.app.settings import Settings,ROOT; from backend.app.db import Database; from backend.app.content import ContentStore; from backend.app.service import Service; from backend.app.worker import tick; data=json.loads((ROOT/'runtime/http-e2e-runtime.json').read_text()); s=Settings(data['database_url'],Path(data['artifact_dir']),'integration-secret-'*4,'123456'); db=Database(s.database_url); svc=Service(s,ContentStore(s.artifact_dir,s.study_file)); [tick(db,svc) for _ in range(4)]`], { cwd: '..' });
+  execFileSync('python3', ['tools/run_python.py', '-c', `import json; from pathlib import Path; from backend.app.settings import Settings,ROOT; from backend.app.db import Database; from backend.app.content import ContentStore; from backend.app.service import Service; from backend.app.worker import tick; data=json.loads((ROOT/'runtime/http-e2e-runtime.json').read_text()); s=Settings(data['database_url'],Path(data['artifact_dir']),'integration-secret-'*4,'123456'); db=Database(s.database_url); svc=Service(s,ContentStore(s.artifact_dir,s.study_file)); [tick(db,svc) for _ in range(4)]`], { cwd: '..' });
 }
 
 test('researcher login persists, keeps credentials out of storage, and logout revokes session', async ({ page, context }) => {
   await page.goto('/admin.html');
-  await page.screenshot({ path: '../build/admin-qa/login.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('login.png'), fullPage: true });
   await page.getByLabel('研究者口令').fill('incorrect');
   await page.getByRole('button', { name: '登录控制台' }).click();
   await expect(page.getByRole('alert')).toContainText('口令不正确');
@@ -36,7 +35,7 @@ test('researcher login persists, keeps credentials out of storage, and logout re
   const cookie = (await context.cookies()).find(c => c.name === 'fcm_researcher')!;
   expect(cookie.httpOnly).toBeTruthy(); expect(cookie.sameSite).toBe('Strict');
   expect(await page.evaluate(() => JSON.stringify({ ...localStorage, ...sessionStorage }))).not.toContain(adminPassword);
-  await page.screenshot({ path: '../build/admin-qa/overview.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('overview.png'), fullPage: true });
   await page.getByRole('button', { name: '退出登录', exact: true }).click();
   await expect(page.getByLabel('研究者口令')).toBeVisible();
   const replay = await page.request.get('/api/v1/admin/participants', { headers: { Cookie: `fcm_researcher=${cookie.value}` } });
@@ -56,7 +55,7 @@ test('generate chosen groups in one step, persist codes, export a batch, rotate 
   await page.getByLabel('批次名称').fill('admin-ui-pilot');
   await page.getByLabel('访问到期时间（北京时间）').fill('2035-01-02T10:30');
   await page.evaluate(() => window.scrollTo(0, 0));
-  await page.screenshot({ path: '../build/admin-qa/issue.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('issue.png'), fullPage: true });
   const issuedRequest = page.waitForRequest(r => r.url().endsWith('/admin/codes') && r.method() === 'POST');
   await page.getByRole('button', { name: '生成 5 个测试码', exact: true }).click();
   const data = (await issuedRequest).postDataJSON();
@@ -90,7 +89,7 @@ test('generate chosen groups in one step, persist codes, export a batch, rotate 
   const records = await (await page.request.get('/api/v1/admin/participants?batch=admin-ui-pilot')).json();
   const bj = new Intl.DateTimeFormat('zh-CN', { timeZone: 'Asia/Shanghai', year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hourCycle:'h23' }).format(new Date(records.items[0].assignedAt));
   await expect(page.locator('.admin-date-cell').first()).toHaveText(bj);
-  await page.screenshot({ path: '../build/admin-qa/participants.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('participants.png'), fullPage: true });
   await page.getByLabel('参与者编号或测试码', { exact: true }).fill(oldCode);
   await page.getByRole('button', { name: '筛选', exact: true }).click();
   await expect(page.getByText('共 1 条记录')).toBeVisible();
@@ -110,7 +109,7 @@ test('generate chosen groups in one step, persist codes, export a batch, rotate 
   await expect(page.getByRole('status').filter({ hasText: '访问已取消' })).toBeVisible();
   expect((await page.request.post('/api/v1/access/exchange', { data: { requestId: crypto.randomUUID(), code: newCode } })).status()).toBe(401);
   await expect(page.locator('.admin-current-code code')).toHaveText(newCode);
-  await page.screenshot({ path: '../build/admin-qa/participant.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('participant.png'), fullPage: true });
   expect(errors).toEqual([]);
 });
 
@@ -145,14 +144,14 @@ test('replay switches between abandoned and complete attempts, with zero confide
   await page.locator('.admin-turn-details summary').first().click();
   await expect(page.locator('.admin-turn-details').first().getByText('当前使用确定性开发回复，未调用真实模型或工具。')).toBeVisible();
   await page.evaluate(() => window.scrollTo(0, 0));
-  await page.screenshot({ path: '../build/admin-qa/replay.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('replay.png'), fullPage: true });
   await page.getByLabel('选择历史尝试').selectOption({ index: 0 });
   await expect(page.getByText('A preserved abandoned question', { exact: true })).toBeVisible();
   await expect(page.locator('.admin-turn').getByText('已取消')).toBeVisible();
   await page.setViewportSize({ width: 1100, height: 850 });
   await page.evaluate(() => window.scrollTo(0, 0));
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBeTruthy();
-  await page.screenshot({ path: '../build/admin-qa/replay-1100.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('replay-1100.png'), fullPage: true });
 });
 
 test('a lost issuance response restores saved codes without generating another participant', async ({ page }) => {
@@ -203,7 +202,7 @@ test('settings retain environment and model connection while keeping API keys pr
   const response = await page.request.get('/api/v1/admin/settings');
   expect(await response.text()).not.toContain('TEST-provider-key-private-value');
   expect(await page.evaluate(() => JSON.stringify({ ...localStorage, ...sessionStorage }))).not.toContain('TEST-provider-key-private-value');
-  await page.screenshot({ path: '../build/admin-qa/settings.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('settings.png'), fullPage: true });
   await page.getByLabel('环境备注', { exact: true }).fill('更新备注，保留已有 API Key');
   await page.getByRole('button', { name: '保存设置', exact: true }).click();
   await expect(page.getByRole('status').filter({ hasText: '设置已保存' })).toBeVisible();
@@ -221,10 +220,10 @@ test('settings retain environment and model connection while keeping API keys pr
   await page.getByRole('checkbox', { name: '01', exact: true }).check();
   await page.getByRole('checkbox', { name: '20', exact: true }).check();
   await expect(page.getByText('已选 2 项', { exact: false })).toBeVisible();
-  await page.screenshot({ path: '../build/admin-qa/tasks-compact.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('tasks-compact.png'), fullPage: true });
   await page.setViewportSize({ width: 1100, height: 850 });
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBeTruthy();
-  await page.screenshot({ path: '../build/admin-qa/issue-1100.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('issue-1100.png'), fullPage: true });
 });
 
 test('batch model is optional; selecting a registered model freezes a preview without issuing fake live tests', async ({ page }) => {
@@ -253,7 +252,7 @@ test('batch model is optional; selecting a registered model freezes a preview wi
   await expect(page.getByRole('status').filter({ hasText: '模型安排已冻结' })).toBeVisible();
   expect((await (await page.request.get('/api/v1/admin/participants?batch=model-selection-pilot')).json()).total).toBe(0);
   await page.evaluate(() => window.scrollTo(0, 0));
-  await page.screenshot({ path: '../build/admin-qa/model-selection.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('model-selection.png'), fullPage: true });
   // Explicitly selecting no model keeps the existing deterministic workflow usable.
   await chooser.selectOption('');
   await page.getByRole('button', { name: '生成 1 个测试码', exact: true }).click();
@@ -297,10 +296,10 @@ test('preset GPT connection requires a saved key and connection verification ret
   expect(ids).toHaveLength(2); expect(ids[0]).toBe(ids[1]);
   await expect(page.getByLabel('API Key', { exact: true })).toHaveValue('');
   await page.evaluate(() => window.scrollTo(0, 0));
-  await page.screenshot({ path: '../build/admin-qa/gpt-budget.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('gpt-budget.png'), fullPage: true });
   await page.setViewportSize({ width: 1100, height: 850 });
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBeTruthy();
-  await page.screenshot({ path: '../build/admin-qa/settings-1100.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('settings-1100.png'), fullPage: true });
 });
 
 test('unsaved settings survive cancelled navigation, data refresh and browser history', async ({ page }) => {
@@ -338,7 +337,7 @@ test('batch summaries copy a new arrangement and copied display IDs are searchab
   await expect(row).toContainText('3 人');
   await expect(row).toContainText('Neutral 2 / Goal 1');
   await expect(row).toContainText('01 · 09');
-  await page.screenshot({ path: '../build/admin-qa/batches.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('batches.png'), fullPage: true });
   await row.getByRole('button', { name: '复制配置', exact: true }).click();
   await expect(page.getByRole('status').filter({ hasText: '已复制 batch-copy-ui-test' })).toBeVisible();
   await expect(page.getByLabel('Neutral 测试码数量', { exact: true })).toHaveValue('2');
@@ -362,8 +361,7 @@ test('batch summaries copy a new arrangement and copied display IDs are searchab
 
 test('uncertain verification history survives reload and audited reconciliation retries do not repeat', async ({ page }) => {
   await login(page);
-  const python = process.env.FCM_PYTHON ?? `${process.env.CONDA_PREFIX}/bin/python`;
-  execFileSync(python, ['-c', `import json; from pathlib import Path; from datetime import timedelta; from backend.app.settings import ROOT; from backend.app.db import Database,Job,now; from backend.app.model_runtime import KIND,RESERVE_NANO,MODEL_NAME; data=json.loads((ROOT/'runtime/http-e2e-runtime.json').read_text()); db=Database(data['database_url']); ctx=db.transaction(); s=ctx.__enter__(); s.add(Job(kind=KIND,scope_ref={},actor_id='researcher',idempotency_key='browser-uncertain-probe',status='uncertain',created_at=now()-timedelta(minutes=6),finished_at=now(),progress={'requestId':'browser-uncertain-probe','modelId':'test-history-model','modelLabel':'核对用测试模型','modelName':MODEL_NAME,'chargeNano':RESERVE_NANO,'usage':None,'message':'请求超时，等待供应商确认。','failureKind':'timeout','providerRequestId':'req_browser_history'})); ctx.__exit__(None,None,None); db.engine.dispose()`], { cwd: '..' });
+  execFileSync('python3', ['tools/run_python.py', '-c', `import json; from pathlib import Path; from datetime import timedelta; from backend.app.settings import ROOT; from backend.app.db import Database,Job,now; from backend.app.model_runtime import KIND,RESERVE_NANO,MODEL_NAME; data=json.loads((ROOT/'runtime/http-e2e-runtime.json').read_text()); db=Database(data['database_url']); ctx=db.transaction(); s=ctx.__enter__(); s.add(Job(kind=KIND,scope_ref={},actor_id='researcher',idempotency_key='browser-uncertain-probe',status='uncertain',created_at=now()-timedelta(minutes=6),finished_at=now(),progress={'requestId':'browser-uncertain-probe','modelId':'test-history-model','modelLabel':'核对用测试模型','modelName':MODEL_NAME,'chargeNano':RESERVE_NANO,'usage':None,'message':'请求超时，等待供应商确认。','failureKind':'timeout','providerRequestId':'req_browser_history'})); ctx.__exit__(None,None,None); db.engine.dispose()`], { cwd: '..' });
   await page.getByRole('link', { name: '设置', exact: true }).click();
   let row = page.getByRole('row').filter({ hasText: '核对用测试模型' });
   await expect(row).toContainText('预占 $0.300576');
@@ -376,7 +374,7 @@ test('uncertain verification history survives reload and audited reconciliation 
   await dialog.getByLabel('供应商记录 / 工单编号').fill('provider-browser-ticket');
   await dialog.getByLabel('核对依据', { exact: true }).fill('供应商工单确认测试请求已经结束，未产生输入或输出用量，已核对为零。');
   await dialog.getByRole('checkbox').check();
-  await page.screenshot({ path: '../build/admin-qa/reconcile.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('reconcile.png'), fullPage: true });
   const ids: string[] = []; let lose = true;
   await page.route('**/api/v1/admin/models/probes/*/reconcile', async route => {
     ids.push(route.request().postDataJSON().requestId);
@@ -394,5 +392,5 @@ test('uncertain verification history survives reload and audited reconciliation 
   expect(history.budget.limitUsd).toBe(1); expect(history.budget.reservedUsd).toBe(0); expect(history.total).toBe(1);
   await page.reload();
   await expect(page.getByRole('row').filter({ hasText: '核对用测试模型' })).toContainText('费用已人工核对');
-  await page.screenshot({ path: '../build/admin-qa/model-history.png', fullPage: true });
+  await page.screenshot({ path: test.info().outputPath('model-history.png'), fullPage: true });
 });
