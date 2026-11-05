@@ -93,7 +93,7 @@ StartedTask.progress 包含 activeTurn、revision 和已保存消息。刷新后
 
 ## 执行边界
 
-Worker 从 system_jobs 领取 deterministic_turn、advisor_turn 或 advisor_validation。确定性作业可按固定步骤重启；真实 Advisor 领取/检查点使用短事务，供应商调用在事务外执行。全部署同时最多一个 Advisor；60 秒租约到期后中断，不自动重发。每次调用先官方计数、再按输入和最大输出预占费用；超时、用量不明保留预占。细节见 [Advisor 运行说明](advisor-runtime.md)。
+Worker 从 system_jobs 领取 deterministic_turn、advisor_turn 或 advisor_validation。确定性作业可按固定步骤重启；真实 Advisor 领取/检查点使用短事务，供应商调用在事务外执行。全部署同时最多一个 Advisor；90 秒租约到期后中断，不自动重发。每次调用先官方计数、再按输入和最大输出预占费用；超时、用量不明保留预占。细节见 [Advisor 运行说明](advisor-runtime.md)。
 
 SQLite 用于本地闭环，事务采用 BEGIN IMMEDIATE；PostgreSQL 使用安排行锁与条件唯一索引。提供 PostgreSQL Compose 配置和迁移，但本轮本机无 Docker/PostgreSQL，不能将 SQLite 测试结果声称为 PostgreSQL 并发验收。
 
@@ -101,4 +101,4 @@ SQLite 用于本地闭环，事务采用 BEGIN IMMEDIATE；PostgreSQL 使用安�
 
 管理 catalog、预览与任务摘要的 number 为案例的两位数编号（01–20）。底层 taskCode 和个人任务 UUID 保持稳定，不因显示编号变化重建研究记录。
 
-模型连接列表读取会兼容旧版单 model 设置。发码接口继续服务端校验 runtime；未经完整 Advisor 验证的 agent 配置发码返回 409 runtime_not_ready，不创建参与者。模型可选与真实运行分阶段交付，详见 [真实接入方案](live-model-integration-plan-2026-10-20.md)。
+模型连接列表读取会兼容旧版单 model 设置。发码接口继续服务端校验 runtime；未经完整 Advisor 验证的 agent 配置发码返回 409 runtime_not_ready，不创建参与者。真实运行和配置就绪校验见 [Advisor 运行说明](advisor-runtime.md)。

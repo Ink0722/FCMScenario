@@ -8,17 +8,17 @@
 
 原 20 例在 `catalog.yaml` 中使用 `legacy_mode: verify`。构建同时读取 YAML 和 Markdown，逐项比较背景、共同条件、A/B 信息、补充资料、文件引用、任务、术语和选项。任一不一致即停止，不选择某一份“将就运行”，也不自动覆盖。
 
-日常推荐编辑 YAML，然后显式同步保留的 Markdown：
+在项目根目录激活 Conda `FCMScenario` 后，日常推荐编辑 YAML，再显式同步保留的 Markdown：
 
 ```bash
-.venv/bin/python tools/cases.py sync --case 01 --from yaml
-.venv/bin/python tools/cases.py check
+python tools/cases.py sync --case 01 --from yaml
+python tools/cases.py check
 ```
 
 继续编辑原 Markdown 也受支持，改完后显式同步 YAML：
 
 ```bash
-.venv/bin/python tools/cases.py sync --case 01 --from markdown
+python tools/cases.py sync --case 01 --from markdown
 ```
 
 同步工具记录上次对齐版本。两边都被修改时会拒绝覆盖，需先比较并合并；确认舍弃另一边的改动后才使用 `--force`。本轮初始转换没有重写任何原 Markdown、Notes、PDF 或 LaTeX。
@@ -29,7 +29,7 @@
 | --- | --- |
 | `catalog.yaml` | 稳定案例 ID、目录、语言文件、兼容模式；新增案例从这里登记 |
 | `各案例/case.zh-CN.yaml` | 中文参与者内容；金融数值、单位、条件与例外按原文维护 |
-| `各案例/case.en.yaml` | 未来经译审的英文内容；尚未提供时不创建假英文副本 |
+| `各案例/case.en.yaml` | 译审后的英文内容；当前 Case 01 已提供，其余不创建假英文副本 |
 | `各案例/material.md` | 原格式保留，20 例必须与 YAML 对齐 |
 | `各案例/*.pdf` | 原正式 PDF 保留原路径；后续新语言可使用 `documents/en/` |
 | `各案例/latex/` | 正式 PDF 编辑源，原程序不会被本次重构替换 |
