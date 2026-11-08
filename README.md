@@ -37,6 +37,8 @@ python tools/cases.py sync --case 01 --from yaml
 python tools/check_content.py
 ```
 
+以上是历史 20 个案例的维护流程。FinDRIFT 新案例不创建中文副本，使用英文 `case.en.yaml`，并按 [FinDRIFT Case Authoring](docs/case-authoring.md) 执行；研究者侧来源、Ground Truth 和适配记录保存在 `research/`。
+
 也可以继续编辑原 `material.md`，再执行 `--from markdown`。两边不一致时构建会停止，不自动覆盖；现有文件格式继续保留。新增英文内容由负责人译审，不把中文副本标为 en。
 
 ## 目录职责
