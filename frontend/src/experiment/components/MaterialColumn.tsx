@@ -12,10 +12,10 @@ export function MaterialColumn({ scenario, taskNumber, onEvent }: {
   const [active, setActive] = useState('background');
   const sections = [
     { key: 'background', label: ui.backgroundNav }, { key: 'comparison', label: ui.comparisonNav },
-    { key: 'conditions', label: ui.conditionsNav },
+    ...(scenario.references.length || scenario.common_facts.length ? [{ key: 'conditions', label: ui.conditionsNav }] : []),
     ...(scenario.references.length ? [{ key: 'references', label: 'PDF' }] : []),
     ...(scenario.additional_information.length ? [{ key: 'additional', label: ui.additionalNav }] : []),
-    { key: 'knowledge', label: ui.knowledgeNav },
+    ...(scenario.knowledge.length ? [{ key: 'knowledge', label: ui.knowledgeNav }] : []),
   ];
   const navigate = (key: string) => {
     const section = scroll.current?.querySelector<HTMLElement>(`[data-material-section="${key}"]`);
