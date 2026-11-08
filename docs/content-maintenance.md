@@ -25,6 +25,7 @@ FCM_PYTHON=/path/to/python3.12 python3 tools/run_python.py tools/check_content.p
 | --- | --- |
 | 某个 case 的题干、背景、条件、比较信息、术语 | `cases/对应目录/case.zh-CN.yaml`，或经译审的 `case.en.yaml` |
 | FinDRIFT 新案例的生成流程 | `docs/case-authoring.md` |
+| FinDRIFT 新案例的来源、原始任务与适配记录 | `research/templates/notes.md` |
 | FinDRIFT 新案例的 Ground Truth、taxonomy、来源与审核 | `research/templates/case.yaml` 及对应研究者记录 |
 | 当前案例清单与语言 | `cases/catalog.yaml` |
 | 某项实验开放哪些任务、引用哪个 case | `studies/local-development.yaml` 或其他实验 YAML |
