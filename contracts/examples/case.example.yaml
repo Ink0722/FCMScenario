@@ -1,34 +1,19 @@
 schema_version: '2.0'
 case_id: '21'
-scenario_id: S-EXAMPLE-21
+scenario_id: S-LITERATURE-EXAMPLE-21
 locale: en
-title: Replace with the reviewed case title
-template: table
-background: Replace with the complete reviewed decision context.
-common_facts:
-- Replace with each complete common condition.
+title: Replace with the reviewed English case title
+template: cards
+background: |
+  Replace with the complete, source-faithful decision context.
+common_facts: []
 options:
-- id: A
-  label: Option A label
-- id: B
-  label: Option B label
-comparison:
-- id: attribute-01
-  attribute: Attribute label
-  values:
-    A: Complete option A information
-    B: Complete option B information
-additional_information:
-- id: information-01
-  kind: terms
-  title: Additional terms
-  text: Replace with the full reviewed terms; do not omit qualifications or exceptions.
-references:
-- document_id: 21-01
-  title: Reference document
-  file: documents/en/21-01.pdf
-task: Replace with the complete decision task.
-knowledge:
-- id: term-01
-  title: Term
-  text: Replace with the reviewed definition.
+  - id: A
+    label: Complete Option A description
+  - id: B
+    label: Complete Option B description
+comparison: []
+additional_information: []
+references: []
+task: Replace with the complete English decision task.
+knowledge: []
