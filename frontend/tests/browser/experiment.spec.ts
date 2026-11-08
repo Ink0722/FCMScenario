@@ -581,6 +581,33 @@ test('comparison cells follow the option identity when a supplied option order c
   await expect(page.getByRole('radio').first()).toHaveValue('B');
 });
 
+test('literature-grounded A/B cases can omit non-applicable material sections', async ({ page }) => {
+  await page.route('**/materials/snapshot-*.json', async route => {
+    const response = await route.fetch();
+    const bundle = await response.json();
+    const scenario = bundle.scenarios.find((s: { case_id: string }) => s.case_id === '01');
+    scenario.template = 'table';
+    scenario.common_facts = [];
+    scenario.comparison = [];
+    scenario.references = [];
+    scenario.additional_information = [];
+    scenario.knowledge = [];
+    await route.fulfill({ response, json: bundle });
+  });
+  await page.goto('/');
+  await enterCode(page, 'FCM-EN');
+  await selectTask(page, 'Choosing fund shares: an eight-year investment');
+  const materials = page.getByRole('complementary', { name: 'Task materials' });
+  await expect(materials.locator('[data-material-section="comparison"]')).toBeVisible();
+  await expect(materials.locator('.comparison-cards .material-option')).toHaveCount(2);
+  await expect(materials.locator('[data-material-section="conditions"]')).toHaveCount(0);
+  await expect(materials.locator('[data-material-section="references"]')).toHaveCount(0);
+  await expect(materials.locator('[data-material-section="additional"]')).toHaveCount(0);
+  await expect(materials.locator('[data-material-section="knowledge"]')).toHaveCount(0);
+  const navigation = page.getByRole('navigation', { name: 'Material sections' });
+  await expect(navigation.getByRole('button', { name: 'PDF', exact: true })).toHaveCount(0);
+});
+
 test('English case one keeps words intact and controls usable on narrower desktop windows', async ({ context }) => {
   test.setTimeout(90_000);
   for (const width of [1100, 1280, 1366, 1920]) {
