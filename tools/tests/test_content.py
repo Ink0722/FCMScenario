@@ -228,6 +228,30 @@ class ContentFixture(unittest.TestCase):
         bundle = prepare(self.root)
         self.assertEqual([case['case_id'] for case in bundle['scenarios']], ['21'])
 
+    def test_new_english_case_can_omit_non_applicable_material_sections(self):
+        data = read_yaml(self.yaml_path)
+        data.update(case_id='21', scenario_id='S-LITERATURE-EXAMPLE-21', locale='en')
+        data.pop('legacy_source')
+        for section in ('common_facts', 'comparison', 'references', 'knowledge'):
+            data[section] = []
+        base = self.root / 'cases/21_Literature_Example'
+        base.mkdir()
+        write_yaml(base / 'case.en.yaml', data)
+        catalog = read_yaml(self.root / 'cases/catalog.yaml')
+        catalog['cases'].append({
+            'case_id': '21',
+            'folder': '21_Literature_Example',
+            'scenario_id': 'S-LITERATURE-EXAMPLE-21',
+            'locales': {'en': {'file': 'case.en.yaml', 'legacy_mode': 'none'}}
+        })
+        write_yaml(self.root / 'cases/catalog.yaml', catalog)
+        loaded = load_case('21', self.root, 'en')
+        self.assertEqual(loaded['common_facts'], [])
+        self.assertEqual(loaded['comparison'], [])
+        self.assertEqual(loaded['references'], [])
+        self.assertEqual(loaded['knowledge'], [])
+        self.assertEqual([option['id'] for option in loaded['options']], ['A', 'B'])
+
     def test_fixture_assignments_and_policy_are_validated(self):
         study = read_yaml(self.root / 'studies/local-development.yaml')
         study['tasks'] = [task for task in study['tasks'] if task['case_id'] == '01']
