@@ -30,3 +30,10 @@ python3 tools/generate_contracts.py --check
 案例输入与运行 DTO 是两层：作者维护 YAML；编译器校验后将 `values.A/B` 转为现有比较字段，并把本地 PDF 路径转为版本化资源 URL。`source_file`、`legacy_source`、Notes 和答案不进入运行 DTO。Schema 默认拒绝未声明字段。
 
 `SharedCopy.confidence_notes` 为可选 Markdown 文案，保存置信度输入框后的测量边界和中性填写说明；存在该字段时，`confidence_scale` 在输入框前显示定义、填写规则和 0 / 50 / 100 的文字锚点。两部分随 SharedCopy 版本一同冻结，所有判断阶段共用；旧会话缺少该字段时保留原说明位置与端点提示，不拼接当前版本文案。
+
+
+## Literature-grounded case inputs
+
+The participant-facing case schema keeps the A/B options required, while optional content arrays may be empty when the original task does not contain those elements. In particular, common facts, comparison rows, participant-visible references, and knowledge items must not be fabricated merely to fill a section. When comparison rows are absent, the frontend displays the two option cards using their labels.
+
+The references field is for documents participants are intended to open. Original study papers, supplements, source extracts, and Ground Truth evidence belong in the researcher-only research directory by default and should not be exposed automatically.
