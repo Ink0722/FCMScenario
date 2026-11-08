@@ -20,14 +20,7 @@ literature_source:
 fidelity:
   assessment: pending # direct_use | faithful_reproduction | minimal_adaptation | reject
   rights_or_license_status: pending
-  adaptations:
-    - source_location: ''
-      element: ''
-      original_description: ''
-      adapted_description: ''
-      necessity: ''
-      rationale: ''
-      potential_impact: ''
+  adaptations: [] # Add entries only when an adaptation is necessary.
 
 primary_axis_a:
   id: ''
