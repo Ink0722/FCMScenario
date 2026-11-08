@@ -1,0 +1,46 @@
+Researcher-only source capture; not participant material.
+Retrieved: 2026-11-08 (Asia/Shanghai)
+Source: https://www.researchgate.net/publication/228960894_Consumer_Misunderstanding_of_Credit_Card_Use_Payments_and_Debt_Causes_and_Solutions
+Author-uploaded manuscript, printed page 28, Study 2 Discussion.
+Format: web-indexed text with source line numbers; not a PDF or questionnaire facsimile. This capture does not establish stimulus completeness or the final published page location.
+
+L1274: 28
+L1275: A striking result in Study 2 is that the new statement facilitates a much better
+L1276: 
+L1277: appreciation for what monthly payments must be to pay off a loan in three years. The new
+L1278: 
+L1279: statement reduces both underestimation and overestimation, regardless of whether the card is still
+L1280: 
+L1281: being used and of the numeracy level of the consumer (see Figure 4). In this sense we would
+L1282: 
+L1283: regard the new statement as a major improvement. In addition to helping consumers plan their
+L1284: payments, the new statement also protects against certain scams. For example, one known scam
+L1285: 
+L1286: is to offer a service in which debt would be reprocessed by an intermediary such that the
+L1287: 
+L1288: consumer would pay off the loan faster by paying slightly more per month. To illustrate how
+L1289: 
+L1290: such a deal might appear attractive, we asked 74 undergraduate students to imagine that they put
+L1291: 
+L1292: $300 per month on a card for which they already owed $10,000 (with 17.9% APR). We told
+L1293: them that they paid $450 per month and that “At that rate it will take you 29 years to pay off the
+L1294: 
+L1295: $10,000.” The majority of participants (72%) said that they would be more likely than not to pay
+L1296: 
+L1297: a service $700 per month so that they would be debt-free in three years. However, in this
+L1298: 
+L1299: situation the three-year payoff amount is $661, which nets the intermediary a profit of $1,404 for
+L1300: 
+L1301: doing very little except for working out the math. The new statement protects against this scam
+L1302: by showing consumers more clearly what they can accomplish on their own.
+L1303: 
+L1304: However, as we have shown, the new statement is not perfect. Many individuals are still
+L1305: 
+L1306: prone to error when they are still using the card. In particular, the less numerate are more prone
+L1307: 
+L1308: to underestimation. Because numeracy is correlated with income and education, individuals who
+L1309: 
+L1310: have difficulty with the new statement are likely to be the same ones who will suffer the most
+L1311: 
+L1312: from mounting credit card debt.
+
