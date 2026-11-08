@@ -1,9 +1,33 @@
-# FinDRIFT researcher-side case template
-# This file is not participant-facing and must not be exported to the experiment UI.
+# Researcher-side FinDRIFT case record.
+# This file is private research material and must never be exported to the participant UI.
 
 case_id: ''
 scenario_id: ''
 version: '0.1'
+
+literature_source:
+  citation: ''
+  doi_or_url: ''
+  publication_year: ''
+  experiment_id: ''
+  source_location: '' # page, section, appendix, table, or supplement
+  source_material_status: pending # full_stimulus | partial_stimulus | described_only
+  participant_population: ''
+  original_task_format: ''
+  original_response_format: ''
+  source_files: []
+
+fidelity:
+  assessment: pending # direct_use | faithful_reproduction | minimal_adaptation | reject
+  rights_or_license_status: pending
+  adaptations:
+    - source_location: ''
+      element: ''
+      original_description: ''
+      adapted_description: ''
+      necessity: ''
+      rationale: ''
+      potential_impact: ''
 
 primary_axis_a:
   id: ''
@@ -16,8 +40,8 @@ primary_axis_b:
 secondary_metadata: []
 
 core_decision: ''
-
-reference_answer: ''   # A or B
+answerability_type: ''
+reference_answer: '' # A or B
 
 decision_rule: |
   # State the reproducible rule that determines the correct option.
@@ -31,16 +55,18 @@ derivation: |
 source_evidence:
   - source_id: ''
     title: ''
-    location: ''       # local file, official URL, section/page, etc.
-    supports: ''       # which fact/rule this source supports
+    location: ''
+    supports: ''
 
 assumptions:
   - ''
 
 review_status:
-  concept: pending
-  taxonomy: pending
   source: pending
+  original_task: pending
+  eligibility: pending
+  fidelity: pending
+  taxonomy: pending
   ground_truth: pending
   participant_material: pending
 
