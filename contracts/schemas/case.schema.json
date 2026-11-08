@@ -40,7 +40,7 @@
         "type": "string",
         "minLength": 1
       },
-      "minItems": 1
+      "minItems": 0
     },
     "options": {
       "type": "array",
@@ -107,7 +107,7 @@
         ],
         "additionalProperties": false
       },
-      "minItems": 1
+      "minItems": 0
     },
     "additional_information": {
       "type": "array",
@@ -170,7 +170,7 @@
         ],
         "additionalProperties": false
       },
-      "minItems": 1
+      "minItems": 0
     },
     "task": {
       "type": "string",
@@ -201,7 +201,7 @@
         ],
         "additionalProperties": false
       },
-      "minItems": 1
+      "minItems": 0
     },
     "legacy_source": {
       "type": "object",
