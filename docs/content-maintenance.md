@@ -62,17 +62,19 @@ YAML 中 `legacy_source` 是同步工具维护的上次对齐记录，正常编�
 
 ## 添加 FinDRIFT 新案例
 
-FinDRIFT 新案例采用 one-by-one 流程，完整规范见 [FinDRIFT Case Authoring](case-authoring.md)。
+FinDRIFT 新案例采用文献驱动、保真优先、one-by-one 流程，完整规范见 [FinDRIFT Case Authoring](case-authoring.md)。
 
-1. 先提出一个 Case Concept，并确认目标 Axis A、Axis B 与 Ground Truth 的可行性；
-2. 优先核验一手来源，再用 `research/templates/case.yaml` 完成研究者侧 reference answer、decision rule、derivation、source evidence 等字段；
-3. Ground Truth 通过人工审核后，才在 `cases/` 中建立目录，按 `contracts/examples/case.example.yaml` 创建 participant-facing `case.zh-CN.yaml`；参考文件路径相对案例目录，不写绝对路径或网站 URL；
-4. Participant-facing 内容继续严格遵守 `contracts/schemas/case.schema.json`，不得写入答案、Goal、taxonomy 或研究者推导；
-5. 在 `cases/catalog.yaml` 登记稳定 case_id、scenario_id、目录和语言入口；新 case 可使用 `legacy_mode: none`，无需人为生成旧中文 Markdown；原 20 例的中文 YAML 与 Markdown 继续保留 verify 配对；
-6. 在 `studies/对应实验.yaml` 的 tasks 中引用 case_id，使用独立稳定任务编号；需要本地编码验证时，在对应 fixtures 文件中加入任务 ID；
-7. 运行内容检查与材料编译。
+1. 先选择一篇可核验的实证文献，并定位具体 Experiment、原始任务说明、选项和刺激材料；
+2. 判断原始任务是否自然支持客观 A/B 决策。原始任务不是二分类时，不得机械转换；如果必须大幅改写才能形成稳定答案，放弃该候选；
+3. 用 research/templates/notes.md 记录文献来源、实验位置、原始任务、材料可获得程度、保真判断和逐项适配记录；
+4. 用 research/templates/case.yaml 完成研究者侧 taxonomy、reference answer、decision rule、required facts、derivation、source evidence 和 assumptions；
+5. Ground Truth 通过人工审核后，才在 cases/ 中建立新目录并创建英文 participant-facing case.en.yaml；新案例不生成中文副本；
+6. 原始论文、补充材料和 Ground Truth 证据默认保存在 research/<case_id>/sources/，不自动放入参与者可见的 references；
+7. 在 cases/catalog.yaml 登记稳定 case_id、scenario_id、目录和 en 语言入口；新 case 使用 legacy_mode: none，不要求创建旧 Markdown；
+8. 在 studies/对应实验.yaml 的 tasks 中引用 case_id，使用独立稳定任务编号；
+9. 运行内容检查、材料编译和前端验证。
 
-当前 Pilot 先逐个尝试 A1–A8 × B2（Risk & Uncertainty Evaluation），不要求为了填满矩阵强行保留不自然的案例。
+不预设 A×B 单元格生产任务或案例数量。taxonomy 在候选通过来源、客观性和 Ground Truth 审核后再标注。历史 20 个案例不属于本轮新案例生产范围，也不得修改。
 
 ## 添加英文版本
 
@@ -95,12 +97,12 @@ case_locales:
 
 ## 输入格式说明
 
-`case.schema.json` 定义所有允许字段，未知字段会报错。案例不包含 Profile、答案、Goal、参与者编码或作答。
+case.schema.json 定义所有允许字段，未知字段会报错。案例不包含 Profile、答案、Goal、参与者编码或作答。
 
-- `options` 需要各一个 A 和 B；`comparison.values` 按选项身份存储，与显示位置无关。
+- options 必须各有一个 A 和 B；comparison.values 按选项身份存储，与显示位置无关。
 - 金额、费率、日期、限制与例外作为完整原文字符串保存，避免自动解析导致单位或精度变化。
-- 背景及补充正文可用 YAML 的 `|` 多行格式，正文支持 Markdown。信息为空时显式写 `[]`，不要编造“无”。
-- `references` 以 document_id、标题和本地 PDF 路径维护。访问 URL、文件哈希与材料 revision 由工具生成。
+- 背景及补充正文可用 YAML 的多行格式，正文支持 Markdown。common_facts、comparison、additional_information、references 和 knowledge 没有对应内容时可以写 []，不要编造内容填充模板。
+- references 只保存参与者确实需要打开的文件；原始论文、补充材料和 Ground Truth 证据默认保存在研究者侧 sources 目录。访问 URL、文件哈希与材料 revision 由工具生成。
 - 同一列表中的稳定 ID 必须唯一。复制输入时保留案例身份，新增案例时分配新身份。
 - 重复 YAML 键、缺字段、错误类型、缺文件、路径越界、选项不完整都会阻止打包。
 
