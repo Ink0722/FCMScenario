@@ -1,6 +1,6 @@
 # FinDRIFT Case Authoring
 
-本文件将 FinDRIFT 主页面中的 Scenario 设计原则转化为仓库内可执行的案例生产规范。研究设计以 Notion 的 FinDRIFT 主页面为准；如主页面与本文件出现冲突，应先记录冲突并请求研究者确认，不得自行选择更宽松或更严格的一方。
+本文件将 FinDRIFT 主页面中的 Scenario 设计原则转化为仓库内可执行的案例生产规范。研究设计通常以 Notion 的 FinDRIFT 主页面为准；但对于研究者已明确批准、且尚未同步回 Notion 的更新要求，应以最新明确指令为准。本轮两个候选的重新评估采用本文件规定的 Literature-Grounded, Fidelity-Preserving Adaptation；若 Notion 旧文本仍有更严格的历史措辞，应记录待同步事项，不得据此恢复旧的自动拒绝规则。Ground Truth 的客观性要求仍然有效。
 
 ## 1. Scope
 
