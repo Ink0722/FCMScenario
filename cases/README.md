@@ -35,6 +35,7 @@ python tools/cases.py sync --case 01 --from markdown
 | `各案例/latex/` | 正式 PDF 编辑源，原程序不会被本次重构替换 |
 | `各案例/notes.md` | 原研究者说明，暂保留原路径；不导出给参与者 |
 | `research/templates/case.yaml` | FinDRIFT 新案例的研究者侧 Ground Truth、taxonomy、来源和审核记录模板 |
+| `research/templates/notes.md` | FinDRIFT 新案例的文献来源、原始任务、材料保真和适配记录模板 |
 
 ## 增加 FinDRIFT 新案例
 
