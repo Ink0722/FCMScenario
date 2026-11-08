@@ -19,7 +19,9 @@ Research-design authority:
 
 https://www.notion.so/3f63854bbee980fcb9d4d70502d06995
 
-For this reassessment, apply the revised policy in `docs/case-authoring.md`: **Literature-Grounded, Fidelity-Preserving Adaptation**. Do not revert to the previous rule that a non-binary original task should be rejected unless it naturally maps to A/B without any construct change.
+The researcher has explicitly approved a newer adaptation policy for this reassessment. If the Notion page or historical v3 wording still contains the older, more restrictive adaptation rule, treat that wording as pending synchronization and apply the latest approved policy in this prompt and `docs/case-authoring.md`. Do not silently restore the old automatic-rejection rule. The objective Ground Truth requirement remains unchanged.
+
+Apply **Literature-Grounded, Fidelity-Preserving Adaptation**. Do not reject a candidate merely because its original task was non-binary or because the full original questionnaire is unavailable; assess whether a transparent, evidence-based adaptation is feasible.
 
 ## 2. Revised Adaptation Policy
 
