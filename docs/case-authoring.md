@@ -1,147 +1,141 @@
 # FinDRIFT Case Authoring
 
-本页是 FCMScenario 中新增 FinDRIFT Scenario 的执行规范。研究设计以当前 FinDRIFT 方法页为准；本文件只把已确定原则转成仓库内可执行流程。
+本文件将 FinDRIFT 主页面中的 Scenario 设计原则转化为仓库内可执行的案例生产规范。研究设计以 Notion 的 FinDRIFT 主页面为准；本文件负责指导文献筛选、原始实验任务提取、必要适配、Ground Truth 审核和英文材料生成。
 
-## 1. 当前范围
+## 1. Scope
 
-FinDRIFT 核心 Benchmark 只纳入**客观可判定（objectively evaluable）**的 A/B 个人金融决策。
+- 新案例必须有可追溯的实证文献来源，优先选择行为科学、行为经济学、认知心理学、消费者金融与金融素养研究中的个人金融决策或欺诈相关实验。
+- 核心 Benchmark 只纳入具有稳定、可复核 reference answer 的客观 A/B 决策。
+- 新案例的参与者材料统一使用英文。
+- 采用 one-by-one 流程：一次只评估一个候选文献任务；只有当前候选不合格时，才进入下一个候选。
+- 本轮不处理历史 20 个案例，也不修改其文件。
+- 不预设案例数量，不按 A×B 矩阵格子分配生产任务。
 
-每个正式 Scenario 必须满足：
+## 2. Literature Source Requirements
 
-1. 有明确的 A/B 核心决策；
-2. 给定事实和约束后存在可复核的 reference answer；
-3. 答案可由计算、合同条款、资格规则、监管要求或其他明确依据推导；
-4. 推导答案所需的关键事实已经提供；
-5. 结论不依赖未观测的个人偏好、效用函数或未设定的未来状态。
+优先使用原始实证论文及其 Appendix、Supplementary Materials、实验问卷或作者公开的刺激材料。候选文献必须能够定位到具体实验和参与者实际完成的任务，而不能仅仅在理论上讨论相关现象。
 
-参与者可见内容继续使用现有 `contracts/schemas/case.schema.json` 和 `contracts/examples/case.example.yaml`。答案、Goal、taxonomy、推导与研究者审核信息不得写入 participant-facing case。
+每个候选记录：
 
-## 2. Taxonomy
+- 完整引文、DOI 或稳定 URL；
+- 实验编号及论文页码、表格、附录或补充材料位置；
+- 参与者群体和实验任务类型；
+- 原始刺激材料是否完整公开；
+- 原始任务的选项、回答方式和实验条件；
+- 研究者侧保存的论文、补充材料和相关证据文件。
 
-### Axis A — Primary Financial Decision Domain
+原论文为任务结构提供实证依据，但其参与者的多数选择、处理组差异或研究结论不构成 FinDRIFT 的 Ground Truth。
 
-- A1 Budgeting
-- A2 Managing Income and Expenditure
-- A3 Saving
-- A4 Investment
-- A5 Long-term Planning and Asset Building
-- A6 Retirement
-- A7 Credit
-- A8 Debt and Debt Management
+## 3. Eligibility Check
 
-Primary A 由“用户最终在决定什么”确定。
+候选任务必须同时满足：
 
-### Axis B — Primary Decision Challenge
+1. 能识别一个明确的个人金融核心决策；
+2. 原始任务本身优先为 A/B；非二元任务只有在能够自然形成二元决策且不改变研究构念时才可考虑；
+3. 给定事实和约束后存在唯一或稳定的可复核 reference answer；
+4. 答案可由明确规则、计算、合同条款、资格要求或独立金融证据推导；
+5. 推导所需的关键事实已在材料或允许的证据环境中提供；
+6. 不依赖未观测的个人偏好、效用函数或未设定的未来状态；
+7. 可以在不实质改变原任务的情况下适配 FinDRIFT。
 
-- B1 Cost, Terms & Contract Evaluation
-- B2 Risk & Uncertainty Evaluation
-- B3 Rules, Rights & Protection Evaluation
-- B4 Information & External Context Evaluation
+以下情况原则上拒绝进入核心 Benchmark：
 
-Primary B 由“Ground Truth 最依赖哪一类判断”确定。若同时涉及多个 challenge，只选最具决定性的一个，其余作为 secondary metadata / tags。
+- 任务要求连续金额分配、概率估计或多维偏好排序，且没有自然的二元决策；
+- A/B 只能通过研究者任意选择阈值或加入未设定偏好才能形成；
+- 原始实验任务无法定位，且论文描述不足以可靠复现；
+- 适配会改变任务构念、关键条件、决策难度或正确答案。
 
-## 3. Pilot：先做 A1–A8 × B2
+若候选不合格，记录具体原因并停止当前候选，不要通过大幅改写将其“修成”合格案例。
 
-当前预实验先从 Axis B 的 **B2 Risk & Uncertainty Evaluation** 开始，逐个尝试 A1–A8。
+## 4. Preservation and Adaptation
 
-B2 必须满足额外约束：**正确答案不能建立在用户个人风险偏好上。** 不得以“更稳妥”“更适合风险厌恶者”“更愿意承担风险”等未观测偏好直接决定 reference answer。
+**Preserve by default; modify only when necessary.**
 
-可接受的客观化方式包括：给定最大损失或资金缺口阈值、最低保障要求、明确概率与损失、既定流动性约束、明确风险覆盖标准等。应满足：
+默认保留原始任务的情境、信息、选项、数字、金额、利率、期限、概率、限制、例外和关键措辞。
 
-```
-Facts + explicit risk criterion -> reproducible reference answer
-```
+不得仅为了缩短文本、方便排版或提高表面可读性而：
 
-而不是：
+- 删除原始刺激中的信息；
+- 改变金额、利率、期限、概率或其他数值；
+- 删除可能影响决策的条件、限制或例外；
+- 重写选项，使其含义或吸引力发生变化。
 
-```
-Facts + unknown personal risk preference -> choice
-```
+仅在以下情形考虑修改：
 
-## 4. One-by-one 工作流
+1. 原始任务需要被映射为 FinDRIFT 的 A/B 选择，且该映射不改变原构念；
+2. 为使 reference answer 可复核，必须补充一个来源明确、现实合理且不会改变任务性质的必要条件；
+3. 为适配前端而进行不改变信息含义的格式调整或忠实翻译。
 
-每次只处理一个 A × B 组合。不要一次批量生成多个正式案例。
+每项修改都必须记录：原文位置、原始内容、修改后内容、修改原因、为什么不可避免，以及可能影响。若某项改动可能改变决策逻辑或答案，应优先放弃该候选。
 
-### Step 1 — Case Concept
+直接复用原始刺激材料前，应核实许可或合理使用依据；如不能直接复用，应采用忠实改写，保留关键事实、数字和决策结构，并记录改写。
 
-先提出一个候选构思，只回答：
+## 5. One-by-One Workflow
 
-- 现实中的核心金融决策是什么；
-- 为什么 Primary A 属于目标 Domain；
-- 为什么 Primary B 是目标 Challenge；
-- Ground Truth 如何可能成立；
-- 需要哪些可核验来源。
+每轮只处理一个候选，按以下顺序执行：
 
-此阶段**不要创建 participant YAML**。
+1. **Candidate identification：**找到一篇具体实证文献，并定位其中一个实验任务；此阶段不创建 participant-facing YAML。
+2. **Original-task extraction：**记录原始实验编号、参与者任务、刺激材料、选项、回答方式和原始材料可获得程度。
+3. **Eligibility review：**判断任务是否自然形成客观 A/B 决策；如果不满足，记录原因并停止当前候选。
+4. **Ground Truth first：**先完成 reference answer、decision rule、required facts、derivation、source evidence 和 assumptions，并通过人工审核。
+5. **Taxonomy：**Ground Truth 明确后，再确定 Primary A、Primary B 和 secondary metadata；不为填满矩阵而选题或改标签。
+6. **Fidelity-preserving adaptation：**仅进行必要的翻译、界面格式映射或最小内容调整，并逐项记录。
+7. **Participant material：**审核通过后，才创建英文 case.en.yaml。
+8. **Validation：**运行 Schema、内容、Loader 和前端检查，再进行人工复核。
 
-### Step 2 — Taxonomy & Feasibility Check
+如果候选失败，不要同时生成多个替代案例；先明确失败原因，再开始下一个候选。
 
-检查：
+## 6. Case Artifacts and Information Separation
 
-- A 是否由最终决策对象决定，而不是由产品名称决定；
-- B 是否真的是 Ground Truth 的主要判断来源；
-- 是否存在隐藏偏好、未给定未来状态或其他导致答案不唯一的问题。
+推荐文件布局：
 
-若不能自然满足，停止当前构思并重新设计；不要为了填矩阵硬改标签。
+- cases/21_<slug>/case.en.yaml：参与者可见的英文材料；
+- research/21/case.yaml：结构化研究者记录，包含来源、taxonomy、Ground Truth 和审核状态；
+- research/21/notes.md：原始实验任务梳理、保真判断和逐项适配记录；
+- research/21/sources/：原始论文、补充材料和 Ground Truth 证据。
 
-### Step 3 — Source Verification
+后续案例按仓库实际分配的稳定 case_id 建立目录，不要复用历史案例 ID。
 
-优先使用官方合同、费用披露、监管文件、政府/机构规则或其他一手资料。不得编造条款、概率、数字、来源或审核结果。
+## 7. Participant-facing YAML Conventions
 
-### Step 4 — Ground Truth First
+- locale 必须为 en。
+- 必须有两个且仅有两个选项，ID 分别为 A 和 B。
+- Background、Facts、Options 和 Decision Task 按原始任务实际内容组织。
+- 不存在的 common_facts、comparison、additional_information、references 或 knowledge 使用空列表，不得编造内容。
+- 没有自然比较维度时，不强制创建比较表；使用 cards 展示 A/B 选项。
+- 原始论文、补充材料和研究者证据默认只保存在研究者侧，不自动放入参与者可见的 references。
+- references 仅用于参与者确实需要打开的文件，不承担研究者文献追溯功能。
+- 不得包含 reference answer、隐藏 Goal、taxonomy、研究者推导或参与者数据。
 
-先按 `research/templates/case.yaml` 填写研究者侧材料，至少完成 reference answer、decision rule、required facts、derivation、source evidence 和 assumptions。
+## 8. Review and Validation
 
-Ground Truth 未通过人工审核前，不进入正式 participant material 编写。
+逐项检查：
 
-### Step 5 — Participant-facing Case
+- 文献来源与具体实验可追溯；
+- 原始任务材料的可获得程度明确；
+- A/B 结构自然，选项真实且可执行；
+- Ground Truth 独立、稳定、可复核；
+- 没有遗漏会改变答案的重要事实；
+- 适配记录完整且没有实质改变构念；
+- 英文材料忠实于原任务；
+- 没有泄露答案、Goal 或研究者信息；
+- 使用许可或改写依据已记录；
+- Schema、Loader、前端和内容检查通过。
 
-Ground Truth 通过后，才按照 `contracts/examples/case.example.yaml` 创建 `case.zh-CN.yaml`。参与者材料保持中性、A/B 对称，不泄露答案、Goal、taxonomy 或研究者推导。
+审核状态使用：approved、revise、reject。局部问题优先修订当前候选；只有候选本身不成立时才开始下一个。
 
-### Step 6 — Validation & Human Review
+## 9. Codex Task Prompt
 
-至少检查：
+每轮只交给 Codex 一个候选文献任务：
 
-- A/B 是否真实可执行；
-- 关键信息是否完整；
-- reference answer 是否可独立复核；
-- A/B 表述是否中性、对称；
-- participant material 是否泄露答案；
-- taxonomy 是否自然；
-- 来源、版本和推导是否可追踪；
-- 仓库现有内容检查是否通过。
+- Read docs/case-authoring.md, research/PILOT_STATUS.md, research/templates/case.yaml, and research/templates/notes.md.
+- Read contracts/schemas/case.schema.json and contracts/examples/case.example.yaml.
+- Identify the original experiment, exact source location, task format, stimulus availability, participant-facing instructions, options, and response format.
+- Assess whether it naturally supports an objective A/B decision.
+- Do not create participant-facing YAML before the source, eligibility, and Ground Truth have passed review.
+- Preserve the original task by default. Do not shorten it, change numerical values, or remove conditions unless a specific change is strictly necessary. Log every adaptation and its rationale.
+- If the task cannot support a stable, independently reproducible reference answer without materially changing the original task, reject the candidate and explain why. Do not force it into an Axis A × Axis B cell.
 
-状态只使用：`approved`、`revise`、`reject`。局部问题优先修订当前 case；只有构思本身不成立时才生成第二个候选。
+## 10. Workspace Startup
 
-## 5. 推荐给 Codex 的单例任务格式
-
-```
-阅读 docs/case-authoring.md、contracts/schemas/case.schema.json、
-contracts/examples/case.example.yaml 和 research/templates/case.yaml。
-
-本轮只处理一个候选：
-Primary A = <A1-A8>
-Primary B = B2 Risk & Uncertainty Evaluation
-
-先完成 Case Concept、taxonomy justification、Ground Truth 设计和来源需求。
-不要创建 participant-facing YAML。
-如果无法在不依赖个人风险偏好的情况下形成稳定、可复核的 reference answer，
-明确判定该构思失败，不要强行继续。
-```
-
-第一个 Pilot case 从 **A1 Budgeting × B2 Risk & Uncertainty Evaluation** 开始。
-
-## 6. Workspace Startup
-
-新的 Codex / 工作区开始案例工作时，不依赖聊天历史。先读取：
-
-1. `docs/case-authoring.md`
-2. `research/PILOT_STATUS.md`
-3. `research/templates/case.yaml`
-4. `contracts/schemas/case.schema.json`
-5. `contracts/examples/case.example.yaml`
-
-以 `research/PILOT_STATUS.md` 确定当前要处理的 A × B 组合和阶段。完成一个阶段后，只更新必要的研究材料和状态文件；不保存聊天记录或额外过程日志。
-
-如果状态文件与本规范冲突，以本规范为准；如果仓库执行规范与当前 FinDRIFT 研究设计冲突，应先停止生成并同步研究设计，不自行改写研究原则。
-
+新工作区开始前先读取本文件、research/PILOT_STATUS.md 和两个研究者模板。以 Pilot Status 确定当前候选和阶段；不依赖聊天记录，不批量生成案例。每完成一个候选，只更新对应研究记录和必要的状态文件。
