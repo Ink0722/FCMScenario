@@ -36,8 +36,10 @@ python tools/cases.py sync --case 01 --from markdown
 | `各案例/notes.md` | 原研究者说明，暂保留原路径；不导出给参与者 |
 | `research/templates/case.yaml` | FinDRIFT 新案例的研究者侧 Ground Truth、taxonomy、来源和审核记录模板 |
 
-## 增加新案例
+## 增加 FinDRIFT 新案例
 
-FinDRIFT 新案例先按 [FinDRIFT Case Authoring](../docs/case-authoring.md) 完成 Case Concept、taxonomy、来源和 Ground Truth 审核；通过后再参考 `contracts/examples/case.example.yaml` 编写 participant-facing YAML，登记 catalog，并在 `studies/对应实验.yaml` 引用它。新案例可使用 `legacy_mode: none`，无需为了旧解析器另写一份中文 Markdown；这不改变原 20 例保留、核对旧格式的规则。
+新案例采用文献驱动、保真优先、one-by-one 流程。先定位原始实证研究中的具体实验任务，再审核客观 A/B 结构和 Ground Truth；通过后才创建英文 case.en.yaml。研究者侧同时保存 case.yaml、notes.md 和 sources/，分别记录结构化答案依据、原始任务与适配记录、论文及证据文件。
 
-作者填写参考文件的相对路径，不填写最终网站地址、文件哈希、答案、Goal、参与者编码或完成状态。每个 case 的选项 ID 与术语／比较项 ID 在翻译和调整展示顺序时保持稳定。
+原始论文和补充材料默认只保存在研究者侧，不自动展示给参与者。没有自然比较维度或其他可选内容时，对应字段使用空列表，不得为了填充 UI 而编造信息。新案例登记到 catalog.yaml 时使用英文语言入口和 legacy_mode: none。
+
+历史 20 个案例的中文 YAML、Markdown、PDF、Notes 和 LaTeX 继续保留原状，不属于本轮新案例生产范围。
