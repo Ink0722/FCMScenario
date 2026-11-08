@@ -85,6 +85,8 @@ StartedTask.progress 包含 activeTurn、revision 和已保存消息。刷新后
 `q` 也接受界面显示的 `FCM · XXXXXXXX`（大小写及分隔空白兼容），按其中 UUID 前八位查询。参与记录和测试码导出增加可选 `configRef`（64 位十六进制）与 `unnamed=true` 范围，供批次配置分组精确下钻；未指定时维持原有行为。`GET /health` 保留 HTTP 存活响应，新增独立 `experimentReady` 与 Worker 状态。
 
 - POST /api/v1/admin/settings：`{requestId,revision,environmentName,notes,models:[{id,label,baseUrl,modelName,apiKey?,clearApiKey?}]}`。保存环境元信息与模型连接列表（可为空、最多 50 个；id 唯一），返回与 GET /settings 相同结构。apiKey 省略/null/空串表示保留，clearApiKey=true 删除，二者不能同时提交非空值。Base URL 仅接受 HTTP(S)，禁止内嵌凭据、查询与片段，不在保存时调用外部服务。revision 冲突返回 409，原 requestId/正文重试不重复更新。配置与审计在同一事务提交；原密钥只在专用加密字段保存，不写明文日志、作业摘要或审计。运行信息始终反映实际服务，保存模型配置不会把 runtime.mode 改为真实模型。
+- GET /api/v1/admin/advisor-prompts：返回 `{revision,updatedAt,runtimeRef,config,defaults,toolSchemas,runtime}`。config 包含七项 prompt 文本、当前 strategies（id/name/definition/boundary/execution_prompt）和 tools（name/description）；defaults 为文件默认文本，toolSchemas 与 runtime 为只读参数与上限。
+- POST /api/v1/admin/advisor-prompts：`{requestId,revision,config}`，返回与 GET 相同的当前配置。保持现行策略 ID 集合与三个工具名，Goal 保留 `{target}`，禁止额外字段及参数结构/额度变更。文本与每次保存的版本、审计同事务持久化；并行 revision 冲突和同编号异文返回 409，同编号原文重试返回当前版本且不重复保存。新模型冻结引用同次读取的运行配置；变化后的新版本需重新验证，既有预览与批次不变。接口不调用供应商，沿用管理授权及 CSRF。
 - POST /api/v1/admin/code-preview：{taskCodes,maxTurns,modelId?} → 冻结 configRef 与安排预览。modelId=null/省略为确定性；提供 ID 时冻结所选连接的独立私有工件并返回安全元信息。响应包含 model、runtimeMode、canIssue、readinessMessage；真实模型为 agent，只有相同连接/凭据/运行版本通过 Advisor 验证后创建的新预览 canIssue=true；旧预览不追溯开放。确定性为 deterministic/canIssue=true。中测任务不能发布。
 - POST /api/v1/admin/codes：`{requestId,configRef,groups:[{condition:"neutral"或"goal",count}],batchId?,expiresAt?}` → 可重复获取的 codes 与 participant IDs。groups 必填，1–2 项、条件不可重复，每组至少 1、合计最多 1000。
 - POST /api/v1/admin/participants/{participantId}/rotate 或 /cancel：{requestId}。

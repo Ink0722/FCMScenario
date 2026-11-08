@@ -14,7 +14,7 @@ import httpx2
 from openai import OpenAI
 from sqlalchemy import select, text
 
-from .advisor_config import CALL_KIND, TURN_KIND, VALIDATION_KIND, descriptor, readiness_key
+from .advisor_config import CALL_KIND, TURN_KIND, VALIDATION_KIND, PREPARE_INSTRUCTION, descriptor, readiness_key
 from .db import Assignment, Job, Task, now
 from .model_runtime import CAP_NANO, INPUT_NANO, OUTPUT_NANO, budget, lock, supported
 from .service import Problem, aware, fail, fingerprint, stamp
@@ -448,7 +448,7 @@ class AdvisorRuntime:
                 if time.monotonic() - started > prompt['max_turn_seconds']:
                     raise ProtocolError('turn_time_limit')
                 stage = 'reply' if selected else 'prepare'
-                phase_instruction = prompt['reply'] if selected else 'Current phase: preparation. Inspect relevant materials if needed, then call select_strategy for this turn. Do not give the public reply yet.'
+                phase_instruction = prompt['reply'] if selected else prompt.get('prepare', PREPARE_INSTRUCTION)
                 request = {'model': connection['modelName'], 'instructions': instructions + '\n\n' + phase_instruction,
                            'input': deepcopy(history), 'store': False, 'reasoning': prompt['reasoning'],
                            'include': ['reasoning.encrypted_content'], 'max_output_tokens': prompt['max_output_tokens'],

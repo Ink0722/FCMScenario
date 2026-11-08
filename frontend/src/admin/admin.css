@@ -317,6 +317,48 @@
 .admin-preview-result p { margin-top: 7px; }
 .admin-preview-result .admin-technical { padding: 12px 0 0; }
 @media (max-width: 1000px) { .admin-settings-layout { grid-template-columns: 1fr; } }
+
+/* Prompt maintenance uses the same compact workspace controls. */
+.admin-prompts .admin-info { line-height: 1.8; }
+.admin-prompt-tabs { display: flex; flex-wrap: wrap; gap: 4px; padding: 0 var(--admin-inset) 10px; border-bottom: 1px solid #e8eee7; }
+.admin-prompt-tabs button { display: inline-flex; align-items: center; gap: 7px; padding: 6px 10px; border: 1px solid transparent; border-radius: 5px; background: transparent; color: #718273; font-size: 12px; cursor: pointer; }
+.admin-prompt-tabs button[aria-pressed="true"] { background: #edf3e9; border-color: #dae5d5; color: #355c42; font-weight: 600; }
+.admin-prompt-tabs button span { font-size: 10px; font-variant-numeric: tabular-nums; color: #82917a; }
+.admin-prompt-layout { display: grid; grid-template-columns: 220px minmax(0, 1fr); min-height: 400px; }
+.admin-prompt-list { display: flex; flex-direction: column; gap: 3px; background: #fafcf8; padding: 8px; border-right: 1px solid #e8eee7; }
+.admin-prompt-list button { display: flex; flex-direction: column; gap: 3px; width: 100%; text-align: left; padding: 8px 9px; border: 1px solid transparent; border-radius: 4px; background: transparent; color: #6d7c70; cursor: pointer; overflow-wrap: anywhere; font-size: 12px; line-height: 1.5; }
+.admin-prompt-list button[aria-pressed="true"] { background: #eaf1e5; border-color: #dbe6d5; color: #36573e; }
+.admin-prompt-list button small { color: #889581; font-size: 10px; }
+.admin-prompt-list code { color: #466347; font-size: 11px; margin-right: 3px; }
+.admin-prompt-editor { padding: 14px var(--admin-inset); min-width: 0; }
+.admin-prompt-editor-heading { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin-bottom: 12px; }
+.admin-prompt-editor-heading h3 { font-size: 13px; font-weight: 600; color: #36543f; }
+.admin-prompt-editor-heading p { font-size: 11px; color: #819080; line-height: 1.7; margin-top: 4px; }
+.admin-prompt-editor-heading > button { flex-shrink: 0; font-size: 11px; }
+.admin-prompt-fields { padding: 0; border: 0; min-width: 0; display: grid; gap: 10px; }
+.admin-prompt-fields textarea { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; line-height: 1.7; padding: 8px 10px; tab-size: 2; }
+.admin-prompt-field-meta { display: flex; justify-content: space-between; gap: 8px; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+.admin-prompt-field-meta small { font-family: inherit; }
+.admin-prompt-fields textarea.admin-prompt-text { min-height: 300px; }
+.admin-prompt-footer { padding: 10px var(--admin-inset); margin: 0; background: #fafcf8; }
+.admin-prompt-runtime { display: flex; flex-wrap: wrap; gap: 7px 18px; font-size: 10px; color: #83917c; padding-inline: 2px; }
+.admin-prompt-runtime code { overflow-wrap: anywhere; }
+.admin-prompt-context { padding: 10px var(--admin-inset); font-size: 11px; color: #7b8b77; line-height: 1.8; }
+.admin-prompt-context summary, .admin-prompt-schema summary { cursor: pointer; }
+.admin-prompt-context p { margin-top: 8px; }
+.admin-prompt-schema { font-size: 11px; color: #7b8b77; }
+.admin-prompt-schema pre { max-height: 220px; overflow: auto; padding: 10px; margin-top: 8px; border: 1px solid #e4ebdf; border-radius: 4px; background: #fafcf8; font-size: 11px; }
+@media (max-width: 850px) {
+  .admin-prompt-layout { grid-template-columns: 165px minmax(0, 1fr); }
+  .admin-prompt-editor-heading { flex-wrap: wrap; }
+}
+@media (max-width: 620px) {
+  .admin-prompt-layout { grid-template-columns: minmax(0, 1fr); }
+  .admin-prompt-list { flex-direction: row; overflow-x: auto; border-right: 0; border-bottom: 1px solid #e8eee7; }
+  .admin-prompt-list button { min-width: 130px; max-width: 200px; flex: 0 0 auto; }
+  .admin-prompts .admin-panel-heading { flex-wrap: wrap; }
+  .admin-prompt-fields textarea.admin-prompt-text { min-height: 250px; }
+}
 .admin-quota-history-filter { max-width: 200px; margin: 10px 14px; }
 .admin-allocation-distribution { margin: 10px 14px; }
 .admin-allocation-distribution > summary { cursor: pointer; color: var(--admin-text, #29443e); font-weight: 600; padding-block: 6px; }

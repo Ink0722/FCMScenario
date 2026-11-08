@@ -75,8 +75,9 @@ class ContentStore:
             payload['runtime_mode'] = 'agent'
             payload['model_ref'] = f'configured:{model["configRef"]}'
             from .advisor_config import descriptor
-            runtime = descriptor()
-            payload['advisor'] = {'protocol': runtime['protocol'], 'runtimeRef': self.freeze(runtime),
+            runtime_ref = model.get('advisorRuntimeRef') or self.freeze(descriptor())
+            runtime = self.get(runtime_ref)
+            payload['advisor'] = {'protocol': runtime['protocol'], 'runtimeRef': runtime_ref,
                                   'scope': 'local-materials-pilot'}
         # No research conclusions or target rules are inferred from author notes.
         return payload

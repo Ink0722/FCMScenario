@@ -25,6 +25,7 @@ from .model_runtime import history as model_history, reconcile as reconcile_mode
 from .operations import worker_status
 from .batches import batches as read_batches
 from .allocation import AllocationService
+from .advisor_settings import AdvisorTextUpdate, read as read_advisor_text, save as save_advisor_text
 
 from jsonschema import Draft202012Validator
 
@@ -459,6 +460,16 @@ def create_app(settings=None):
             raise Problem(422, 'invalid_input', '替换 API Key 与删除 API Key 不能同时进行。')
         with database.transaction() as session:
             return environment.save(session, body.requestId, body.model_dump(exclude={'requestId'}))
+
+    @app.get('/api/v1/admin/advisor-prompts', dependencies=[Depends(admin)])
+    def advisor_prompts():
+        with database.transaction() as session:
+            return read_advisor_text(session)
+
+    @app.post('/api/v1/admin/advisor-prompts', dependencies=[Depends(admin)])
+    def update_advisor_prompts(body: AdvisorTextUpdate):
+        with database.transaction() as session:
+            return save_advisor_text(session, body.requestId, body.model_dump(exclude={'requestId'}))
 
     @app.post('/api/v1/admin/models/probe', dependencies=[Depends(admin)])
     def probe_model(body: ProbeModel):

@@ -1,4 +1,18 @@
 export interface ResearcherSession { actor: string; expiresAt: string; csrfToken: string }
+export type PromptField = 'instructions' | 'neutral' | 'goal' | 'prepare' | 'reply' | 'opening' | 'resource_policy';
+export interface AdvisorText {
+  prompt: Record<PromptField, string>;
+  strategies: { id: string; name: string; definition: string; boundary?: string; execution_prompt?: string }[];
+  tools: { name: string; description: string }[];
+}
+export interface AdvisorPrompts {
+  revision: number; updatedAt: string | null; runtimeRef: string;
+  config: AdvisorText; defaults: AdvisorText;
+  toolSchemas: { name: string; parameters: unknown; strict: boolean; description: string }[];
+  runtime: { protocol: string; providerAdapter: string; materialExtractor: string; promptVersion: string;
+    toolboxVersion: string; maxModelCallsPerTurn: number; maxMaterialCallsPerTurn: number; maxOutputTokens: number;
+    reasoning: { effort: string; summary: string } };
+}
 export interface ModelProfile {
   id: string; label: string; baseUrl: string; modelName: string; hasApiKey: boolean;
   configured: boolean; runtimeReady: boolean; probeSupported: boolean;

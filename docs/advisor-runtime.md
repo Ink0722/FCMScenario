@@ -17,13 +17,21 @@
 
 - `read_material`：每次最多 3 页、18,000 字符，包含原始页码、截断和文本可用状态。
 - `search_material`：按材料语言的中英文关键词检索，最多 3 个页片段、每片段 4,000 字符；没有 OCR、语义检索或外部检索。PDF 按 SHA256 和解析器版本缓存为校验后的派生工件，优先保留表格布局；源文件改变会拒绝旧缓存。未命中不代表不存在相关事实。
-- `select_strategy`：只接受一个 S00–S14 ID。策略目录来自 [Notion ToolBox](https://app.notion.com/p/3fa3854bbee980c39c9be3be940a4bb7)，冻结源和版本。正式回复前先提交；无效/重复策略或不合协议的工具调用中断并保留证据，不补造 S00。
+- `select_strategy`：只接受当前目录中的一个 ID。现行英文目录为 S00、S01–S10、S14，来自 [Notion ToolBox](https://app.notion.com/p/4083854bbee98128a55ff516d725fdec)，包含 definition、boundary 和 execution_prompt；可选参数随目录生成，冻结源和版本。正式回复前先提交；无效/重复策略或不合协议的工具调用中断并保留证据，不补造 S00。
 
 每轮最多 4 次模型生成、2 次材料调用；第三次模型调用仍在准备时强制提交策略，保留第四次生成正式回复。资料不足须说明限制。正式回复关闭全部工具；准备文本、工具结果、原生摘要及策略只供研究者回放，不进入参与者公共快照。
 
 模型输入白名单包括公开案例、实际展示顺序、完整策略目录和当前 attempt 的对话/工具历史。Goal 额外包含固定目标，Neutral 不发送后台比较目标。Profile、前测/最终判断、研究者 Notes、研究参考答案和其他人的数据不进入模型。重做产生新 attempt 并隔离上下文。使用完整手动历史、`store=false`，不依赖供应商保存的会话或 `previous_response_id`。
 
 Prompt、完整工具 JSON 和目录分别维护于 `backend/config/advisor-prompt.json`、`advisor-tools.json`、`advisor-toolbox.json`，发布预览时冻结私有工件。Native reasoning 使用 medium，summary=auto；只保存实际返回的摘要，未返回标为 not_returned，不事后生成思维过程。依据 [OpenAI 官方推理与无状态历史说明](https://developers.openai.com/api/docs/guides/reasoning) 保留已完成的 encrypted_content，重放时移除 SDK 未设置的空字段并使用协议字段别名。准备/正式回复的阶段指令只放在当前请求 instructions，不写入长期历史；旧历史中的阶段 developer/system 指令在读取时剔除，实际供应商输出与工具结果保留。
+
+## 控制台编辑提示词
+
+研究控制台 → 提示词，可直接编辑七项对话文本：共同规则、Neutral、Goal、准备阶段、正式回复、开场白和材料使用规则；另外可编辑当前策略卡的名称、定义、分类边界、执行提示词，以及三个工具的说明。Goal 必须保留 `{target}`。策略编号、工具名、参数结构、材料权限、调用次数和费用上限由代码控制，不通过文字编辑器修改。
+
+JSON 文件提供部署默认值；控制台保存的文本在 `system_jobs.kind=advisor_text_settings` 中持久化，优先用于新配置，不回写代码文件。每次保存保留文本版本和审计，使用 revision 防止并行编辑覆盖，requestId 保证响应丢失后的重试不重复修改。页面支持未保存提醒、单项恢复文件默认值、撤销草稿与 JSON 导出；未确认保存可在同一标签页刷新后继续查询。保存不调用供应商。
+
+模型连接冻结时，同时冻结本次读取到的完整 Advisor 运行版本，普通预览、配额预览和 Advisor 验证均使用同一工件，避免读取设置后再冻结时混入另一版本。文本变化后，现有模型的验证状态会针对新版本重新计算；重新验证后才能发放该新版本。已创建的预览、批次、进行中的任务继续使用原冻结版本。旧冻结配置缺少 prepare 字段时保留原阶段指令，继续可执行。
 
 ## 额度与网络
 

@@ -54,12 +54,12 @@ class EnvironmentSettings:
     def models(self, session):
         return [self.model_status(session, model) for model in self.private(session)['models']]
 
-    def model_status(self, session, model):
+    def model_status(self, session, model, runtime=None):
         from .advisor_config import descriptor, digest, verified
         result = self.public_model(model)
         connection_ref = digest({'schema_version': 1, 'kind': 'model_connection', 'connection': model})
         result['runtimeReady'] = bool(supported(model) and model.get('apiKeyCiphertext')
-                                      and verified(session, connection_ref, digest(descriptor())))
+                                      and verified(session, connection_ref, digest(runtime if runtime is not None else descriptor(session))))
         return result
 
     def freeze_model(self, session, model_id, store):
@@ -70,7 +70,9 @@ class EnvironmentSettings:
         fail(model['baseUrl'] and model['modelName'], 'model_incomplete', '请先填写该模型的接口地址和模型名。', 422)
         # Private immutable snapshot retains the credential revision; no key enters preview responses.
         ref = store.freeze({'schema_version': 1, 'kind': 'model_connection', 'connection': model})
-        return {**self.model_status(session, model), 'configRef': ref}
+        from .advisor_config import descriptor
+        runtime = descriptor(session)
+        return {**self.model_status(session, model, runtime), 'configRef': ref, 'advisorRuntimeRef': store.freeze(runtime)}
 
     def read(self, session):
         saved = self.private(session)

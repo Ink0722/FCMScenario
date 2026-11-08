@@ -8,7 +8,7 @@
 | --- | --- |
 | `frontend/` | React / TypeScript 参与者页面、研究控制台、Gateway 与浏览器测试 |
 | `backend/app/` | FastAPI、业务服务、数据库、配置冻结、Advisor、Worker、回放和研究导出 |
-| `backend/config/` | Advisor Prompt、工具参数和 S00–S14 策略目录 |
+| `backend/config/` | Advisor Prompt、工具参数和当前策略目录的默认配置；控制台文本覆盖保存在数据库 |
 | `backend/migrations/` | Alembic 数据库升级脚本，属于运行依赖 |
 | `backend/runtime/` | 本地数据库、密钥与私有工件；不纳入 Git，不公开静态发布 |
 | `cases/` | 按稳定案例 ID 管理的参与者 YAML、保留的 Markdown、PDF 与 LaTeX |
@@ -77,7 +77,7 @@ Profile 每码一次，提交后才能开始任务。初始和最终判断均为
 
 真实 Advisor 已支持当前案例和冻结 PDF 的本地材料联调，由同一模型执行准备、资料工具、策略提交和正式回复。上下文白名单、策略协议、版本验证、累计预算和失败恢复见 [Advisor 运行说明](advisor-runtime.md)。当前不提供公网搜索、托管 File Search 或 Code Interpreter。
 
-研究控制台是独立 `admin.html`，始终访问真实管理 API。已提供登录、总览、发码、换码、取消、批次、配额方案、模型设置与验证、全部尝试回放及研究 ZIP 导出。管理端业务变更走授权服务并写审计，回放只读已存记录。接口见 [HTTP 协议](http-protocol.md)，分配与导出分别见 [配额随机分配](quota-allocation.md)、[研究导出](research-data-export.md)。
+研究控制台是独立 `admin.html`，始终访问真实管理 API。已提供登录、总览、发码、换码、取消、批次、配额方案、提示词与策略卡维护、模型设置与验证、全部尝试回放及研究 ZIP 导出。提示词编辑带版本与审计，影响新建配置；已冻结配置保持原文。管理端业务变更走授权服务并写审计，回放只读已存记录。接口见 [HTTP 协议](http-protocol.md)，分配与导出分别见 [配额随机分配](quota-allocation.md)、[研究导出](research-data-export.md)。
 
 测试码校验摘要与加密原码分开存储，只有授权管理接口返回原码；参与者凭据绑定身份、授权版本和期限。PDF 请求同样验证归属。数据库、工件和相应密钥需要一同备份；密钥不进入前端、公开 DTO 或研究导出。
 
