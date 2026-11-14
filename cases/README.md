@@ -1,46 +1,28 @@
 # 案例编辑入口
 
-每个案例保存在一个独立目录中，当前 20 例均已新增 `case.zh-CN.yaml`。这是当前中文内容的结构化版本，不是新设计或英文译写。原 `material.md`、`notes.md`、PDF 和 `latex/` 原路径保留。
+cases/ 只保存已经通过研究审核、可以进入参与者界面的正式案例。当前正式案例目录为空：正在编写的候选案例保存在 research/candidates/，通过 Ground Truth 和人工审核后，才建立正式目录并登记到 cases/catalog.yaml。
 
-完整操作见 [内容维护指南](../docs/content-maintenance.md)，字段规范见 [case.schema.json](../contracts/schemas/case.schema.json)。FinDRIFT 新案例采用 one-by-one 编写流程，执行规范见 [FinDRIFT Case Authoring](../docs/case-authoring.md)，研究者侧模板见 [research/templates/case.yaml](../research/templates/case.yaml)。
+## 新案例进入正式目录的顺序
 
-## 双格式过渡规则
+1. 在 research/candidates/<slug>/ 保存来源、原始任务、计算核对和英文草稿。
+2. 完成人工 Ground Truth 审核，不把研究者答案、目标条件或来源说明写进参与者 YAML。
+3. 在 cases/<case_id>_<short-name>/ 创建 case.en.yaml，只放参与者可见材料。
+4. 在 cases/catalog.yaml 登记 case_id、scenario_id、英文入口和 legacy_mode: none。
+5. 在 studies/<study>.yaml 增加 Task，再在本地 studies/fixtures/local-codes.yaml 配置开发编码。
+6. 运行 tools/check_content.py、tools/prepare_frontend.py、前端测试和构建。
 
-原 20 例在 `catalog.yaml` 中使用 `legacy_mode: verify`。构建同时读取 YAML 和 Markdown，逐项比较背景、共同条件、A/B 信息、补充资料、文件引用、任务、术语和选项。任一不一致即停止，不选择某一份“将就运行”，也不自动覆盖。
-
-在项目根目录激活 Conda `FCMScenario` 后，日常推荐编辑 YAML，再显式同步保留的 Markdown：
-
-```bash
-python tools/cases.py sync --case 01 --from yaml
-python tools/cases.py check
-```
-
-继续编辑原 Markdown 也受支持，改完后显式同步 YAML：
-
-```bash
-python tools/cases.py sync --case 01 --from markdown
-```
-
-同步工具记录上次对齐版本。两边都被修改时会拒绝覆盖，需先比较并合并；确认舍弃另一边的改动后才使用 `--force`。本轮初始转换没有重写任何原 Markdown、Notes、PDF 或 LaTeX。
+字段规范见 contracts/schemas/case.schema.json，完整作者流程见 docs/case-authoring.md。新案例默认使用英文，不创建未经审核的中文副本。
 
 ## 文件职责
 
-| 文件 | 如何维护 |
+| 文件或目录 | 作用 |
 | --- | --- |
-| `catalog.yaml` | 稳定案例 ID、目录、语言文件、兼容模式；新增案例从这里登记 |
-| `各案例/case.zh-CN.yaml` | 中文参与者内容；金融数值、单位、条件与例外按原文维护 |
-| `各案例/case.en.yaml` | 译审后的英文内容；当前 Case 01 已提供，其余不创建假英文副本 |
-| `各案例/material.md` | 原格式保留，20 例必须与 YAML 对齐 |
-| `各案例/*.pdf` | 原正式 PDF 保留原路径；后续新语言可使用 `documents/en/` |
-| `各案例/latex/` | 正式 PDF 编辑源，原程序不会被本次重构替换 |
-| `各案例/notes.md` | 原研究者说明，暂保留原路径；不导出给参与者 |
-| `research/templates/case.yaml` | FinDRIFT 新案例的研究者侧 Ground Truth、taxonomy、来源和审核记录模板 |
-| `research/templates/notes.md` | FinDRIFT 新案例的文献来源、原始任务、材料保真和适配记录模板 |
+| catalog.yaml | 正式案例的稳定 ID、目录、语言和版本入口 |
+| 各案例/case.en.yaml | 经审核的英文参与者材料 |
+| 各案例/*.pdf | 参与者需要查看的正式材料；文件路径由 YAML 引用 |
+| 各案例/notes.md | 仅在确有维护需要时保存的案例说明，不导出给参与者 |
+| research/candidates/ | 研究者侧候选、来源、Ground Truth 和审核记录 |
+| studies/ | 将正式案例组合成实验任务和测试码 |
+| frontend/public/materials/ | 编译产物，不是编辑源 |
 
-## 增加 FinDRIFT 新案例
-
-新案例采用文献驱动、保真优先、one-by-one 流程。先定位原始实证研究中的具体实验任务，再审核客观 A/B 结构和 Ground Truth；通过后才创建英文 case.en.yaml。研究者侧同时保存 case.yaml、notes.md 和 sources/，分别记录结构化答案依据、原始任务与适配记录、论文及证据文件。
-
-原始论文和补充材料默认只保存在研究者侧，不自动展示给参与者。没有自然比较维度或其他可选内容时，对应字段使用空列表，不得为了填充 UI 而编造信息。新案例登记到 catalog.yaml 时使用英文语言入口和 legacy_mode: none。
-
-历史 20 个案例的中文 YAML、Markdown、PDF、Notes 和 LaTeX 继续保留原状，不属于本轮新案例生产范围。
+旧 20 个案例及其研究资料已从活动工作树移除，完整旧版由 Git 标签 legacy-20-cases 保存。需要审计时查看标签或从标签创建临时工作树，不要把旧材料重新放回当前参与者目录。

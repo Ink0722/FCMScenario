@@ -20,7 +20,7 @@ export async function loadMaterials(signal?: AbortSignal): Promise<MaterialBundl
   const response = await fetch(`${base}materials/${manifest.snapshot}`, { signal });
   if (!response.ok) throw new Error(errors.materialsLoad);
   const bundle = await response.json() as MaterialBundle;
-  if (bundle.schema_version !== '1.0' || !bundle.shared || !bundle.scenarios?.length)
+  if (bundle.schema_version !== '1.0' || !bundle.shared || !Array.isArray(bundle.scenarios))
     throw new Error(errors.materialsInvalid);
   return bundle;
 }

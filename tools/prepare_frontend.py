@@ -57,7 +57,7 @@ def prepare(root=ROOT, study_file='studies/local-development.yaml'):
     write_if_changed(generated / 'study.json', config)
     write_if_changed(generated / 'profile.json', profile)
     print(f'Prepared {len(bundle["scenarios"])} verified cases and {len(pending_assets)} PDFs; '
-          'legacy content retained; study/profile configuration compiled.')
+          'participant materials compiled; no approved cases are currently configured.')
     return bundle
 
 

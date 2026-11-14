@@ -28,7 +28,7 @@
 - Attempt 是一次实际尝试，对应前端 `Session.id`。刷新、重连沿用原 attempt；放弃后重做创建新 attempt，历史记录保留。
 - 用户 `Message.id` 绑定该 attempt 的 turn，重复受理不创建新运行；供应商请求编号、业务 turn 编号和后台 job 编号分别保存。
 
-原 20 例继续核对 `case.zh-CN.yaml` 与 `material.md`。新案例或译审后的语言可按 catalog 使用 `legacy_mode: none`。42 份 PDF、对应 LaTeX 和研究者 Notes 保留原路径；新增英文材料可以放入 `documents/en/`。同步方向必须由作者明确指定，日常构建不覆盖源文件。
+当前工作树不再包含旧 20 例及其兼容索引。新案例通过 research/candidates/ 审核后，以英文 case.en.yaml 和 legacy_mode: none 进入 catalog；正式 PDF 只随参与者确需查看的材料进入 cases/。旧版由 Git 标签 legacy-20-cases 保存。
 
 ## 运行与数据流
 

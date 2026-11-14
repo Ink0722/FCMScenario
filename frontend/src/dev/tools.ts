@@ -12,7 +12,7 @@ const isObject = (value: unknown): value is Record<string, unknown> => !!value &
 export function resetLocalCode(storage: Storage, options: ResetCodeOptions = {}): ResetCodeResult {
   if (!isObject(options) || (options.code !== undefined && typeof options.code !== 'string')
     || (options.includeProfile !== undefined && typeof options.includeProfile !== 'boolean'))
-    throw new Error('Use resetCode({ code: "FCM-EN", includeProfile: true }) or resetCode().');
+    throw new Error('Use resetCode({ code: "FCM-EMPTY", includeProfile: true }) or resetCode().');
 
   const rawDatabase = storage.getItem(mockDatabaseKey);
   const parsed: unknown = JSON.parse(rawDatabase ?? 'null');
@@ -25,7 +25,7 @@ export function resetLocalCode(storage: Storage, options: ResetCodeOptions = {})
   const cachedToken = typeof cachedGrant?.accessToken === 'string' ? cachedGrant.accessToken : null;
   const currentCode = cachedToken ? database.grants[cachedToken]?.codeKey : undefined;
   const code = (options.code ?? currentCode ?? '').trim().toUpperCase();
-  if (!code) throw new Error('Enter a participant code first, or specify resetCode({ code: "FCM-EN" }).');
+  if (!code) throw new Error('Enter a participant code first, or specify resetCode({ code: "FCM-EMPTY" }).');
   if (!Object.hasOwn(study.codes, code)) throw new Error(`Unknown local development code: ${code}. No data was changed.`);
 
   const tokens = new Set(Object.keys(database.grants).filter(token => database.grants[token].codeKey === code));

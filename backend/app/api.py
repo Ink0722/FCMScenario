@@ -120,7 +120,7 @@ class ProbeModel(Command):
 
 
 class ValidateAdvisor(ProbeModel):
-    taskCode: str = Field(default='task-7k3m', min_length=1, max_length=128)
+    taskCode: str = Field(min_length=1, max_length=128)
     condition: Literal['neutral', 'goal'] = 'neutral'
     targetOptionId: Literal['A', 'B'] = 'A'
     turnCount: StrictInt = Field(default=1, ge=1, le=3)

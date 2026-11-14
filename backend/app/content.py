@@ -43,8 +43,8 @@ class ContentStore:
     def preview(self, task_codes, maximum=20, model=None):
         study = load_study(PROJECT, self.study_file)
         selected = [task for task in study['tasks'] if task['id'] in task_codes]
-        if len(selected) != len(task_codes) or not selected or len(set(task_codes)) != len(task_codes):
-            raise ValueError('Select a nonempty, unique list of configured tasks')
+        if len(selected) != len(task_codes) or len(set(task_codes)) != len(task_codes):
+            raise ValueError('Select a unique list of configured tasks')
         if any(task['probe_enabled'] for task in selected):
             raise ValueError('Intermediate measurements are disabled in the HTTP runtime')
         minimum = study['policy']['min_turns_before_end']

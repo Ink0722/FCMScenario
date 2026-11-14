@@ -101,6 +101,6 @@ SQLite 用于本地闭环，事务采用 BEGIN IMMEDIATE；PostgreSQL 使用安�
 
 管理端所有可读时间及 CSV 采用北京时间；到期输入按 UTC+8 解释。API 时间戳始终携带时区，SQLite 读出的无时区数据库值按 UTC 规范化，避免浏览器将其当成本地时间。测试码使用 HMAC 校验、Fernet 保存可解密原码，迁移为 0002；FCM_SECRET_KEY 与数据库须一并保留。
 
-管理 catalog、预览与任务摘要的 number 为案例的两位数编号（01–20）。底层 taskCode 和个人任务 UUID 保持稳定，不因显示编号变化重建研究记录。
+管理 catalog、预览与任务摘要的 number 来自案例 catalog。底层 taskCode 和个人任务 UUID 保持稳定，不因显示编号变化重建研究记录。
 
 模型连接列表读取会兼容旧版单 model 设置。发码接口继续服务端校验 runtime；未经完整 Advisor 验证的 agent 配置发码返回 409 runtime_not_ready，不创建参与者。真实运行和配置就绪校验见 [Advisor 运行说明](advisor-runtime.md)。

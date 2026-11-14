@@ -23,7 +23,7 @@ FCM_PYTHON=/path/to/python3.12 python3 tools/run_python.py tools/check_content.p
 
 | 要修改什么 | 编辑源 |
 | --- | --- |
-| 某个 case 的题干、背景、条件、比较信息、术语 | `cases/对应目录/case.zh-CN.yaml`，或经译审的 `case.en.yaml` |
+| 已审核 case 的题干、背景、条件、比较信息、术语 | `cases/对应目录/case.en.yaml`；候选阶段先编辑 `research/candidates/` |
 | FinDRIFT 新案例的生成流程 | `docs/case-authoring.md` |
 | FinDRIFT 新案例的来源、原始任务与适配记录 | `research/templates/notes.md` |
 | FinDRIFT 新案例的 Ground Truth、taxonomy、来源与审核 | `research/templates/case.yaml` 及对应研究者记录 |
@@ -37,29 +37,9 @@ FCM_PYTHON=/path/to/python3.12 python3 tools/run_python.py tools/check_content.p
 | PDF 内容 | 对应案例 `latex/`，使用原 PDF 编译工具 |
 | 答案、评分、原始来源、译审依据 | `research/`；原 notes.md 暂保留原路径 |
 
-## 修改一个已有案例
+## 修改一个正式案例
 
-原 20 例同时保留 Markdown 与 YAML，不能独立维护成两套不同内容。
-
-推荐工作方式：编辑 YAML 后显式同步 Markdown，再检查：
-
-```bash
-python tools/cases.py sync --case 01 --from yaml
-python tools/cases.py check --case 01
-python tools/check_content.py
-```
-
-如果你更习惯编辑原 `material.md`，改完后反向同步即可：
-
-```bash
-python tools/cases.py sync --case 01 --from markdown
-```
-
-`--from yaml` 表示保留 YAML 的修改；`--from markdown` 表示保留 Markdown 的修改。若两边都改过，工具会停止，先手工合并；明确要舍弃另一边修改时才加 `--force`。构建不会代你解决冲突。
-
-YAML 中 `legacy_source` 是同步工具维护的上次对齐记录，正常编辑不要手写哈希。同步不自动编译 PDF，不改 Notes 或研究者评分；改变金融事实时，需要按原流程同步核对相关 PDF 和研究依据。
-
-旧 Markdown 比较表不能容纳单元格内竖线和换行。YAML 虽能表达更复杂文本，verify 模式同步遇到此类内容会明确拒绝，不删字或猜测转义。新语言或新案例可使用没有旧格式配对的 none 模式。
+正式案例必须先通过研究审核，再进入 cases/。修改参与者可见文字、选项或文件时，同时更新审核记录和版本说明，并运行完整内容检查。旧 20 个案例已从当前分支移除；如需审计，使用 git worktree add /tmp/fcm-legacy legacy-20-cases 创建临时副本。
 
 ## 添加 FinDRIFT 新案例
 
@@ -75,7 +55,7 @@ FinDRIFT 新案例采用文献驱动、保真优先、one-by-one 流程，完整
 8. 在 studies/对应实验.yaml 的 tasks 中引用 case_id，使用独立稳定任务编号；
 9. 运行内容检查、材料编译和前端验证。
 
-不预设 A×B 单元格生产任务或案例数量。taxonomy 在候选通过来源、客观性和 Ground Truth 审核后再标注。历史 20 个案例不属于本轮新案例生产范围，也不得修改。
+不预设 A×B 单元格生产任务或案例数量。taxonomy 在候选通过来源、客观性和 Ground Truth 审核后再标注。旧 20 个案例不属于当前生产范围；如需查阅，只从 Git 标签恢复临时副本，不复制回当前工作树。
 
 ## 添加英文版本
 
@@ -84,17 +64,7 @@ FinDRIFT 新案例采用文献驱动、保真优先、one-by-one 流程，完整
 3. 新增英文语言可以用 `legacy_mode: none`，不要求另建旧 Markdown；原中文 verify 配对继续保留。
 4. 在实验配置中明确指定案例语言。`case_locale` 指定实验默认案例语言，可用 `case_locales` 按案例明确覆盖；所有引用任务都必须具有所指定的语言。
 
-当前本地配置默认 `zh-CN`，仅 Case 01 明确选择 `en`，方便逐个检查译文：
-
-```yaml
-case_locale: zh-CN
-case_locales:
-  '01': en
-```
-
-查看当前 Case 01 英文网页可使用本地测试码 `FCM-EN`。英文内容源为 `cases/01_Fund_Shares/case.en.yaml`，它不与中文 `material.md` 执行双格式同步。PDF 暂保留中文。同一案例的所有任务使用该实验中指定的同一语言，不按任务悄悄切换。
-
-程序不会静默回退语言。未纳入当前实验的已登记案例不会自动开放给参与者；前端打包只包含该实验 tasks 引用的案例。
+当前本地配置使用英文 UI；正式案例接入时在实验 YAML 中明确指定 case_locale: en。当前本地开发编码为 FCM-EMPTY，用于检查没有正式案例时的入口状态。正式案例接入后，编译器只导出实验 tasks 引用且语言已经审核的材料。程序不会静默回退语言。未纳入当前实验的已登记案例不会自动开放给参与者；前端打包只包含该实验 tasks 引用的案例。
 
 ## 输入格式说明
 

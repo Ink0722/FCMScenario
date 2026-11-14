@@ -120,7 +120,7 @@ class AdvisorRuntime:
                       timeout=httpx2.Timeout(25, connect=8),
                       http_client=httpx2.Client(trust_env=True, follow_redirects=False, timeout=httpx2.Timeout(25, connect=8)))
 
-    def validation(self, model_id, request_id, task_code='task-7k3m', condition='neutral', target='A', turn_count=1):
+    def validation(self, model_id, request_id, task_code, condition='neutral', target='A', turn_count=1):
         payload = {'modelId': model_id, 'taskCode': task_code, 'condition': condition, 'targetOptionId': target, 'turnCount': turn_count}
         with self.database.transaction() as session:
             if session.bind.dialect.name == 'postgresql':

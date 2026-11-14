@@ -12,11 +12,11 @@
 conda activate FCMScenario
 python -m pip install -r requirements.txt
 python -m backend.app.cli init
-python -m backend.app.cli issue --tasks task-7k3m --count 1 --output backend/runtime/issued-codes.json
+python -m backend.app.cli issue --tasks <task-id-from-studies> --count 1 --output backend/runtime/issued-codes.json
 python -m uvicorn backend.app.main:app --host 127.0.0.1 --port 8000 --no-access-log
 ```
 
-`init` 创建受控开发密钥文件并执行迁移，不清空数据库。`issue` 生成新的完整测试安排，测试码以可解密形式保存在数据库，并导出到指定文件；目标文件已存在时停止，避免覆盖。使用 `--condition neutral` 或 `--condition goal` 明确指定实验条件，CLI 默认 neutral。`task-7k3m` 是 Case 01 英文任务，可通过 `--tasks` 安排多个任务；默认上限 20，开发检查可使用 `--max-turns 3`。公开的 FCM-EN 等 Mock 编码不能登录 HTTP 后端。
+`init` 创建受控开发密钥文件并执行迁移，不清空数据库。`issue` 生成新的完整测试安排，测试码以可解密形式保存在数据库，并导出到指定文件；目标文件已存在时停止，避免覆盖。使用 `--condition neutral` 或 `--condition goal` 明确指定实验条件，CLI 默认 neutral。任务必须来自当前 studies 配置；当前正式案例为空，不能发放真实任务码。新案例审核并登记后，再用对应 Task ID 调用 `--tasks`。本地 FCM-EMPTY 只属于前端 Mock，不能登录 HTTP 后端。
 
 另开终端，运行 Worker（同时处理确定性和已验证的真实 Advisor）：
 
@@ -55,7 +55,7 @@ Worker 每 5 秒登记心跳，30 秒未续约显示离线；正常退出立即�
 - 批次管理：按批次名与冻结配置分别汇总人数、Neutral/Goal 数量、任务、模型及完成进度。同名但不同配置不会混在一起。查看参与记录、导出测试码均保留该配置范围；“复制配置”只预填新发放表单，保留人数/任务/轮数、重新确认当前模型，不复制原截止时间或访问凭据，不改写旧记录。
 - GPT 预设：运行 `python -m backend.app.cli configure-openai` 追加 GPT-5.4 mini 固定版本。设置页选择“GPT-5.4 mini（联调）”，填写 API Key 并保存后可点击“验证连接”。额度累计 $1，跨保存/模型/重启保留；请求前预占、有效用量后结算，结果不明保留预占、不自动重发。未提供真实 Key 时不产生费用。验证范围、额度与失败恢复见 [Advisor 运行说明](../docs/advisor-runtime.md)。
 - 整批模型选择：发码页默认“不使用模型”，确定性回复可直接发放；选注册模型时为整批统一选择。设置中通过“验证 Advisor”后，新预览可发放本地材料联调批次。未验证或旧预览仍被阻止，不会替换成确定性回复。验证绑定连接、密钥和 Prompt/工具版本。旧版单模型配置自动兼容，已冻结的模型连接版本不受后续编辑/移除影响。运行协议和验证要求见 [Advisor 运行说明](../docs/advisor-runtime.md)。
-- 任务编号：管理端统一显示案例两位数 `01`–`20`，任务选择采用紧凑数字网格，不另显示随机 TASK 编号；底层稳定任务 ID 和既有记录保持一致。
+- 任务编号：管理端统一显示 catalog 中登记的案例编号，任务选择采用紧凑数字网格，不另显示随机 TASK 编号；底层稳定任务 ID 和既有记录保持一致。
 - 研究导出：参与记录提供“导出研究数据 ZIP”，包含判断、全部历史尝试、策略、对话、工具、Token 与费用；沿用列表筛选，空值与 0 分开，开发配置和异常单独标记。说明见 [研究导出](../docs/research-data-export.md)。
 - 回放：参与记录 → 参与者 → 任务 → 切换历史尝试。显示初始/最终判断（包括 0 信心度）、消息、运行状态、事件和原始 JSON。回放只读，不重新调用 Worker 或模型；未产生的模型、工具和策略记录明确显示为空。
 
@@ -83,7 +83,7 @@ Worker 每 5 秒登记心跳，30 秒未续约显示离线；正常退出立即�
 
 ```bash
 docker compose --env-file backend/.env up --build
-docker compose --env-file backend/.env exec api python -m backend.app.cli issue --tasks task-7k3m --count 1 --output backend/runtime/issued-codes.json
+docker compose --env-file backend/.env exec api python -m backend.app.cli issue --tasks <task-id-from-studies> --count 1 --output backend/runtime/issued-codes.json
 docker compose --env-file backend/.env cp api:/app/backend/runtime/issued-codes.json backend/runtime/compose-issued-codes.json
 ```
 

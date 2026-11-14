@@ -6,7 +6,7 @@ ROOT=Path(__file__).resolve().parent.parent
 
 def main():
  parser=argparse.ArgumentParser(description=__doc__)
- parser.add_argument('cases',nargs='*',type=int,help='Case numbers; default: all 20')
+ parser.add_argument('cases',nargs='+',type=int,help='Case numbers to compile; specify explicitly')
  parser.add_argument('--document',help='Only this document ID, e.g. 14-02')
  parser.add_argument('--check',action='store_true',help='Compile into ignored build/ without replacing formal PDFs')
  args=parser.parse_args();selected=set(args.cases);records=[];found=False

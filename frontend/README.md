@@ -6,9 +6,9 @@ React / TypeScript / Vite 桌面前端。开发模式默认本地 Mock；HTTP �
 
 独立入口为 http://127.0.0.1:5173/admin.html ，实现位于 `src/admin/`，复用现有配色与字体，始终接真实管理 API。启动后端及登录口令的位置见 [后端运行说明](../backend/README.md#研究控制台)。
 
-已支持研究者登录/退出、真实总览、自选实验条件的一步批量发码、原码随时查看/复制/导出、换码/取消、参与记录分页筛选、Profile 与历史尝试回放。支持查看已退出的记录、0 信心度、部分消息和排队状态；未接入的模型/工具/策略不生成模拟轨迹。管理端不改写原始实验记录，所有业务变更走授权 API；凭证及原码不保存在 localStorage/sessionStorage 中。页面时间、到期时间输入、CSV 时间固定使用北京时间；本地默认登录口令为 `123456`。
+已支持研究者登录/退出、真实总览、自选实验条件的一步批量发码、原码随时查看/复制/导出、换码/取消、参与记录分页筛选、Profile 与历史尝试回放。支持查看已退出的记录、0 信心度、部分消息和排队状态；未接入的模型/工具/策略不生成模拟轨迹。管理端不改写原始实验记录，所有业务变更走授权 API；凭证及原码不保存在 localStorage/sessionStorage 中。页面时间、到期时间输入、CSV 时间固定使用北京时间；本地默认登录口令为 `123456`。当前正式案例为空时，管理端任务和 Advisor 验收会显示无可用案例。
 
-Vite 同时构建 `index.html` 和 `admin.html`；管理端使用哈希路由，不增加路由库。部署时同源代理 `/api` 并保留原始 Host。管理接口类型在 `src/admin/types.ts`，参与者公开契约仍在 contracts；管理字段不进入参与者 DTO。`tests/http-browser/admin.spec.ts` 通过独立真实数据库验证登录、发码下载、筛选、换码、取消、历史回放和响应丢失后的防重。
+Vite 同时构建 `index.html` 和 `admin.html`；管理端使用哈希路由，不增加路由库。部署时同源代理 `/api` 并保留原始 Host。管理接口类型在 `src/admin/types.ts`，参与者公开契约仍在 contracts；管理字段不进入参与者 DTO。`tests/http-browser/empty-study.spec.ts` 通过独立真实数据库验证没有正式案例时 HTTP 入口仍可启动。
 
 设置页（`#settings`）支持持久维护环境名称、备注、多个模型的显示名称、接口地址、API Key 与模型名，并展示当前运行信息。API Key 可留空保留、替换或删除，读接口不回显；发码页可为整批选择一个模型；不选时使用确定性回复；真实模型需通过 Advisor 验证，再创建新的预览并发放，旧批次继续使用其冻结配置。发码页任务区只显示 `01`–`20` 两位数，压缩为数字网格；管理端任务详情也使用相同编号。
 
@@ -30,7 +30,7 @@ npm run dev
 
 打开 http://127.0.0.1:5173/ 。使用 `--strictPort`，端口已占用时会明确退出，不静默切换端口。服务需保持运行。
 
-开发编码：`FCM-EN`（Case 01 英文网页）、`FCM-2026`（3 项）、`FCM-SINGLE`（Case 02）、`FCM-PROBE`（带中途判断）、`FCM-ALL`（20 项）、`FCM-EMPTY`（空任务）。`FCM-EXPIRED` 用于检查过期提示。编码仅供本地验证，参与者页面不列出它们。
+开发编码：FCM-EMPTY（空任务入口）。正式案例接入后，开发编码由 studies/fixtures/local-codes.yaml 随配置更新；编码仅供本地验证，参与者页面不列出它们。
 
 开发数据保存在标签页 `sessionStorage`。刷新可恢复已经提交的阶段与消息，也会恢复同标签页未提交的判断、置信度、消息及 Profile 草稿；草稿不会自动提交。关闭标签页不提供跨标签页或服务端持久化保证。需要全新开发数据时，在独立测试标签页清除存储；不要在有价值的用户会话中操作。
 
@@ -46,7 +46,7 @@ fcmDev.resetCode()
 fcmDev.resetCode({ includeProfile: true })
 
 // 指定另一个编码；默认保留它的 Profile。
-fcmDev.resetCode({ code: 'FCM-EN' })
+fcmDev.resetCode({ code: 'FCM-EMPTY' })
 ```
 
 执行成功后自动刷新。当前编码的凭证仍有效时回到任务选择页，任务重新变为 Ready；若重置了 Profile，需先重新完成问卷。其他编码的记录保留。指定另一个编码不会切换当前身份。没有登录编码时需要显式提供 code；编码忽略前后空格和大小写，未知编码拒绝操作。
@@ -102,7 +102,7 @@ fcmDev.resetCode({ code: 'FCM-EN' })
 
 `shared/copy/en.yaml` 管理英文公共说明和文案，覆盖入口说明和公共选择、置信度及阶段提示；入口明确说明研究可能包含多个任务，每个任务约需 12–15 分钟。入口说明按用户提供的英文稿更新，其余文案沿用已保存的译稿。保留原中文源文件；英文文件以 SHA-256 `source_revision` 关联中文基线，这不表示首页说明仍为逐句对译。材料生成器在源版本变化时停止，要求先核对译稿，避免静默使用旧译文。英文文件自身的哈希用于共享文案版本，原始版本仍记录在快照中。
 
-**目前不能称为完整英文实验**：Case 01 已增加独立英文网页版本并在本地实验中启用；其他 19 个案例、全部 42 份 PDF 和 Profile 题项保持原文。Mock 使用开发回复；HTTP 可使用已经验证的 Advisor，正式目标语言与实验内容仍需审核。没有修改案例事实、数字、评分或正式 Profile 设计。额外后测问卷取消，保留最终选择与置信度，入口说明同步更新。
+**当前正式案例尚未发布**：旧 20 个案例已从工作树移除，候选材料仍在 research/candidates/审核。通过审核后才生成英文 participant-facing case.en.yaml 并编入实验。Mock 当前用于检查入口和空任务状态；正式内容、Profile 和 Advisor 需在新案例接入后单独验收。
 
 案例的新增、双格式同步、实验任务配置和后端接入说明见 [根目录维护指南](../docs/content-maintenance.md) 与 [项目架构](../docs/architecture.md)。首次运行前激活 Conda `FCMScenario` 并安装根目录 `requirements.txt`。npm 与 HTTP 浏览器测试通过同一 Python 入口运行，支持 `FCM_PYTHON` 显式指定 Python 3.12+；环境选择规则见维护指南。
 
@@ -112,14 +112,14 @@ fcmDev.resetCode({ code: 'FCM-EN' })
 | --- | --- |
 | 固定 UI 与错误、加载、无障碍标签 | 已英文化；术语集中管理 |
 | 公共说明、置信度与阶段提示 | 独立英文译稿；正式采集前仍需译审 |
-| 案例及任务列表中的案例标题 | Case 01 为英文网页，其余 19 个保留原文 |
-| 42 份材料 PDF | 保留原文，待提供对应英文资料并核对版本 |
+| 案例及任务列表中的案例标题 | 当前没有已发布案例；接入后由 catalog 和 study 配置生成 |
+| 正式材料 PDF | 随已审核案例进入 cases/，候选来源留在 research/candidates/ |
 | Profile | 原题项保留；待用户专题设计及提供英文版本 |
 | 正式 Agent | 后台接入时确定回复语言与版本 |
 | Consent / Debrief | 尚未提供正式内容，未创建空白参与者页面 |
 | 额外后测问卷 | 本轮取消，最终 A/B＋置信度判断保留 |
 
-`npm run dev` 和 `npm run build` 先执行 `../tools/prepare_frontend.py`。它校验根目录 cases/catalog.yaml、case YAML 与保留的 material.md，并复用材料读取器，只打包参与者内容和 PDF，不包含研究者答案、隐藏 Goal、来源底稿和源文件路径。公开的 `instructions.json` 只包含 welcome 与 revision；编码验证前不加载场景快照。任务开始后冻结 Scenario、SharedCopy 和材料版本，恢复使用原快照。
+`npm run dev` 和 `npm run build` 先执行 `../tools/prepare_frontend.py`。它校验根目录 cases/catalog.yaml 与正式 case YAML，并复用材料读取器，只打包参与者内容和 PDF，不包含研究者答案、隐藏 Goal、来源底稿和源文件路径。公开的 `instructions.json` 只包含 welcome 与 revision；编码验证前不加载场景快照。任务开始后冻结 Scenario、SharedCopy 和材料版本，恢复使用原快照。
 
 生成目录 `public/materials/`、`src/generated/` 与 `dist/` 不纳入 Git，不手改。更新内容后运行 `npm run materials`，新任务才使用新版本；已开始任务继续保留旧快照和文案。
 
@@ -176,6 +176,6 @@ npm run test:e2e
 
 macOS 默认使用已安装的 Chrome；可通过 `FCM_CHROME_PATH` 指定浏览器。其他环境可先安装 Playwright Chromium。Mock 检查截图输出到根目录 `build/frontend-qa/`；HTTP 测试截图随测试结果保存，可用 `--output /tmp/fcm-http-check` 指定临时目录。
 
-检查覆盖完整 Probe 流程、无效/过期编码、任务自由选择与开始锁定、刷新恢复、独立 Profile、退出取消/确认、全部完成、空列表、入口说明加载重试、所有案例和 PDF，以及 1366×768 / 1920×1080 的双栏和滚动。另验证置信度边界、返回焦点、选项映射、20 项长英文任务列表、草稿阶段隔离和清除、存储失败、消息刷新恢复、本地字体实际加载、条件原文和 58:42 比例。 首页另在 1100／1280／1366／1920px 宽度、720／768px 高度检查一屏完整显示、正文用满卡片内宽、三步圆点说明自然换行、卡片等高且无截断，以及两张卡片等高、阅读确认与 Begin 的启用关系。
+当前浏览器 smoke test 覆盖入口说明、空任务状态和 HTTP 边界；通用单元测试继续覆盖阶段转换、草稿隔离、消息恢复、置信度边界和传输错误。正式案例接入后，再按案例材料补充浏览器验收。
 
 当前尚未部署；正式采集前还需英文内容译审与真人 Pilot。

@@ -16,8 +16,13 @@
     },
     "case_locales": {
       "type": "object",
-      "propertyNames": { "pattern": "^[0-9]{2,}$" },
-      "additionalProperties": { "type": "string", "minLength": 1 }
+      "propertyNames": {
+        "pattern": "^[0-9]{2,}$"
+      },
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      }
     },
     "shared_copy": {
       "type": "string",
@@ -74,7 +79,7 @@
         ],
         "additionalProperties": false
       },
-      "minItems": 1
+      "minItems": 0
     },
     "development_codes": {
       "type": "string",

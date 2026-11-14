@@ -27,7 +27,7 @@ def main():
     sub.add_parser('init')
     sub.add_parser('configure-openai', help='Add the preset GPT connection without a key; preserve all existing settings and usage.')
     issue = sub.add_parser('issue')
-    issue.add_argument('--tasks', nargs='+', default=['task-7k3m'])
+    issue.add_argument('--tasks', nargs='+', required=True, help='Task IDs from the active study configuration')
     issue.add_argument('--count', type=int, default=1)
     issue.add_argument('--max-turns', type=int, default=20)
     issue.add_argument('--condition', choices=['neutral', 'goal'], default='neutral')
